@@ -1,3 +1,6 @@
+branches:
+  only:
+    - gh-pages
 language: node_js
 cache:
   directories:
