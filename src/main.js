@@ -85,7 +85,7 @@ if(args.length > 0) {
         const mirror = Mirror.load(dir)
         const app = express()
         const prefix = mirror.config.baseUrl
-        app.use('/', express.static(mirror.dir))
+        app.use(`${prefix}/`, express.static(mirror.dir))
         app.listen(port)
         
     } else {

@@ -23,7 +23,7 @@ const Mirror = class Mirror {
         })
 
         this.pagesBaseUrl = this.config.baseUrl + this.config.pagesPath
-        this.imagesBaseUrl = this.config.baseUrl + '/' + this.config.imagesPath
+        this.imagesBaseUrl = this.config.baseUrl + this.config.imagesPath
     }
 
     sleep(duration) {
@@ -300,22 +300,26 @@ const Mirror = class Mirror {
         const url = new URL(href, this.config.sourceUrl)
         const path = url.pathname.split('/')
         if(path.slice(0, 2).join('/') == this.config.sourceWikiUrl) {
-            return path.join('/') + this.config.pageExtension
+            return this.makeLink(path.slice(2).join('/'))
         } else if(href.slice(0, indexPhp.length) == indexPhp) {
             return url.href
         } else return href
-    }
-
-    makeLink(title) {
-        return combineURLs(this.pagesBaseUrl, title + this.config.pageExtension)
     }
 
     processImageSrc(src) {
         const url = new URL(src, this.config.sourceUrl)
         const path = url.pathname.split('/')
         if(path.slice(0, 2).join('/') == this.config.sourceImagesUrl) {
-            return path.join('/')
+            return this.makeImageLink(path.slice(2).join('/'))
         } else return src
+    }
+
+    makeLink(title) {
+        return combineURLs(this.pagesBaseUrl, title + this.config.pageExtension)
+    }
+
+    makeImageLink(title) {
+        return combineURLs(this.imagesBaseUrl, title)
     }
 
     getRawPath(title) {
