@@ -37,5 +37,18 @@
                 <div class="timestamp">Last Updated: {{ page.timestamp | date: "%Y-%m-%d %H:%M:%S" }}</div>
             {% endif %}
         </main>
+        <footer class="site-footer">
+            {% if site.meta.rights.text %}
+                <p>
+                    {% if site.meta.rights.text %}
+                        <a href="{{ site.meta.rights.url }}">
+                    {% endif %}
+                            {{ site.meta.rights.text}}
+                    {% if site.meta.rights.text %}
+                        </a>
+                    {% endif %}
+                </p>
+            {% endif %}
+        </footer>
     </body>
 </html>

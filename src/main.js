@@ -62,7 +62,7 @@ if(args.length > 0) {
             const mirror = Mirror.load(dir)
             console.log(`update started.`)
             if(type == 'pages') {
-                mirror.updatePages(batch, interval, true).then((updatedPages) => {
+                mirror.updatePages(interval, batch, true).then((updatedPages) => {
                     console.log(`${updatedPages.length} pages updated.`)
                     mirror.writeMetadata()
                 }).catch(console.error)

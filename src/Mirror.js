@@ -1,5 +1,6 @@
 
 const fs = require('fs')
+const fse = require('fs-extra')
 const path = require('path')
 const axios = require('axios')
 const combineURLs = require('axios/lib/helpers/combineURLs')
@@ -258,6 +259,7 @@ const Mirror = class Mirror {
     }
 
     async fullBuild() {
+        fse.copySync(path.join(this.dir, this.config.path.skin, 'res'), path.join(this.dir, 'res'))
         const list = fs.readdirSync(path.join(this.dir, this.config.path.raw))
                 .map((title) => [path.join(this.dir, this.config.path.raw, title), title])
                 .filter(([rawPath]) => !fs.statSync(rawPath).isDirectory() && rawPath.endsWith(RAW_FILE_EXTENSION))
