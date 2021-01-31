@@ -14,4 +14,4 @@ after_success:
   - git config user.email "travis@travis.org"
   - git config user.name "travis"
   - git add .
-  - git push https://Lee0701:${APP_PASSWORD}@{REPO_REF} HEAD:master
+  - git push https://Lee0701:${APP_PASSWORD}@{REPO_REF} HEAD:gh-pages
