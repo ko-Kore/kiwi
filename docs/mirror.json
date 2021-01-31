@@ -56,7 +56,7 @@
     "raw": "/raw",
     "pages": "/wiki",
     "images": "/images",
-    "skin": "/skin"
+    "skin": "../skin"
   },
   "extension": {
     "page": ".html"
