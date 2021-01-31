@@ -85,7 +85,7 @@ if(args.length > 0) {
         const port = (args.length > 1) ? args[1] : 8080
         const mirror = Mirror.load(dir)
         const app = express()
-        const prefix = mirror.config.baseUrl
+        const prefix = mirror.config.meta.baseUrl
         app.use(`${prefix}/`, express.static(mirror.dir))
         app.listen(port)
         
