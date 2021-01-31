@@ -27,6 +27,7 @@ if(args.length > 0) {
         const mirror = Mirror.load(dir)
         mirror.updateMeta().then(() => {
             console.log('Wiki metadata updated.')
+            mirror.writeMetadata()
         }).catch(console.error)
 
     } else if(command == 'fullupdate') {

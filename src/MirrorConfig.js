@@ -6,7 +6,7 @@ const MirrorConfig = class MirrorConfig {
         this.sourceUrl = new URL(sourceUrl).href
         this.sourceWikiUrl = '/wiki'
         this.sourceImagesUrl = '/images'
-        this.mainPage = 'MainPage'
+        this.mainPage = '/MainPage'
         this.namespaces = {}
         this.pageNamespaces = [0, 1, 2, 3, 4, 5, 6, 7, 14, 15]
 
