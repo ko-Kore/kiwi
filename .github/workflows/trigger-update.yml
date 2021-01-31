@@ -2,7 +2,7 @@ name: trigger-update
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/2 * * * *'
 
 jobs:
   trigger-update:
