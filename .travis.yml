@@ -1,0 +1,17 @@
+language: node_js
+cache:
+  directories:
+    - node_modules
+node_js:
+  - 'lts/*'
+before_install:
+  - git pull
+install:
+  - npm install
+script:
+  - npm run update pages 50 2000
+after_success:
+  - git config user.email "travis@travis.org"
+  - git config user.name "travis"
+  - git add .
+  - git push https://Lee0701:${APP_PASSWORD}@{REPO_REF} HEAD:master
