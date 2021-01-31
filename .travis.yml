@@ -1,6 +1,7 @@
 branches:
   only:
     - gh-pages
+if: sender != "travis"
 language: node_js
 cache:
   directories:
