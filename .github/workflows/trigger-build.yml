@@ -3,7 +3,7 @@ name: trigger-build
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   trigger-build:
