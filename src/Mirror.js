@@ -294,7 +294,7 @@ const Mirror = class Mirror {
 
     getImagePath(src) {
         const sourceUrl = new URL(src, this.config.source.url)
-        return path.join(this.dir, this.config.path.images, sourceUrl.pathname.split('/').slice(2).join('/'))
+        return path.join(this.dir, this.config.path.images, pageFilename(sourceUrl.pathname.split('/').slice(2).join('/')))
     }
     
     mkdirs() {
