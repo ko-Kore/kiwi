@@ -1,4 +1,5 @@
 
+const path = require('path')
 const express = require('express')
 const Mirror = require('./Mirror')
 
@@ -87,6 +88,10 @@ if(args.length > 0) {
         const app = express()
         const prefix = mirror.config.meta.baseUrl
         app.use(`${prefix}/`, express.static(mirror.dir, { extensions:['html'] }))
+        app.use(`${prefix}/*`, (req, res, next) => {
+            res.status(404)
+            res.sendFile(path.resolve(path.join(mirror.dir, '/404.html')))
+        })
         app.listen(port)
         
     } else {
