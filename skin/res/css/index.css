@@ -23,10 +23,13 @@ body {
     padding: 0px 20px;
 }
 
+
 .site-main {
     min-height: 768px;
     margin-top: 10px;
     margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
     background: white;
     box-shadow: 10px 10px 0 #aaa;
 }
