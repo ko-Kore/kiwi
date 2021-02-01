@@ -105,7 +105,9 @@ const Mirror = class Mirror {
             }
         })
         if(!data.parse) return null
+        
         const categories = (data.parse.categories || []).map(({category}) => category.replace(/\_/g, ' '))
+        
         const {text} = data.parse
         const $ = cheerio.load(text)
         $('*').contents().filter((_i, {type}) => type === 'comment').remove()
