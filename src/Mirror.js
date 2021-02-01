@@ -3,31 +3,33 @@ const fs = require('fs')
 const fse = require('fs-extra')
 const path = require('path')
 const axios = require('axios')
-const combineURLs = require('axios/lib/helpers/combineURLs')
 const cheerio = require('cheerio')
 
-const MirrorConfig = require('./MirrorConfig')
+const {mkdir, writeStream} = require('./tools')
+
 const Skin = require('./Skin')
-const { parse } = require('path')
+const MirrorConfig = require('./MirrorConfig')
+const RawPage = require('./RawPage')
+const PageImage = require('./PageImage')
+const PageBuilder = require('./PageBuilder')
 
 const API_ENDPOINT = '/api.php'
 
 const MIRROR_CONFIG_FILENAME = 'mirror.json'
-const RAW_FILE_EXTENSION = '.json'
-const RAW_TEXT_FILE_EXTENSION = '.txt'
 
 const Mirror = class Mirror {
 
     constructor(config, dir) {
         this.config = config
         this.dir = dir
-        this.skin = new Skin(path.join(this.dir, config.path.skin))
         this.axios = axios.create({
             baseURL: this.config.source.url,
         })
 
-        this.pagesBaseUrl = this.config.meta.baseUrl + this.config.path.pages
-        this.imagesBaseUrl = this.config.meta.baseUrl + this.config.path.images
+        const skin = Skin.load(path.join(this.dir, config.path.skin))
+        this.pageBuilder = new PageBuilder(this.config, skin)
+
+        this.rawDir = path.join(this.dir, this.config.path.raw)
     }
 
     sleep(duration) {
@@ -45,7 +47,7 @@ const Mirror = class Mirror {
         this.writeConfig()
     }
     
-    async updateMeta() {
+    async updateMetadata() {
         this.mkdirs()
         const {data} = await this.axios.get(API_ENDPOINT, {
             params: {
@@ -63,44 +65,8 @@ const Mirror = class Mirror {
         this.config.meta.mainPage = '/' + general.mainpage
         this.config.namespace.names = namespaces
 
-        await this.writeRawPage({title: "index", timestamp: 0, text: `<html><body><div class="mw-parser-output"><script>location.href = "${this.makeLink(this.config.meta.mainPage)}";</script></div></body></html>`})
+        await new RawPage("index", 0, `<html><body><div class="mw-parser-output"><script>location.href = "${this.pageBuilder.makeLink(this.config.meta.mainPage)}";</script></div></body></html>`).write(this.rawDir)
 
-    }
-
-    async writeRawPage(rawPage) {
-        const rawPath = this.getRawPath(rawPage.title)
-        const rawTextPath = this.getRawTextPath(rawPage.title)
-        this.mkdir(rawPath)
-        this.mkdir(rawTextPath)
-        const {title, timestamp, categories, members, text} = rawPage
-        const content = {title, timestamp, categories, members}
-        fs.writeFileSync(rawPath, JSON.stringify(content))
-        fs.writeFileSync(rawTextPath, text)
-    }
-
-    writePage(title, content) {
-        return new Promise((resolve, reject) => {
-            const pagePath = this.getPagePath(title)
-            this.mkdir(pagePath)
-            fs.writeFile(pagePath, content, (error) => {
-                if(error) reject(error)
-                else resolve()
-            })
-        })
-    }
-
-    downloadImage(sourceUrl, destPath) {
-        return new Promise((resolve, reject) => {
-            axios.get(sourceUrl, {
-                responseType: 'stream',
-            }).then(({data}) => {
-                this.mkdir(destPath)
-                const writer = fs.createWriteStream(destPath)
-                data.pipe(writer)
-                writer.on('finish', resolve)
-                writer.on('error', reject)
-            }).catch(reject)
-        })
     }
 
     async getCategoryMembers(cmtitle) {
@@ -137,34 +103,33 @@ const Mirror = class Mirror {
                 formatversion: 2,
             }
         })
-        const categoriesResult = await this.axios.get(API_ENDPOINT, {
-            params: {
-                format: 'json',
-                action: 'query',
-                titles: title,
-                prop: 'categories',
-            }
-        })
-        const categories = (Object.values(categoriesResult.data.query.pages)[0].categories || []).map(({title}) => title)
         if(!data.parse) return null
+        const categories = (data.parse.categories || []).map(({category}) => this.config.namespace.names[14] + ':' + category)
         const {text} = data.parse
         const $ = cheerio.load(text)
         $('*').contents().filter((_i, {type}) => type === 'comment').remove()
         if(images) {
             $('img').each(async (_i, img) => {
-                const sourceUrl = new URL(img.attribs['src'], this.config.source.url)
-                const destPath = this.getImagePath(sourceUrl)
-                this.downloadImage(sourceUrl.href, destPath)
+                const src = img.attribs['src']
+                const srcset = img.attribs['srcset']
+                if(src) this.downloadImage(src, true)
+                if(srcset) {
+                    srcset.split(/, +/)
+                            .map((s) => s.split(/ +/))
+                            .forEach(([src]) => this.downloadImage(src, true))
+                }
             })
         }
-        const page = {title, timestamp, text: $.html().replace(/\n+/g, '\n'), categories}
-        if(isCategory) page.members = await this.getCategoryMembers(title)
-        await this.writeRawPage(page)
-        await this.buildPage(page)
-        return page
+        const members = []
+        if(isCategory) members.push(...await this.getCategoryMembers(title))
+        const rawPage = new RawPage(title, timestamp, $.html().replace(/\n+/g, '\n'), categories, members)
+        await rawPage.write(this.rawDir)
+        const builtPage = await this.pageBuilder.build(rawPage)
+        builtPage.write(this.getPagePath(builtPage.title))
+        return builtPage
     }
 
-    async fullUpdatePages(namespace, interval, batch, images=true) {
+    async fullUpdatePages(namespace, interval, batch, updateImages=true) {
         const updatedPages = []
         let apcontinue = null
         do {
@@ -180,7 +145,10 @@ const Mirror = class Mirror {
             })
             const allPages = data.query.allpages
             apcontinue = data.continue ? data.continue.apcontinue : null
-            updatedPages.push(...await Promise.all(allPages.map(({title}) => this.updatePage(title, null, images))))
+            updatedPages.push(...await Promise.all(allPages.map(({title}) => {
+                if(updateImages && namespace == 6) this.updateImage(title)
+                return this.updatePage(title, null, updateImages)
+            })))
             await this.sleep(interval)
         } while(apcontinue)
         return updatedPages.filter((page) => page)
@@ -196,10 +164,32 @@ const Mirror = class Mirror {
         return result
     }
 
-    async updatePages(interval, batch, images) {
+    async updatePages(interval, batch, rcend, images) {
         this.mkdirs()
         const rcnamespace = this.config.namespace.update.join('|')
-        const rcend = Math.floor(this.config.lastUpdate / 1000) // //milliseconds to seconds
+        if(rcend != null) {
+            rcend = rcend.toString()
+            if(rcend.length == 10 || rcend.length == 13) {
+                rcend = parseInt(rcend)
+            } else if(rcend.length == 8) {
+                const date = [rcend.slice(0, 4), rcend.slice(4, 6), rcend.slice(6, 8)].join('-')
+                rcend = new Date(date).getTime()
+            } else if(rcend.length == 14) {
+                const date = [rcend.slice(0, 4), rcend.slice(4, 6), rcend.slice(6, 8)].join('-')
+                const time = [rcend.slice(8, 10), rcend.slice(10, 12), rcend.slice(12, 14)].join(':')
+                rcend = new Date(date + ' ' + time).getTime()
+            } else {
+                rcend = Date.parse(rcend).getTime()
+            }
+        }
+        if(rcend == null || rcend == NaN) {
+            rcend = this.config.lastUpdate
+        }
+        if(rcend.toString().length == 13) {
+            // milliseconds to seconds
+            rcend = Math.floor(rcend / 1000)
+        }
+        
         this.config.lastUpdate = new Date().getTime()
         const updatedPages = []
         let rccontinue = null
@@ -223,50 +213,21 @@ const Mirror = class Mirror {
         return updatedPages.filter((page) => page)
     }
 
-    async buildPage(rawPage) {
-        const title = rawPage.title
-        const timestamp = Math.floor(rawPage.timestamp / 1000) || 0
-        const text = rawPage.text.toString()
-
-        const categories = (rawPage.categories || []).map((category) => ({
-            name: category.split(':')[1],
-            url: this.makeLink(category)
-        }))
-        const members = (rawPage.members || [])
-                .map((m) => ({name: m, url: this.makeLink(m)}))
-        
-        const page = {title, timestamp, content: text, categories, members}
-        const $ = cheerio.load(text)
-        const mwParserOutput = $('.mw-parser-output')
-
-        mwParserOutput.find('a').attr('href', (_i, href) => {
-            if(!href) return
-            return this.processLink(href)
-        })
-        mwParserOutput.find('img').attr('src', (_i, src) => {
-            if(!src) return
-            return this.processImageSrc(src)
-        })
-        page.content = mwParserOutput.html().replace(/\r?\n\r?\n/g, '\n')
-        page.content = this.skin.formatIndex({site: this.config, page})
-
-        return await this.writePage(title, page.content)
-    }
-
-    async buildPageWithTitle(title) {
-        const data = this.readRawPage(title)
-        return await this.buildPage(JSON.parse(data)).then(resolve).catch(reject)
+    async buildPage(title) {
+        const rawPage = await this.loadRawPage(title)
+        const builtPage = await this.pageBuilder.build(rawPage)
+        builtPage.write(this.getPagePath(builtPage.title))
+        return builtPage
     }
 
     async fullBuild() {
         fse.copySync(path.join(this.dir, this.config.path.skin, 'res'), path.join(this.dir, 'res'))
         const list = fs.readdirSync(path.join(this.dir, this.config.path.raw))
-                .map((title) => [path.join(this.dir, this.config.path.raw, title), title])
-                .filter(([rawPath]) => !fs.statSync(rawPath).isDirectory() && rawPath.endsWith(RAW_FILE_EXTENSION))
-                .map(([_rawPath, fileName]) => fileName)
-        return list.map(async (fileName) => {
-            const data = this.readRawPage(fileName.slice(0, -RAW_FILE_EXTENSION.length))
-            return await this.buildPage(data)
+                .map((title) => path.join(this.dir, this.config.path.raw, title))
+                .filter((filePath) => !fs.statSync(filePath).isDirectory() && filePath.endsWith('.json'))
+        return list.map(async (filePath) => {
+            const title = JSON.parse(fs.readFileSync(filePath)).title
+            return await this.buildPage(title)
         }).filter((page) => page)
     }
 
@@ -280,9 +241,8 @@ const Mirror = class Mirror {
                 iiprop: 'url',
             }
         })
-        const sourceUrl = new URL(Object.values(data.query.pages)[0].imageinfo[0].url)
-        const destPath = this.getImagePath(sourceUrl)
-        return this.downloadImage(sourceUrl.href, destPath)
+        const src = Object.values(data.query.pages)[0].imageinfo[0].url
+        return await this.downloadImage(src, true)
     }
 
     async fullUpdateImages(interval, batch) {
@@ -307,61 +267,33 @@ const Mirror = class Mirror {
         return updatedImages
     }
 
-    processLink(href) {
-        const indexPhp = '/index.php'
-        const url = new URL(href, this.config.source.url)
-        const path = url.pathname.split('/')
-        if(path.slice(0, 2).join('/') == this.config.source.wiki) {
-            return this.makeLink(path.slice(2).join('/'))
-        } else if(href.slice(0, indexPhp.length) == indexPhp) {
-            return url.href
-        } else return href
+    async downloadImage(src, force=false) {
+        const sourceUrl = new URL(src, this.config.source.url)
+        const destPath = this.getImagePath(sourceUrl)
+        if(force || !fs.existsSync(destPath)) {
+            mkdir(destPath)
+            const {data} = await axios.get(sourceUrl.href, {
+                responseType: 'stream',
+            })
+            await writeStream(destPath, data)
+        }
+        return new PageImage(destPath, sourceUrl)
     }
 
-    processImageSrc(src) {
-        const url = new URL(src, this.config.source.url)
-        const path = url.pathname.split('/')
-        if(path.slice(0, 2).join('/') == this.config.source.images) {
-            return this.makeImageLink(path.slice(2).join('/'))
-        } else return src
-    }
-
-    makeLink(title) {
-        return combineURLs(this.pagesBaseUrl, title + this.config.extension.page)
-    }
-
-    makeImageLink(title) {
-        return combineURLs(this.imagesBaseUrl, title)
-    }
-
-    readRawPage(title) {
-        const path = this.getRawPath(title)
-        const textPath = this.getRawTextPath(title)
-        const rawPage = JSON.parse(fs.readFileSync(path))
-        rawPage.text = fs.readFileSync(textPath).toString()
-        return rawPage
-    }
-
-    getRawPath(title) {
-        return this.getPath(title, this.config.path.raw, RAW_FILE_EXTENSION)
-    }
-
-    getRawTextPath(title) {
-        return this.getPath(title, this.config.path.raw, RAW_TEXT_FILE_EXTENSION)
+    async loadRawPage(title) {
+        return RawPage.load(title, this.rawDir)
     }
 
     getPagePath(title) {
-        return this.getPath(title, this.config.path.pages, this.config.extension.page)
+        title = title.replace(/ /g, '_')
+        return path.join(this.dir, this.config.path.pages, title + this.config.extension.page)
     }
 
-    getPath(title, basePath, extension) {
-        return path.join(this.dir, basePath, `${title}${extension}`)
-    }
-
-    getImagePath(sourceUrl) {
+    getImagePath(src) {
+        const sourceUrl = new URL(src, this.config.source.url)
         return path.join(this.dir, this.config.path.images, sourceUrl.pathname.split('/').slice(2).join('/'))
     }
-
+    
     mkdirs() {
         const pages = path.join(this.dir, this.config.path.pages)
         if(!fs.existsSync(pages)) fs.mkdirSync(pages, { recursive: true })
@@ -369,11 +301,6 @@ const Mirror = class Mirror {
         if(!fs.existsSync(raws)) fs.mkdirSync(raws, { recursive: true })
         const images = path.join(this.dir, this.config.path.images)
         if(!fs.existsSync(images)) fs.mkdirSync(images, { recursive: true })
-    }
-    
-    mkdir(filePath) {
-        const dirName = path.dirname(filePath)
-        if(!fs.existsSync(dirName)) fs.mkdirSync(dirName, { recursive: true })
     }
 
 }
