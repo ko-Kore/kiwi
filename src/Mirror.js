@@ -82,6 +82,7 @@ const Mirror = class Mirror {
                     cmcontinue,
                 }
             })
+            cmcontinue = data.continue ? data.continue.cmcontinue : null
             const result = data.query.categorymembers.map(({title}) => title)
             members.push(...result)
         } while(cmcontinue)
