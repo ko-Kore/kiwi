@@ -7,7 +7,7 @@
   "meta": {
     "title": "科百大漢國",
     "mainPage": "/國漢大百科:大門",
-    "baseUrl": "/kiwi",
+    "baseUrl": "",
     "rights": {
       "url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "image": "",
@@ -54,7 +54,7 @@
   },
   "path": {
     "raw": "/raw",
-    "pages": "/wiki",
+    "pages": "/kiwi",
     "images": "/images",
     "skin": "../skin"
   },
