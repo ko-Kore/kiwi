@@ -38,6 +38,7 @@
                 {% endfor %}
             </div>
             <article id="content">
+                {{ page.content }}
                 {% if page.members and page.members.length > 0 %}
                     <ul class="catmembers">
                         {% for member in page.members %}
@@ -45,7 +46,6 @@
                         {% endfor %}
                     </ul>
                 {% endif %}
-                {{ page.content }}
             </article>
             <hr>
             {% if page.timestamp != 0 %}

@@ -13,6 +13,7 @@ body {
 }
 
 .site-footer {
+    padding: 10px;
     border-top: 2px solid black;
     background: white;
 }
@@ -22,7 +23,6 @@ body {
     margin: 0 auto;
     padding: 0px 20px;
 }
-
 
 .site-main {
     min-height: 768px;
@@ -67,6 +67,11 @@ nav > * {
     color: white;
 }
 
+.catmembers {
+    column-count: 3;
+    column-width: 24em;
+}
+
 a, a:visited {
     color: blue;
     text-decoration: none;
@@ -83,4 +88,43 @@ a:active {
 img {
     max-width: 100%;
     height: auto;
+}
+
+div.tright, div.floatright, table.floatright {
+    clear: right;
+    float: right;
+}
+
+div.tleft, div.floatleft, table.floatleft {
+    clear: left;
+    float: left;
+}
+
+.thumbinner {
+    margin: auto;
+}
+
+table.wikitable {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+table.wikitable th, table.wikitable td {
+    border: 1px solid #c8c8c8;
+    background: white;
+    padding: 5px;
+}
+
+table.wikitable th {
+    background: #f8f8f8;
+}
+
+table.wikitable {
+    margin: 10px 0;
+}
+
+table.infobox {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 20px;
 }
