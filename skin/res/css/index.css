@@ -2,6 +2,7 @@
 body {
     margin: 0px;
     background: #eee;
+    font-family: 'Noto Sans KR','Noto Sans JP','Noto Sans SC','Noto Sans CJK KR','Noto Sans CJK JP','Noto Sans CJK SC','Han-Nom Gothic',sans-serif;
 }
 
 .site-header {
@@ -127,4 +128,9 @@ table.infobox {
     float: right;
     margin-left: 10px;
     margin-bottom: 20px;
+}
+
+span.mw-editsection {
+    font-size: 1rem;
+    margin-inline-start: 10px;
 }
