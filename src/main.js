@@ -57,9 +57,9 @@ if(args.length > 0) {
     } else if(command == 'update') {
         if(args.length > 0) {
             const dir = (args.length > 0) ? args[0] : '.'
-            const timestamp = (args.length > 1) ? args[1] : null
             const batch = (args.length > 2) ? parseInt(args[2]) : DEFAULT_BATCH
             const interval = (args.length > 3) ? parseInt(args[3]) : DEFAULT_INTERVAL
+            const timestamp = (args.length > 4) ? args[4] : null
             const mirror = Mirror.load(dir)
             console.log(`update started.`)
             mirror.updatePages(interval, batch, timestamp, true).then((updatedPages) => {
