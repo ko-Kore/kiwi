@@ -5,7 +5,7 @@ const path = require('path')
 const axios = require('axios')
 const cheerio = require('cheerio')
 
-const {mkdir, writeStream} = require('./tools')
+const {mkdir, writeStream, pageFilename} = require('./tools')
 
 const Skin = require('./Skin')
 const MirrorConfig = require('./MirrorConfig')
@@ -104,7 +104,7 @@ const Mirror = class Mirror {
             }
         })
         if(!data.parse) return null
-        const categories = (data.parse.categories || []).map(({category}) => this.config.namespace.names[14] + ':' + category)
+        const categories = (data.parse.categories || []).map(({category}) => category.replace(/\_/g, ' '))
         const {text} = data.parse
         const $ = cheerio.load(text)
         $('*').contents().filter((_i, {type}) => type === 'comment').remove()
@@ -285,7 +285,7 @@ const Mirror = class Mirror {
     }
 
     getPagePath(title) {
-        title = title.replace(/ /g, '_')
+        title = pageFilename(title)
         return path.join(this.dir, this.config.path.pages, title + this.config.extension.page)
     }
 

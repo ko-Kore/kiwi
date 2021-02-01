@@ -56,16 +56,30 @@ if(args.length > 0) {
 
     } else if(command == 'update') {
         if(args.length > 0) {
+            const type = args[0]
             const dir = (args.length > 1) ? args[1] : '.'
-            const batch = (args.length > 2) ? parseInt(args[2]) : DEFAULT_BATCH
-            const interval = (args.length > 3) ? parseInt(args[3]) : DEFAULT_INTERVAL
-            const timestamp = (args.length > 4) ? args[4] : null
             const mirror = Mirror.load(dir)
-            console.log(`update started.`)
-            mirror.updatePages(interval, batch, timestamp, true).then((updatedPages) => {
-                console.log(`${updatedPages.length} pages updated.`)
-                mirror.writeMetadata()
-            }).catch(console.error)
+            if(type == "pages") {
+                const batch = (args.length > 2) ? parseInt(args[2]) : DEFAULT_BATCH
+                const interval = (args.length > 3) ? parseInt(args[3]) : DEFAULT_INTERVAL
+                const timestamp = (args.length > 4) ? args[4] : null
+
+                console.log(`update for changes after ${timestamp} started.`)
+                mirror.updatePages(interval, batch, timestamp, true).then((updatedPages) => {
+                    console.log(`${updatedPages.length} pages updated.`)
+                    mirror.writeMetadata()
+                }).catch(console.error)
+            } else if(type == "page") {
+                if(args.length > 2) {
+                    const title = (args.length > 2) ? args[2] : null
+                    if(title != null) {
+                        console.log(`update for title ${title} started.`)
+                        mirror.updatePage(title, null, true).then((page) => {
+                            console.log('The page has been updated.')
+                        }).catch(console.error)
+                    }
+                }
+            }
         }
 
     } else if(command == 'fullbuild') {

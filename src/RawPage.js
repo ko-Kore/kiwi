@@ -1,7 +1,7 @@
 
 const fs = require('fs')
 const path = require('path')
-const {mkdir} = require('./tools')
+const {mkdir, pageFilename} = require('./tools')
 
 const RAW_FILE_EXTENSION = '.json'
 const RAW_TEXT_FILE_EXTENSION = '.txt'
@@ -16,7 +16,7 @@ const RawPage = class RawPage {
     }
 
     async write(dir) {
-        const name = this.title.replace(/ /g, '_')
+        const name = pageFilename(this.title)
         const rawPath = getPath(name, dir)
         const rawTextPath = getTextPath(name, dir)
         mkdir(rawPath)

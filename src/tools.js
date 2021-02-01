@@ -16,5 +16,8 @@ async function writeStream(destPath, stream) {
     })
 }
 
+function pageFilename(name) {
+    return name.replace(/ /g, '_')
+}
 
-module.exports = {mkdir, writeStream}
+module.exports = {mkdir, writeStream, pageFilename}

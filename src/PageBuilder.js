@@ -2,6 +2,8 @@
 const combineURLs = require('axios/lib/helpers/combineURLs')
 const cheerio = require('cheerio')
 
+const {pageFilename} = require('./tools')
+
 const ProcessedPage = require('./ProcessedPage')
 const BuiltPage = require('./BuiltPage')
 
@@ -22,8 +24,8 @@ const PageBuilder = class PageBuilder {
         const text = rawPage.text.toString()
 
         const categories = (rawPage.categories || []).map((category) => ({
-            name: category,
-            url: this.makeLink(category)
+            name: category.slice(category.indexOf(':') + 1),
+            url: this.makeLink(this.config.namespace.names[14] + ':' + category)
         }))
         const members = (rawPage.members || [])
                 .map((m) => ({name: m, url: this.makeLink(m)}))
@@ -75,11 +77,11 @@ const PageBuilder = class PageBuilder {
     }
 
     makeLink(title) {
-        return combineURLs(this.pagesBaseUrl, title + this.config.extension.page)
+        return combineURLs(this.pagesBaseUrl, pageFilename(title) + this.config.extension.page)
     }
 
     makeImageLink(title) {
-        return combineURLs(this.imagesBaseUrl, title)
+        return combineURLs(this.imagesBaseUrl, pageFilename(title))
     }
 
 }
