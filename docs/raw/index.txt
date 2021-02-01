@@ -1,1 +1,1 @@
-<html><body><div class="mw-parser-output"><script>location.href = "/kiwi/wiki/國漢大百科:大門.html";</script></div></body></html>
+<html><body><div class="mw-parser-output"><script>location.href = "/kiwi/國漢大百科:大門.html";</script></div></body></html>
