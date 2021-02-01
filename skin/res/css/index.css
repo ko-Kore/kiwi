@@ -31,6 +31,18 @@ body {
     box-shadow: 10px 10px 0 #aaa;
 }
 
+.site-nav {
+    display: inline-block;
+}
+
+.goto {
+    float: right;
+}
+
+.goto > * {
+    color: black;
+}
+
 nav > * {
     display: inline-block;
     margin: 0px 10px;
