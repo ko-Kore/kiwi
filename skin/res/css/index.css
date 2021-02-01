@@ -1,0 +1,69 @@
+
+body {
+    margin: 0px;
+    background: #eee;
+}
+
+.site-header {
+    background: black;
+}
+
+.site-header * {
+    color: white;
+}
+
+.site-footer {
+    border-top: 2px solid black;
+    background: white;
+}
+
+.site-main, .header-main, .footer-main {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+.site-main {
+    min-height: 768px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background: white;
+    box-shadow: 10px 10px 0 #aaa;
+}
+
+nav > * {
+    display: inline-block;
+    margin: 0px 10px;
+    font-size: 1.25em;
+}
+
+.site-nav a, .site-nav a:visited {
+    color: white;
+}
+
+.main-nav {
+    float: right;
+    margin: 25px;
+}
+
+.page-title {
+    display: inline-block;
+}
+
+a, a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a.new, a.new:visited {
+    color: darkred;
+}
+
+a:active {
+    color: darkblue;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

@@ -4,19 +4,28 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
         <title>{{ page.title }} - {{ site.meta.title }}</title>
+
+        <link rel="stylesheet" href="{{ site.baseUrl }}/res/css/index.css">
     </head>
     <body>
         <header class="site-header">
-            <h2>
+            <main class="header-main">
                 <nav class="site-nav">
-                    <span>{{ site.title }}</span>
-                    <a href="{{ site.baseUrl }}{{ site.path.pages }}{{ site.meta.mainPage }}">Home</a>
+                    <span class=site-title>
+                        <a href="{{ site.baseUrl }}{{ site.path.pages }}{{ site.meta.mainPage }}">{{ site.meta.title }}</a>
+                    </span>
                 </nav>
-            </h2>
-            <hr>
+            </main>
         </header>
         <main class="site-main">
-            <h1>{{ page.title }}</h1>
+            <head class="main-header">
+                <h1 class="page-title">{{ page.title }}</h1>
+                <nav class="main-nav">
+                    <a href="{{ site.source.url }}/index.php?title={{ page.title }}&action=edit">Edit</a>
+                    <a href="{{ site.source.url }}/index.php?title={{ page.title }}&action=history">History</a>
+                </nav>
+            </head>
+            <hr>
             <div class="catlinks">
                 <span>{{ site.namespace.names[14] }} : </span>
                 {% for category in page.categories %}
@@ -33,22 +42,25 @@
                 {% endif %}
                 {{ page.content }}
             </article>
+            <hr>
             {% if page.timestamp != 0 %}
                 <div class="timestamp">Last Updated: {{ page.timestamp | date: "%Y-%m-%d %H:%M:%S" }}</div>
             {% endif %}
         </main>
         <footer class="site-footer">
-            {% if site.meta.rights.text %}
-                <p>
-                    {% if site.meta.rights.text %}
-                        <a href="{{ site.meta.rights.url }}">
-                    {% endif %}
-                            {{ site.meta.rights.text}}
-                    {% if site.meta.rights.text %}
-                        </a>
-                    {% endif %}
-                </p>
-            {% endif %}
+            <main class="footer-main">
+                {% if site.meta.rights.text %}
+                    <p>
+                        {% if site.meta.rights.text %}
+                            <a href="{{ site.meta.rights.url }}">
+                        {% endif %}
+                                {{ site.meta.rights.text}}
+                        {% if site.meta.rights.text %}
+                            </a>
+                        {% endif %}
+                    </p>
+                {% endif %}
+            </main>
         </footer>
     </body>
 </html>
