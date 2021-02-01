@@ -49,7 +49,8 @@ const PageBuilder = class PageBuilder {
                     .join(', ')
         })
         const content = mwParserOutput.html()
-        const processedPage = new ProcessedPage(title, timestamp, content, categories, members)
+        const file = rawPage.file ? `<img src="${this.makeImageSrc(rawPage.file)}">` : null
+        const processedPage = new ProcessedPage(title, timestamp, content, categories, members, file)
 
         const formattedContent = this.skin.formatIndex({site: this.config, page: processedPage})
         const builtPage = new BuiltPage(title, formattedContent)
@@ -72,7 +73,7 @@ const PageBuilder = class PageBuilder {
         const url = new URL(src, this.config.source.url)
         const path = url.pathname.split('/')
         if(path.slice(0, 2).join('/') == this.config.source.images) {
-            return this.makeImageLink(path.slice(2).join('/'))
+            return this.makeImageSrc(path.slice(2).join('/'))
         } else return src
     }
 
@@ -80,8 +81,8 @@ const PageBuilder = class PageBuilder {
         return combineURLs(this.pagesBaseUrl, pageFilename(title) + this.config.extension.page)
     }
 
-    makeImageLink(title) {
-        return combineURLs(this.imagesBaseUrl, pageFilename(title))
+    makeImageSrc(imagePath) {
+        return combineURLs(this.imagesBaseUrl, pageFilename(imagePath))
     }
 
 }

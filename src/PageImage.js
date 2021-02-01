@@ -1,8 +1,8 @@
 
 const PageImage = class PageImage {
-    constructor(imagePath, sourceUrl) {
-        this.imagePath = imagePath
+    constructor(sourceUrl, imagePath) {
         this.sourceUrl = sourceUrl
+        this.imagePath = imagePath
     }
 }
 

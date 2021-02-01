@@ -41,6 +41,11 @@
                 {% endfor %}
             </div>
             <article id="content">
+                {% if page.file %}
+                    <div id="file">
+                        {{ page.file }}
+                    </div>
+                {% endif %}
                 {{ page.content }}
                 {% if page.members and page.members.length > 0 %}
                     <ul class="catmembers">

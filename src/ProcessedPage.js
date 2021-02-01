@@ -7,12 +7,13 @@
  **/
 
 const ProcessedPage = class ProcessedPage {
-    constructor(title, timestamp, content, categories, members) {
+    constructor(title, timestamp, content, categories, members, file) {
         this.title = title
         this.timestamp = timestamp
         this.content = content
         this.categories = categories
         this.members = members
+        this.file = file
     }
 }
 

@@ -23,6 +23,7 @@ const MirrorConfig = class MirrorConfig {
 
         this.namespace = {
             names: {},
+            numbers: {},
             update: [0, 1, 2, 3, 4, 5, 6, 7, 14, 15],
         }
 
