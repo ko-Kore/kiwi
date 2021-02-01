@@ -20,7 +20,7 @@ body {
 .site-main, .header-main, .footer-main {
     max-width: 1024px;
     margin: 0 auto;
-    padding: 10px 20px;
+    padding: 0px 20px;
 }
 
 .site-main {
@@ -31,12 +31,23 @@ body {
     box-shadow: 10px 10px 0 #aaa;
 }
 
-.site-nav {
-    display: inline-block;
+.site-header > .header-main, .main-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
-.goto {
-    float: right;
+.site-nav, .goto {
+    margin: 10px 0px;
+}
+
+.goto, .main-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    flex-grow: 1;
 }
 
 .goto > * {
@@ -51,15 +62,6 @@ nav > * {
 
 .site-nav a, .site-nav a:visited {
     color: white;
-}
-
-.main-nav {
-    float: right;
-    margin: 25px;
-}
-
-.page-title {
-    display: inline-block;
 }
 
 a, a:visited {
