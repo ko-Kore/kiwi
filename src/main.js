@@ -37,13 +37,19 @@ if(args.length > 0) {
             const dir = (args.length > 1) ? args[1] : '.'
             const batch = (args.length > 2) ? parseInt(args[2]) : DEFAULT_BATCH
             const interval = (args.length > 3) ? parseInt(args[3]) : DEFAULT_INTERVAL
+            const namespace = (args.length > 4) ? args[4] : 'all'
+            
             const mirror = Mirror.load(dir)
-            console.log(`Full update started.`)
+            console.log(`Full update started for namespace ${namespace}.`)
+            
             mirror.updateMetadata().then(() => {
                 console.log('Wiki metadata updated.')
                 mirror.writeMetadata()
                 if(type == 'pages') {
-                    mirror.fullUpdateAllNamespaces(interval, batch).then((updatedPages) => {
+                    const promise = namespace == 'all'
+                            ? mirror.fullUpdateAllNamespaces(interval, batch)
+                            : mirror.fullUpdatePages(namespace, interval, batch)
+                    promise.then((updatedPages) => {
                         console.log(`${updatedPages.length} pages updated and built.`)
                     }).catch(console.error)
                 } else if(type == 'images') {
