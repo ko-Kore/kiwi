@@ -1,8 +1,10 @@
 {
   "title": "死亡",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612299180000,
+  "categories": [
+    "죽음"
+  ],
   "members": [],
   "file": null
 }
