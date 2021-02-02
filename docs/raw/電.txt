@@ -1,0 +1,44 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade72"><rb>電</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">번개 전
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade52"><rb>雨</rb><rp>(</rp><rt>우</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>13<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade0"><rb>电</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>7<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby>II</b></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br>
+</p>
+<h2><span id="개요"></span><span class="mw-headline" id=".EA.B0.9C.EC.9A.94">개요</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%9B%BB&amp;action=edit&amp;section=1" title="부분 편집: 개요">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>'번개', '전기', '빠르다' 등을 <a href="/index.php?title=%E6%84%8F%E5%91%B3&amp;action=edit&amp;redlink=1" class="new" title="意味 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby></a>하는 <a href="/wiki/%E6%9C%83%E6%84%8F%E6%96%87%E5%AD%97" title="會意文字"><ruby class="hanja grade62"><rb>會意文字</rb><rp>(</rp><rt>회의문자</rt><rp>)</rp></ruby></a>.
+</p>
+<h2><span id="용례"></span><span class="mw-headline" id=".EC.9A.A9.EB.A1.80">용례</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%9B%BB&amp;action=edit&amp;section=2" title="부분 편집: 용례">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%E9%9B%BB%E6%B0%A3&amp;action=edit&amp;redlink=1" class="new" title="電氣 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>電氣</rb><rp>(</rp><rt>전기</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E9%9B%BB%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="電線 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>電線</rb><rp>(</rp><rt>전선</rt><rp>)</rp></ruby></a></li>
+<li><a href="/wiki/%E6%BC%A2%E9%9B%BB%E5%A4%A7%E7%99%BE%E7%A7%91" title="漢電大百科"><ruby class="hanja grade62"><rb>漢電大百科</rb><rp>(</rp><rt>한전대백과</rt><rp>)</rp></ruby></a></li></ul>
+</div></body></html>

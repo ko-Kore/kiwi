@@ -1,0 +1,44 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade70"><rb>千</rb><rp>(</rp><rt>천</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">일천 천
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade80"><rb>十</rb><rp>(</rp><rt>십</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>3<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>7<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br>
+</p>
+<h2><span id="槪要"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81"><a href="/wiki/%E6%A7%AA%E8%A6%81" title="槪要"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%83&amp;action=edit&amp;section=1" title="부분 편집: 槪要">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/index.php?title=%E6%95%B8%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="數字 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>數字</rb><rp>(</rp><rt>숫자</rt><rp>)</rp></ruby></a> 1000을 나타내는 <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a>이다.
+</p>
+<h2><span id="用例"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B"><a href="/index.php?title=%E7%94%A8%E4%BE%8B&amp;action=edit&amp;redlink=1" class="new" title="用例 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%83&amp;action=edit&amp;section=2" title="부분 편집: 用例">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%EC%83%88%E5%8D%83%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="새千年 (없는 문서)">새<ruby class="hanja grade70 unknown"><rb>千年</rb><rp>(</rp><rt>천년</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%8D%83%E5%AD%97%E6%96%87&amp;action=edit&amp;redlink=1" class="new" title="千字文 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>千字文</rb><rp>(</rp><rt>천자문</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%8D%83%E4%B9%98%E4%B9%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="千乘之國 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>千乘之國</rb><rp>(</rp><rt>천승지국</rt><rp>)</rp></ruby></a></li></ul>
+</div></body></html>

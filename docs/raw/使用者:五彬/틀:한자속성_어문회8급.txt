@@ -1,0 +1,8 @@
+<html><head></head><body><div class="mw-parser-output"><table style="display: inline-table; width: 55px; height: 55px; border: 1px solid #444444; margin: 1px; background: #eeeeee; text-align: center; color:#000000; line-height: 130%;">
+<tbody><tr>
+<td style="border: 0px; font-size: 8pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td style="border: 0px; font-size: 15pt; vertical-align: top;"><b>8<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b>
+</td></tr></tbody></table>
+</div></body></html>

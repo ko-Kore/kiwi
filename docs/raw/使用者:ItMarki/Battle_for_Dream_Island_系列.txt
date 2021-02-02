@@ -1,0 +1,164 @@
+<html><head></head><body><div class="mw-parser-output"><p><big><big>모든 <ruby class="hanja grade60"><rb>讀者</rb><rp>(</rp><rt>독자</rt><rp>)</rp></ruby>가 이 <ruby class="hanja grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>의 <ruby class="hanja grade52"><rb>文法</rb><rp>(</rp><rt>문법</rt><rp>)</rp></ruby>을 <ruby class="hanja grade20"><rb>編輯</rb><rp>(</rp><rt>편집</rt><rp>)</rp></ruby>할 수 있습니다.</big></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="2">Battle for Dream Island
+</th></tr>
+<tr>
+<th><a href="/index.php?title=%E4%BD%9C%E5%93%81%E5%88%86%E9%A1%9E&amp;action=edit&amp;redlink=1" class="new" title="作品分類 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>作品分類</rb><rp>(</rp><rt>작품분류</rt><rp>)</rp></ruby></a>
+</th>
+<td><a href="/index.php?title=%E8%AB%A7%E8%AC%94&amp;action=edit&amp;redlink=1" class="new" title="諧謔 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>諧謔</rb><rp>(</rp><rt>해학</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>作者</rb><rp>(</rp><rt>작자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=Jacknjellify&amp;action=edit&amp;redlink=1" class="new" title="Jacknjellify (없는 문서)">jacknjellify</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>發表場所</rb><rp>(</rp><rt>발표장소</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%9C%A0%ED%8A%9C%EB%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="유튜브 (없는 문서)">유튜브</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby>날짜
+</th>
+<td>2010<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>話數</rb><rp>(</rp><rt>화수</rt><rp>)</rp></ruby>
+</th>
+<td>25+5+1+28+1=60
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A6.82.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><span class="tocnumber">1</span> <span class="toctext">概要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"><span class="tocnumber">2</span> <span class="toctext">登場人物(등장인물)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29"><span class="tocnumber">2.1</span> <span class="toctext">競爭者(경쟁자)</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#.EC.8B.9C.EC.A6.8C1.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29"><span class="tocnumber">2.1.1</span> <span class="toctext">시즌1에서 처음 登場(등장)한 競爭者(경쟁자)</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#.EC.8B.9C.EC.A6.8C2.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29"><span class="tocnumber">2.1.2</span> <span class="toctext">시즌2에서 처음 登場(등장)한 競爭者(경쟁자)</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#.EC.8B.9C.EC.A6.8C4.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29"><span class="tocnumber">2.1.3</span> <span class="toctext">시즌4에서 처음 登場(등장)한 競爭者(경쟁자)</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#.EC.8B.9C.EC.A6.8C5.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29"><span class="tocnumber">2.1.4</span> <span class="toctext">시즌5에서 처음 登場(등장)한 競爭者(경쟁자)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#.E4.B8.BB.E5.82.AC.E8.80.85.28.EC.A3.BC.EC.B5.9C.EC.9E.90.29"><span class="tocnumber">2.2</span> <span class="toctext">主催者(주최자)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.E8.A9.B1.28.ED.99.94.29_.E7.9B.AE.E9.8C.84.28.EB.AA.A9.EB.A1.9D.29"><span class="tocnumber">3</span> <span class="toctext">話(화) 目錄(목록)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#.EC.8B.9C.EC.A6.8C1"><span class="tocnumber">3.1</span> <span class="toctext">시즌1</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.EC.8B.9C.EC.A6.8C2"><span class="tocnumber">3.2</span> <span class="toctext">시즌2</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.EC.8B.9C.EC.A6.8C3"><span class="tocnumber">3.3</span> <span class="toctext">시즌3</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.EC.8B.9C.EC.A6.8C4"><span class="tocnumber">3.4</span> <span class="toctext">시즌4</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#.EC.8B.9C.EC.A6.8C5"><span class="tocnumber">3.5</span> <span class="toctext">시즌5</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#.E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90.28.EC.99.B8.EB.B6.80.EB.A0.A8.EA.B2.B0.29"><span class="tocnumber">4</span> <span class="toctext">外部連結(외부련결)</span></a></li>
+</ul>
+</div>
+<h2><span id="概要(개요)"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade0"><rb>概要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=1" title="부분 편집: 概要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Battle for Dream Island <ruby class="hanja grade40"><rb>系列</rb><rp>(</rp><rt>계열</rt><rp>)</rp></ruby>(<ruby class="hanja grade80"><rb>韓</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby>: 꿈의 섬을 <ruby class="hanja grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>한 <ruby class="hanja grade40"><rb>戰鬪</rb><rp>(</rp><rt>전투</rt><rp>)</rp></ruby>)은 <ruby class="hanja grade42"><rb>動畵師</rb><rp>(</rp><rt>동화사</rt><rp>)</rp></ruby> <a href="/index.php?title=Janknjellify&amp;action=edit&amp;redlink=1" class="new" title="Janknjellify (없는 문서)">janknjellify</a>가 만든 <a href="/index.php?title=%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8_%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98&amp;action=edit&amp;redlink=1" class="new" title="오브젝트 애니메이션 (없는 문서)">오브젝트 애니메이션</a>(<ruby class="hanja grade60"><rb>英</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby>: Object show』)이다. <ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 5<ruby class="hanja grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby> 시즌이 있다.
+</p><p>모든 <ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade30"><rb>挑戰</rb><rp>(</rp><rt>도전</rt><rp>)</rp></ruby>은 <ruby class="hanja grade32"><rb>主催者</rb><rp>(</rp><rt>주최자</rt><rp>)</rp></ruby>에 <ruby class="hanja grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 <ruby class="hanja grade32"><rb>開催</rb><rp>(</rp><rt>개최</rt><rp>)</rp></ruby>된다. <ruby class="hanja grade50"><rb>敗北</rb><rp>(</rp><rt>패배</rt><rp>)</rp></ruby>한 <ruby class="hanja grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>/<ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby>들은 Cake at Stake(케이크 앳 스테이크) 있을 것이다. 
+</p>
+<h2><span id="登場人物(등장인물)"></span><span class="mw-headline" id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"><ruby class="hanja grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=2" title="부분 편집: 登場人物(등장인물)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="競爭者(경쟁자)"></span><span class="mw-headline" id=".E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29"><ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=3" title="부분 편집: 競爭者(경쟁자)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="시즌1에서_처음_登場(등장)한_競爭者(경쟁자)"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C1.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29">시즌1에서 처음 <ruby class="hanja grade70"><rb>登場</rb><rp>(</rp><rt>등장</rt><rp>)</rp></ruby>한 <ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=4" title="부분 편집: 시즌1에서 처음 登場(등장)한 競爭者(경쟁자)">편집</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Blocky (블록)</li>
+<li>Bubble (거품)</li>
+<li>Coiny (<ruby class="hanja grade40"><rb>銅錢</rb><rp>(</rp><rt>동전</rt><rp>)</rp></ruby>)</li>
+<li>David (막대기 사람) (<ruby class="hanja grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>18<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> Reveal Novum에 합류했다)</li>
+<li>Eraser (지우개)</li>
+<li>Firey (불)</li>
+<li>Flower (꽃)</li>
+<li>Golf Ball (골프 공)</li>
+<li>Ice Cube (얼음)</li>
+<li>Leafy (잎)</li>
+<li>Match (성냥)</li>
+<li>Needle (바늘)</li>
+<li>Pen (펜)</li>
+<li>Pencil (<ruby class="hanja grade40"><rb>鉛筆</rb><rp>(</rp><rt>연필</rt><rp>)</rp></ruby>)</li>
+<li>Pin (핀)</li>
+<li>Rocky (바위)</li>
+<li>Snowball (눈덩이)</li>
+<li>Spongy (스펀지)</li>
+<li>Teardrop (눈물)</li>
+<li>Tennis Ball (테니스 공)</li>
+<li>Woody (<ruby class="hanja grade52"><rb>木材</rb><rp>(</rp><rt>목재</rt><rp>)</rp></ruby>)</li></ul>
+<h4><span id="시즌2에서_처음_登場(등장)한_競爭者(경쟁자)"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C2.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29">시즌2에서 처음 <ruby class="hanja grade70"><rb>登場</rb><rp>(</rp><rt>등장</rt><rp>)</rp></ruby>한 <ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=5" title="부분 편집: 시즌2에서 처음 登場(등장)한 競爭者(경쟁자)">편집</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Bomby (<ruby class="hanja grade40"><rb>爆彈</rb><rp>(</rp><rt>폭탄</rt><rp>)</rp></ruby>)</li>
+<li>Book (<ruby class="hanja grade40"><rb>冊</rb><rp>(</rp><rt>책</rt><rp>)</rp></ruby>)</li>
+<li>Donut (도넛)</li>
+<li>Dora (막대기 사람)</li>
+<li>Fries (감자 튀김)</li>
+<li>Gelatin (젤라틴)</li>
+<li>Nickel (니켈 <ruby class="hanja grade40"><rb>銅錢</rb><rp>(</rp><rt>동전</rt><rp>)</rp></ruby>)</li>
+<li>Puffball (부드러운 공)</li>
+<li>Ruby (루비)</li>
+<li>Yellow Face (노란 얼굴)</li></ul>
+<h4><span id="시즌4에서_처음_登場(등장)한_競爭者(경쟁자)"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C4.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29">시즌4에서 처음 <ruby class="hanja grade70"><rb>登場</rb><rp>(</rp><rt>등장</rt><rp>)</rp></ruby>한 <ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=6" title="부분 편집: 시즌4에서 처음 登場(등장)한 競爭者(경쟁자)">편집</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>8-Ball (8 공)</li>
+<li>Balloony (<ruby class="hanja grade50"><rb>風船</rb><rp>(</rp><rt>풍선</rt><rp>)</rp></ruby>)</li>
+<li>Barf Bag (바프 백)</li>
+<li>Basketball (<ruby class="hanja grade20"><rb>籠球</rb><rp>(</rp><rt>농구</rt><rp>)</rp></ruby>)</li>
+<li>Bell (벨)</li>
+<li>Black Hole (블랙홀)</li>
+<li>Bottle (<ruby class="hanja grade0"><rb>瓶</rb><rp>(</rp><rt>병</rt><rp>)</rp></ruby>)</li>
+<li>Bracelety (팔찌)</li>
+<li>Cake (케이크)</li>
+<li>Clock (<ruby class="hanja grade62"><rb>時計</rb><rp>(</rp><rt>시계</rt><rp>)</rp></ruby>)</li>
+<li>Cloudy (구름)</li>
+<li>Eggy (알)</li>
+<li>Fanny (<ruby class="hanja grade10"><rb>扇風機</rb><rp>(</rp><rt>선풍기</rt><rp>)</rp></ruby>)</li>
+<li>Firey Jr. (작은 불)</li>
+<li>Foldy (접은 종이)</li>
+<li>Gaty (<ruby class="hanja grade80"><rb>大門</rb><rp>(</rp><rt>대문</rt><rp>)</rp></ruby>)</li>
+<li>Grassy (풀)</li>
+<li>Lightning (번개)</li>
+<li>Liy (스위치)</li>
+<li>Lollipop (막대<ruby class="hanja grade0"><rb>砂糖</rb><rp>(</rp><rt>사탕</rt><rp>)</rp></ruby>)</li>
+<li>Loser (<ruby class="hanja grade62"><rb>立方體</rb><rp>(</rp><rt>입방체</rt><rp>)</rp></ruby>)</li>
+<li>Marker (마커펜)</li>
+<li>Naily (못)</li>
+<li>Pie (파이)</li>
+<li>Pillow (베개)</li>
+<li>Profily (프로필 <ruby class="hanja grade42"><rb>寫眞</rb><rp>(</rp><rt>사진</rt><rp>)</rp></ruby>) (26<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> The Hidden Contestant에 합류했다. 그는 같은 <ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade40"><rb>脫落</rb><rp>(</rp><rt>탈락</rt><rp>)</rp></ruby>했다. )</li>
+<li>Remote (리모컨)</li>
+<li>Robot Flower (로봇 꽃)</li>
+<li>Roboty (로봇)</li>
+<li>Saw (톱)</li>
+<li>Stapy (스테이플러)</li>
+<li>Taco (타코)</li>
+<li>Tree (나무)</li>
+<li>TV (텔레비전)</li></ul>
+<h4><span id="시즌5에서_처음_登場(등장)한_競爭者(경쟁자)"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C5.EC.97.90.EC.84.9C_.EC.B2.98.EC.9D.8C_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E7.AB.B6.E7.88.AD.E8.80.85.28.EA.B2.BD.EC.9F.81.EC.9E.90.29">시즌5에서 처음 <ruby class="hanja grade70"><rb>登場</rb><rp>(</rp><rt>등장</rt><rp>)</rp></ruby>한 <ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=7" title="부분 편집: 시즌5에서 처음 登場(등장)한 競爭者(경쟁자)">편집</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Price Tag (<ruby class="hanja grade42"><rb>價格票</rb><rp>(</rp><rt>가격표</rt><rp>)</rp></ruby>)</li>
+<li>Winner (알 수 없다)</li></ul>
+<h3><span id="主催者(주최자)"></span><span class="mw-headline" id=".E4.B8.BB.E5.82.AC.E8.80.85.28.EC.A3.BC.EC.B5.9C.EC.9E.90.29"><ruby class="hanja grade32"><rb>主催者</rb><rp>(</rp><rt>주최자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=8" title="부분 편집: 主催者(주최자)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Announcer (말하는 박스)</li>
+<li>TV (둘째 시즌에 <ruby class="hanja grade32"><rb>主催者</rb><rp>(</rp><rt>주최자</rt><rp>)</rp></ruby>이 됐다, 넷째 시즌에 <ruby class="hanja grade50"><rb>競爭者</rb><rp>(</rp><rt>경쟁자</rt><rp>)</rp></ruby>이 됐다)</li>
+<li>Puffball Speaker Box (말하는 박스)</li>
+<li>Firey Speaker Box (말하는 박스. 그는 Puffball Speaker Box가 죽은 <ruby class="hanja grade72"><rb>後</rb><rp>(</rp><rt>후</rt><rp>)</rp></ruby>에 <ruby class="hanja grade32"><rb>主催者</rb><rp>(</rp><rt>주최자</rt><rp>)</rp></ruby>이 됐다)</li>
+<li>Four (<ruby class="hanja grade62"><rb>數字外界人</rb><rp>(</rp><rt>숫자외계인</rt><rp>)</rp></ruby>)</li>
+<li>X (<ruby class="hanja grade52"><rb>變數外界人</rb><rp>(</rp><rt>변수외계인</rt><rp>)</rp></ruby>)</li>
+<li>Two (<ruby class="hanja grade62"><rb>數字外界人</rb><rp>(</rp><rt>숫자외계인</rt><rp>)</rp></ruby>)</li></ul>
+<h2><span id="話(화)_目錄(목록)"></span><span class="mw-headline" id=".E8.A9.B1.28.ED.99.94.29_.E7.9B.AE.E9.8C.84.28.EB.AA.A9.EB.A1.9D.29"><ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>目錄</rb><rp>(</rp><rt>목록</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=9" title="부분 편집: 話(화) 目錄(목록)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="시즌1"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C1">시즌1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=10" title="부분 편집: 시즌1">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 25<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>. 2010<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>돼서 2012<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 끝난다.
+</p>
+<h3><span id="시즌2"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C2">시즌2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=11" title="부분 편집: 시즌2">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 5<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>. 2012<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>29<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>돼서 2013<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>8<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja grade42"><rb>取消</rb><rp>(</rp><rt>취소</rt><rp>)</rp></ruby>되었다.
+</p>
+<h3><span id="시즌3"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C3">시즌3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=12" title="부분 편집: 시즌3">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 1<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>. 2016<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>9<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>되었다.
+</p>
+<h3><span id="시즌4"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C4">시즌4</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=13" title="부분 편집: 시즌4">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 28<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>. 2017<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>11<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>3<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>되었다.
+</p>
+<h3><span id="시즌5"></span><span class="mw-headline" id=".EC.8B.9C.EC.A6.8C5">시즌5</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=14" title="부분 편집: 시즌5">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 1<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>. 2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>10<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>되었다.
+</p>
+<h2><span id="外部連結(외부련결)"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90.28.EC.99.B8.EB.B6.80.EB.A0.A8.EA.B2.B0.29"><ruby class="hanja grade42"><rb>外部連結</rb><rp>(</rp><rt>외부련결</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85:ItMarki/Battle_for_Dream_Island_%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=15" title="부분 편집: 外部連結(외부련결)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/user/jacknjellify">jacknjellify의 유튜브 채널</a></li>
+<li><a rel="nofollow" class="external text" href="https://battlefordreamisland.fandom.com/wiki/Battle_for_Dream_Island_Wiki">BFDI 위키</a></li></ul>
+</div></body></html>
