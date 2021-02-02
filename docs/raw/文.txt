@@ -1,0 +1,44 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade70"><rb>文</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">글월 문
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade70"><rb>文</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>4<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>7<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br>
+</p>
+<h2><span id="槪要"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81"><a href="/wiki/%E6%A7%AA%E8%A6%81" title="槪要"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%96%87&amp;action=edit&amp;section=1" title="부분 편집: 槪要">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/index.php?title=%EA%B8%80&amp;action=edit&amp;redlink=1" class="new" title="글 (없는 문서)">글</a>이나 <ruby class="hanja grade60"><rb>文章</rb><rp>(</rp><rt>문장</rt><rp>)</rp></ruby>을 뜻하는 <a href="/wiki/%E8%B1%A1%E5%BD%A2%E6%96%87%E5%AD%97" title="象形文字"><ruby class="hanja grade40"><rb>象形文字</rb><rp>(</rp><rt>상형문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade52"><rb>元來</rb><rp>(</rp><rt>원래</rt><rp>)</rp></ruby>, <a href="/index.php?title=%EC%82%AC%EB%9E%8C&amp;action=edit&amp;redlink=1" class="new" title="사람 (없는 문서)">사람</a>에게 <ruby class="hanja grade62"><rb>文身</rb><rp>(</rp><rt>문신</rt><rp>)</rp></ruby>을 새긴다는 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>였지만 글을 새긴다는 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>로 <ruby class="hanja grade32"><rb>變遷</rb><rp>(</rp><rt>변천</rt><rp>)</rp></ruby>하였다.
+</p>
+<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%96%87&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade52"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>文章</rb><rp>(</rp><rt>문장</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>論文</rb><rp>(</rp><rt>논문</rt><rp>)</rp></ruby></li></ul>
+</div></body></html>

@@ -1,0 +1,156 @@
+<html><head></head><body><div class="mw-parser-output"><p><br>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81"><span class="tocnumber">1</span> <span class="toctext">槪要</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E7.94.A8.E9.80.94"><span class="tocnumber">2</span> <span class="toctext">用途</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.ED.83.80.EC.96.B8.EC.96.B4"><span class="tocnumber">3</span> <span class="toctext">타언어</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E4.BA.94.E5.8D.81.E9.9F.B3.E5.9C.96"><span class="tocnumber">4</span> <span class="toctext">五十音圖</span></a></li>
+</ul>
+</div>
+<h2><span id="槪要"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81"><a href="/wiki/%E6%A7%AA%E8%A6%81" title="槪要"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B9%B3%E5%81%87%E5%90%8D&amp;action=edit&amp;section=1" title="부분 편집: 槪要">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>의 <a href="/wiki/%E6%96%87%E5%AD%97" title="文字"><ruby class="hanja grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>인 <a href="/index.php?title=%E5%81%87%E5%90%8D&amp;action=edit&amp;redlink=1" class="new" title="假名 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>假名</rb><rp>(</rp><rt>가명</rt><rp>)</rp></ruby></a> 중 하나이다. 보통 아래 <a href="/index.php?title=%E7%94%A8%E9%80%94&amp;action=edit&amp;redlink=1" class="new" title="用途 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>用途</rb><rp>(</rp><rt>용도</rt><rp>)</rp></ruby></a>와 같이 <a href="/index.php?title=%E7%B4%94&amp;action=edit&amp;redlink=1" class="new" title="純 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>純</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby></a><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E8%A1%A8%E8%A8%98&amp;action=edit&amp;redlink=1" class="new" title="表記 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></a>에 쓰인다.
+</p>
+<h2><span id="用途"></span><span class="mw-headline" id=".E7.94.A8.E9.80.94"><a href="/index.php?title=%E7%94%A8%E9%80%94&amp;action=edit&amp;redlink=1" class="new" title="用途 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>用途</rb><rp>(</rp><rt>용도</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B9%B3%E5%81%87%E5%90%8D&amp;action=edit&amp;section=2" title="부분 편집: 用途">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%E5%8B%95%E8%A9%9E&amp;action=edit&amp;redlink=1" class="new" title="動詞 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>動詞</rb><rp>(</rp><rt>동사</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E6%B4%BB%E7%94%A8&amp;action=edit&amp;redlink=1" class="new" title="活用 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>活用</rb><rp>(</rp><rt>활용</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E8%AA%9E%E5%B0%BE&amp;action=edit&amp;redlink=1" class="new" title="語尾 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>語尾</rb><rp>(</rp><rt>어미</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%8A%A9%E8%A9%9E&amp;action=edit&amp;redlink=1" class="new" title="助詞 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>助詞</rb><rp>(</rp><rt>조사</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%8A%A9%E5%8B%95%E8%A9%9E&amp;action=edit&amp;redlink=1" class="new" title="助動詞 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>助動詞</rb><rp>(</rp><rt>조동사</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E8%A9%B2%E7%95%B6&amp;action=edit&amp;redlink=1" class="new" title="該當 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby></a>하는 <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a>가 없거나 어려워서 잘 쓰이지 않는 <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E5%9B%BA%E6%9C%89%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="固有語 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>固有語</rb><rp>(</rp><rt>고유어</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%EC%96%B4%EB%A6%B0%EC%9D%B4&amp;action=edit&amp;redlink=1" class="new" title="어린이 (없는 문서)">어린이</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>가 하는 말의 <a href="/index.php?title=%EB%89%98%EC%95%99%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="뉘앙스 (없는 문서)">뉘앙스</a>를 보여 주고 싶을 때</li></ul>
+<h2><span id="타언어"></span><span class="mw-headline" id=".ED.83.80.EC.96.B8.EC.96.B4">타언어</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B9%B3%E5%81%87%E5%90%8D&amp;action=edit&amp;section=3" title="부분 편집: 타언어">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>표기</th>
+<th>발음
+</th></tr>
+<tr>
+<th><a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja grade42"><rb>平假名</rb><rp>(</rp><rt>평가명</rt><rp>)</rp></ruby>
+</td>
+<td>(<a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>注音</rb><rp>(</rp><rt>주음</rt><rp>)</rp></ruby>)<br> (<a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> <ruby class="hanja grade0"><rb>拼音</rb><rp>(</rp><rt>평음</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja grade0"><rb>平仮名</rb><rp>(</rp><rt>평가명</rt><rp>)</rp></ruby>
+</td>
+<td>ひらがな
+</td></tr>
+<tr>
+<th><a href="/wiki/%E8%B6%8A%E5%8D%97%E8%AA%9E" title="越南語"><ruby class="hanja grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja grade42"><rb>平假名</rb><rp>(</rp><rt>평가명</rt><rp>)</rp></ruby><br> 𡦂𣟮
+</td>
+<td>Bình giả danh<br> chữ mềm
+</td></tr></tbody></table>
+<h2><span id="五十音圖"></span><span class="mw-headline" id=".E4.BA.94.E5.8D.81.E9.9F.B3.E5.9C.96"><a href="/index.php?title=%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9C%96&amp;action=edit&amp;redlink=1" class="new" title="五十音圖 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>五十音圖</rb><rp>(</rp><rt>오십음도</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B9%B3%E5%81%87%E5%90%8D&amp;action=edit&amp;section=4" title="부분 편집: 五十音圖">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>あ<ruby class="hanja grade40"><rb>段</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby></th>
+<th>い<ruby class="hanja grade40"><rb>段</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby></th>
+<th>う<ruby class="hanja grade40"><rb>段</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby></th>
+<th>え<ruby class="hanja grade40"><rb>段</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby></th>
+<th>お<ruby class="hanja grade40"><rb>段</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th>あ<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>あ</td>
+<td>い</td>
+<td>う</td>
+<td>え</td>
+<td>お
+</td></tr>
+<tr>
+<th>か<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>か</td>
+<td>き</td>
+<td>く</td>
+<td>け</td>
+<td>こ
+</td></tr>
+<tr>
+<th>さ<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>さ</td>
+<td>し</td>
+<td>す</td>
+<td>せ</td>
+<td>そ
+</td></tr>
+<tr>
+<th>た<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>た</td>
+<td>ち</td>
+<td>つ</td>
+<td>て</td>
+<td>と
+</td></tr>
+<tr>
+<th>な<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>な</td>
+<td>に</td>
+<td>ぬ</td>
+<td>ね</td>
+<td>の
+</td></tr>
+<tr>
+<th>は<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>は</td>
+<td>ひ</td>
+<td>ふ</td>
+<td>へ</td>
+<td>ほ
+</td></tr>
+<tr>
+<th>ま<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>ま</td>
+<td>み</td>
+<td>む</td>
+<td>め</td>
+<td>も
+</td></tr>
+<tr>
+<th>や<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>や</td>
+<td>-</td>
+<td>ゆ</td>
+<td>-</td>
+<td>よ
+</td></tr>
+<tr>
+<th>ら<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>ら</td>
+<td>り</td>
+<td>る</td>
+<td>れ</td>
+<td>ろ
+</td></tr>
+<tr>
+<th>わ<ruby class="hanja grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby>
+</th>
+<td>わ</td>
+<td>(ゐ)</td>
+<td>-</td>
+<td>(ゑ)</td>
+<td>を
+</td></tr>
+<tr>
+<th>
+</th>
+<td colspan="5">ん
+</td></tr>
+</tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">(<ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>를 아직 배우지 않은)</span>
+</li>
+</ol></div>
+</div></body></html>

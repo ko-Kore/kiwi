@@ -1,0 +1,145 @@
+<html><head></head><body><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81"><span class="tocnumber">1</span> <span class="toctext">槪要</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.AD.8C.E6.9B.B2.E6.83.85.E5.A0.B1"><span class="tocnumber">2</span> <span class="toctext">歌曲情報</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"><span class="tocnumber">2.1</span> <span class="toctext">歌詞(가사)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#.E4.BB.96.E8.A8.80.E8.AA.9E.28.ED.83.80.EC.96.B8.EC.96.B4.29"><span class="tocnumber">3</span> <span class="toctext">他言語(타언어)</span></a></li>
+</ul>
+</div>
+<h2><span id="槪要"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81"><a href="/wiki/%E6%A7%AA%E8%A6%81" title="槪要"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B0%8F%E8%8B%B9%E6%9E%9C&amp;action=edit&amp;section=1" title="부분 편집: 槪要">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/index.php?title=%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F&amp;action=edit&amp;redlink=1" class="new" title="筷子兄弟 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>筷子兄弟</rb><rp>(</rp><rt>쾌자형제</rt><rp>)</rp></ruby></a>의 <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a> 노래다.
+</p>
+<h2><span id="歌曲情報"></span><span class="mw-headline" id=".E6.AD.8C.E6.9B.B2.E6.83.85.E5.A0.B1"><a href="/index.php?title=%E6%AD%8C%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="歌曲 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>歌曲</rb><rp>(</rp><rt>가곡</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%83%85%E5%A0%B1&amp;action=edit&amp;redlink=1" class="new" title="情報 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B0%8F%E8%8B%B9%E6%9E%9C&amp;action=edit&amp;section=2" title="부분 편집: 歌曲情報">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/index.php?title=%E6%9B%B2%E5%90%8D&amp;action=edit&amp;redlink=1" class="new" title="曲名 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>曲名</rb><rp>(</rp><rt>곡명</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja grade0"><rb>小苹果</rb><rp>(</rp><rt>소평과</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%E6%AD%8C%E6%89%8B&amp;action=edit&amp;redlink=1" class="new" title="歌手 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>歌手</rb><rp>(</rp><rt>가수</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja grade0"><rb>筷子兄弟</rb><rp>(</rp><rt>쾌자형제</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td>앨범
+</td>
+<td><ruby class="hanja grade62"><rb>小水果</rb><rp>(</rp><rt>소수과</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%E7%99%BC%E8%B3%A3&amp;action=edit&amp;redlink=1" class="new" title="發賣 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>發賣</rb><rp>(</rp><rt>발매</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%B9%B4%E5%BA%A6&amp;action=edit&amp;redlink=1" class="new" title="年度 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>年度</rb><rp>(</rp><rt>연도</rt><rp>)</rp></ruby></a>
+</td>
+<td>2014<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>길이
+</td>
+<td>3:31
+</td></tr></tbody></table>
+<h3><span id="歌詞(가사)"></span><span class="mw-headline" id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"><ruby class="hanja grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B0%8F%E8%8B%B9%E6%9E%9C&amp;action=edit&amp;section=3" title="부분 편집: 歌詞(가사)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade0"><rb>我种下一颗种子</rb><rp>(</rp><rt>아충하일과충자</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>终于长出了果实</rb><rp>(</rp><rt>종우장출료과실</rt><rp>)</rp></ruby><br>
+wo zhong xia yi ke zhong zi zhong yu chang chu liao guo shi<br>
+<ruby class="hanja grade0"><rb>今天是个伟大日子</rb><rp>(</rp><rt>금천시개위대일자</rt><rp>)</rp></ruby><br>
+jin tian shi ge wei da ri zi<br>
+<ruby class="hanja grade0"><rb>摘下星星送给你</rb><rp>(</rp><rt>적하성성송급니</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>拽下月亮送给你</rb><rp>(</rp><rt>예하월량송급니</rt><rp>)</rp></ruby><br>
+zhai xia xing xing song gei ni zhuai xia yue liang song gei ni<br>
+<ruby class="hanja grade0"><rb>让太阳每天为你升起</rb><rp>(</rp><rt>양태양매천위니승기</rt><rp>)</rp></ruby><br>
+rang tai yang mei tian wei ni sheng qi<br>
+<ruby class="hanja grade0"><rb>变成蜡烛燃烧自己</rb><rp>(</rp><rt>변성사촉연소자기</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>只为照亮你</rb><rp>(</rp><rt>지위조량니</rt><rp>)</rp></ruby><br>
+bian cheng la zhu ran shao zi ji zhi wei zhao liang ni<br>
+<ruby class="hanja grade0"><rb>把我一切都献给你</rb><rp>(</rp><rt>파아일절도헌급니</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>只要你欢喜</rb><rp>(</rp><rt>지요니환희</rt><rp>)</rp></ruby><br>
+ba wo yi qie du xian gei ni zhi yao ni huan xi<br>
+<ruby class="hanja grade0"><rb>你让我每个明天都</rb><rp>(</rp><rt>이양아매개명천도</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>变得有意义</rb><rp>(</rp><rt>변득유의의</rt><rp>)</rp></ruby><br>
+ni rang wo mei ge ming tian du bian de you yi yi<br>
+<ruby class="hanja grade0"><rb>生命虽短爱你永远</rb><rp>(</rp><rt>생명수단애니영원</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>不离不弃</rb><rp>(</rp><rt>부리부기</rt><rp>)</rp></ruby><br>
+sheng ming sui duan ai ni yong yuan bu li bu qi<br>
+<ruby class="hanja grade0"><rb>你是我的小呀小苹果儿</rb><rp>(</rp><rt>이시아적소하소평과인</rt><rp>)</rp></ruby><br>
+ni shi wo de xiao ya xiao ping guo er<br>
+<ruby class="hanja grade0"><rb>怎么爱你都不嫌多</rb><rp>(</rp><rt>즘요애니도부혐다</rt><rp>)</rp></ruby><br>
+zen me ai ni du bu xian duo<br>
+<ruby class="hanja grade0"><rb>红红的小脸儿温暖我的心窝</rb><rp>(</rp><rt>홍홍적소검인온난아적심와</rt><rp>)</rp></ruby><br>
+hong hong de xiao lian er wen nuan wo de xin wo<br>
+<ruby class="hanja grade0"><rb>点亮我生命的火</rb><rp>(</rp><rt>점량아생명적화</rt><rp>)</rp></ruby> <ruby class="hanja grade80"><rb>火火火火</rb><rp>(</rp><rt>화화화화</rt><rp>)</rp></ruby><br>
+dian liang wo sheng ming de huo huo huo huo huo<br>
+<ruby class="hanja grade0"><rb>你是我的小呀小苹果儿</rb><rp>(</rp><rt>이시아적소하소평과인</rt><rp>)</rp></ruby><br>
+ni shi wo de xiao ya xiao ping guo er<br>
+<ruby class="hanja grade0"><rb>就像天边最美的云朵</rb><rp>(</rp><rt>취상천변최미적운타</rt><rp>)</rp></ruby><br>
+jiu xiang tian bian zui mei de yun duo<br>
+<ruby class="hanja grade0"><rb>春天又来到了花开满山坡</rb><rp>(</rp><rt>춘천우래도료화개만산파</rt><rp>)</rp></ruby><br>
+chun tian you lai dao liao hua kai man shan po<br>
+<ruby class="hanja grade0"><rb>种下希望就会收获</rb><rp>(</rp><rt>충하희망취회수획</rt><rp>)</rp></ruby><br>
+zhong xia xi wang jiu hui shou huo<br>
+<ruby class="hanja grade0"><rb>从不觉得你讨厌</rb><rp>(</rp><rt>종부각득니토염</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>你的一切都喜欢</rb><rp>(</rp><rt>이적일절도희환</rt><rp>)</rp></ruby><br>
+cong bu jue de ni tao yan ni de yi qie du xi huan<br>
+<ruby class="hanja grade0"><rb>有你的每天都新鲜</rb><rp>(</rp><rt>유니적매천도신선</rt><rp>)</rp></ruby><br>
+you ni de mei tian du xin xian<br>
+<ruby class="hanja grade0"><rb>有你阳光更灿烂</rb><rp>(</rp><rt>유니양광경찬란</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>有你黑夜不黑暗</rb><rp>(</rp><rt>유니흑야부흑암</rt><rp>)</rp></ruby><br>
+you ni yang guang geng can lan you ni hei ye bu hei an<br>
+<ruby class="hanja grade0"><rb>你是白云我是蓝天</rb><rp>(</rp><rt>이시백운아시람천</rt><rp>)</rp></ruby><br>
+ni shi bai yun wo shi lan tian<br>
+<ruby class="hanja grade0"><rb>春天和你漫步在盛开的</rb><rp>(</rp><rt>춘천화니만보재성개적</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>花丛间</rb><rp>(</rp><rt>화총간</rt><rp>)</rp></ruby><br>
+chun tian he ni man bu zai sheng kai de hua cong jian<br>
+<ruby class="hanja grade0"><rb>夏天夜晚陪你一起看</rb><rp>(</rp><rt>하천야만배니일기간</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>星星眨眼</rb><rp>(</rp><rt>성성잡안</rt><rp>)</rp></ruby><br>
+xia tian ye wan pei ni yi qi kan xing xing zha yan<br>
+<ruby class="hanja grade0"><rb>秋天黄昏与你徜徉在</rb><rp>(</rp><rt>추천황혼여니상양재</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>金色麦田</rb><rp>(</rp><rt>금색맥전</rt><rp>)</rp></ruby><br>
+qiu tian huang hun yu ni zai jin se mai tian<br>
+<ruby class="hanja grade0"><rb>冬天雪花飞舞有你</rb><rp>(</rp><rt>동천설화비무유니</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>更加温暖</rb><rp>(</rp><rt>경가온난</rt><rp>)</rp></ruby><br>
+dong tian xue hua fei wu you ni geng jia wen nuan<br>
+<ruby class="hanja grade0"><rb>你是我的小呀小苹果儿</rb><rp>(</rp><rt>이시아적소하소평과인</rt><rp>)</rp></ruby><br>
+ni shi wo de xiao ya xiao ping guo er<br>
+<ruby class="hanja grade0"><rb>怎么爱你都不嫌多</rb><rp>(</rp><rt>즘요애니도부혐다</rt><rp>)</rp></ruby><br>
+zen me ai ni du bu xian duo<br>
+<ruby class="hanja grade0"><rb>红红的小脸儿温暖我的心窝</rb><rp>(</rp><rt>홍홍적소검인온난아적심와</rt><rp>)</rp></ruby><br>
+hong hong de xiao lian er wen nuan wo de xin wo<br>
+<ruby class="hanja grade0"><rb>点亮我生命的火</rb><rp>(</rp><rt>점량아생명적화</rt><rp>)</rp></ruby> <ruby class="hanja grade80"><rb>火火火火</rb><rp>(</rp><rt>화화화화</rt><rp>)</rp></ruby><br>
+dian liang wo sheng ming de huo huo huo huo huo<br>
+<ruby class="hanja grade0"><rb>你是我的小呀小苹果儿</rb><rp>(</rp><rt>이시아적소하소평과인</rt><rp>)</rp></ruby><br>
+ni shi wo de xiao ya xiao ping guo er<br>
+<ruby class="hanja grade0"><rb>就像天边最美的云朵</rb><rp>(</rp><rt>취상천변최미적운타</rt><rp>)</rp></ruby><br>
+jiu xiang tian bian zui mei de yun duo<br>
+<ruby class="hanja grade0"><rb>春天又来到了花开满山坡</rb><rp>(</rp><rt>춘천우래도료화개만산파</rt><rp>)</rp></ruby><br>
+chun tian you lai dao liao hua kai man shan po<br>
+<ruby class="hanja grade0"><rb>种下希望就会收获</rb><rp>(</rp><rt>충하희망취회수획</rt><rp>)</rp></ruby><br>
+zhong xia xi wang jiu hui shou huo<br>
+<ruby class="hanja grade0"><rb>你是我的小呀小苹果儿</rb><rp>(</rp><rt>이시아적소하소평과인</rt><rp>)</rp></ruby><br>
+ni shi wo de xiao ya xiao ping guo er<br>
+<ruby class="hanja grade0"><rb>怎么爱你都不嫌多</rb><rp>(</rp><rt>즘요애니도부혐다</rt><rp>)</rp></ruby><br>
+zen me ai ni du bu xian duo<br>
+<ruby class="hanja grade0"><rb>红红的小脸儿温暖我的心窝</rb><rp>(</rp><rt>홍홍적소검인온난아적심와</rt><rp>)</rp></ruby><br>
+hong hong de xiao lian er wen nuan wo de xin wo<br>
+<ruby class="hanja grade0"><rb>点亮我生命的火</rb><rp>(</rp><rt>점량아생명적화</rt><rp>)</rp></ruby> <ruby class="hanja grade80"><rb>火火火火</rb><rp>(</rp><rt>화화화화</rt><rp>)</rp></ruby><br>
+dian liang wo sheng ming de huo huo huo huo huo<br>
+<ruby class="hanja grade0"><rb>你是我的小呀小苹果儿</rb><rp>(</rp><rt>이시아적소하소평과인</rt><rp>)</rp></ruby><br>
+ni shi wo de xiao ya xiao ping guo er<br>
+<ruby class="hanja grade0"><rb>就像天边最美的云朵</rb><rp>(</rp><rt>취상천변최미적운타</rt><rp>)</rp></ruby><br>
+jiu xiang tian bian zui mei de yun duo<br>
+<ruby class="hanja grade0"><rb>春天又来到了花开满山坡</rb><rp>(</rp><rt>춘천우래도료화개만산파</rt><rp>)</rp></ruby><br>
+chun tian you lai dao liao hua kai man shan po<br>
+<ruby class="hanja grade0"><rb>种下希望就会收获</rb><rp>(</rp><rt>충하희망취회수획</rt><rp>)</rp></ruby><br>
+zhong xia xi wang jiu hui shou huo<br>
+</p>
+<h2><span id="他言語(타언어)"></span><span class="mw-headline" id=".E4.BB.96.E8.A8.80.E8.AA.9E.28.ED.83.80.EC.96.B8.EC.96.B4.29"><ruby class="hanja grade50"><rb>他言語</rb><rp>(</rp><rt>타언어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%B0%8F%E8%8B%B9%E6%9E%9C&amp;action=edit&amp;section=4" title="부분 편집: 他言語(타언어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th><ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja grade0"><rb>小蘋果</rb><rp>(</rp><rt>소빈과</rt><rp>)</rp></ruby> (<ruby class="hanja grade62"><rb>正體</rb><rp>(</rp><rt>정체</rt><rp>)</rp></ruby>) <br> <ruby class="hanja grade0"><rb>小苹果</rb><rp>(</rp><rt>소평과</rt><rp>)</rp></ruby> (<ruby class="hanja grade40"><rb>簡體</rb><rp>(</rp><rt>간체</rt><rp>)</rp></ruby>)
+</td>
+<td>(<a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>注音</rb><rp>(</rp><rt>주음</rt><rp>)</rp></ruby>) <br> Xiǎopíngguǒ (<a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> <ruby class="hanja grade0"><rb>拼音</rb><rp>(</rp><rt>평음</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>
+</th>
+<td>リトル・アップル/<ruby class="hanja grade80"><rb>小</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby>さなリンゴ
+</td>
+<td>りとる・あっぷる/ちいさりんご
+</td></tr></tbody></table>
+</div></body></html>

@@ -1,0 +1,144 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_South_Korea.svg" class="image"><img alt="Flag of South Korea.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-240px-Flag_of_South_Korea.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-360px-Flag_of_South_Korea.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-480px-Flag_of_South_Korea.svg.png 2x"></a>
+</td>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_South_Korea.svg" class="image"><img alt="Emblem of South Korea.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Emblem_of_South_Korea.svg/langko-160px-Emblem_of_South_Korea.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Emblem_of_South_Korea.svg/langko-239px-Emblem_of_South_Korea.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Emblem_of_South_Korea.svg/langko-319px-Emblem_of_South_Korea.svg.png 2x"></a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>國家象徵</rb><rp>(</rp><rt>국가상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%84%9B%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="愛國歌 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>愛國歌</rb><rp>(</rp><rt>애국가</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%84%A1%E7%AA%AE%E8%8A%B1&amp;action=edit&amp;redlink=1" class="new" title="無窮花 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>無窮花</rb><rp>(</rp><rt>무궁화</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%BC%98%E7%9B%8A%E4%BA%BA%E9%96%93" title="弘益人間"><ruby class="hanja grade30"><rb>弘益人間</rb><rp>(</rp><rt>홍익인간</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%EC%84%9C%EC%9A%B8%E7%89%B9%E5%88%A5%E5%B8%82" title="서울特別市">서울<ruby class="hanja grade60"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E6%96%87%E5%9C%A8%E5%AF%85" title="文在寅"><ruby class="hanja grade30"><rb>文在寅</rb><rp>(</rp><rt>문재인</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>100,363km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>KST(UTC +9)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>1<a href="/index.php?title=%E7%89%B9%E5%88%A5%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="特別市 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby></a> 6<a href="/index.php?title=%E5%BB%A3%E5%9F%9F%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="廣域市 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>廣域市</rb><rp>(</rp><rt>광역시</rt><rp>)</rp></ruby></a> 1<a href="/index.php?title=%E7%89%B9%E5%88%A5%E8%87%AA%E6%B2%BB%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="特別自治市 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>特別自治市</rb><rp>(</rp><rt>특별자치시</rt><rp>)</rp></ruby></a> 1<a href="/index.php?title=%E7%89%B9%E5%88%A5%E8%87%AA%E6%B2%BB%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="特別自治道 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>特別自治道</rb><rp>(</rp><rt>특별자치도</rt><rp>)</rp></ruby></a> 8<a href="/index.php?title=%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="道 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>道</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>51,839,852<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>516.47<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E9%9F%93%E5%9C%8B%E6%89%8B%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="韓國手語 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>韓國手語</rb><rp>(</rp><rt>한국수어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$1<ruby class="hanja grade32"><rb>兆</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby> 6,295<ruby class="hanja grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=10%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="10月 (없는 문서)">10<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>1<ruby class="hanja grade52"><rb>人當</rb><rp>(</rp><rt>인당</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$31,431&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=10%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="10月 (없는 문서)">10<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$2<ruby class="hanja grade32"><rb>兆</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby> 3,196<ruby class="hanja grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=10%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="10月 (없는 문서)">10<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>1<ruby class="hanja grade52"><rb>人當</rb><rp>(</rp><rt>인당</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$44,740&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=10%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="10月 (없는 문서)">10<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=1948%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1948年 (없는 문서)">1948<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=8%E6%9C%8815%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="8月15日 (없는 문서)">8<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>15<ruby class="hanja grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>國際電話番號</rb><rp>(</rp><rt>국제전화번호</rt><rp>)</rp></ruby>
+</th>
+<td>82
+</td></tr></tbody></table>
+<p><br>
+연습장이당
+</p><p><span style="color: red;"><ruby class="hanja grade50"><rb>赤字</rb><rp>(</rp><rt>적자</rt><rp>)</rp></ruby></span>와 <span style="color: black;"><ruby class="hanja grade50"><rb>黑字</rb><rp>(</rp><rt>흑자</rt><rp>)</rp></ruby></span>
+</p>
+<h2><span id="分岐(분기)_鍊習(연습)"></span><span class="mw-headline" id=".E5.88.86.E5.B2.90.28.EB.B6.84.EA.B8.B0.29_.E9.8D.8A.E7.BF.92.28.EC.97.B0.EC.8A.B5.29"><ruby class="hanja grade12"><rb>分岐</rb><rp>(</rp><rt>분기</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>鍊習</rb><rp>(</rp><rt>연습</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=1" title="부분 편집: 分岐(분기) 鍊習(연습)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>분기연습이당
+</p>
+<div class="notice" style="overflow: hidden; padding: 15px; margin: 15px 0px; border: 3px solid #2196F3; background-color: #70BBF93E;border-radius: 4px;"><div style="">
+이 <a href="/wiki/%E6%96%87%E6%9B%B8" title="文書"><ruby class="hanja grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby></a>는 <a href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD" class="extiw" title="위키百科:대한민국">위키<ruby class="hanja grade62"><rb>百科</rb><rp>(</rp><rt>백과</rt><rp>)</rp></ruby>:대한민국</a> <a href="https://ko.wikipedia.org/wiki/%ED%8A%B9%EC%88%98:%EA%B3%A0%EC%9C%A0%EB%A7%81%ED%81%AC/27472874" class="extiw" title="위키百科:특수:고유링크/27472874">27472874판</a>에서 <a href="/wiki/%E5%88%86%E5%B2%90" title="分岐"><ruby class="hanja grade12"><rb>分岐</rb><rp>(</rp><rt>분기</rt><rp>)</rp></ruby></a>하였습니다.</div></div>
+<h2><span id="目錄(목록)_鍊習(연습)"></span><span class="mw-headline" id=".E7.9B.AE.E9.8C.84.28.EB.AA.A9.EB.A1.9D.29_.E9.8D.8A.E7.BF.92.28.EC.97.B0.EC.8A.B5.29"><ruby class="hanja grade42"><rb>目錄</rb><rp>(</rp><rt>목록</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>鍊習</rb><rp>(</rp><rt>연습</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=2" title="부분 편집: 目錄(목록) 鍊習(연습)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+<ul><li><ruby class="hanja grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>의<ruby class="hanja grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>의<ruby class="hanja grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby></li></ul></li>
+<li><ruby class="hanja grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby></li></ul>
+<h2><span id="互換用(호환용)_漢字(한자)?"></span><span class="mw-headline" id=".E4.BA.92.E6.8F.9B.E7.94.A8.28.ED.98.B8.ED.99.98.EC.9A.A9.29_.E6.BC.A2.E5.AD.97.28.ED.95.9C.EC.9E.90.29.3F"><ruby class="hanja grade30"><rb>互換用</rb><rp>(</rp><rt>호환용</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=3" title="부분 편집: 互換用(호환용) 漢字(한자)?">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade80"><rb>金金</rb><rp>(</rp><rt>김김</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade62"><rb>樂樂樂樂</rb><rp>(</rp><rt>악악악악</rt><rp>)</rp></ruby></li></ul>
+</div></body></html>
