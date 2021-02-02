@@ -1,8 +1,11 @@
 {
   "title": "共産主義",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612297784000,
+  "categories": [
+    "思想",
+    "經濟體制"
+  ],
   "members": [],
   "file": null
 }

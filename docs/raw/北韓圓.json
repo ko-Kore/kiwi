@@ -1,8 +1,11 @@
 {
   "title": "北韓圓",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612297555000,
+  "categories": [
+    "通貨",
+    "大韓民國"
+  ],
   "members": [],
   "file": null
 }
