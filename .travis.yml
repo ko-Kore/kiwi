@@ -1,7 +1,7 @@
 branches:
   only:
     - gh-pages
-if: commit_message != "Update mirror"
+if: commit_message == "Trigger build"
 language: node_js
 cache:
   directories:
