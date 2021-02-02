@@ -1,8 +1,10 @@
 {
   "title": "白露級驅逐艦",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612299824000,
+  "categories": [
+    "軍艦"
+  ],
   "members": [],
   "file": null
 }

@@ -1,8 +1,11 @@
 {
   "title": "日本軍",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612300546000,
+  "categories": [
+    "軍隊",
+    "日本"
+  ],
   "members": [],
   "file": null
 }
