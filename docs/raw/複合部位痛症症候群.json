@@ -1,8 +1,11 @@
 {
   "title": "複合部位痛症症候群",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612301066000,
+  "categories": [
+    "疾病",
+    "不治病"
+  ],
   "members": [],
   "file": null
 }

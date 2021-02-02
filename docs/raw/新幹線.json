@@ -1,8 +1,11 @@
 {
   "title": "新幹線",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612300824000,
+  "categories": [
+    "高速鐵道",
+    "日本의 鐵道"
+  ],
   "members": [],
   "file": null
 }
