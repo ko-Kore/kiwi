@@ -1,8 +1,11 @@
 {
   "title": "筋萎縮性側索硬化症",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612301101000,
+  "categories": [
+    "疾病",
+    "不治病"
+  ],
   "members": [],
   "file": null
 }
