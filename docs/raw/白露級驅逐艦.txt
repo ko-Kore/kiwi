@@ -1,0 +1,84 @@
+<html><head></head><body><div class="mw-parser-output"><p><br>
+</p>
+<h2><span id="개요"></span><span class="mw-headline" id=".EA.B0.9C.EC.9A.94">개요</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%99%BD%E9%9C%B2%E7%B4%9A%E9%A9%85%E9%80%90%E8%89%A6&amp;action=edit&amp;section=1" title="부분 편집: 개요">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/index.php?title=%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B%E6%B5%B7%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="大日本帝國海軍 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>大日本帝國海軍</rb><rp>(</rp><rt>대일본제국해군</rt><rp>)</rp></ruby></a> 함선이다.  
+한국어 표기법으로는 시라쓰유가 맞다. 
+</p>
+<h2><span id="종류"></span><span class="mw-headline" id=".EC.A2.85.EB.A5.98">종류</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%99%BD%E9%9C%B2%E7%B4%9A%E9%A9%85%E9%80%90%E8%89%A6&amp;action=edit&amp;section=2" title="부분 편집: 종류">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th><ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby></th>
+<th><a href="/index.php?title=%E7%99%BC%E9%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="發音 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<th>1
+</th>
+<td><ruby class="hanja grade32"><rb>白露</rb><rp>(</rp><rt>백로</rt><rp>)</rp></ruby>
+</td>
+<td>しらつゆ(시라츠유)
+</td></tr>
+<tr>
+<th>2
+</th>
+<td><ruby class="hanja grade52"><rb>時雨</rb><rp>(</rp><rt>시우</rt><rp>)</rp></ruby>
+</td>
+<td>しぐれ(시구레)
+</td></tr>
+<tr>
+<th>3
+</th>
+<td><ruby class="hanja grade52"><rb>村雨</rb><rp>(</rp><rt>촌우</rt><rp>)</rp></ruby>
+</td>
+<td>むらさめ(무라사메)
+</td></tr>
+<tr>
+<th>4
+</th>
+<td><ruby class="hanja grade70"><rb>夕立</rb><rp>(</rp><rt>석립</rt><rp>)</rp></ruby>
+</td>
+<td>ゆうだち(유다치)
+</td></tr>
+<tr>
+<th>5
+</th>
+<td><ruby class="hanja grade52"><rb>春雨</rb><rp>(</rp><rt>춘우</rt><rp>)</rp></ruby>
+</td>
+<td>はるさめ(하루사메)
+</td></tr>
+<tr>
+<th>6
+</th>
+<td><ruby class="hanja grade52"><rb>五月雨</rb><rp>(</rp><rt>오월우</rt><rp>)</rp></ruby>
+</td>
+<td>さみだれ(사미다레)
+</td></tr>
+<tr>
+<th>7
+</th>
+<td><ruby class="hanja grade62"><rb>海風</rb><rp>(</rp><rt>해풍</rt><rp>)</rp></ruby>
+</td>
+<td>うみかぜ(우미카제)
+</td></tr>
+<tr>
+<th>8
+</th>
+<td><ruby class="hanja grade62"><rb>山風</rb><rp>(</rp><rt>산풍</rt><rp>)</rp></ruby>
+</td>
+<td>やまかぜ(야마카제)
+</td></tr>
+<tr>
+<th>9
+</th>
+<td><ruby class="hanja grade62"><rb>江風</rb><rp>(</rp><rt>강풍</rt><rp>)</rp></ruby>
+</td>
+<td>かわかぜ(카와카제)
+</td></tr>
+<tr>
+<th>10
+</th>
+<td><ruby class="hanja grade32"><rb>涼風</rb><rp>(</rp><rt>양풍</rt><rp>)</rp></ruby>
+</td>
+<td>すずかぜ(스즈카제)
+</td></tr></tbody></table>
+</div></body></html>

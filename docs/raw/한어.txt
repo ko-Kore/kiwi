@@ -1,0 +1,5 @@
+<html><head></head><body><div class="mw-parser-output"><p><b>한어</b>는 다음을 가리킨다.
+</p>
+<ul><li><a href="/wiki/%E6%BC%A2%E8%AA%9E" title="漢語"><ruby class="hanja grade70"><rb>漢語</rb><rp>(</rp><rt>한어</rt><rp>)</rp></ruby></a></li>
+<li><ruby class="hanja grade70"><rb>韓語</rb><rp>(</rp><rt>한어</rt><rp>)</rp></ruby> - <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>에서 <a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>를 가리키는 말</li></ul>
+</div></body></html>
