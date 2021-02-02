@@ -1,6 +1,6 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <tbody><tr>
-<th colspan="99">시구레우이 <br> しぐれうい
+<th colspan="2">시구레우이 <br> しぐれうい
 </th></tr>
 <tr>
 <th><ruby class="hanja grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
@@ -25,7 +25,7 @@
 <tr>
 <th><ruby class="hanja grade62"><rb>代表作</rb><rp>(</rp><rt>대표작</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%EC%86%8C%EA%BF%89%E8%A6%AA%E8%88%8A%EA%B0%80_%E7%B5%B6%E5%B0%8D%EB%A1%9C_%EC%A7%80%EC%A7%80_%EC%95%8A%EB%8A%94_%EB%9F%AC%EB%B8%8C%EC%BD%94%EB%AF%B8%EB%94%94&amp;action=edit&amp;redlink=1" class="new" title="소꿉親舊가 絶對로 지지 않는 러브코미디 (없는 문서)">소꿉<ruby class="hanja grade52 unknown"><rb>親舊</rb><rp>(</rp><rt>친구</rt><rp>)</rp></ruby>가 <ruby class="hanja grade42 unknown"><rb>絶對</rb><rp>(</rp><rt>절대</rt><rp>)</rp></ruby>로 지지 않는 러브코미디</a> <br> (<a href="/index.php?title=%E6%8F%B7%E7%95%B5&amp;action=edit&amp;redlink=1" class="new" title="揷畵 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>揷畵</rb><rp>(</rp><rt>삽화</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%93%94%E7%95%B6&amp;action=edit&amp;redlink=1" class="new" title="擔當 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>擔當</rb><rp>(</rp><rt>담당</rt><rp>)</rp></ruby></a>)
+<td><a href="/index.php?title=%EC%86%8C%EA%BF%89%E8%A6%AA%E8%88%8A%EA%B0%80_%E7%B5%B6%E5%B0%8D%EB%A1%9C_%EC%A7%80%EC%A7%80_%EC%95%8A%EB%8A%94_%EB%9F%AC%EB%B8%8C%EC%BD%94%EB%AF%B8%EB%94%94&amp;action=edit&amp;redlink=1" class="new" title="소꿉親舊가 絶對로 지지 않는 러브코미디 (없는 문서)">소꿉<ruby class="hanja grade52 unknown"><rb>親舊</rb><rp>(</rp><rt>친구</rt><rp>)</rp></ruby>가 <ruby class="hanja grade42 unknown"><rb>絶對</rb><rp>(</rp><rt>절대</rt><rp>)</rp></ruby>로 지지 않는 러브코미디</a> (<ruby class="hanja grade20"><rb>揷畵擔當</rb><rp>(</rp><rt>삽화담당</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th><ruby class="hanja grade60"><rb>公式</rb><rp>(</rp><rt>공식</rt><rp>)</rp></ruby> 사이트
@@ -55,9 +55,9 @@
 </p><p><ruby class="hanja grade50"><rb>最近</rb><rp>(</rp><rt>최근</rt><rp>)</rp></ruby>에는 <a href="/index.php?title=%EB%B2%84%EC%B6%94%EC%96%BC_%EC%9C%A0%ED%8A%9C%EB%B2%84&amp;action=edit&amp;redlink=1" class="new" title="버추얼 유튜버 (없는 문서)">버추얼 유튜버</a>로서도 <ruby class="hanja grade72"><rb>活動</rb><rp>(</rp><rt>활동</rt><rp>)</rp></ruby>하며 <a href="/index.php?title=%E4%BA%BA%E6%B0%A3&amp;action=edit&amp;redlink=1" class="new" title="人氣 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>人氣</rb><rp>(</rp><rt>인기</rt><rp>)</rp></ruby></a>를 <a href="/index.php?title=%E4%BA%AB%E5%8F%97&amp;action=edit&amp;redlink=1" class="new" title="享受 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>享受</rb><rp>(</rp><rt>향수</rt><rp>)</rp></ruby></a>하고 있다.
 </p>
 <h2><span id="버추얼_유튜버로서"></span><span class="mw-headline" id=".EB.B2.84.EC.B6.94.EC.96.BC_.EC.9C.A0.ED.8A.9C.EB.B2.84.EB.A1.9C.EC.84.9C">버추얼 유튜버로서</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%8B%9C%EA%B5%AC%EB%A0%88%EC%9A%B0%EC%9D%B4&amp;action=edit&amp;section=3" title="부분 편집: 버추얼 유튜버로서">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable">
+<table class="wikitable infobox">
 <tbody><tr>
-<th colspan="99"><a href="/index.php?title=%EC%9C%A0%ED%8A%9C%EB%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="유튜브 (없는 문서)">유튜브</a><ruby class="hanja grade32"><rb>關聯</rb><rp>(</rp><rt>관련</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby>
+<th colspan="2"><a href="/index.php?title=%EC%9C%A0%ED%8A%9C%EB%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="유튜브 (없는 문서)">유튜브</a><ruby class="hanja grade32"><rb>關聯</rb><rp>(</rp><rt>관련</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <th>채널
