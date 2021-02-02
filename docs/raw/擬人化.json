@@ -1,8 +1,11 @@
 {
   "title": "擬人化",
   "namespace": 0,
-  "timestamp": 0,
-  "categories": [],
+  "timestamp": 1612298008000,
+  "categories": [
+    "토막글",
+    "敍述技法"
+  ],
   "members": [],
   "file": null
 }
