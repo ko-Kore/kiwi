@@ -33,7 +33,7 @@ const WordIndexer = class WordIndexer {
         const result = words
                 .filter((list) => list != null)
                 .flat()
-                .map((word) => [word, 1])
+                .map((word) => [word.toLocaleLowerCase(), 1])
                 .reduce((acc, [word, i]) => (acc[word] = (acc[word] || 0) + i, acc), {})
         return Object.entries(result)
     }
