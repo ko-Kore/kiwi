@@ -105,7 +105,7 @@ div.tleft, div.floatleft, table.floatleft {
     margin: auto;
 }
 
-table.wikitable {
+table {
     border-spacing: 0px;
     border-collapse: collapse;
 }
@@ -128,6 +128,7 @@ table.infobox {
     float: right;
     margin-left: 10px;
     margin-bottom: 20px;
+    max-width: 26em;
 }
 
 span.mw-editsection {
