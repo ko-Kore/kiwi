@@ -11,7 +11,7 @@
     "rights": {
       "url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "image": "",
-      "text": "크리에이티브 커먼즈 저작자표시-동일조건변경허락"
+      "text": "크리에이티브 커먼즈 著作者表示-同一條件變更許諾"
     }
   },
   "namespace": {
@@ -80,6 +80,7 @@
     "raw": "/raw",
     "pages": "/kiwi",
     "images": "/images",
+    "indices": "/indices",
     "skin": "../skin"
   },
   "extension": {
