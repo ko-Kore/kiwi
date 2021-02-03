@@ -18,7 +18,7 @@
                         <a href="/kiwi/國漢大百科:大門">科百大漢國</a>
                     </span>
                 </nav>
-                <form class="goto" onsubmit="location.href = '/kiwi/' + document.querySelector('#goto-input').value.trim().replace(/ /g, '_') + '.html'; return false;">
+                <form class="goto" onsubmit="location.href = '/search.html?search=' + encodeURIComponent(document.querySelector('#goto-input').value); return false;">
                     <input type="text" id="goto-input">
                     <button type="submit">移動</button>
                 </form>
@@ -47,7 +47,7 @@
             </article>
             <hr>
             
-                <div class="timestamp">最近 編輯: 2021-02-02 13:29:13</div>
+                <div class="timestamp">最近 編輯: 2021-02-02 22:29:13</div>
             
         </main>
         <footer class="site-footer">
@@ -57,7 +57,7 @@
                         
                             <a href="https://creativecommons.org/licenses/by-sa/4.0/">
                         
-                                크리에이티브 커먼즈 저작자표시-동일조건변경허락
+                                크리에이티브 커먼즈 著作者表示-同一條件變更許諾
                         
                             </a>
                         
