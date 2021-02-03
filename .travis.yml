@@ -14,6 +14,7 @@ install:
   - npm install
 script:
   - npm run update pages docs 20 2000
+  - npm run fullbuild indices docs
 after_success:
   - git config user.email "travis@travis.org"
   - git config user.name "travis"
