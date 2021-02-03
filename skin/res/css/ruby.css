@@ -1,8 +1,0 @@
-
-ruby.hanja > rt {
-    display: inline-block;
-}
-
-.noruby ruby.hanja > rt {
-    display: none !important;
-}

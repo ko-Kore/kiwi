@@ -357,11 +357,13 @@ const Mirror = class Mirror {
     }
 
     copySkinFiles() {
-        const liquid = new Liquid()
         this.skin.builds.forEach((file) => {
-            const content = fs.readFileSync(path.join(this.dir, this.config.path.skin, file)).toString()
-            const built = liquid.parseAndRenderSync(content, {site: this.config})
-            fs.writeFileSync(path.join(this.dir, file), built)
+            const srcFile = path.join(this.dir, this.config.path.skin, file)
+            const destFile = path.join(this.dir, file)
+            const content = fs.readFileSync(srcFile).toString()
+            const built = this.skin.build(file, {site: this.config})
+            fs.mkdirSync(path.dirname(destFile), { recursive: true })
+            fs.writeFileSync(destFile, built)
         })
         this.skin.files.forEach((file) => {
             fse.copySync(path.join(this.dir, this.config.path.skin, file), path.join(this.dir, file))
