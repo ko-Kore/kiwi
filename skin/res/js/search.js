@@ -10,7 +10,7 @@ window.addEventListener('load', function() {
         var word = data.word;
         for(entry of data.pages) {
             var title = entry.title
-            var url = pagesUrl + '/' + title + pageExtension;
+            var url = pageUrl(title);
             var surrounding = entry.surrounding;
 
             var index = surrounding.indexOf(word);
@@ -35,8 +35,7 @@ window.addEventListener('load', function() {
 });
 
 function goto(searchString, callback) {
-    var url = pagesUrl + '/' + searchString + pageExtension;
-    console.log(url);
+    var url = pageUrl(searchString);
     var request = new XMLHttpRequest();
     request.onreadystatechange = function() {
         if(request.readyState === XMLHttpRequest.DONE && request.status === 200) {
@@ -57,4 +56,8 @@ function search(searchString, callback) {
     };
     request.open("GET", indicesUrl + '/' + searchString + '.json')
     request.send(null);
+}
+
+function pageUrl(title) {
+    return pagesUrl + '/' + title.replace(/ /g, '_') + pageExtension;
 }
