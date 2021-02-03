@@ -4,8 +4,8 @@ const cheerio = require('cheerio')
 
 const {pageFilename} = require('./tools')
 
-const ProcessedPage = require('./ProcessedPage')
-const BuiltPage = require('./BuiltPage')
+const ProcessedPage = require('./content/ProcessedPage')
+const BuiltPage = require('./content/BuiltPage')
 
 const PageBuilder = class PageBuilder {
 

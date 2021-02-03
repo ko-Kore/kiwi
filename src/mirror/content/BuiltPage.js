@@ -1,6 +1,6 @@
 
 const fs = require('fs')
-const {mkdir} = require('./tools')
+const {mkdir} = require('../tools')
 
 const BuiltPage = class BuiltPage {
     constructor(title, content) {

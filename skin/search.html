@@ -3,12 +3,18 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-        <title>{{ page.title }} - {{ site.meta.title }}</title>
+        <title>{{ site.meta.title }}</title>
 
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Noto+Sans+KR&family=Noto+Sans+SC&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ site.baseUrl }}/res/css/index.css">
         <link rel="stylesheet" href="{{ site.baseUrl }}/res/css/ruby.css">
+        <script>
+            var indicesUrl = "{{ site.baseUrl }}{{ site.path.indices }}";
+            var pagesUrl = "{{ site.baseUrl }}{{ site.path.pages }}";
+            var pageExtension = "{{ site.extension.page }}";
+        </script>
+        <script src="{{ site.baseUrl }}/res/js/search.js"></script>
     </head>
     <body>
         <header class="site-header">
@@ -26,39 +32,15 @@
         </header>
         <main class="site-main">
             <header class="main-header">
-                <h1 class="page-title">{{ page.title }}</h1>
-                <nav class="main-nav">
-                    <a href="{{ site.source.url }}/index.php?title={{ page.title }}">原本</a>
-                    <a href="{{ site.source.url }}/index.php?title={{ page.title }}&action=edit">編輯</a>
-                    <a href="{{ site.source.url }}/index.php?title={{ page.title }}&action=history">歷史</a>
-                </nav>
+                <h1 class="page-title">檢索結果</h1>
             </header>
             <hr>
-            <div class="catlinks">
-                <span>{{ site.namespace.names[14] }} : </span>
-                {% for category in page.categories %}
-                    <a href="{{ category.url }}">{{ category.name }}</a>
-                {% endfor %}
+            <div id="goto-result">
+                
             </div>
-            <article id="content">
-                {% if page.file %}
-                    <div id="file">
-                        {{ page.file }}
-                    </div>
-                {% endif %}
-                {{ page.content }}
-                {% if page.members and page.members.length > 0 %}
-                    <ul class="catmembers">
-                        {% for member in page.members %}
-                            <li><a href="{{ member.url }}">{{ member.name }}</a></li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </article>
-            <hr>
-            {% if page.timestamp != 0 %}
-                <div class="timestamp">最近 編輯: {{ page.timestamp | date: "%Y-%m-%d %H:%M:%S" }}</div>
-            {% endif %}
+            <div id="search-result">
+                
+            </div>
         </main>
         <footer class="site-footer">
             <main class="footer-main">

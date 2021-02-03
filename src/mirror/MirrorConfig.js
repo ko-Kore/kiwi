@@ -31,6 +31,7 @@ const MirrorConfig = class MirrorConfig {
             raw: '/raw',
             pages: '/wiki',
             images: '/images',
+            indices: '/indices',
             skin: '/skin',
         }
 

@@ -4,14 +4,17 @@ const fse = require('fs-extra')
 const path = require('path')
 const axios = require('axios')
 const cheerio = require('cheerio')
+const {Liquid} = require('liquidjs')
 
 const {mkdir, writeStream, pageFilename} = require('./tools')
 
 const Skin = require('./Skin')
 const MirrorConfig = require('./MirrorConfig')
-const RawPage = require('./RawPage')
-const PageImage = require('./PageImage')
 const PageBuilder = require('./PageBuilder')
+const WordIndexer = require('./WordIndexer')
+
+const RawPage = require('./content/RawPage')
+const PageImage = require('./content/PageImage')
 
 const API_ENDPOINT = '/api.php'
 
@@ -27,7 +30,9 @@ const Mirror = class Mirror {
         })
 
         const skin = Skin.load(path.join(this.dir, config.path.skin))
+        this.skin = skin
         this.pageBuilder = new PageBuilder(this.config, skin)
+        this.wordIndexer = new WordIndexer(this)
 
         this.rawDir = path.join(this.dir, this.config.path.raw)
     }
@@ -139,6 +144,7 @@ const Mirror = class Mirror {
     }
 
     async fullUpdatePages(namespace, interval, batch, updateImages=true) {
+        this.copySkinFiles()
         const updatedPages = []
         let apcontinue = null
         do {
@@ -175,6 +181,7 @@ const Mirror = class Mirror {
 
     async updatePages(interval, batch, rcend, images) {
         this.mkdirs()
+        this.copySkinFiles()
         const rcnamespace = this.config.namespace.update.join('|')
         if(rcend != null) {
             rcend = rcend.toString()
@@ -229,15 +236,39 @@ const Mirror = class Mirror {
         return builtPage
     }
 
-    async fullBuild() {
-        fse.copySync(path.join(this.dir, this.config.path.skin, 'res'), path.join(this.dir, 'res'))
-        const list = fs.readdirSync(path.join(this.dir, this.config.path.raw))
-                .map((title) => path.join(this.dir, this.config.path.raw, title))
-                .filter((filePath) => !fs.statSync(filePath).isDirectory() && filePath.endsWith('.json'))
-        return list.map(async (filePath) => {
-            const title = JSON.parse(fs.readFileSync(filePath)).title
+    async fullBuildPages() {
+        this.copySkinFiles()
+        const titles = await this.allTitles()
+        return titles.map(async (title) => {
             return await this.buildPage(title)
         }).filter((page) => page)
+    }
+
+    async fullBuildIndices() {
+        this.mkdirs()
+        const titles = await this.allTitles()
+        const rawPages = await Promise.all(titles.map((title) => this.loadRawPage(title)))
+        const wordCountList = Object.entries(
+            (await Promise.all(rawPages.map((rawPage) => this.wordIndexer.buildWordList(rawPage))))
+                    .flat()
+                    .reduce((acc, [word, i]) => (acc[word] = (acc[word] || 0) + i, acc), {})
+        ).filter((entry) => entry && entry.length)
+        const counts = (wordCountList).map(([_w, i]) => i)
+        const maxCount = Math.max(...counts)
+        // const minCount = Math.min(...counts)
+        // console.log(maxCount, minCount)
+        const filterCount = Math.round(Math.log(maxCount))
+
+        const wordList = wordCountList
+                .filter(([_w, i]) => i > filterCount)
+                .map(([word]) => word)
+        const wordIndices = await this.wordIndexer.build(wordList, rawPages)
+
+        await Promise.all(Object.values(wordIndices).map((wordIndex) => {
+            return wordIndex.write(path.join(this.dir, this.config.path.indices))
+        }))
+
+        return wordIndices
     }
 
     async updateImage(title) {
@@ -289,6 +320,13 @@ const Mirror = class Mirror {
         return new PageImage(sourceUrl, destPath)
     }
 
+    async allTitles() {
+        return fs.readdirSync(path.join(this.dir, this.config.path.raw))
+                .map((title) => path.join(this.dir, this.config.path.raw, title))
+                .filter((filePath) => !fs.statSync(filePath).isDirectory() && filePath.endsWith('.json'))
+                .map((filePath) => JSON.parse(fs.readFileSync(filePath)).title)
+    }
+
     async loadRawPage(title) {
         return RawPage.load(title, this.rawDir)
     }
@@ -314,6 +352,20 @@ const Mirror = class Mirror {
         if(!fs.existsSync(raws)) fs.mkdirSync(raws, { recursive: true })
         const images = path.join(this.dir, this.config.path.images)
         if(!fs.existsSync(images)) fs.mkdirSync(images, { recursive: true })
+        const indices = path.join(this.dir, this.config.path.indices)
+        if(!fs.existsSync(indices)) fs.mkdirSync(indices, { recursive: true })
+    }
+
+    copySkinFiles() {
+        const liquid = new Liquid()
+        this.skin.builds.forEach((file) => {
+            const content = fs.readFileSync(path.join(this.dir, this.config.path.skin, file)).toString()
+            const built = liquid.parseAndRenderSync(content, {site: this.config})
+            fs.writeFileSync(path.join(this.dir, file), built)
+        })
+        this.skin.files.forEach((file) => {
+            fse.copySync(path.join(this.dir, this.config.path.skin, file), path.join(this.dir, file))
+        })
     }
 
 }

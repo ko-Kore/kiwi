@@ -134,3 +134,7 @@ span.mw-editsection {
     font-size: 1rem;
     margin-inline-start: 10px;
 }
+
+span.bold {
+    font-weight: bold;
+}

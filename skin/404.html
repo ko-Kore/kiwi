@@ -1,0 +1,8 @@
+<html><body><div class="mw-parser-output"><script>
+    var baseUrl = '{{ site.source.url }}{{ site.path.pages }}/';
+    var url = new URL(location.href);
+    var pathName = url.pathname.split('/');
+    var pageName = pathName[pathName.length - 1]
+    if(pageName.endsWith('.html')) pageName = pageName.substring(0, pageName.length - 5)
+    location.href = baseUrl + pageName;
+</script></div></body></html>

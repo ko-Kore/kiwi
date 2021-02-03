@@ -1,7 +1,7 @@
 
 const fs = require('fs')
 const path = require('path')
-const {mkdir, pageFilename} = require('./tools')
+const {mkdir, pageFilename} = require('../tools')
 
 const RAW_FILE_EXTENSION = '.json'
 const RAW_TEXT_FILE_EXTENSION = '.txt'

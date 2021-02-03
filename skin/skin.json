@@ -1,3 +1,10 @@
 {
-    "index": "index.html"
+    "index": "index.html",
+    "builds": [
+        "404.html",
+        "search.html"
+    ],
+    "files": [
+        "res"
+    ]
 }
