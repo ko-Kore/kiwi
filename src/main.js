@@ -1,7 +1,7 @@
 
 const path = require('path')
 const express = require('express')
-const Mirror = require('./Mirror')
+const Mirror = require('./mirror/Mirror')
 
 const args = process.argv.slice(2)
 
@@ -89,13 +89,24 @@ if(args.length > 0) {
         }
 
     } else if(command == 'fullbuild') {
-        const dir = (args.length > 0) ? args[0] : '.'
-        const mirror = Mirror.load(dir)
-        console.log(`full build started.`)
-        mirror.fullBuild().then((builtPages) => {
-            console.log(`${builtPages.length} pages built.`)
-            mirror.writeMetadata()
-        }).catch(console.error)
+        if(args.length > 0) {
+            const type = args[0]
+            const dir = (args.length > 1) ? args[1] : '.'
+            const mirror = Mirror.load(dir)
+            if(type == 'pages') {
+                console.log(`full build for pages started.`)
+                mirror.fullBuildPages().then((builtPages) => {
+                    console.log(`${builtPages.length} pages built.`)
+                    mirror.writeMetadata()
+                }).catch(console.error)
+            } else if(type == 'indices') {
+                console.log(`full build for indices started.`)
+                mirror.fullBuildIndices().then(() => {
+                    console.log(`Indices have been built.`)
+                    mirror.writeMetadata()
+                }).catch(console.error)
+            }
+        }
 
     } else if(command == 'serve') {
         const dir = (args.length > 0) ? args[0] : '.'
