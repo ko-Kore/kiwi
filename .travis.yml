@@ -10,7 +10,7 @@ node_js:
   - 'lts/*'
 before_install:
   - git pull
-  - git submodule update --init --recursive
+  - git submodule update --init --recursive --remote --merge
 install:
   - npm install
 script:
