@@ -1,0 +1,33 @@
+{
+  "word": "UTC",
+  "pages": [
+    {
+      "title": "中華人民共和國",
+      "surrounding": "057km2 時間帶(시간대) UTC+8 行政區域(행정구역)"
+    },
+    {
+      "title": "國漢大百科:練習帳",
+      "surrounding": "363km² 時間帶(시간대) KST(UTC +9)"
+    },
+    {
+      "title": "大韓民國",
+      "surrounding": "363km² 時間帶(시간대) KST(UTC +9)"
+    },
+    {
+      "title": "日本",
+      "surrounding": "時間帶(시간대) JST (UTC +9)"
+    },
+    {
+      "title": "日本帝國",
+      "surrounding": "400km^2 時間帶(시간대) UTC+9 (日本標準時(일본표준시))"
+    },
+    {
+      "title": "朝鮮民主主義人民共和國",
+      "surrounding": "540km2 時間帶(시간대) UTC+9 公用語(공용어)"
+    },
+    {
+      "title": "美合衆國",
+      "surrounding": "520km² 時間帶(시간대) UTC-4:00 -"
+    }
+  ]
+}
