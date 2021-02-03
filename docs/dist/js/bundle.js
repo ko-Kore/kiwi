@@ -11736,11 +11736,27 @@ _global["default"]._babelPolyfill = true;
 /*!************************!*\
   !*** ./src/js/main.js ***!
   \************************/
-function _createForOfIteratorHelper(o, allowArrayLike) { var it; if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) { if (Array.isArray(o) || (it = _unsupportedIterableToArray(o)) || allowArrayLike && o && typeof o.length === "number") { if (it) o = it; var i = 0; var F = function F() {}; return { s: F, n: function n() { if (i >= o.length) return { done: true }; return { done: false, value: o[i++] }; }, e: function e(_e) { throw _e; }, f: F }; } throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); } var normalCompletion = true, didErr = false, err; return { s: function s() { it = o[Symbol.iterator](); }, n: function n() { var step = it.next(); normalCompletion = step.done; return step; }, e: function e(_e2) { didErr = true; err = _e2; }, f: function f() { try { if (!normalCompletion && it["return"] != null) it["return"](); } finally { if (didErr) throw err; } } }; }
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _iterableToArrayLimit(arr, i) { if (typeof Symbol === "undefined" || !(Symbol.iterator in Object(arr))) return; var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
+
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
 
 function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
 
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
 function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try { var info = gen[key](arg); var value = info.value; } catch (error) { reject(error); return; } if (info.done) { resolve(value); } else { Promise.resolve(value).then(_next, _throw); } }
 
@@ -11774,7 +11790,7 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
 
   var displaySearchResult = /*#__PURE__*/function () {
     var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
-      var gotoResult, searchResult, searchString, pageUrl, _yield$axios$get, _data, data, word, _iterator, _step, title, _url, surrounding, index, div;
+      var gotoResult, searchResult, searchString, pageUrl, _yield$axios$get, _data, searchWords, searches, data, words;
 
       return regeneratorRuntime.wrap(function _callee$(_context) {
         while (1) {
@@ -11782,7 +11798,7 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
             case 0:
               gotoResult = document.querySelector('#goto-result');
               searchResult = document.querySelector('#search-result');
-              searchString = decodeURIComponent(url.searchParams.get('search') || '');
+              searchString = decodeURIComponent(url.searchParams.get('search') || '').toLocaleLowerCase();
               _context.prev = 3;
               pageUrl = getPageUrl(searchString);
               _context.next = 7;
@@ -11800,44 +11816,40 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
               _context.t0 = _context["catch"](3);
 
             case 14:
-              _context.next = 16;
-              return search(searchString);
+              searchWords = searchString.split(/\s+/);
+              _context.next = 17;
+              return Promise.all(searchWords.map(search));
 
-            case 16:
-              data = _context.sent;
+            case 17:
+              searches = _context.sent;
+              data = searches.reduceRight(reduceSearchResultAnd);
 
               if (data) {
-                _context.next = 20;
+                _context.next = 22;
                 break;
               }
 
               if (gotoResult.innerHTML != '') gotoResult.innerHTML = '結果가 없습니다.';
               return _context.abrupt("return");
 
-            case 20:
-              word = data.word;
-              _iterator = _createForOfIteratorHelper(data.pages);
+            case 22:
+              words = _typeof(data.word) === 'object' ? data.word : [data.word];
+              data.pages.forEach(function (entry) {
+                var title = entry.title;
+                var url = getPageUrl(title);
+                var surrounding = words.reduce(function (acc, word) {
+                  var boldened = "<span class=\"bold\">".concat(word, "</span>");
+                  return acc.replaceAll(word, boldened);
+                }, entry.surrounding);
+                var div = document.createElement('div');
+                div.classList.add('result-entry');
+                var h3 = "<h3 class=\"title\"><a href=\"".concat(url, "\">").concat(title, "</a></h3>");
+                var p = "<p class=\"surrounding\">".concat(surrounding, "</p>");
+                div.innerHTML = h3 + p;
+                searchResult.appendChild(div);
+              });
 
-              try {
-                for (_iterator.s(); !(_step = _iterator.n()).done;) {
-                  entry = _step.value;
-                  title = entry.title;
-                  _url = getPageUrl(title);
-                  surrounding = entry.surrounding;
-                  index = surrounding.indexOf(word);
-                  surrounding = surrounding.substring(0, index) + '<span class="bold">' + word + '</span>' + surrounding.substring(index + word.length);
-                  div = document.createElement('div');
-                  div.classList.add('result-entry');
-                  div.innerHTML = '<h3 class="title">' + '<a href="' + _url + '">' + title + '</a></h3>' + '<p class="surrounding">' + surrounding + '</p>';
-                  searchResult.appendChild(div);
-                }
-              } catch (err) {
-                _iterator.e(err);
-              } finally {
-                _iterator.f();
-              }
-
-            case 23:
+            case 24:
             case "end":
               return _context.stop();
           }
@@ -11850,28 +11862,67 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
     };
   }();
 
+  var reduceSearchResultAnd = function reduceSearchResultAnd(acc, _ref2) {
+    var word = _ref2.word,
+        pages = _ref2.pages;
+    var words = [];
+    if (_typeof(acc.word) === 'object') words.push.apply(words, _toConsumableArray(acc.word));else if (typeof acc.word === 'string') words.push(acc.word);
+    if (_typeof(word) === 'object') words.push.apply(words, _toConsumableArray(word));else if (typeof word === 'string') words.push(word);
+    var anotherPages = acc.pages || [];
+    var newPages = pages.map(function (page) {
+      return [page, anotherPages.find(function (another) {
+        return another.title === page.title;
+      })];
+    }).filter(function (_ref3) {
+      var _ref4 = _slicedToArray(_ref3, 2),
+          _page = _ref4[0],
+          another = _ref4[1];
+
+      return another;
+    }).map(function (_ref5) {
+      var _ref6 = _slicedToArray(_ref5, 2),
+          page = _ref6[0],
+          another = _ref6[1];
+
+      return {
+        title: page.title,
+        surrounding: page.surrounding + ' ... ' + another.surrounding
+      };
+    });
+    return {
+      word: words,
+      pages: newPages
+    };
+  };
+
   var search = /*#__PURE__*/function () {
-    var _ref2 = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2(searchString) {
+    var _ref7 = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2(searchString) {
       return regeneratorRuntime.wrap(function _callee2$(_context2) {
         while (1) {
           switch (_context2.prev = _context2.next) {
             case 0:
-              _context2.next = 2;
+              _context2.prev = 0;
+              _context2.next = 3;
               return axios.get(indicesUrl + '/' + searchString + '.json');
 
-            case 2:
+            case 3:
               return _context2.abrupt("return", _context2.sent.data);
 
-            case 3:
+            case 6:
+              _context2.prev = 6;
+              _context2.t0 = _context2["catch"](0);
+              return _context2.abrupt("return", null);
+
+            case 9:
             case "end":
               return _context2.stop();
           }
         }
-      }, _callee2);
+      }, _callee2, null, [[0, 6]]);
     }));
 
     return function search(_x) {
-      return _ref2.apply(this, arguments);
+      return _ref7.apply(this, arguments);
     };
   }();
 
