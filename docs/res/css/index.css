@@ -5,8 +5,13 @@ body {
     font-family: 'Noto Sans KR','Noto Sans JP','Noto Sans SC','Noto Sans CJK KR','Noto Sans CJK JP','Noto Sans CJK SC','Han-Nom Gothic',sans-serif;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 .site-header {
     background: black;
+    box-shadow: 0px 5px 0 #ccc;
 }
 
 .site-header * {
@@ -15,24 +20,35 @@ body {
 
 .site-footer {
     padding: 10px;
-    border-top: 2px solid black;
+    border-top: 3px solid black;
     background: white;
+    font-size: 0.9rem;
 }
 
 .site-main, .header-main, .footer-main {
-    max-width: 1024px;
+    max-width: 960px;
     margin: 0 auto;
-    padding: 0px 20px;
+}
+
+
+.header-main, .footer-main {
+    padding: 0px;
+}
+
+.site-header > .header-main > * {
+    padding: 6px 0px;
+}
+
+.site-nav {
+    font-size: 1.25rem;
 }
 
 .site-main {
     min-height: 768px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    padding-top: 10px;
-    padding-bottom: 20px;
+    margin: 20px auto;
+    padding: 10px 1.5rem;
     background: white;
-    box-shadow: 10px 10px 0 #aaa;
+    box-shadow: 10px 10px 0 #ccc;
 }
 
 .site-header > .header-main, .main-header {
@@ -41,17 +57,42 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    width: 100%;
 }
 
-.site-nav, #search-form {
-    margin: 10px 0px;
+.site-header, #search-form {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+
+.site-header #search-form > #search-input {
+    flex: 1;
 }
 
 #search-form, .main-nav {
     display: flex;
     flex-direction: row;
     justify-content: right;
-    flex-grow: 1;
+}
+
+#search-form > * {
+    border-radius: 0;
+    border: none;
+    padding: 5px 10px;
+    border: 1px solid #aaa none;
+    border-inline-start: 1px solid #aaa;
+}
+
+#search-form > *:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#search-form > *:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-inline-end: 1px solid #aaa;
 }
 
 #search-form > * {
@@ -61,11 +102,22 @@ body {
 nav > * {
     display: inline-block;
     margin: 0px 10px;
-    font-size: 1.25em;
 }
 
 .site-nav a, .site-nav a:visited {
     color: white;
+}
+
+.main-header {
+    margin: 10px 0px;
+}
+
+.main-header .page-title {
+    margin: 0px;
+}
+
+.main-nav {
+    margin-top: 10px;
 }
 
 .catmembers {
@@ -86,6 +138,10 @@ a:active {
     color: darkblue;
 }
 
+a.external {
+    color: green;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -96,6 +152,11 @@ div.tright, div.floatright, table.floatright {
     float: right;
 }
 
+.tright {
+    margin-left: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
 div.tleft, div.floatleft, table.floatleft {
     clear: left;
     float: left;
@@ -103,6 +164,10 @@ div.tleft, div.floatleft, table.floatleft {
 
 .thumbinner {
     margin: auto;
+}
+
+.thumb .thumbcaption {
+    text-align: center;
 }
 
 table {
@@ -138,4 +203,20 @@ span.mw-editsection {
 
 span.bold {
     font-weight: bold;
+}
+
+@media screen and (max-width: 960px) {
+    .site-header > .header-main, .main-header {
+        justify-content: center;
+    }
+    .site-header > .header-main > * {
+        width: 100%;
+    }
+    .site-header #search-form {
+        padding-inline-start: 10px;
+        padding-inline-end: 10px;
+    }
+    .site-main {
+        padding: 10px 0.5rem;
+    }
 }
