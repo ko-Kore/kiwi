@@ -60,8 +60,16 @@ const WordIndexer = class WordIndexer {
     
     async build(wordList, rawPages) {
         const wordIndicesList = await Promise.all(rawPages.map((rawPage) => this.buildPage(wordList, rawPage)))
-        return wordIndicesList.map(Object.entries).flat()
-                .reduce((acc, [word, value]) => (acc[word] = acc[word] ? acc[word].merge(value) : value, acc), {})
+        const result = wordIndicesList.map(Object.entries).flat().reduce((acc, [word, value]) => {
+            if(acc[word]) acc[word] = acc[word].merge(value)
+            else acc[word] = acc[word] = value
+            return acc
+        }, {})
+        Object.keys(result).forEach((word) => {
+            result[word].pages = result[word].pages.sort((a, b) => b.count - a.count)
+            result[word].pages.forEach((page) => page.shorten())
+        })
+        return result
     }
 
     preprocess(text) {
