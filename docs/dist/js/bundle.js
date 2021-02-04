@@ -11762,8 +11762,6 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
-function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-only"); }
-
 (function () {
   var axios = __webpack_require__(/*! axios */ "./node_modules/axios/index.js").default;
 
@@ -11794,7 +11792,7 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
     var url = new URL(location.href);
     var pathName = url.pathname.split('/');
     var pageName = pathName[pathName.length - 1];
-    if (pageName.endsWith('.html')) pageName = (_readOnlyError("pageName"), pageName.substring(0, pageName.length - 5));
+    if (pageName.endsWith('.html')) pageName = pageName.substring(0, pageName.length - 5);
     location.href = baseUrl + pageName;
   };
 
