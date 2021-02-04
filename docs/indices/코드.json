@@ -2,60 +2,74 @@
   "word": "코드",
   "pages": [
     {
-      "title": "中國語",
-      "surrounding": "漢字(한자) 言語(언어) 코드 ISO-639-1"
-    },
-    {
-      "title": "北韓圓",
-      "surrounding": "ISO 4217 코드 KPW"
-    },
-    {
-      "title": "國漢大百科:編輯指針",
-      "surrounding": "使用(사용)을 避(피)한다 유니코드의 CJK"
-    },
-    {
-      "title": "大韓民國圓",
-      "surrounding": "ISO 4217 코드 KRW"
-    },
-    {
-      "title": "新臺幣",
-      "surrounding": "ISO 4217 코드 TWD"
-    },
-    {
-      "title": "日本圓",
-      "surrounding": "ISO 4217 코드 JPY"
-    },
-    {
-      "title": "日本語",
-      "surrounding": "片假名(편가명) 言語(언어) 코드 ISO"
-    },
-    {
-      "title": "漢字와電腦",
-      "surrounding": "채팅방 운영 디스코드 서버"
+      "title": "한글",
+      "surrounding": "2 1 文字(문자)코드 6 ... 困難(곤란)했던 理由(이유)로 유니코드2 0에서",
+      "count": 9
     },
     {
       "title": "漢電마인크래프트",
-      "surrounding": "서버이다 漢字(한자)와電腦(전뇌) 디스코드 서버의"
+      "surrounding": "서버이다 漢字(한자)와電腦(전뇌) 디스코드 서버의 ... 있어서 漢電(한전) 디스코드 서버에서",
+      "count": 3
+    },
+    {
+      "title": "大韓民國圓",
+      "surrounding": "ISO 4217 코드 KRW ... ISO4217에依(의)해 配定(배정)된 通貨(통화)코드는 KRW이며",
+      "count": 2
+    },
+    {
+      "title": "新臺幣",
+      "surrounding": "ISO 4217 코드 TWD ... 依(의)해 配定(배정)된 通貨(통화)코드는 'TWD'이며",
+      "count": 2
+    },
+    {
+      "title": "日本圓",
+      "surrounding": "ISO 4217 코드 JPY ... ISO4217에依(의)해 配定(배정)된 通貨(통화)코드는 JPY이고",
+      "count": 2
     },
     {
       "title": "灼熱스위치",
-      "surrounding": "編曲(편곡) 田中秀和(전중수화) 製品(제품)코드 MED-CD2-23303"
-    },
-    {
-      "title": "百",
-      "surrounding": "略字(약자) - 유니코드 U+767E"
+      "surrounding": "編曲(편곡) 田中秀和(전중수화) 製品(제품)코드 MED-CD2-23303 ... 一名(일명) 「이키스기 코드」를 言及(언급)하며",
+      "count": 2
     },
     {
       "title": "美國달러",
-      "surrounding": "ISO 4217 코드 USD"
+      "surrounding": "ISO 4217 코드 USD ... 달러等(등)이있다 ISO4217에依(의)해配定(배정)된 通貨(통화)코드는 USD이며",
+      "count": 2
+    },
+    {
+      "title": "中國語",
+      "surrounding": "漢字(한자) 言語(언어) 코드 ISO-639-1",
+      "count": 1
+    },
+    {
+      "title": "北韓圓",
+      "surrounding": "ISO 4217 코드 KPW",
+      "count": 1
+    },
+    {
+      "title": "國漢大百科:編輯指針",
+      "surrounding": "使用(사용)을 避(피)한다 유니코드의 CJK",
+      "count": 1
+    },
+    {
+      "title": "日本語",
+      "surrounding": "片假名(편가명) 言語(언어) 코드 ISO",
+      "count": 1
+    },
+    {
+      "title": "漢字와電腦",
+      "surrounding": "채팅방 운영 디스코드 서버",
+      "count": 1
+    },
+    {
+      "title": "百",
+      "surrounding": "略字(약자) - 유니코드 U+767E",
+      "count": 1
     },
     {
       "title": "아랍語",
-      "surrounding": "문자 言語(언어) 코드 ISO-639-1"
-    },
-    {
-      "title": "한글",
-      "surrounding": "2 1 文字(문자)코드 6"
+      "surrounding": "문자 言語(언어) 코드 ISO-639-1",
+      "count": 1
     }
   ]
 }

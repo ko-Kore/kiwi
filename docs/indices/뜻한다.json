@@ -3,43 +3,53 @@
   "pages": [
     {
       "title": "分岐",
-      "surrounding": "나뉘는 것을 뜻한다 主(주)幹線(간선)에서"
+      "surrounding": "나뉘는 것을 뜻한다 主(주)幹線(간선)에서",
+      "count": 1
     },
     {
       "title": "南",
-      "surrounding": "하나로 남녘을 뜻한다 南韓(남한)의"
+      "surrounding": "하나로 남녘을 뜻한다 南韓(남한)의",
+      "count": 1
     },
     {
       "title": "國",
-      "surrounding": "會意文字(회의문자)이다 나라를 뜻한다 用例(용례)"
+      "surrounding": "會意文字(회의문자)이다 나라를 뜻한다 用例(용례)",
+      "count": 1
     },
     {
       "title": "國語",
-      "surrounding": "이것의 發音記號(발음기호)를 뜻한다 國語敎科(국어교과)[편집]"
+      "surrounding": "이것의 發音記號(발음기호)를 뜻한다 國語敎科(국어교과)[편집]",
+      "count": 1
     },
     {
       "title": "李",
-      "surrounding": "槪要(개요)[편집] 오얏나무(자두나무)를 뜻한다 그러나"
+      "surrounding": "槪要(개요)[편집] 오얏나무(자두나무)를 뜻한다 그러나",
+      "count": 1
     },
     {
       "title": "東",
-      "surrounding": "하나이며 동녘을 뜻한다 용례[편집]"
+      "surrounding": "하나이며 동녘을 뜻한다 용례[편집]",
+      "count": 1
     },
     {
       "title": "漢字와電腦",
-      "surrounding": "卽(즉) 컴퓨터를 뜻한다 약칭은"
+      "surrounding": "卽(즉) 컴퓨터를 뜻한다 약칭은",
+      "count": 1
     },
     {
       "title": "簡體字",
-      "surrounding": "漢字(한자)의 字體(자체)를 뜻한다 略字(약자)와는"
+      "surrounding": "漢字(한자)의 字體(자체)를 뜻한다 略字(약자)와는",
+      "count": 1
     },
     {
       "title": "西",
-      "surrounding": "하나로 서녘을 뜻한다 용례[편집]"
+      "surrounding": "하나로 서녘을 뜻한다 용례[편집]",
+      "count": 1
     },
     {
       "title": "𡨸喃",
-      "surrounding": "만들어낸 글字(자)들을 뜻한다 特徵(특징)[편집]"
+      "surrounding": "만들어낸 글字(자)들을 뜻한다 特徵(특징)[편집]",
+      "count": 1
     }
   ]
 }

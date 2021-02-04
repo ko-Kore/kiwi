@@ -3,39 +3,48 @@
   "pages": [
     {
       "title": "人",
-      "surrounding": "있는 옆 모습을 모양을"
+      "surrounding": "있는 옆 모습을 모양을",
+      "count": 1
     },
     {
       "title": "女",
-      "surrounding": "앉아 있는 모습을 본"
+      "surrounding": "앉아 있는 모습을 본",
+      "count": 1
     },
     {
       "title": "日",
-      "surrounding": "필순 해의 모습을 본떠"
+      "surrounding": "필순 해의 모습을 본떠",
+      "count": 1
     },
     {
       "title": "月",
-      "surrounding": "필순 달의 모습을 본떠"
+      "surrounding": "필순 달의 모습을 본떠",
+      "count": 1
     },
     {
       "title": "水",
-      "surrounding": "물이 흐르는 모습을 본딴"
+      "surrounding": "물이 흐르는 모습을 본딴",
+      "count": 1
     },
     {
       "title": "深海少女",
-      "surrounding": "이제그만내버려둬 말로表(표)할수없는氣分(기분)이넘쳐녹았다 다음瞬間(순간)、너가突然(돌연)모습을지웠다 多心(다심)한"
+      "surrounding": "이제그만내버려둬 말로表(표)할수없는氣分(기분)이넘쳐녹았다 다음瞬間(순간)、너가突然(돌연)모습을지웠다 多心(다심)한",
+      "count": 1
     },
     {
       "title": "火",
-      "surrounding": "불이 타는 모습을 본떠"
+      "surrounding": "불이 타는 모습을 본떠",
+      "count": 1
     },
     {
       "title": "灼熱스위치",
-      "surrounding": "하고 있는 모습을 볼"
+      "surrounding": "하고 있는 모습을 볼",
+      "count": 1
     },
     {
       "title": "韓國製漢字",
-      "surrounding": "象形文字(상형문자) 망치의 모습을 본따"
+      "surrounding": "象形文字(상형문자) 망치의 모습을 본따",
+      "count": 1
     }
   ]
 }

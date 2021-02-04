@@ -2,48 +2,59 @@
   "word": "ji",
   "pages": [
     {
+      "title": "小苹果",
+      "surrounding": "shi 今天是个伟大日子(금천시개위대일자) jin tian ... xi wang jiu hui",
+      "count": 11
+    },
+    {
       "title": "世界人權宣言",
-      "surrounding": "注音(주음)) shì jiè rén"
+      "surrounding": "注音(주음)) shì jiè rén ... kyun4 syun1 jin4 日本語(일본어)",
+      "count": 2
     },
     {
       "title": "九",
-      "surrounding": "拼音(평음) : jiǔ 國語(국어)"
-    },
-    {
-      "title": "小苹果",
-      "surrounding": "shi 今天是个伟大日子(금천시개위대일자) jin tian"
+      "surrounding": "拼音(평음) : jiǔ 國語(국어)",
+      "count": 1
     },
     {
       "title": "敎",
-      "surrounding": "병음 : jiào 國語(국어)"
+      "surrounding": "병음 : jiào 國語(국어)",
+      "count": 1
     },
     {
       "title": "校",
-      "surrounding": ": xiào jiào 國語(국어)"
+      "surrounding": ": xiào jiào 國語(국어)",
+      "count": 1
     },
     {
       "title": "簡化字",
-      "surrounding": "ㄗˋ (國語(국어) 注音(주음))jiǎn huà"
+      "surrounding": "ㄗˋ (國語(국어) 注音(주음))jiǎn huà",
+      "count": 1
     },
     {
       "title": "繪文字",
-      "surrounding": "名稱(명칭)[편집] 英文(영문)表記(표기)인 'Emoji'에 依(의)해"
+      "surrounding": "名稱(명칭)[편집] 英文(영문)表記(표기)인 'Emoji'에 依(의)해",
+      "count": 1
     },
     {
       "title": "英語",
-      "surrounding": "廣東話(광동화) 英語(영어) jing1 jyu5"
+      "surrounding": "廣東話(광동화) 英語(영어) jing1 jyu5",
+      "count": 1
     },
     {
       "title": "軍歌",
-      "surrounding": "rén mín jiě fàng"
+      "surrounding": "rén mín jiě fàng",
+      "count": 1
     },
     {
       "title": "마인크래프트",
-      "surrounding": "dí shì jiè (普通話(보통화)"
+      "surrounding": "dí shì jiè (普通話(보통화)",
+      "count": 1
     },
     {
       "title": "프린세스 커넥트! Re:Dive",
-      "surrounding": "zhǔ lián jié Re"
+      "surrounding": "zhǔ lián jié Re",
+      "count": 1
     }
   ]
 }

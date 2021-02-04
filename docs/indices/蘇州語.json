@@ -3,135 +3,168 @@
   "pages": [
     {
       "title": "一",
-      "surrounding": "iq7 (iɪʔ⁵⁵) 蘇州語(소주어) iq7"
+      "surrounding": "iq7 (iɪʔ⁵⁵) 蘇州語(소주어) iq7",
+      "count": 1
     },
     {
       "title": "七",
-      "surrounding": "上海語(상해어) chiq7(tɕʰiɪʔ⁵⁵) 蘇州語(소주어) chiq7(t͡siəʔ⁴³)"
+      "surrounding": "上海語(상해어) chiq7(tɕʰiɪʔ⁵⁵) 蘇州語(소주어) chiq7(t͡siəʔ⁴³)",
+      "count": 1
     },
     {
       "title": "三",
-      "surrounding": "se1 (se̞⁵³) 蘇州語(소주어) sa1"
+      "surrounding": "se1 (se̞⁵³) 蘇州語(소주어) sa1",
+      "count": 1
     },
     {
       "title": "上",
-      "surrounding": "zaon6 (zɑ̃¹¹³) 蘇州語(소주어) zan6"
+      "surrounding": "zaon6 (zɑ̃¹¹³) 蘇州語(소주어) zan6",
+      "count": 1
     },
     {
       "title": "中",
-      "surrounding": "(~暑(서) tsoŋ³³⁴) 蘇州語(소주어) tson1"
+      "surrounding": "(~暑(서) tsoŋ³³⁴) 蘇州語(소주어) tson1",
+      "count": 1
     },
     {
       "title": "九",
-      "surrounding": "tseu5 (tɕiɤ³³⁴) 蘇州語(소주어) tseu3"
+      "surrounding": "tseu5 (tɕiɤ³³⁴) 蘇州語(소주어) tseu3",
+      "count": 1
     },
     {
       "title": "二",
-      "surrounding": "(文(문) ɦəl¹¹³) 蘇州語(소주어) gni6"
+      "surrounding": "(文(문) ɦəl¹¹³) 蘇州語(소주어) gni6",
+      "count": 1
     },
     {
       "title": "五",
-      "surrounding": "u1(文(문) u⁵³) 蘇州語(소주어) ng6(白(백)"
+      "surrounding": "u1(文(문) u⁵³) 蘇州語(소주어) ng6(白(백)",
+      "count": 1
     },
     {
       "title": "人",
-      "surrounding": "(文(문) zən¹¹³) 蘇州語(소주어) gnin2"
+      "surrounding": "(文(문) zən¹¹³) 蘇州語(소주어) gnin2",
+      "count": 1
     },
     {
       "title": "先",
-      "surrounding": "shi1 (ɕi⁵³) 蘇州語(소주어) sie1"
+      "surrounding": "shi1 (ɕi⁵³) 蘇州語(소주어) sie1",
+      "count": 1
     },
     {
       "title": "八",
-      "surrounding": "paq7 (pɑ̈ʔ⁵⁵) 蘇州語(소주어) poq7"
+      "surrounding": "paq7 (pɑ̈ʔ⁵⁵) 蘇州語(소주어) poq7",
+      "count": 1
     },
     {
       "title": "六",
-      "surrounding": "上海語(상해어) loq8(loʔ¹²) 蘇州語(소주어) loq8(loʔ²³)"
+      "surrounding": "上海語(상해어) loq8(loʔ¹²) 蘇州語(소주어) loq8(loʔ²³)",
+      "count": 1
     },
     {
       "title": "十",
-      "surrounding": "zeq8 (zəʔ¹²) 蘇州語(소주어) zeq8"
+      "surrounding": "zeq8 (zəʔ¹²) 蘇州語(소주어) zeq8",
+      "count": 1
     },
     {
       "title": "四",
-      "surrounding": "上海語(상해어) sy5(sɨ³³⁴) 蘇州語(소주어) sy5(sɨ⁵²³)"
+      "surrounding": "上海語(상해어) sy5(sɨ³³⁴) 蘇州語(소주어) sy5(sɨ⁵²³)",
+      "count": 1
     },
     {
       "title": "國",
-      "surrounding": "koq7 (koʔ⁵⁵) 蘇州語(소주어) kueq7"
+      "surrounding": "koq7 (koʔ⁵⁵) 蘇州語(소주어) kueq7",
+      "count": 1
     },
     {
       "title": "土",
-      "surrounding": "thu5 (tʰu³³⁴) 蘇州語(소주어) thou5"
+      "surrounding": "thu5 (tʰu³³⁴) 蘇州語(소주어) thou5",
+      "count": 1
     },
     {
       "title": "外",
-      "surrounding": "nga6 (ŋɑ̈¹¹³) 蘇州語(소주어) nga6"
+      "surrounding": "nga6 (ŋɑ̈¹¹³) 蘇州語(소주어) nga6",
+      "count": 1
     },
     {
       "title": "大",
-      "surrounding": "da6 (dɑ̈¹¹³) 蘇州語(소주어) dou6"
+      "surrounding": "da6 (dɑ̈¹¹³) 蘇州語(소주어) dou6",
+      "count": 1
     },
     {
       "title": "女",
-      "surrounding": "gniu6 (ȵy¹¹³) 蘇州語(소주어) gniu6"
+      "surrounding": "gniu6 (ȵy¹¹³) 蘇州語(소주어) gniu6",
+      "count": 1
     },
     {
       "title": "字",
-      "surrounding": "zy6 (zɨ¹¹³) 蘇州語(소주어) zy6"
+      "surrounding": "zy6 (zɨ¹¹³) 蘇州語(소주어) zy6",
+      "count": 1
     },
     {
       "title": "學",
-      "surrounding": "(白(백) ɦoʔ¹²) 蘇州語(소주어) yoq8"
+      "surrounding": "(白(백) ɦoʔ¹²) 蘇州語(소주어) yoq8",
+      "count": 1
     },
     {
       "title": "月",
-      "surrounding": "gnioq8 (ȵioʔ¹²) 蘇州語(소주어) ngeq8"
+      "surrounding": "gnioq8 (ȵioʔ¹²) 蘇州語(소주어) ngeq8",
+      "count": 1
     },
     {
       "title": "民",
-      "surrounding": "min6 (min¹¹³) 蘇州語(소주어) min2"
+      "surrounding": "min6 (min¹¹³) 蘇州語(소주어) min2",
+      "count": 1
     },
     {
       "title": "水",
-      "surrounding": "(文(문) sø³³⁴) 蘇州語(소주어) syu3"
+      "surrounding": "(文(문) sø³³⁴) 蘇州語(소주어) syu3",
+      "count": 1
     },
     {
       "title": "漢",
-      "surrounding": "hoe5 (hø³³⁴) 蘇州語(소주어) hoe5"
+      "surrounding": "hoe5 (hø³³⁴) 蘇州語(소주어) hoe5",
+      "count": 1
     },
     {
       "title": "火",
-      "surrounding": "hu5 (hu³³⁴) 蘇州語(소주어) hou3"
+      "surrounding": "hu5 (hu³³⁴) 蘇州語(소주어) hou3",
+      "count": 1
     },
     {
       "title": "父",
-      "surrounding": "vu6 (vu¹¹³) 蘇州語(소주어) vu6"
+      "surrounding": "vu6 (vu¹¹³) 蘇州語(소주어) vu6",
+      "count": 1
     },
     {
       "title": "王",
-      "surrounding": "waon6 (ɦuɑ̃¹¹³) 蘇州語(소주어) waon2"
+      "surrounding": "waon6 (ɦuɑ̃¹¹³) 蘇州語(소주어) waon2",
+      "count": 1
     },
     {
       "title": "語",
-      "surrounding": "gniu6 (ȵy¹¹³) 蘇州語(소주어) gniu6"
+      "surrounding": "gniu6 (ȵy¹¹³) 蘇州語(소주어) gniu6",
+      "count": 1
     },
     {
       "title": "金",
-      "surrounding": "cin1 (tɕin⁵³) 蘇州語(소주어) cin1"
+      "surrounding": "cin1 (tɕin⁵³) 蘇州語(소주어) cin1",
+      "count": 1
     },
     {
       "title": "門",
-      "surrounding": "men6 (mən¹¹³) 蘇州語(소주어) men2"
+      "surrounding": "men6 (mən¹¹³) 蘇州語(소주어) men2",
+      "count": 1
     },
     {
       "title": "靑",
-      "surrounding": "chin1 (tɕʰin⁵³) 蘇州語(소주어) tshi"
+      "surrounding": "chin1 (tɕʰin⁵³) 蘇州語(소주어) tshi",
+      "count": 1
     },
     {
       "title": "韓",
-      "surrounding": "ghoe6 (ɦø¹¹³) 蘇州語(소주어) ghoe2"
+      "surrounding": "ghoe6 (ɦø¹¹³) 蘇州語(소주어) ghoe2",
+      "count": 1
     }
   ]
 }

@@ -3,295 +3,368 @@
   "pages": [
     {
       "title": "一",
-      "surrounding": "yī 國語(국어) 주음 :"
+      "surrounding": "yī 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "七",
-      "surrounding": "qī 國語(국어) 주음 :"
+      "surrounding": "qī 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "三",
-      "surrounding": "sān 國語(국어) 주음 :"
+      "surrounding": "sān 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "上",
-      "surrounding": "shàng 國語(국어) 주음 :"
+      "surrounding": "shàng 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "下",
-      "surrounding": "xià 國語(국어) 주음 :"
+      "surrounding": "xià 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "世界人權宣言",
-      "surrounding": "ㄧㄢˊ (國語(국어) 注音(주음)) shì"
+      "surrounding": "ㄧㄢˊ (國語(국어) 注音(주음)) shì",
+      "count": 1
     },
     {
       "title": "中",
-      "surrounding": "zhòng 國語(국어) 주음 :"
+      "surrounding": "zhòng 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "中國語",
-      "surrounding": "ㄩˇ (國語(국어) 注音(주음))Hànyǔ (普通話(보통화)"
+      "surrounding": "ㄩˇ (國語(국어) 注音(주음))Hànyǔ (普通話(보통화)",
+      "count": 1
     },
     {
       "title": "中華人民共和國",
-      "surrounding": "ㄍㄨㄛˊ (國語(국어) 注音(주음)) Zhōnghuá"
+      "surrounding": "ㄍㄨㄛˊ (國語(국어) 注音(주음)) Zhōnghuá",
+      "count": 1
     },
     {
       "title": "九",
-      "surrounding": "jiǔ 國語(국어) 注音(주음) :"
+      "surrounding": "jiǔ 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "二",
-      "surrounding": "èr 國語(국어) 주음 :"
+      "surrounding": "èr 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "五",
-      "surrounding": "wǔ 國語(국어) 주음 :"
+      "surrounding": "wǔ 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "人",
-      "surrounding": "rén 國語(국어) 주음 :"
+      "surrounding": "rén 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "先",
-      "surrounding": "xiān 國語(국어) 注音(주음) :"
+      "surrounding": "xiān 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "八",
-      "surrounding": "bā 國語(국어) 주음 :"
+      "surrounding": "bā 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "六",
-      "surrounding": "liù 國語(국어) 주음 :"
+      "surrounding": "liù 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "北",
-      "surrounding": "běi 國語(국어) 주음 :"
+      "surrounding": "běi 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "十",
-      "surrounding": "shí 國語(국어) 주음 :"
+      "surrounding": "shí 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "南",
-      "surrounding": "nán 國語(국어) 주음 :"
+      "surrounding": "nán 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "吳語",
-      "surrounding": "ㄩˇ (國語(국어) 注音(주음)) wú"
+      "surrounding": "ㄩˇ (國語(국어) 注音(주음)) wú",
+      "count": 1
     },
     {
       "title": "四",
-      "surrounding": "sì 國語(국어) 주음 :"
+      "surrounding": "sì 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "國",
-      "surrounding": "guó 國語(국어) 注音(주음) :"
+      "surrounding": "guó 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "國語",
-      "surrounding": "있는 '國語(국어) 注音(주음)'이 이것의"
+      "surrounding": "있는 '國語(국어) 注音(주음)'이 이것의",
+      "count": 1
     },
     {
       "title": "土",
-      "surrounding": "tǔ 國語(국어) 주음 :"
+      "surrounding": "tǔ 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "外",
-      "surrounding": "wài 國語(국어) 注音(주음) :"
+      "surrounding": "wài 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "大",
-      "surrounding": "dài 國語(국어) 주음: ㄉㄚˋ"
+      "surrounding": "dài 國語(국어) 주음: ㄉㄚˋ",
+      "count": 1
     },
     {
       "title": "女",
-      "surrounding": "ㄋㄩˇ 國語(국어) 주음 :"
+      "surrounding": "ㄋㄩˇ 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "字",
-      "surrounding": "zì 國語(국어) 주음 :"
+      "surrounding": "zì 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "學",
-      "surrounding": "xué 國語(국어) 주음 :"
+      "surrounding": "xué 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "寸",
-      "surrounding": "cùn 國語(국어) 주음 :"
+      "surrounding": "cùn 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "小",
-      "surrounding": "xiǎo 國語(국어) 注音(주음) :"
+      "surrounding": "xiǎo 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "小苹果",
-      "surrounding": "(簡體(간체)) (國語(국어) 注音(주음)) Xiǎopíngguǒ"
+      "surrounding": "(簡體(간체)) (國語(국어) 注音(주음)) Xiǎopíngguǒ",
+      "count": 1
     },
     {
       "title": "少女前線",
-      "surrounding": "ㄒㄧㄢˋ (國語(국어) 注音(주음)) shăonǚ"
+      "surrounding": "ㄒㄧㄢˋ (國語(국어) 注音(주음)) shăonǚ",
+      "count": 1
     },
     {
       "title": "山",
-      "surrounding": "shān 國語(국어) 注音(주음) :"
+      "surrounding": "shān 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "平假名",
-      "surrounding": "平假名(평가명) (國語(국어) 注音(주음)) (普通話(보통화)"
+      "surrounding": "平假名(평가명) (國語(국어) 注音(주음)) (普通話(보통화)",
+      "count": 1
     },
     {
       "title": "戰爭",
-      "surrounding": "(簡體(간체)) (國語(국어) 注音(주음))zhànzhēng (普通話(보통화)"
+      "surrounding": "(簡體(간체)) (國語(국어) 注音(주음))zhànzhēng (普通話(보통화)",
+      "count": 1
     },
     {
       "title": "敎",
-      "surrounding": "jiào 國語(국어) 주음 :"
+      "surrounding": "jiào 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "旋盤",
-      "surrounding": "(簡體(간체)) (國語(국어) 주음) xuán"
+      "surrounding": "(簡體(간체)) (國語(국어) 주음) xuán",
+      "count": 1
     },
     {
       "title": "日",
-      "surrounding": "rì 國語(국어) 주음 :"
+      "surrounding": "rì 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "日本語",
-      "surrounding": "ㄩˇ (國語(국어) 注音(주음)) Rìyǔ"
+      "surrounding": "ㄩˇ (國語(국어) 注音(주음)) Rìyǔ",
+      "count": 1
     },
     {
       "title": "普通話",
-      "surrounding": "ㄏㄨㄚˋ (國語(국어) 注音(주음)) pǔtōnghuà"
+      "surrounding": "ㄏㄨㄚˋ (國語(국어) 注音(주음)) pǔtōnghuà",
+      "count": 1
     },
     {
       "title": "月",
-      "surrounding": "yuè 國語(국어) 주음 :"
+      "surrounding": "yuè 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "朝鮮民主主義人民共和國",
-      "surrounding": "ㄍㄨㄛˊ (國語(국어) 注音(주음)) zhāo"
+      "surrounding": "ㄍㄨㄛˊ (國語(국어) 注音(주음)) zhāo",
+      "count": 1
     },
     {
       "title": "木",
-      "surrounding": "mù 國語(국어) 주음 :"
+      "surrounding": "mù 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "本",
-      "surrounding": "běn 國語(국어) 주음 :"
+      "surrounding": "běn 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "東",
-      "surrounding": "dōng 國語(국어) 주음 :"
+      "surrounding": "dōng 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "校",
-      "surrounding": "jiào 國語(국어) 주음 :"
+      "surrounding": "jiào 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "民",
-      "surrounding": "mín 國語(국어) 주음 :"
+      "surrounding": "mín 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "氣",
-      "surrounding": "qì 國語(국어) 주음 :"
+      "surrounding": "qì 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "水",
-      "surrounding": "shuǐ 國語(국어) 주음 :"
+      "surrounding": "shuǐ 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "漢",
-      "surrounding": "hàn 國語(국어) 주음 :"
+      "surrounding": "hàn 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "火",
-      "surrounding": "huǒ 國語(국어) 주음 :"
+      "surrounding": "huǒ 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "父",
-      "surrounding": "fù 國語(국어) 주음 :"
+      "surrounding": "fù 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "片假名",
-      "surrounding": "片假名(편가명) (國語(국어) 注音(주음)) (普通話(보통화)"
+      "surrounding": "片假名(편가명) (國語(국어) 注音(주음)) (普通話(보통화)",
+      "count": 1
     },
     {
       "title": "猫",
-      "surrounding": "māo 國語(국어) 주음 :"
+      "surrounding": "māo 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "王",
-      "surrounding": "wáng 國語(국어) 注音(주음) :"
+      "surrounding": "wáng 國語(국어) 注音(주음) :",
+      "count": 1
     },
     {
       "title": "簡化字",
-      "surrounding": "ㄗˋ (國語(국어) 注音(주음))jiǎn huà"
+      "surrounding": "ㄗˋ (國語(국어) 注音(주음))jiǎn huà",
+      "count": 1
     },
     {
       "title": "英語",
-      "surrounding": "ㄩˇ (國語(국어) 注音(주음)) Yīngyǔ"
+      "surrounding": "ㄩˇ (國語(국어) 注音(주음)) Yīngyǔ",
+      "count": 1
     },
     {
       "title": "萬",
-      "surrounding": "wàn 國語(국어) 주음 :"
+      "surrounding": "wàn 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "西",
-      "surrounding": "xī 國語(국어) 주음 :"
+      "surrounding": "xī 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "言",
-      "surrounding": "yán 國語(국어) 주음 :"
+      "surrounding": "yán 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "語",
-      "surrounding": "yǔ 國語(국어) 주음 :"
+      "surrounding": "yǔ 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "越南社會主義公和國",
-      "surrounding": "ㄍㄨㄛˊ (國語(국어) 注音(주음))YuèNánShèHuìZhǔYìGòngHéGuó (普通話(보통화)"
+      "surrounding": "ㄍㄨㄛˊ (國語(국어) 注音(주음))YuèNánShèHuìZhǔYìGòngHéGuó (普通話(보통화)",
+      "count": 1
     },
     {
       "title": "越南語",
-      "surrounding": "ㄩˇ (國語(국어) 주음)Yuè Nán"
+      "surrounding": "ㄩˇ (國語(국어) 주음)Yuè Nán",
+      "count": 1
     },
     {
       "title": "軍",
-      "surrounding": "jūn 國語(국어) 주음 :"
+      "surrounding": "jūn 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "軍歌",
-      "surrounding": "(簡體(간체)) (國語(국어) 注音(주음)) jūngē"
+      "surrounding": "(簡體(간체)) (國語(국어) 注音(주음)) jūngē",
+      "count": 1
     },
     {
       "title": "金",
-      "surrounding": "jīn 國語(국어) 주음 :"
+      "surrounding": "jīn 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "長",
-      "surrounding": "zhǎng 國語(국어) 주음 :"
+      "surrounding": "zhǎng 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "門",
-      "surrounding": "mén 國語(국어) 주음 :"
+      "surrounding": "mén 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "靑",
-      "surrounding": "qīng 國語(국어) 주음 :"
+      "surrounding": "qīng 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "韓",
-      "surrounding": "Hán 國語(국어) 주음 :"
+      "surrounding": "Hán 國語(국어) 주음 :",
+      "count": 1
     },
     {
       "title": "颱風",
-      "surrounding": "台风(태풍)(簡體(간체)) (國語(국어) 注音(주음)) táifēng"
+      "surrounding": "台风(태풍)(簡體(간체)) (國語(국어) 注音(주음)) táifēng",
+      "count": 1
     },
     {
       "title": "高",
-      "surrounding": "gāo 國語(국어) 주음 :"
+      "surrounding": "gāo 國語(국어) 주음 :",
+      "count": 1
     }
   ]
 }

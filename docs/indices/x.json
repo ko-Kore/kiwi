@@ -2,80 +2,99 @@
   "word": "x",
   "pages": [
     {
-      "title": "下",
-      "surrounding": "병음 : xià 國語(국어)"
-    },
-    {
-      "title": "世界人權宣言",
-      "surrounding": "rén quán xuān yán"
-    },
-    {
-      "title": "先",
-      "surrounding": "拼音(평음) : xiān 國語(국어)"
-    },
-    {
-      "title": "國歌",
-      "surrounding": "jūn jìn xíng qū"
-    },
-    {
-      "title": "學",
-      "surrounding": "병음 : xué 國語(국어)"
-    },
-    {
-      "title": "小",
-      "surrounding": "普通話(보통화) 拼音(평음): xiǎo 國語(국어)"
-    },
-    {
       "title": "小苹果",
-      "surrounding": "wo zhong xia yi"
-    },
-    {
-      "title": "少女前線",
-      "surrounding": "注音(주음)) shăonǚ qiánxiàn (普通話(보통화)"
-    },
-    {
-      "title": "旋盤",
-      "surrounding": "(國語(국어) 주음) xuán pán"
-    },
-    {
-      "title": "朝鮮民主主義人民共和國",
-      "surrounding": "注音(주음)) zhāo xiān mín"
-    },
-    {
-      "title": "校",
-      "surrounding": "병음 : xiào jiào"
-    },
-    {
-      "title": "漢電大百科",
-      "surrounding": "達成(달성)했다 2020年(년)9月(월)10日(일)부터 Ajax를 利用(이용)한"
-    },
-    {
-      "title": "美合衆國",
-      "surrounding": "가로의赤白線(적백선)13줄(赤(적)7줄 白(백)6줄)이있으며 旗學(기학)(vexillology)에있어 흔히"
-    },
-    {
-      "title": "西",
-      "surrounding": "병음 : xī 國語(국어)"
-    },
-    {
-      "title": "越南社會主義公和國",
-      "surrounding": "Cộng hòa xã hội"
+      "surrounding": "wo zhong xia yi ... zhong xia xi wang",
+      "count": 44
     },
     {
       "title": "나는 北京 天安門을 사랑해",
-      "surrounding": "伟大领袖毛主席(위대령수모주석) Wěidà lǐngxiù Máo"
-    },
-    {
-      "title": "아이폰 4",
-      "surrounding": "解像度(해상도)가 두倍(배)인 640x960이 되었다"
+      "surrounding": "伟大领袖毛主席(위대령수모주석) Wěidà lǐngxiù Máo ... Zhǐyǐn wǒmen xiàng qiánjìn",
+      "count": 3
     },
     {
       "title": "아이폰 X",
-      "surrounding": "以後(이후) 製品(제품)부터는 Max나 Pro"
+      "surrounding": "以後(이후) 製品(제품)부터는 Max나 Pro ... Max나 Pro Max 같은",
+      "count": 2
+    },
+    {
+      "title": "下",
+      "surrounding": "병음 : xià 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "世界人權宣言",
+      "surrounding": "rén quán xuān yán",
+      "count": 1
+    },
+    {
+      "title": "先",
+      "surrounding": "拼音(평음) : xiān 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "國歌",
+      "surrounding": "jūn jìn xíng qū",
+      "count": 1
+    },
+    {
+      "title": "學",
+      "surrounding": "병음 : xué 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "小",
+      "surrounding": "普通話(보통화) 拼音(평음): xiǎo 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "少女前線",
+      "surrounding": "注音(주음)) shăonǚ qiánxiàn (普通話(보통화)",
+      "count": 1
+    },
+    {
+      "title": "旋盤",
+      "surrounding": "(國語(국어) 주음) xuán pán",
+      "count": 1
+    },
+    {
+      "title": "朝鮮民主主義人民共和國",
+      "surrounding": "注音(주음)) zhāo xiān mín",
+      "count": 1
+    },
+    {
+      "title": "校",
+      "surrounding": "병음 : xiào jiào",
+      "count": 1
+    },
+    {
+      "title": "漢電大百科",
+      "surrounding": "達成(달성)했다 2020年(년)9月(월)10日(일)부터 Ajax를 利用(이용)한",
+      "count": 1
+    },
+    {
+      "title": "美合衆國",
+      "surrounding": "가로의赤白線(적백선)13줄(赤(적)7줄 白(백)6줄)이있으며 旗學(기학)(vexillology)에있어 흔히",
+      "count": 1
+    },
+    {
+      "title": "西",
+      "surrounding": "병음 : xī 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "越南社會主義公和國",
+      "surrounding": "Cộng hòa xã hội",
+      "count": 1
+    },
+    {
+      "title": "아이폰 4",
+      "surrounding": "解像度(해상도)가 두倍(배)인 640x960이 되었다",
+      "count": 1
     },
     {
       "title": "파일:碧蓝航线logo.png",
-      "surrounding": "https://game bilibili com/blhx/ 라이선스[편집]"
+      "surrounding": "https://game bilibili com/blhx/ 라이선스[편집]",
+      "count": 1
     }
   ]
 }

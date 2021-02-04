@@ -2,40 +2,49 @@
   "word": "사람이",
   "pages": [
     {
-      "title": "世界人權宣言",
-      "surrounding": "對(대)해 모든 사람이 理解(이해)할"
-    },
-    {
-      "title": "人",
-      "surrounding": "발음 개요[편집] 사람이 서"
-    },
-    {
-      "title": "倉頡",
-      "surrounding": "단 한 사람이 그"
-    },
-    {
       "title": "國漢大百科:紹介",
-      "surrounding": "사이트로 여러 사람이 自由(자유)롭게"
-    },
-    {
-      "title": "擬人化",
-      "surrounding": "주세요 槪要(개요)[편집] 사람이 아닌"
-    },
-    {
-      "title": "고양이",
-      "surrounding": "고양이를 키우는 사람이 自身(자신)을"
+      "surrounding": "사이트로 여러 사람이 自由(자유)롭게 ... 역시 다른 사람이 와서",
+      "count": 3
     },
     {
       "title": "모에 擬人化",
-      "surrounding": "또한 擬人化(의인화)는 사람이 아닌"
+      "surrounding": "또한 擬人化(의인화)는 사람이 아닌 ... 것이지만 모에化(화)는 사람이 아닌",
+      "count": 2
+    },
+    {
+      "title": "世界人權宣言",
+      "surrounding": "對(대)해 모든 사람이 理解(이해)할",
+      "count": 1
+    },
+    {
+      "title": "人",
+      "surrounding": "발음 개요[편집] 사람이 서",
+      "count": 1
+    },
+    {
+      "title": "倉頡",
+      "surrounding": "단 한 사람이 그",
+      "count": 1
+    },
+    {
+      "title": "擬人化",
+      "surrounding": "주세요 槪要(개요)[편집] 사람이 아닌",
+      "count": 1
+    },
+    {
+      "title": "고양이",
+      "surrounding": "고양이를 키우는 사람이 自身(자신)을",
+      "count": 1
     },
     {
       "title": "얀데레",
-      "surrounding": "\"얀데레\"를 自處(자처)하는 사람이 間或(간혹)"
+      "surrounding": "\"얀데레\"를 自處(자처)하는 사람이 間或(간혹)",
+      "count": 1
     },
     {
       "title": "우타이테",
-      "surrounding": "잘 부르는 사람이라는 뜻의"
+      "surrounding": "잘 부르는 사람이라는 뜻의",
+      "count": 1
     }
   ]
 }

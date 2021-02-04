@@ -2,36 +2,44 @@
   "word": "많은",
   "pages": [
     {
+      "title": "애니메이션 밈",
+      "surrounding": "속하기 때문에 많은 사람들이 ... 들어가있듯 굉장히 많은 종류의",
+      "count": 3
+    },
+    {
       "title": "中華人民共和國",
-      "surrounding": "第一(제일) 人口(인구)가 많은 國家(국가)이다"
+      "surrounding": "第一(제일) 人口(인구)가 많은 國家(국가)이다",
+      "count": 1
     },
     {
       "title": "使用者:南宮 四歲",
-      "surrounding": "합니다 위키에 많은 것에"
+      "surrounding": "합니다 위키에 많은 것에",
+      "count": 1
     },
     {
       "title": "感謝",
-      "surrounding": "그대가 너무 많은 6"
+      "surrounding": "그대가 너무 많은 6",
+      "count": 1
     },
     {
       "title": "漢字",
-      "surrounding": "글字(자) 數(수)가 많은 理由(이유)는"
+      "surrounding": "글字(자) 數(수)가 많은 理由(이유)는",
+      "count": 1
     },
     {
       "title": "萬",
-      "surrounding": "모든 매우 많은 等(등)의"
-    },
-    {
-      "title": "애니메이션 밈",
-      "surrounding": "속하기 때문에 많은 사람들이"
+      "surrounding": "모든 매우 많은 等(등)의",
+      "count": 1
     },
     {
       "title": "젤다의傳說 시리즈",
-      "surrounding": "等(등) 33年(연)동안 많은 作品(작품)이"
+      "surrounding": "等(등) 33年(연)동안 많은 作品(작품)이",
+      "count": 1
     },
     {
       "title": "한글專用",
-      "surrounding": "한국어의 수 많은 동음이의어를"
+      "surrounding": "한국어의 수 많은 동음이의어를",
+      "count": 1
     }
   ]
 }

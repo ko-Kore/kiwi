@@ -2,36 +2,44 @@
   "word": "de",
   "pages": [
     {
-      "title": "2020年 美合衆國 大統領選擧",
-      "surrounding": "United States presidential election"
-    },
-    {
-      "title": "VAIO",
-      "surrounding": "社名(사명)의 'VAIO'는 'Video Audio"
-    },
-    {
-      "title": "一伊那爾栖",
-      "surrounding": "a big deal for"
-    },
-    {
-      "title": "國漢大百科:紹介",
-      "surrounding": "수 있습니다 '보이기(rendering)' 設定(설정)에서는"
-    },
-    {
       "title": "小苹果",
-      "surrounding": "du bian de you"
-    },
-    {
-      "title": "注文은 토끼입니까?",
-      "surrounding": "』(日(일)：ご注文(주문)はうさぎですか？、英(영)：Is the order a"
+      "surrounding": "du bian de you ... zui mei de yun",
+      "count": 23
     },
     {
       "title": "美合衆國",
-      "surrounding": "United States)의裏面(이면)에서찾을수있는\"Annuit cœptis\"(英(영):Providence favors"
+      "surrounding": "United States)의裏面(이면)에서찾을수있는\"Annuit cœptis\"(英(영):Providence favors ... of this Confederacy shall",
+      "count": 10
+    },
+    {
+      "title": "2020年 美合衆國 大統領選擧",
+      "surrounding": "United States presidential election ... United States presidential election)는2020年(년)11月(월)3日(일)에實施(실시)된美合衆國(미합중국)의大統領(대통령)及(급)副統領(부통령)을選出(선출)하는選擧(선거)이다",
+      "count": 2
+    },
+    {
+      "title": "一伊那爾栖",
+      "surrounding": "a big deal for ... activities to deliver random",
+      "count": 2
+    },
+    {
+      "title": "VAIO",
+      "surrounding": "社名(사명)의 'VAIO'는 'Video Audio",
+      "count": 1
+    },
+    {
+      "title": "國漢大百科:紹介",
+      "surrounding": "수 있습니다 '보이기(rendering)' 設定(설정)에서는",
+      "count": 1
+    },
+    {
+      "title": "注文은 토끼입니까?",
+      "surrounding": "』(日(일)：ご注文(주문)はうさぎですか？、英(영)：Is the order a",
+      "count": 1
     },
     {
       "title": "님의代",
-      "surrounding": "Whose venerable sides the"
+      "surrounding": "Whose venerable sides the",
+      "count": 1
     }
   ]
 }

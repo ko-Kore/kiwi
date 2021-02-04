@@ -2,80 +2,99 @@
   "word": "라이선스",
   "pages": [
     {
-      "title": "國漢大百科:紹介",
-      "surrounding": "되면 CCL 라이선스에 따라"
+      "title": "國漢大百科:編輯指針",
+      "surrounding": "달아주시기 바랍니다 라이선스가 互換(호환)되는 ... 文書(문서)에 記入(기입)합니다 라이선스 非互換(비호환)",
+      "count": 2
     },
     {
-      "title": "國漢大百科:編輯指針",
-      "surrounding": "달아주시기 바랍니다 라이선스가 互換(호환)되는"
+      "title": "國漢大百科:紹介",
+      "surrounding": "되면 CCL 라이선스에 따라",
+      "count": 1
     },
     {
       "title": "나무위키",
-      "surrounding": "與否(여부) 選擇(선택) 라이선스 CC"
+      "surrounding": "與否(여부) 選擇(선택) 라이선스 CC",
+      "count": 1
     },
     {
       "title": "파일:Gwangju symbol.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:Hn-logo.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:Kancolle main.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:Logo kancolle.png",
-      "surrounding": "com/netgame/feature/kancolle html 라이선스[편집] 틀:비자유"
+      "surrounding": "com/netgame/feature/kancolle html 라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:Minecraft cover.png",
-      "surrounding": "표지 이미지 라이선스[편집] 틀:비자유"
+      "surrounding": "표지 이미지 라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:PrincessConnectLogo.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:VAIOロゴ.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:ごちうさロゴ.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:三星 인피니티 디스플레이.jpg",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:漢字路 네이버 뉴스 20210124.png",
-      "surrounding": "화면 (2021年(년)1月(월)24日(일)) 라이선스[편집] 틀:비자유"
+      "surrounding": "화면 (2021年(년)1月(월)24日(일)) 라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:漢字위키 大門.png",
-      "surrounding": "대문 스크린샷 라이선스[편집] 틀:비자유"
+      "surrounding": "대문 스크린샷 라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:碧蓝航线logo.png",
-      "surrounding": "bilibili com/blhx/ 라이선스[편집] 틀:비자유"
+      "surrounding": "bilibili com/blhx/ 라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:마이테츠 로고2.jpg",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:마이테츠 로고3.jpg",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:마이테츠로고.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     },
     {
       "title": "파일:비리비리사이트.png",
-      "surrounding": "라이선스[편집] 틀:비자유"
+      "surrounding": "라이선스[편집] 틀:비자유",
+      "count": 1
     }
   ]
 }

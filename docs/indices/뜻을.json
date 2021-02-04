@@ -2,96 +2,119 @@
   "word": "뜻을",
   "pages": [
     {
-      "title": "上",
-      "surrounding": "위 앞을 뜻을 가진"
-    },
-    {
-      "title": "下",
-      "surrounding": "필순 아래의 뜻을 가진"
-    },
-    {
-      "title": "人",
-      "surrounding": "용례[편집] 사람의 뜻을 가진"
-    },
-    {
-      "title": "大",
-      "surrounding": "붙어 '위대하다'는 뜻을 나타낼"
-    },
-    {
       "title": "字",
-      "surrounding": "개요[편집] 文字(문자)라는 뜻을 가진"
-    },
-    {
-      "title": "學",
-      "surrounding": "工夫(공부)하다 등의 뜻을 가진"
-    },
-    {
-      "title": "年",
-      "surrounding": "뜻하는 글자 뜻을 나타내는"
-    },
-    {
-      "title": "敎",
-      "surrounding": "교육 등을 뜻을 나타내는"
-    },
-    {
-      "title": "會意文字",
-      "surrounding": "漢字(한자)와 그 뜻을 합쳐서"
-    },
-    {
-      "title": "月",
-      "surrounding": "象形文字(상형문자)이며 달의 뜻을 가진"
-    },
-    {
-      "title": "民",
-      "surrounding": "직업인 등의 뜻을 나타내는"
-    },
-    {
-      "title": "漢",
-      "surrounding": "形聲文字(형성문자)이다 한나라라는 뜻을 가진다"
-    },
-    {
-      "title": "漢字",
-      "surrounding": "各(각) 글字(자)마다 뜻을 가지고"
-    },
-    {
-      "title": "火",
-      "surrounding": "象形文字(상형문자)이며 불의 뜻을 가진"
+      "surrounding": "개요[편집] 文字(문자)라는 뜻을 가진 ... 가진 글자이다 뜻을 나타내는",
+      "count": 2
     },
     {
       "title": "猫",
-      "surrounding": "발음 槪要(개요)[편집] 뜻을 나타내는"
-    },
-    {
-      "title": "生",
-      "surrounding": "살아있다 등의 뜻을 가지고"
-    },
-    {
-      "title": "萬",
-      "surrounding": "많은 等(등)의 뜻을 가지고"
-    },
-    {
-      "title": "言",
-      "surrounding": "'말씀'이나 '말'의 뜻을 나타낸다"
+      "surrounding": "발음 槪要(개요)[편집] 뜻을 나타내는 ... 形聲文字(형성문자)이다 고양이라는 뜻을 가진다",
+      "count": 2
     },
     {
       "title": "語",
-      "surrounding": "발음 개요[편집] 뜻을 나타내는"
+      "surrounding": "발음 개요[편집] 뜻을 나타내는 ... 말씀이나 말이라는 뜻을 가진다",
+      "count": 2
+    },
+    {
+      "title": "上",
+      "surrounding": "위 앞을 뜻을 가진",
+      "count": 1
+    },
+    {
+      "title": "下",
+      "surrounding": "필순 아래의 뜻을 가진",
+      "count": 1
+    },
+    {
+      "title": "人",
+      "surrounding": "용례[편집] 사람의 뜻을 가진",
+      "count": 1
+    },
+    {
+      "title": "大",
+      "surrounding": "붙어 '위대하다'는 뜻을 나타낼",
+      "count": 1
+    },
+    {
+      "title": "學",
+      "surrounding": "工夫(공부)하다 등의 뜻을 가진",
+      "count": 1
+    },
+    {
+      "title": "年",
+      "surrounding": "뜻하는 글자 뜻을 나타내는",
+      "count": 1
+    },
+    {
+      "title": "敎",
+      "surrounding": "교육 등을 뜻을 나타내는",
+      "count": 1
+    },
+    {
+      "title": "會意文字",
+      "surrounding": "漢字(한자)와 그 뜻을 합쳐서",
+      "count": 1
+    },
+    {
+      "title": "月",
+      "surrounding": "象形文字(상형문자)이며 달의 뜻을 가진",
+      "count": 1
+    },
+    {
+      "title": "民",
+      "surrounding": "직업인 등의 뜻을 나타내는",
+      "count": 1
+    },
+    {
+      "title": "漢",
+      "surrounding": "形聲文字(형성문자)이다 한나라라는 뜻을 가진다",
+      "count": 1
+    },
+    {
+      "title": "漢字",
+      "surrounding": "各(각) 글字(자)마다 뜻을 가지고",
+      "count": 1
+    },
+    {
+      "title": "火",
+      "surrounding": "象形文字(상형문자)이며 불의 뜻을 가진",
+      "count": 1
+    },
+    {
+      "title": "生",
+      "surrounding": "살아있다 등의 뜻을 가지고",
+      "count": 1
+    },
+    {
+      "title": "萬",
+      "surrounding": "많은 等(등)의 뜻을 가지고",
+      "count": 1
+    },
+    {
+      "title": "言",
+      "surrounding": "'말씀'이나 '말'의 뜻을 나타낸다",
+      "count": 1
     },
     {
       "title": "長",
-      "surrounding": "어른 등의 뜻을 가진"
+      "surrounding": "어른 등의 뜻을 가진",
+      "count": 1
     },
     {
       "title": "靑",
-      "surrounding": "젊다 등의 뜻을 가진"
+      "surrounding": "젊다 등의 뜻을 가진",
+      "count": 1
     },
     {
       "title": "韓",
-      "surrounding": "발음 개요[편집] 뜻을 나타내는"
+      "surrounding": "발음 개요[편집] 뜻을 나타내는",
+      "count": 1
     },
     {
       "title": "韓國製漢字",
-      "surrounding": "= 논이라는 뜻을 나타낸다"
+      "surrounding": "= 논이라는 뜻을 나타낸다",
+      "count": 1
     }
   ]
 }

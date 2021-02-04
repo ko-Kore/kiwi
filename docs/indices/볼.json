@@ -2,72 +2,89 @@
   "word": "볼",
   "pages": [
     {
+      "title": "國漢文混用",
+      "surrounding": "媒體(매체)를 거의 찾아볼 수 ... 以外(이외)에는 거의 찾아볼 수",
+      "count": 2
+    },
+    {
       "title": "2020年 美合衆國 大統領選擧",
-      "surrounding": "웨스트 미셸 티드볼 大統領候補(대통령후보)"
+      "surrounding": "웨스트 미셸 티드볼 大統領候補(대통령후보)",
+      "count": 1
     },
     {
       "title": "使用者:南宮 四歲",
-      "surrounding": "넓게 바라 볼 것이다"
+      "surrounding": "넓게 바라 볼 것이다",
+      "count": 1
     },
     {
       "title": "國漢大百科",
-      "surrounding": "함께 즐기면서 볼 수"
+      "surrounding": "함께 즐기면서 볼 수",
+      "count": 1
     },
     {
       "title": "國漢大百科:紹介",
-      "surrounding": "文法(문법)을 試驗(시험)해 볼 수도"
-    },
-    {
-      "title": "國漢文混用",
-      "surrounding": "媒體(매체)를 거의 찾아볼 수"
+      "surrounding": "文法(문법)을 試驗(시험)해 볼 수도",
+      "count": 1
     },
     {
       "title": "大韓民國",
-      "surrounding": "部分(부분)도 많이 찾아볼 수"
+      "surrounding": "部分(부분)도 많이 찾아볼 수",
+      "count": 1
     },
     {
       "title": "深海少女",
-      "surrounding": "웃음도醜(추)하게 비뚤어져갔다 누구도볼낯이없어 이제그만내버려둬"
+      "surrounding": "웃음도醜(추)하게 비뚤어져갔다 누구도볼낯이없어 이제그만내버려둬",
+      "count": 1
     },
     {
       "title": "漢字語",
-      "surrounding": "擴張(확장)한 것으로 볼 수"
+      "surrounding": "擴張(확장)한 것으로 볼 수",
+      "count": 1
     },
     {
       "title": "漢字路 한글·漢字 自動變換機",
-      "surrounding": "國漢文混用(국한문혼용)으로 變換(변환)해서 볼 수"
+      "surrounding": "國漢文混用(국한문혼용)으로 變換(변환)해서 볼 수",
+      "count": 1
     },
     {
       "title": "灼熱스위치",
-      "surrounding": "있는 모습을 볼 수"
+      "surrounding": "있는 모습을 볼 수",
+      "count": 1
     },
     {
       "title": "片假名",
-      "surrounding": "口訣(구결)文字(문자)와도 비슷하다 볼 수"
+      "surrounding": "口訣(구결)文字(문자)와도 비슷하다 볼 수",
+      "count": 1
     },
     {
       "title": "簡化字",
-      "surrounding": "해서 처음 볼때는 異質感(이질감)이"
+      "surrounding": "해서 처음 볼때는 異質感(이질감)이",
+      "count": 1
     },
     {
       "title": "繪文字",
-      "surrounding": "文字(문자) 體系(체계)라고 볼 수"
+      "surrounding": "文字(문자) 體系(체계)라고 볼 수",
+      "count": 1
     },
     {
       "title": "釜山廣域市",
-      "surrounding": "것을 쉽게 볼 수"
+      "surrounding": "것을 쉽게 볼 수",
+      "count": 1
     },
     {
       "title": "韓國製漢字",
-      "surrounding": "글字(자)를 全(전)혀 볼 수"
+      "surrounding": "글字(자)를 全(전)혀 볼 수",
+      "count": 1
     },
     {
       "title": "님의代",
-      "surrounding": "國歌(국가)中(중)에서 最古(최고)의歌詞(가사)를 지닌다고볼수있다 그러나"
+      "surrounding": "國歌(국가)中(중)에서 最古(최고)의歌詞(가사)를 지닌다고볼수있다 그러나",
+      "count": 1
     },
     {
       "title": "파일:Imcuteparty.png",
-      "surrounding": "당 '나는귀엽당'의 심볼 및"
+      "surrounding": "당 '나는귀엽당'의 심볼 및",
+      "count": 1
     }
   ]
 }

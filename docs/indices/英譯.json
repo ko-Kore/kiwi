@@ -3,11 +3,13 @@
   "pages": [
     {
       "title": "님의代",
-      "surrounding": "3 3 英譯(영역) 3"
+      "surrounding": "3 3 英譯(영역) 3 ... 할 체임벌린의 英譯(영역)을引用(인용)한다 A",
+      "count": 3
     },
     {
       "title": "이어폰과蟬時雨",
-      "surrounding": "여름의 季語(계어)이다 英譯(영역)은 \"A"
+      "surrounding": "여름의 季語(계어)이다 英譯(영역)은 \"A",
+      "count": 1
     }
   ]
 }

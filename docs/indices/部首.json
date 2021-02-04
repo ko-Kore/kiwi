@@ -2,260 +2,324 @@
   "word": "部首",
   "pages": [
     {
-      "title": "一",
-      "surrounding": "한 일 部首(부수) 一(일)"
-    },
-    {
-      "title": "七",
-      "surrounding": "일곱 칠 部首(부수) 一(일)"
-    },
-    {
-      "title": "三",
-      "surrounding": "석 삼 部首(부수) 一(일)"
-    },
-    {
-      "title": "上",
-      "surrounding": "위 상 部首(부수) 一(일)"
-    },
-    {
-      "title": "下",
-      "surrounding": "아래 하 部首(부수) 一(일)"
-    },
-    {
-      "title": "中",
-      "surrounding": "가운데 중 部首(부수) 丨(곤)"
-    },
-    {
-      "title": "九",
-      "surrounding": "아홉 구 部首(부수) 乙(을)"
-    },
-    {
-      "title": "二",
-      "surrounding": "두 이 部首(부수) 二(이)"
-    },
-    {
-      "title": "五",
-      "surrounding": "다섯 오 部首(부수) 二(이)"
-    },
-    {
-      "title": "人",
-      "surrounding": "사람 인 部首(부수) 人(인)"
-    },
-    {
-      "title": "個",
-      "surrounding": "낱 개 部首(부수) 亻(인)"
-    },
-    {
-      "title": "先",
-      "surrounding": "먼저 선 部首(부수) 儿(인)"
-    },
-    {
-      "title": "八",
-      "surrounding": "여덟 팔 部首(부수) 八(팔)"
-    },
-    {
-      "title": "六",
-      "surrounding": "여섯 륙 部首(부수) 八(팔)"
-    },
-    {
-      "title": "北",
-      "surrounding": "달아날 배 部首(부수) 匕(비)"
-    },
-    {
-      "title": "十",
-      "surrounding": "열 십 部首(부수) 十(십)"
-    },
-    {
-      "title": "千",
-      "surrounding": "일천 천 部首(부수) 十(십)"
-    },
-    {
-      "title": "南",
-      "surrounding": "남녘 남 部首(부수) 十(십)"
-    },
-    {
-      "title": "四",
-      "surrounding": "넉 사 部首(부수) 囗(국)"
-    },
-    {
-      "title": "國",
-      "surrounding": "나라 국 部首(부수) 囗(국)"
-    },
-    {
-      "title": "土",
-      "surrounding": "흙 토 部首(부수) 土(토)"
-    },
-    {
-      "title": "外",
-      "surrounding": "바깥 외 部首(부수) 夕(석)"
-    },
-    {
-      "title": "大",
-      "surrounding": "태클 다 部首(부수) 大(대)"
-    },
-    {
-      "title": "女",
-      "surrounding": "여자 녀 部首(부수) 女(여)"
-    },
-    {
-      "title": "字",
-      "surrounding": "글자 자 部首(부수) 子(자)"
-    },
-    {
-      "title": "學",
-      "surrounding": "배울 학 部首(부수) 子(자)"
-    },
-    {
-      "title": "寸",
-      "surrounding": "마디 촌 部首(부수) 寸(촌)"
-    },
-    {
-      "title": "小",
-      "surrounding": "작을 소 部首(부수) 小(소)"
-    },
-    {
-      "title": "山",
-      "surrounding": "뫼(산) 산 部首(부수) 山(산)"
-    },
-    {
-      "title": "年",
-      "surrounding": "해 년 部首(부수) 干(간)"
-    },
-    {
-      "title": "敎",
-      "surrounding": "가르칠 교 部首(부수) 攵(복)"
-    },
-    {
-      "title": "文",
-      "surrounding": "글월 문 部首(부수) 文(문)"
-    },
-    {
-      "title": "日",
-      "surrounding": "일날 일 部首(부수) 日(일)"
-    },
-    {
-      "title": "月",
-      "surrounding": "달 월 部首(부수) 月(월)"
-    },
-    {
-      "title": "木",
-      "surrounding": "나무 목 部首(부수) 木(목)"
-    },
-    {
-      "title": "本",
-      "surrounding": "근본 본 部首(부수) 木(목)"
-    },
-    {
-      "title": "李",
-      "surrounding": "오얏 리 部首(부수) 木(목)"
-    },
-    {
-      "title": "東",
-      "surrounding": "동녘 동 部首(부수) 木(목)"
-    },
-    {
-      "title": "校",
-      "surrounding": "학교 교 部首(부수) 木(목)"
-    },
-    {
-      "title": "民",
-      "surrounding": "백성 민 部首(부수) 氏(씨)"
-    },
-    {
-      "title": "氣",
-      "surrounding": "기운 기 部首(부수) 气(기)"
-    },
-    {
-      "title": "水",
-      "surrounding": "물 수 部首(부수) 水(수)"
-    },
-    {
-      "title": "漢",
-      "surrounding": "한나라 한 部首(부수) 氵(수)"
+      "title": "百",
+      "surrounding": "일백 백 部首(부수) 白部(백부) ... [1] 部首(부수)[편집] 百(백)의部首(부수)는 白(백)이다",
+      "count": 4
     },
     {
       "title": "漢字",
-      "surrounding": "筆順(필순) 6 部首(부수) 7"
+      "surrounding": "筆順(필순) 6 部首(부수) 7 ... 索引(색인)方法中(방법중) 하나로 部首(부수)가 있다",
+      "count": 3
+    },
+    {
+      "title": "一",
+      "surrounding": "한 일 部首(부수) 一(일)",
+      "count": 1
+    },
+    {
+      "title": "七",
+      "surrounding": "일곱 칠 部首(부수) 一(일)",
+      "count": 1
+    },
+    {
+      "title": "三",
+      "surrounding": "석 삼 部首(부수) 一(일)",
+      "count": 1
+    },
+    {
+      "title": "上",
+      "surrounding": "위 상 部首(부수) 一(일)",
+      "count": 1
+    },
+    {
+      "title": "下",
+      "surrounding": "아래 하 部首(부수) 一(일)",
+      "count": 1
+    },
+    {
+      "title": "中",
+      "surrounding": "가운데 중 部首(부수) 丨(곤)",
+      "count": 1
+    },
+    {
+      "title": "九",
+      "surrounding": "아홉 구 部首(부수) 乙(을)",
+      "count": 1
+    },
+    {
+      "title": "二",
+      "surrounding": "두 이 部首(부수) 二(이)",
+      "count": 1
+    },
+    {
+      "title": "五",
+      "surrounding": "다섯 오 部首(부수) 二(이)",
+      "count": 1
+    },
+    {
+      "title": "人",
+      "surrounding": "사람 인 部首(부수) 人(인)",
+      "count": 1
+    },
+    {
+      "title": "個",
+      "surrounding": "낱 개 部首(부수) 亻(인)",
+      "count": 1
+    },
+    {
+      "title": "先",
+      "surrounding": "먼저 선 部首(부수) 儿(인)",
+      "count": 1
+    },
+    {
+      "title": "八",
+      "surrounding": "여덟 팔 部首(부수) 八(팔)",
+      "count": 1
+    },
+    {
+      "title": "六",
+      "surrounding": "여섯 륙 部首(부수) 八(팔)",
+      "count": 1
+    },
+    {
+      "title": "北",
+      "surrounding": "달아날 배 部首(부수) 匕(비)",
+      "count": 1
+    },
+    {
+      "title": "十",
+      "surrounding": "열 십 部首(부수) 十(십)",
+      "count": 1
+    },
+    {
+      "title": "千",
+      "surrounding": "일천 천 部首(부수) 十(십)",
+      "count": 1
+    },
+    {
+      "title": "南",
+      "surrounding": "남녘 남 部首(부수) 十(십)",
+      "count": 1
+    },
+    {
+      "title": "四",
+      "surrounding": "넉 사 部首(부수) 囗(국)",
+      "count": 1
+    },
+    {
+      "title": "國",
+      "surrounding": "나라 국 部首(부수) 囗(국)",
+      "count": 1
+    },
+    {
+      "title": "土",
+      "surrounding": "흙 토 部首(부수) 土(토)",
+      "count": 1
+    },
+    {
+      "title": "外",
+      "surrounding": "바깥 외 部首(부수) 夕(석)",
+      "count": 1
+    },
+    {
+      "title": "大",
+      "surrounding": "태클 다 部首(부수) 大(대)",
+      "count": 1
+    },
+    {
+      "title": "女",
+      "surrounding": "여자 녀 部首(부수) 女(여)",
+      "count": 1
+    },
+    {
+      "title": "字",
+      "surrounding": "글자 자 部首(부수) 子(자)",
+      "count": 1
+    },
+    {
+      "title": "學",
+      "surrounding": "배울 학 部首(부수) 子(자)",
+      "count": 1
+    },
+    {
+      "title": "寸",
+      "surrounding": "마디 촌 部首(부수) 寸(촌)",
+      "count": 1
+    },
+    {
+      "title": "小",
+      "surrounding": "작을 소 部首(부수) 小(소)",
+      "count": 1
+    },
+    {
+      "title": "山",
+      "surrounding": "뫼(산) 산 部首(부수) 山(산)",
+      "count": 1
+    },
+    {
+      "title": "年",
+      "surrounding": "해 년 部首(부수) 干(간)",
+      "count": 1
+    },
+    {
+      "title": "敎",
+      "surrounding": "가르칠 교 部首(부수) 攵(복)",
+      "count": 1
+    },
+    {
+      "title": "文",
+      "surrounding": "글월 문 部首(부수) 文(문)",
+      "count": 1
+    },
+    {
+      "title": "日",
+      "surrounding": "일날 일 部首(부수) 日(일)",
+      "count": 1
+    },
+    {
+      "title": "月",
+      "surrounding": "달 월 部首(부수) 月(월)",
+      "count": 1
+    },
+    {
+      "title": "木",
+      "surrounding": "나무 목 部首(부수) 木(목)",
+      "count": 1
+    },
+    {
+      "title": "本",
+      "surrounding": "근본 본 部首(부수) 木(목)",
+      "count": 1
+    },
+    {
+      "title": "李",
+      "surrounding": "오얏 리 部首(부수) 木(목)",
+      "count": 1
+    },
+    {
+      "title": "東",
+      "surrounding": "동녘 동 部首(부수) 木(목)",
+      "count": 1
+    },
+    {
+      "title": "校",
+      "surrounding": "학교 교 部首(부수) 木(목)",
+      "count": 1
+    },
+    {
+      "title": "民",
+      "surrounding": "백성 민 部首(부수) 氏(씨)",
+      "count": 1
+    },
+    {
+      "title": "氣",
+      "surrounding": "기운 기 部首(부수) 气(기)",
+      "count": 1
+    },
+    {
+      "title": "水",
+      "surrounding": "물 수 部首(부수) 水(수)",
+      "count": 1
+    },
+    {
+      "title": "漢",
+      "surrounding": "한나라 한 部首(부수) 氵(수)",
+      "count": 1
     },
     {
       "title": "火",
-      "surrounding": "불 화 部首(부수) 火(화)"
+      "surrounding": "불 화 部首(부수) 火(화)",
+      "count": 1
     },
     {
       "title": "父",
-      "surrounding": "아비 부 部首(부수) 父(부)"
+      "surrounding": "아비 부 部首(부수) 父(부)",
+      "count": 1
     },
     {
       "title": "猫",
-      "surrounding": "고양이 묘 部首(부수) 犭(견)"
+      "surrounding": "고양이 묘 部首(부수) 犭(견)",
+      "count": 1
     },
     {
       "title": "王",
-      "surrounding": "임금 왕 部首(부수) 王(왕)"
+      "surrounding": "임금 왕 部首(부수) 王(왕)",
+      "count": 1
     },
     {
       "title": "生",
-      "surrounding": "날 생 部首(부수) 生(생)"
-    },
-    {
-      "title": "百",
-      "surrounding": "일백 백 部首(부수) 白部(백부)"
+      "surrounding": "날 생 部首(부수) 生(생)",
+      "count": 1
     },
     {
       "title": "萬",
-      "surrounding": "만성씨 만 部首(부수) 艹(초)"
+      "surrounding": "만성씨 만 部首(부수) 艹(초)",
+      "count": 1
     },
     {
       "title": "西",
-      "surrounding": "서녘 서 部首(부수) 襾(아)"
+      "surrounding": "서녘 서 部首(부수) 襾(아)",
+      "count": 1
     },
     {
       "title": "言",
-      "surrounding": "화기애애할 은 部首(부수) 言(언)"
+      "surrounding": "화기애애할 은 部首(부수) 言(언)",
+      "count": 1
     },
     {
       "title": "語",
-      "surrounding": "말씀 어 部首(부수) 言(언)"
+      "surrounding": "말씀 어 部首(부수) 言(언)",
+      "count": 1
     },
     {
       "title": "軍",
-      "surrounding": "군사 군 部首(부수) 車(차)"
+      "surrounding": "군사 군 部首(부수) 車(차)",
+      "count": 1
     },
     {
       "title": "金",
-      "surrounding": "성 김 部首(부수) 金(김)"
+      "surrounding": "성 김 部首(부수) 金(김)",
+      "count": 1
     },
     {
       "title": "長",
-      "surrounding": "길 장 部首(부수) 長(장)"
+      "surrounding": "길 장 部首(부수) 長(장)",
+      "count": 1
     },
     {
       "title": "門",
-      "surrounding": "문 문 部首(부수) -"
+      "surrounding": "문 문 部首(부수) -",
+      "count": 1
     },
     {
       "title": "電",
-      "surrounding": "번개 전 部首(부수) 雨(우)"
+      "surrounding": "번개 전 部首(부수) 雨(우)",
+      "count": 1
     },
     {
       "title": "靑",
-      "surrounding": "푸를 청 部首(부수) 靑(청)"
+      "surrounding": "푸를 청 部首(부수) 靑(청)",
+      "count": 1
     },
     {
       "title": "韓",
-      "surrounding": "한국 한 部首(부수) 韋(위)"
+      "surrounding": "한국 한 部首(부수) 韋(위)",
+      "count": 1
     },
     {
       "title": "音",
-      "surrounding": "소리 음 部首(부수) 音(음)"
+      "surrounding": "소리 음 部首(부수) 音(음)",
+      "count": 1
     },
     {
       "title": "體",
-      "surrounding": "몸 체 部首(부수) 骨(골)"
+      "surrounding": "몸 체 部首(부수) 骨(골)",
+      "count": 1
     },
     {
       "title": "高",
-      "surrounding": "높을 고 部首(부수) 高(고)"
+      "surrounding": "높을 고 部首(부수) 高(고)",
+      "count": 1
     }
   ]
 }

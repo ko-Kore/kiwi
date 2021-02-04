@@ -3,27 +3,33 @@
   "pages": [
     {
       "title": "VAIO",
-      "surrounding": "컴퓨터 製造社(제조사)이다 元來(원래)는 소니의"
+      "surrounding": "컴퓨터 製造社(제조사)이다 元來(원래)는 소니의",
+      "count": 1
     },
     {
       "title": "倉頡",
-      "surrounding": "한다 漢字創製(한자창제)[편집] 元來(원래) 中國(중국)"
+      "surrounding": "한다 漢字創製(한자창제)[편집] 元來(원래) 中國(중국)",
+      "count": 1
     },
     {
       "title": "文",
-      "surrounding": "뜻하는 象形文字(상형문자)이다 元來(원래) 사람에게"
+      "surrounding": "뜻하는 象形文字(상형문자)이다 元來(원래) 사람에게",
+      "count": 1
     },
     {
       "title": "漢字語",
-      "surrounding": "가져온 것 元來(원래)의 意味(의미)가"
+      "surrounding": "가져온 것 元來(원래)의 意味(의미)가",
+      "count": 1
     },
     {
       "title": "갤럭시 S 시리즈",
-      "surrounding": "것으로 보아서 元來(원래)는 SKT를"
+      "surrounding": "것으로 보아서 元來(원래)는 SKT를",
+      "count": 1
     },
     {
       "title": "시구레우이",
-      "surrounding": "밝힌바로 이름의 元來表記(원래표기)는 漢字(한자)였으며"
+      "surrounding": "밝힌바로 이름의 元來表記(원래표기)는 漢字(한자)였으며",
+      "count": 1
     }
   ]
 }

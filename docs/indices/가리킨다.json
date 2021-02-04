@@ -3,63 +3,78 @@
   "pages": [
     {
       "title": "國字",
-      "surrounding": "韓國(한국)에서는 韓國製漢字(한국제한자)를 가리킨다 "
+      "surrounding": "韓國(한국)에서는 韓國製漢字(한국제한자)를 가리킨다 ",
+      "count": 1
     },
     {
       "title": "國文",
-      "surrounding": "적은 韓國語(한국어)를 가리킨다 "
+      "surrounding": "적은 韓國語(한국어)를 가리킨다 ",
+      "count": 1
     },
     {
       "title": "國語",
-      "surrounding": "公用語(공용어)로서 韓國語(한국어)를 가리킨다 中華民國(중화민국)"
+      "surrounding": "公用語(공용어)로서 韓國語(한국어)를 가리킨다 中華民國(중화민국)",
+      "count": 1
     },
     {
       "title": "地下鐵",
-      "surrounding": "擔當(담당)하는 것을 가리킨다 名稱(명칭)[편집]"
+      "surrounding": "擔當(담당)하는 것을 가리킨다 名稱(명칭)[편집]",
+      "count": 1
     },
     {
       "title": "形聲文字",
-      "surrounding": "만들어낸 글자를 가리킨다 特徵(특징)[편집]"
+      "surrounding": "만들어낸 글자를 가리킨다 特徵(특징)[편집]",
+      "count": 1
     },
     {
       "title": "文書",
-      "surrounding": "놓은 것을 가리킨다 위키위키에서[편집]"
+      "surrounding": "놓은 것을 가리킨다 위키위키에서[편집]",
+      "count": 1
     },
     {
       "title": "會意文字",
-      "surrounding": "만든 글자를 가리킨다 특징[편집]"
+      "surrounding": "만든 글자를 가리킨다 특징[편집]",
+      "count": 1
     },
     {
       "title": "正字",
-      "surrounding": "쓴 글字(자)를 가리킨다 漢字(한자)의"
+      "surrounding": "쓴 글字(자)를 가리킨다 漢字(한자)의",
+      "count": 1
     },
     {
       "title": "漢字語",
-      "surrounding": "된 單語(단어)를 가리킨다 쓰임[편집]"
+      "surrounding": "된 單語(단어)를 가리킨다 쓰임[편집]",
+      "count": 1
     },
     {
       "title": "漢語",
-      "surrounding": "多樣(다양)한 槪念(개념)을 가리킨다 中國語(중국어)[편집]"
+      "surrounding": "多樣(다양)한 槪念(개념)을 가리킨다 中國語(중국어)[편집]",
+      "count": 1
     },
     {
       "title": "複複線",
-      "surrounding": "놓인 것을 가리킨다 種類(종류)[편집]"
+      "surrounding": "놓인 것을 가리킨다 種類(종류)[편집]",
+      "count": 1
     },
     {
       "title": "韓國",
-      "surrounding": "大部分(대부분) 이걸 가리킨다 過去(과거)의"
+      "surrounding": "大部分(대부분) 이걸 가리킨다 過去(과거)의",
+      "count": 1
     },
     {
       "title": "音盤",
-      "surrounding": "것도 통틀어 가리킨다 앨범이라고도"
+      "surrounding": "것도 통틀어 가리킨다 앨범이라고도",
+      "count": 1
     },
     {
       "title": "국가",
-      "surrounding": "국가는 다음을 가리킨다 國家(국가)"
+      "surrounding": "국가는 다음을 가리킨다 國家(국가)",
+      "count": 1
     },
     {
       "title": "한어",
-      "surrounding": "한어는 다음을 가리킨다 漢語(한어)"
+      "surrounding": "한어는 다음을 가리킨다 漢語(한어)",
+      "count": 1
     }
   ]
 }

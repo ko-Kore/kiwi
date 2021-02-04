@@ -3,51 +3,63 @@
   "pages": [
     {
       "title": "中國語",
-      "surrounding": "言語(언어) 方言(방언)[편집] 쓰는 地域(지역)이"
+      "surrounding": "言語(언어) 方言(방언)[편집] 쓰는 地域(지역)이",
+      "count": 1
     },
     {
       "title": "嗶哩嗶哩",
-      "surrounding": "bìlibìli(비리비리) 그대로 쓰는 境遇(경우)도"
+      "surrounding": "bìlibìli(비리비리) 그대로 쓰는 境遇(경우)도",
+      "count": 1
     },
     {
       "title": "國字",
-      "surrounding": "한 나라에서 쓰는 固有(고유)의"
+      "surrounding": "한 나라에서 쓰는 固有(고유)의",
+      "count": 1
     },
     {
       "title": "國漢文混用",
-      "surrounding": "漢文(한문)(漢字(한자))을 섞어서(混(혼)) 쓰는(用(용)) 表記法(표기법)을"
+      "surrounding": "漢文(한문)(漢字(한자))을 섞어서(混(혼)) 쓰는(用(용)) 表記法(표기법)을",
+      "count": 1
     },
     {
       "title": "國語",
-      "surrounding": "한 國家(국가)에서 쓰는 言語(언어)를"
+      "surrounding": "한 國家(국가)에서 쓰는 言語(언어)를",
+      "count": 1
     },
     {
       "title": "大學校",
-      "surrounding": "가리킬 때 쓰는 境遇(경우)가"
+      "surrounding": "가리킬 때 쓰는 境遇(경우)가",
+      "count": 1
     },
     {
       "title": "漢字",
-      "surrounding": "8萬字(만자)를 모두 쓰는 미친"
+      "surrounding": "8萬字(만자)를 모두 쓰는 미친",
+      "count": 1
     },
     {
       "title": "漢語",
-      "surrounding": "中國(중국) 사람들이 쓰는 言語(언어)를"
+      "surrounding": "中國(중국) 사람들이 쓰는 言語(언어)를",
+      "count": 1
     },
     {
       "title": "아랍語",
-      "surrounding": "北(북)아프리카의 아랍文化圈(문화권)에서 쓰는 言語(언어)이다"
+      "surrounding": "北(북)아프리카의 아랍文化圈(문화권)에서 쓰는 言語(언어)이다",
+      "count": 1
     },
     {
       "title": "에어팟",
-      "surrounding": "안드로이드 機器(기기)를 쓰는 사람들도"
+      "surrounding": "안드로이드 機器(기기)를 쓰는 사람들도",
+      "count": 1
     },
     {
       "title": "한글專用",
-      "surrounding": "한글만으로 한국어를 쓰는 표기법을"
+      "surrounding": "한글만으로 한국어를 쓰는 표기법을",
+      "count": 1
     },
     {
       "title": "𡨸喃",
-      "surrounding": "빌려와 그대로 쓰는 假借文字(가차문자)와"
+      "surrounding": "빌려와 그대로 쓰는 假借文字(가차문자)와",
+      "count": 1
     }
   ]
 }

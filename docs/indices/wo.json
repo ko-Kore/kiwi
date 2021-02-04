@@ -2,24 +2,29 @@
   "word": "wo",
   "pages": [
     {
-      "title": "Orangestar",
-      "surrounding": "너의밤하늘哨戒班(초계반) Lingering Fireworks 快晴(쾌청)"
+      "title": "小苹果",
+      "surrounding": "我种下一颗种子(아충하일과충자) 终于长出了果实(종우장출료과실) wo zhong ... ni shi wo de",
+      "count": 19
     },
     {
       "title": "中華人民共和國",
-      "surrounding": "man4 gung6 wo4 gwok3"
+      "surrounding": "man4 gung6 wo4 gwok3 ... gung6 wo4 gwok3 日本語(일본어)",
+      "count": 2
+    },
+    {
+      "title": "Orangestar",
+      "surrounding": "너의밤하늘哨戒班(초계반) Lingering Fireworks 快晴(쾌청)",
+      "count": 1
     },
     {
       "title": "北韓圓",
-      "surrounding": "tsʌn 로마字表記法(자표기법) won chon"
-    },
-    {
-      "title": "小苹果",
-      "surrounding": "我种下一颗种子(아충하일과충자) 终于长出了果实(종우장출료과실) wo zhong"
+      "surrounding": "tsʌn 로마字表記法(자표기법) won chon",
+      "count": 1
     },
     {
       "title": "美合衆國",
-      "surrounding": "나누어지며 議會內(의회내)의議席(의석)은 兩黨制(양당제)(two-party system)가"
+      "surrounding": "나누어지며 議會內(의회내)의議席(의석)은 兩黨制(양당제)(two-party system)가",
+      "count": 1
     }
   ]
 }

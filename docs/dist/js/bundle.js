@@ -11800,7 +11800,7 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
 
   var displaySearchResult = /*#__PURE__*/function () {
     var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
-      var searchInput, gotoResult, searchResult, searchString, pageUrl, _yield$axios$get, _data, h2, searchWords, searches, data, p, words;
+      var searchInput, gotoResult, searchResult, searchString, pageUrl, _yield$axios$get, _data, h2, searchWords, searches, data, p, words, pages;
 
       return regeneratorRuntime.wrap(function _callee$(_context) {
         while (1) {
@@ -11850,7 +11850,10 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
 
             case 28:
               words = _typeof(data.word) === 'object' ? data.word : [data.word];
-              data.pages.forEach(function (entry) {
+              pages = data.pages.sort(function (a, b) {
+                return b.count - a.count;
+              });
+              pages.forEach(function (entry) {
                 var title = entry.title;
                 var url = getPageUrl(title);
                 var surrounding = words.reduce(function (acc, word) {
@@ -11865,7 +11868,7 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
                 searchResult.appendChild(div);
               });
 
-            case 30:
+            case 31:
             case "end":
               return _context.stop();
           }
@@ -11902,6 +11905,7 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
 
       return {
         title: page.title,
+        count: (page.count + another.count) / 2,
         surrounding: page.surrounding + ' ... ' + another.surrounding
       };
     });

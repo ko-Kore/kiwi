@@ -2,36 +2,44 @@
   "word": "등을",
   "pages": [
     {
+      "title": "國漢大百科:文書作成要請",
+      "surrounding": "분은 특수:필요한문서 등을 參考(참고)하는 ... 모든 중국 등을 포괄하는",
+      "count": 2
+    },
+    {
       "title": "中",
-      "surrounding": "'속' '안' 등을 의미하는"
+      "surrounding": "'속' '안' 등을 의미하는",
+      "count": 1
     },
     {
       "title": "分類:主題別 分類",
-      "surrounding": "必要(필요)한 分類(분류) 등을 發見(발견)하면"
-    },
-    {
-      "title": "國漢大百科:文書作成要請",
-      "surrounding": "분은 특수:필요한문서 등을 參考(참고)하는"
+      "surrounding": "必要(필요)한 分類(분류) 등을 發見(발견)하면",
+      "count": 1
     },
     {
       "title": "年",
-      "surrounding": "해 나이 등을 뜻하는"
+      "surrounding": "해 나이 등을 뜻하는",
+      "count": 1
     },
     {
       "title": "敎",
-      "surrounding": "가르치다 교육 등을 뜻을"
+      "surrounding": "가르치다 교육 등을 뜻을",
+      "count": 1
     },
     {
       "title": "漢字語",
-      "surrounding": "漢文(한문)式(식) 造語法(조어법) 등을 無視(무시)한"
+      "surrounding": "漢文(한문)式(식) 造語法(조어법) 등을 無視(무시)한",
+      "count": 1
     },
     {
       "title": "電",
-      "surrounding": "'전기' '빠르다' 등을 意味(의미)하는"
+      "surrounding": "'전기' '빠르다' 등을 意味(의미)하는",
+      "count": 1
     },
     {
       "title": "高",
-      "surrounding": "높다 크다 등을 뜻하는"
+      "surrounding": "높다 크다 등을 뜻하는",
+      "count": 1
     }
   ]
 }
