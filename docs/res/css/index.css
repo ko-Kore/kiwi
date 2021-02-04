@@ -43,18 +43,18 @@ body {
     flex-wrap: wrap;
 }
 
-.site-nav, .goto {
+.site-nav, #search-form {
     margin: 10px 0px;
 }
 
-.goto, .main-nav {
+#search-form, .main-nav {
     display: flex;
     flex-direction: row;
     justify-content: right;
     flex-grow: 1;
 }
 
-.goto > * {
+#search-form > * {
     color: black;
 }
 

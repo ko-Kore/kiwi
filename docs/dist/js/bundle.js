@@ -11772,11 +11772,21 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
   var pageExtension = ".html";
   var url = new URL(location.href);
   window.addEventListener('load', function () {
-    if (url.pathname == '/search.html') displaySearchResult();else {
+    if (url.pathname == '/search.html') {
+      displaySearchResult();
+    } else {
       axios.get(location.href)["catch"](function () {
         return redirectToSourceSite();
       });
     }
+
+    document.querySelector('#search-form').addEventListener('submit', function (event) {
+      var searchString = encodeURIComponent(document.querySelector('#search-input').value); // console.log('/search.html?search=' + searchString)
+
+      location.href = '/search.html?search=' + searchString;
+      event.preventDefault();
+      return false;
+    });
   });
 
   var redirectToSourceSite = function redirectToSourceSite() {
@@ -11790,49 +11800,55 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
 
   var displaySearchResult = /*#__PURE__*/function () {
     var _ref = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
-      var gotoResult, searchResult, searchString, pageUrl, _yield$axios$get, _data, searchWords, searches, data, words;
+      var searchInput, gotoResult, searchResult, searchString, pageUrl, _yield$axios$get, _data, h2, searchWords, searches, data, p, words;
 
       return regeneratorRuntime.wrap(function _callee$(_context) {
         while (1) {
           switch (_context.prev = _context.next) {
             case 0:
+              searchInput = document.querySelector('#search-input');
               gotoResult = document.querySelector('#goto-result');
               searchResult = document.querySelector('#search-result');
               searchString = decodeURIComponent(url.searchParams.get('search') || '').toLocaleLowerCase();
-              _context.prev = 3;
+              searchInput.value = searchString;
+              _context.prev = 5;
               pageUrl = getPageUrl(searchString);
-              _context.next = 7;
+              _context.next = 9;
               return axios.get(pageUrl);
 
-            case 7:
+            case 9:
               _yield$axios$get = _context.sent;
               _data = _yield$axios$get.data;
-              if (_data) gotoResult.innerHTML = '<h2>文書名 一致: <a href="' + pageUrl + '">' + searchString + '</a><h2>';
-              _context.next = 14;
+              h2 = document.createElement('h2');
+              h2.innerHTML = "\u6587\u66F8\u540D \u4E00\u81F4: <a href=\"".concat(pageUrl, "\">").concat(searchString, "</a>");
+              if (_data) gotoResult.appendChild(h2);
+              _context.next = 18;
               break;
 
-            case 12:
-              _context.prev = 12;
-              _context.t0 = _context["catch"](3);
+            case 16:
+              _context.prev = 16;
+              _context.t0 = _context["catch"](5);
 
-            case 14:
+            case 18:
               searchWords = searchString.split(/\s+/);
-              _context.next = 17;
+              _context.next = 21;
               return Promise.all(searchWords.map(search));
 
-            case 17:
+            case 21:
               searches = _context.sent;
               data = searches.reduceRight(reduceSearchResultAnd);
 
               if (data) {
-                _context.next = 22;
+                _context.next = 28;
                 break;
               }
 
-              if (gotoResult.innerHTML != '') gotoResult.innerHTML = '結果가 없습니다.';
+              p = document.createElement('p');
+              p.innerHTML = '結果가 없습니다.';
+              searchResult.appendChild(p);
               return _context.abrupt("return");
 
-            case 22:
+            case 28:
               words = _typeof(data.word) === 'object' ? data.word : [data.word];
               data.pages.forEach(function (entry) {
                 var title = entry.title;
@@ -11849,12 +11865,12 @@ function _readOnlyError(name) { throw new TypeError("\"" + name + "\" is read-on
                 searchResult.appendChild(div);
               });
 
-            case 24:
+            case 30:
             case "end":
               return _context.stop();
           }
         }
-      }, _callee, null, [[3, 12]]);
+      }, _callee, null, [[5, 16]]);
     }));
 
     return function displaySearchResult() {
