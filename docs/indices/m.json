@@ -42,11 +42,6 @@
       "count": 5
     },
     {
-      "title": "朝鮮民主主義人民共和國",
-      "surrounding": "面積(면적) 120 540km2 時間帶(시간대) ... yì rén mín gòng",
-      "count": 4
-    },
-    {
       "title": "中華人民共和國",
       "surrounding": "9 634 057km2 時間帶(시간대) ... waa4 jan4 man4 gung6",
       "count": 3
@@ -184,6 +179,11 @@
     {
       "title": "日本帝國",
       "surrounding": "面積(면적) 675 400km^2 時間帶(시간대)",
+      "count": 1
+    },
+    {
+      "title": "朝鮮民主主義人民共和國",
+      "surrounding": "面積(면적) 120 540km² 時間帶(시간대)",
       "count": 1
     },
     {
