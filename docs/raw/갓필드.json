@@ -1,8 +1,11 @@
 {
   "title": "갓필드",
   "namespace": 0,
-  "timestamp": 1612518823000,
-  "categories": [],
+  "timestamp": 1612556359000,
+  "categories": [
+    "온라인 게임",
+    "웹 게임"
+  ],
   "members": [],
   "file": null
 }
