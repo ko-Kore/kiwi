@@ -7,11 +7,6 @@
       "count": 2
     },
     {
-      "title": "新臺幣",
-      "surrounding": "코드 TWD 記號(기호) NT$ ... '圓(원)' 或(혹)은 記號(기호)인 'NT$'로",
-      "count": 2
-    },
-    {
       "title": "美國달러",
       "surrounding": "코드 USD 記號(기호) ＄ ... USD이며 美國(미국)內(내)에서는主(주)로 記號(기호)인＄로表記(표기)되고 口語(구어)로는'dollar(s)'或(혹)은",
       "count": 2
@@ -24,6 +19,11 @@
     {
       "title": "國語",
       "surrounding": "注音(주음)'이 이것의 發音記號(발음기호)를 뜻한다",
+      "count": 1
+    },
+    {
+      "title": "新臺幣",
+      "surrounding": "코드 TWD 記號(기호) NT$",
       "count": 1
     }
   ]
