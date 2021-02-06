@@ -110,12 +110,12 @@
 <tbody><tr>
 <th>제목
 </th>
-<td><ruby class="hanja grade32"><rb>超異域公主連結</rb><rp>(</rp><rt>초이역공주련결</rt><rp>)</rp></ruby>！ReDive
+<td><ruby class="hanja grade32"><rb>超異域公主連結</rb><rp>(</rp><rt>초이역공주연결</rt><rp>)</rp></ruby>☆Re:Dive
 </td></tr>
 <tr>
 <th><ruby class="hanja grade52"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby>
 </th>
-<td>So-net Entertainment Taiwan
+<td><ruby class="hanja grade0"><rb>台灣碩網網路娛樂股份有限公司</rb><rp>(</rp><rt>태만석망망로오락고빈유한공사</rt><rp>)</rp></ruby> <br> So-net Entertainment Taiwan Limited
 </td></tr>
 <tr>
 <th>등급
@@ -133,7 +133,7 @@
 <tbody><tr>
 <th><a href="/index.php?title=%E9%A1%8C%E7%9B%AE&amp;action=edit&amp;redlink=1" class="new" title="題目 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby></a>
 </th>
-<td><ruby class="hanja grade0"><rb>公主连结</rb><rp>(</rp><rt>공주련결</rt><rp>)</rp></ruby> Re:Dive <br> gōng zhǔ lián jié Re&nbsp;: Dive
+<td><ruby class="hanja grade0"><rb>公主连结</rb><rp>(</rp><rt>공주련결</rt><rp>)</rp></ruby> Re:Dive <br> gōngzhǔ liánjié
 </td></tr>
 <tr>
 <th><a href="/index.php?title=%E6%B5%81%E9%80%9A&amp;action=edit&amp;redlink=1" class="new" title="流通 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby></a>
@@ -155,7 +155,7 @@
 <tr>
 <th><ruby class="hanja grade52"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=Ini3_games&amp;action=edit&amp;redlink=1" class="new" title="Ini3 games (없는 문서)">ini3 games</a>
+<td>บริษัท อินิทรี ดิจิตอล จำกัด (มหาชน) <br> Ini3 Digital PLC.
 </td></tr>
 <tr>
 <th>사이트
