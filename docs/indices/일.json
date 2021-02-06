@@ -137,6 +137,11 @@
       "count": 7
     },
     {
+      "title": "世界人權宣言",
+      "surrounding": "3 1 第一條(제일조) 3 ... 權利(권리)를 가진다 第十一條(제십일조)[편집] 1",
+      "count": 7
+    },
+    {
       "title": "使用者:南宮 四歲",
       "surrounding": "略稱(약칭) 귀엽당 創黨日(창당일) 2020年(년) ... 하겠습니다 吾(오)는 一切(일절) 辱說(욕설)을",
       "count": 7
@@ -200,11 +205,6 @@
       "title": "프린세스 커넥트! Re:Dive",
       "surrounding": "(DMM)[1] 等級(등급) 日本(일본) - ... [6] ↑ 日本(일본)서버 限定(한정)",
       "count": 6
-    },
-    {
-      "title": "世界人權宣言",
-      "surrounding": "3 1 第一條(제일조) 3 ... 어떤 形態(형태)로든 一切(일절) 禁止(금지)한다",
-      "count": 5
     },
     {
       "title": "中華人民共和國",
@@ -1048,6 +1048,11 @@
     },
     {
       "title": "파일:08 galaxys10 front white.jpg",
+      "surrounding": "파일의 설명[편집]",
+      "count": 1
+    },
+    {
+      "title": "파일:13 galaxys10e front white.jpg",
       "surrounding": "파일의 설명[편집]",
       "count": 1
     },
