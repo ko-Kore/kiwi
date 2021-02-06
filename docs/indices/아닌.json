@@ -17,6 +17,11 @@
       "count": 1
     },
     {
+      "title": "假名",
+      "surrounding": "같이 本名(본명)이 아닌 가짜",
+      "count": 1
+    },
+    {
       "title": "固有語",
       "surrounding": "漢字語(한자어)나 外來語(외래어)가 아닌 낱말을",
       "count": 1
