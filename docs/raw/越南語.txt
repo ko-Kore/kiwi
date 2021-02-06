@@ -23,7 +23,7 @@
 <td><ruby class="hanja grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby> (<a href="/wiki/%E6%AD%A3%E9%AB%94" title="正體"><ruby class="hanja grade62"><rb>正體</rb><rp>(</rp><rt>정체</rt><rp>)</rp></ruby></a>)<br><ruby class="hanja grade0"><rb>越南语</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby> (<a href="/wiki/%E7%B0%A1%E9%AB%94" class="mw-redirect" title="簡體"><ruby class="hanja grade40"><rb>簡體</rb><rp>(</rp><rt>간체</rt><rp>)</rp></ruby></a>)
 </td>
 <td>ㄩㄝˋ ㄋㄢˊ ㄩˇ
-<p>(<a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> 주음)<br>Yuè Nán Yǔ (<a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> 병음)
+<p>(<a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>注音</rb><rp>(</rp><rt>주음</rt><rp>)</rp></ruby>)<br>Yuènányǔ (<a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> <ruby class="hanja grade0"><rb>拼音</rb><rp>(</rp><rt>평음</rt><rp>)</rp></ruby>)
 </p>
 </td></tr>
 <tr>
