@@ -67,6 +67,11 @@
       "count": 4
     },
     {
+      "title": "中國語 入力方式",
+      "surrounding": "方法(방법)이다 例示(예시)로 'zhong' 이라고 ... 나오는 IME는 'zg' 라고만",
+      "count": 3
+    },
+    {
       "title": "五",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) ng6(白(백) ɦŋ¹¹³) ... 𡨸國語(자국어) : ngũ ↑",
       "count": 3
@@ -124,11 +129,6 @@
     {
       "title": "中國語",
       "surrounding": "越南語(월남어) 㗂中國(생중국) Tiếng trung ... 㗂中國(생중국) Tiếng trung quốc",
-      "count": 2
-    },
-    {
-      "title": "中國語 入力方式",
-      "surrounding": "方法(방법)이다 예시로 zhong 이라고 ... 나온다 그외에도 zg 라고",
       "count": 2
     },
     {
