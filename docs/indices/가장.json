@@ -60,6 +60,11 @@
       "title": "미디어위키",
       "surrounding": "백도 있어서 가장 넓은",
       "count": 1
+    },
+    {
+      "title": "인피니티 디스플레이",
+      "surrounding": "숨기는 것이 가장 어려운",
+      "count": 1
     }
   ]
 }
