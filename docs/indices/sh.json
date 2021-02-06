@@ -72,13 +72,13 @@
       "count": 1
     },
     {
-      "title": "少女前線",
-      "surrounding": "(國語(국어) 注音(주음)) shăonǚ qiánxiàn",
+      "title": "山",
+      "surrounding": "拼音(평음) : shān 國語(국어)",
       "count": 1
     },
     {
-      "title": "山",
-      "surrounding": "拼音(평음) : shān 國語(국어)",
+      "title": "日本語 入力方式",
+      "surrounding": "'か'가 나오고 'sha'는 'しゃ'가",
       "count": 1
     },
     {
@@ -92,11 +92,6 @@
       "count": 1
     },
     {
-      "title": "갓필드",
-      "surrounding": "眞劍五人戰(진검오인전)(3～5人(인)의人數(인수)로個人戰(개인전))이다 ↑ HTML版公開前(판공개전)에는Flash를使用(사용)하였다 ",
-      "count": 1
-    },
-    {
       "title": "님의代",
       "surrounding": "great rocks shall grow",
       "count": 1
@@ -104,6 +99,11 @@
     {
       "title": "마인크래프트",
       "surrounding": "wǒ dí shì jiè",
+      "count": 1
+    },
+    {
+      "title": "파일:중국어 타자기- 한어병음.png",
+      "surrounding": "라이선스[편집] 틀:PD-shape ",
       "count": 1
     }
   ]
