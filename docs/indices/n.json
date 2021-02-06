@@ -27,16 +27,6 @@
       "count": 19
     },
     {
-      "title": "中華人民共和國",
-      "surrounding": "(國語(국어) 注音(주음)) Zhōnghuá Rénmín ... Nhân dân Trung Hoa",
-      "count": 11
-    },
-    {
-      "title": "國歌",
-      "surrounding": "义勇军进行曲(의용군진행곡) yì yǒng jūn ... seɪv ðə kwiːn 女王陛下萬歲(여왕폐하만세)",
-      "count": 11
-    },
-    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "Wǒ ài Běijīng Tiān’ānmén ... wǒmen xiàng qiánjìn 우리를",
       "count": 11
@@ -54,6 +44,11 @@
     {
       "title": "中",
       "surrounding": "병음 : zhōng zhòng ... trung trúng đúng ↑",
+      "count": 9
+    },
+    {
+      "title": "國歌",
+      "surrounding": "中華人民共和國(중화인민공화국) 义勇军进行曲(의용군진행곡) yìyǒngjūn jìnxíngqǔ ... seɪv ðə kwiːn 女王陛下萬歲(여왕폐하만세)",
       "count": 9
     },
     {
@@ -224,11 +219,6 @@
     {
       "title": "圓 (日本)",
       "surrounding": "로마字(자) 表記法(표기법) Yen ISO ... 原語(원어)의發音(발음)인 '엔'과는달리 'Yen'(옌)이라表記(표기)한다 이는",
-      "count": 2
-    },
-    {
-      "title": "外",
-      "surrounding": "吳語(오어)[편집] 上海語(상해어) nga6 (ŋɑ̈¹¹³) ... (ŋɑ̈¹¹³) 蘇州語(소주어) nga6 (～头(두)",
       "count": 2
     },
     {
@@ -423,7 +413,7 @@
     },
     {
       "title": "韓國語",
-      "surrounding": "高麗(고려)에서由來(유래)한 Korea에서나온 'Korean'이라는 名稱(명칭)을",
+      "surrounding": "高麗(고려)에서由來(유래)한 Korea에서나온 Korean이라는 名稱(명칭)을",
       "count": 1
     },
     {

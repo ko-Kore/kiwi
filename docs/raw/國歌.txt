@@ -43,7 +43,7 @@
 </th>
 <td><a href="/index.php?title=%E7%BE%A9%E5%8B%87%E8%BB%8D%E9%80%B2%E8%A1%8C%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="義勇軍進行曲 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>义勇军进行曲</rb><rp>(</rp><rt>의용군진행곡</rt><rp>)</rp></ruby></a>
 </td>
-<td>yì yǒng jūn jìn xíng qū
+<td>yìyǒngjūn jìnxíngqǔ
 </td>
 <td><ruby class="hanja grade42"><rb>義勇軍</rb><rp>(</rp><rt>의용군</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>行進曲</rb><rp>(</rp><rt>행진곡</rt><rp>)</rp></ruby>
 </td></tr>
