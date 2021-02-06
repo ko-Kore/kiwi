@@ -212,11 +212,6 @@
       "count": 2
     },
     {
-      "title": "갤럭시 S10",
-      "surrounding": "갤럭시 S10 Lite 4 ... 갤럭시 S10 Lite[편집] 其他(기타)[편집]",
-      "count": 2
-    },
-    {
       "title": "마인크래프트",
       "surrounding": "勸奬仕樣(권장사양) CPU Intel Core ... A8-7600 APU Intel Core",
       "count": 2
@@ -379,6 +374,11 @@
     {
       "title": "龍王이 하는 일!",
       "surrounding": "川井憲次(천정헌차) 漫畵映畵(만화영화)制作(제작) project No",
+      "count": 1
+    },
+    {
+      "title": "갤럭시 S10",
+      "surrounding": "갤럭시 S10 Lite 其他(기타)[편집]",
       "count": 1
     },
     {

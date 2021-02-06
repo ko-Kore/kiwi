@@ -257,11 +257,6 @@
       "count": 2
     },
     {
-      "title": "갤럭시 S10",
-      "surrounding": "갤럭시 S10 Lite 4 ... 갤럭시 S10 Lite[편집] 其他(기타)[편집]",
-      "count": 2
-    },
-    {
       "title": "고양이",
       "surrounding": "貓(묘) 學名(학명): Felis catus ... Felis catus Linnaeus 1758",
       "count": 2
@@ -409,6 +404,11 @@
     {
       "title": "갓필드",
       "surrounding": "會員加入(회원가입)은 不要(불요) iOS와 안드로이드用(용)",
+      "count": 1
+    },
+    {
+      "title": "갤럭시 S10",
+      "surrounding": "갤럭시 S10 Lite 其他(기타)[편집]",
       "count": 1
     },
     {
