@@ -57,7 +57,7 @@
 <ul><li><ruby class="hanja grade72"><rb>國內</rb><rp>(</rp><rt>국내</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade60"><rb>國交</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby></li>
 <li><a href="/wiki/%E5%9C%8B%E5%AE%B6" title="國家"><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby></a></li>
-<li><ruby class="hanja grade62"><rb>公和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></li></ul>
 <h2><span id="日本語"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.AA.9E"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B&amp;action=edit&amp;section=3" title="부분 편집: 日本語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
