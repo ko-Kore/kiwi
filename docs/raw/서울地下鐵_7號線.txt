@@ -1,0 +1,6 @@
+<html><head></head><body><div class="mw-parser-output"><p>서울지하철7호선은 경기도의정부시장암동121의 장암역에서 서울시도봉산,노원,건대입구,논현,대림,광면시천왕,온수,부천시춘의,부천시청을가로지르며 인천광역시부평구의 부평구청역까지의노선합니다.
+</p>
+<h2><span id="路線情報(노선정보)"></span><span class="mw-headline" id=".E8.B7.AF.E7.B7.9A.E6.83.85.E5.A0.B1.28.EB.85.B8.EC.84.A0.EC.A0.95.EB.B3.B4.29"><ruby class="hanja grade42"><rb>路線情報</rb><rp>(</rp><rt>노선정보</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%84%9C%EC%9A%B8%E5%9C%B0%E4%B8%8B%E9%90%B5_7%E8%99%9F%E7%B7%9A&amp;action=edit&amp;section=1" title="부분 편집: 路線情報(노선정보)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>서울지하철7호선은 서울중심부을 <ruby class="hanja grade42"><rb>直接通過</rb><rp>(</rp><rt>직접통과</rt><rp>)</rp></ruby>않고 <ruby class="hanja grade50"><rb>都市中心部</rb><rp>(</rp><rt>도시중심부</rt><rp>)</rp></ruby>에서오고 <ruby class="hanja grade60"><rb>路線</rb><rp>(</rp><rt>노선</rt><rp>)</rp></ruby>에<ruby class="hanja grade0"><rb>接続</rb><rp>(</rp><rt>접속</rt><rp>)</rp></ruby>하고
+</p>
+</div></body></html>
