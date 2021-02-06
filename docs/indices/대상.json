@@ -62,11 +62,6 @@
       "count": 1
     },
     {
-      "title": "圓 (日本)",
-      "surrounding": "넘겨줄 대상:日本圓 ",
-      "count": 1
-    },
-    {
       "title": "大局將棋",
       "surrounding": "吼犬(후견) 貊犬(맥견) 大象(대상) 犬(견)",
       "count": 1
@@ -74,6 +69,11 @@
     {
       "title": "大日本帝國",
       "surrounding": "넘겨줄 대상:日本帝國 ",
+      "count": 1
+    },
+    {
+      "title": "大韓民國 원",
+      "surrounding": "넘겨줄 대상:원 (大韓民國)",
       "count": 1
     },
     {
@@ -104,6 +104,11 @@
     {
       "title": "日圓",
       "surrounding": "넘겨줄 대상:日本圓 ",
+      "count": 1
+    },
+    {
+      "title": "日本圓",
+      "surrounding": "넘겨줄 대상:圓 (日本)",
       "count": 1
     },
     {
@@ -249,6 +254,11 @@
     {
       "title": "언어",
       "surrounding": "넘겨줄 대상:言語 ",
+      "count": 1
+    },
+    {
+      "title": "원",
+      "surrounding": "넘겨줄 대상:원 (大韓民國)",
       "count": 1
     },
     {

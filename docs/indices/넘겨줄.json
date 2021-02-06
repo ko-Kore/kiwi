@@ -47,13 +47,13 @@
       "count": 1
     },
     {
-      "title": "圓 (日本)",
-      "surrounding": "넘겨줄 대상:日本圓",
+      "title": "大日本帝國",
+      "surrounding": "넘겨줄 대상:日本帝國",
       "count": 1
     },
     {
-      "title": "大日本帝國",
-      "surrounding": "넘겨줄 대상:日本帝國",
+      "title": "大韓民國 원",
+      "surrounding": "넘겨줄 대상:원",
       "count": 1
     },
     {
@@ -84,6 +84,11 @@
     {
       "title": "日圓",
       "surrounding": "넘겨줄 대상:日本圓",
+      "count": 1
+    },
+    {
+      "title": "日本圓",
+      "surrounding": "넘겨줄 대상:圓",
       "count": 1
     },
     {
@@ -214,6 +219,11 @@
     {
       "title": "언어",
       "surrounding": "넘겨줄 대상:言語",
+      "count": 1
+    },
+    {
+      "title": "원",
+      "surrounding": "넘겨줄 대상:원",
       "count": 1
     },
     {

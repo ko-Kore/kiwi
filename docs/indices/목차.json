@@ -197,6 +197,11 @@
       "count": 1
     },
     {
+      "title": "圓 (日本)",
+      "surrounding": "記號(기호) ￥ 목차 1",
+      "count": 1
+    },
+    {
       "title": "土",
       "surrounding": "語文會(어문회) 8級(급) 목차 1",
       "count": 1
@@ -319,11 +324,6 @@
     {
       "title": "日本",
       "surrounding": "國際電話番號(국제전화번호) 81 목차 1",
-      "count": 1
-    },
-    {
-      "title": "日本圓",
-      "surrounding": "記號(기호) ￥ 목차 1",
       "count": 1
     },
     {
@@ -759,11 +759,6 @@
     {
       "title": "우타이테",
       "surrounding": "목차 1",
-      "count": 1
-    },
-    {
-      "title": "원",
-      "surrounding": "記號(기호) ￦ 목차 1",
       "count": 1
     },
     {
