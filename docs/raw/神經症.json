@@ -1,8 +1,10 @@
 {
   "title": "神經症",
   "namespace": 0,
-  "timestamp": 1612669915000,
-  "categories": [],
+  "timestamp": 1612673478000,
+  "categories": [
+    "精神疾患"
+  ],
   "members": [],
   "file": null
 }
