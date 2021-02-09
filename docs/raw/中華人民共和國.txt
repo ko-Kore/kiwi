@@ -36,7 +36,7 @@
 <tr>
 <th><a href="/wiki/%E5%9C%8B%E6%AD%8C" title="國歌"><ruby class="hanja grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby></a>
 </th>
-<td><a href="/index.php?title=%E7%BE%A9%E5%8B%87%E8%BB%8D%E9%80%B2%E8%A1%8C%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="義勇軍進行曲 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>義勇軍進行曲</rb><rp>(</rp><rt>의용군진행곡</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E7%BE%A9%E5%8B%87%E8%BB%8D%E9%80%B2%E8%A1%8C%E6%9B%B2" title="義勇軍進行曲"><ruby class="hanja grade42"><rb>義勇軍進行曲</rb><rp>(</rp><rt>의용군진행곡</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th colspan="99"><a href="/index.php?title=%E6%94%BF%E6%B2%BB&amp;action=edit&amp;redlink=1" class="new" title="政治 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby></a>
@@ -136,7 +136,7 @@
 <td>
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E8%B2%A8%E5%BC%8A&amp;action=edit&amp;redlink=1" class="new" title="貨弊 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>貨弊</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby></a>
+<th><a href="/index.php?title=%E8%B2%A8%E5%B9%A3&amp;action=edit&amp;redlink=1" class="new" title="貨幣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby></a>
 </th>
 <td><a href="/index.php?title=%E4%BA%BA%E6%B0%91%E5%B9%A3&amp;action=edit&amp;redlink=1" class="new" title="人民幣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>人民幣</rb><rp>(</rp><rt>인민폐</rt><rp>)</rp></ruby></a>（CNY）
 </td></tr></tbody></table>
