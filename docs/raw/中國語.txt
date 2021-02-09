@@ -8,7 +8,7 @@
 <tr>
 <th><ruby class="hanja grade60"><rb>使用國家</rb><rp>(</rp><rt>사용국가</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a> <br> <a href="/index.php?title=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="中華民國 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a> <br> <a href="/index.php?title=%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4&amp;action=edit&amp;redlink=1" class="new" title="싱가포르 (없는 문서)">싱가포르</a> <br> <a href="/index.php?title=%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="말레이시아 (없는 문서)">말레이시아</a> <ruby class="hanja grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby>
+<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a> <br> <a href="/index.php?title=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="中華民國 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a> <br> <ruby class="hanja grade10"><rb>新嘉坡</rb><rp>(</rp><rt>신가파</rt><rp>)</rp></ruby> <br> <a href="/index.php?title=%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="말레이시아 (없는 문서)">말레이시아</a> <ruby class="hanja grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>
