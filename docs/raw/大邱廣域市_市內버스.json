@@ -1,8 +1,11 @@
 {
   "title": "大邱廣域市 市內버스",
   "namespace": 0,
-  "timestamp": 1613056611000,
-  "categories": [],
+  "timestamp": 1613095108000,
+  "categories": [
+    "市內버스",
+    "大邱廣域市"
+  ],
   "members": [],
   "file": null
 }
