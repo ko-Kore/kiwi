@@ -10,6 +10,12 @@
 <li class="toclevel-2 tocsection-7"><a href="#.E6.98.9F.E6.B8.AF.28.EC.84.B1.ED.95.AD.29"><span class="tocnumber">2.5</span> <span class="toctext">星港(성항)</span></a></li>
 </ul>
 </li>
+<li class="toclevel-1 tocsection-8"><a href="#.E5.9C.8B.E5.AE.B6.E5.88.A5.28.EA.B5.AD.EA.B0.80.EB.B3.84.29_.E6.BC.A2.E5.AD.97.28.ED.95.9C.EC.9E.90.29_.E5.B7.AE.E7.95.B0.E7.82.B9.28.EC.B0.A8.EC.9D.B4.EC.A0.90.29"><span class="tocnumber">3</span> <span class="toctext">國家別(국가별) 漢字(한자) 差異点(차이점)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#.E5.AD.97.E5.BD.A2.28.EC.9E.90.ED.98.95.29"><span class="tocnumber">3.1</span> <span class="toctext">字形(자형)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.EA.B0.99.EC.9D.80.E6.BC.A2.E5.AD.97.28.ED.95.9C.EC.9E.90.29.EC.9D.B4.EB.82.98_.EB.8B.A4.EB.A5.B8_.E6.84.8F.E5.91.B3.28.EC.9D.98.EB.AF.B8.29.EB.A5.BC_.EA.B0.80.EC.A7.84_.EA.B2.BD.EC.9A.B0"><span class="tocnumber">3.2</span> <span class="toctext">같은漢字(한자)이나 다른 意味(의미)를 가진 경우</span></a></li>
+</ul>
+</li>
 </ul>
 </div>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%BC%A2%E5%AD%97%E6%96%87%E5%8C%96%E5%9C%88&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -194,4 +200,56 @@
 <td style="text-align: center;"><span class="noruby"><ruby><rb><ruby class="hanja grade0"><rb>汉字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></rb><rp>(</rp><rt>Hànzì</rt><rp>)</rp></ruby></span>
 </td></tr>
 </tbody></table>
+<h2><span id="國家別(국가별)_漢字(한자)_差異点(차이점)"></span><span class="mw-headline" id=".E5.9C.8B.E5.AE.B6.E5.88.A5.28.EA.B5.AD.EA.B0.80.EB.B3.84.29_.E6.BC.A2.E5.AD.97.28.ED.95.9C.EC.9E.90.29_.E5.B7.AE.E7.95.B0.E7.82.B9.28.EC.B0.A8.EC.9D.B4.EC.A0.90.29"><ruby class="hanja grade60"><rb>國家別</rb><rp>(</rp><rt>국가별</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>差異点</rb><rp>(</rp><rt>차이점</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%BC%A2%E5%AD%97%E6%96%87%E5%8C%96%E5%9C%88&amp;action=edit&amp;section=8" title="부분 편집: 國家別(국가별) 漢字(한자) 差異点(차이점)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="字形(자형)"></span><span class="mw-headline" id=".E5.AD.97.E5.BD.A2.28.EC.9E.90.ED.98.95.29"><ruby class="hanja grade62"><rb>字形</rb><rp>(</rp><rt>자형</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%BC%A2%E5%AD%97%E6%96%87%E5%8C%96%E5%9C%88&amp;action=edit&amp;section=9" title="부분 편집: 字形(자형)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>같은 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>여도 나라별로 <ruby class="hanja grade62"><rb>字形</rb><rp>(</rp><rt>자형</rt><rp>)</rp></ruby>이 다르다.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<td><ruby class="hanja grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade0"><rb>亜</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade0"><rb>亚</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja grade40"><rb>鬪</rb><rp>(</rp><rt>투</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+<td><ruby class="hanja grade0"><rb>闘</rb><rp>(</rp><rt>투</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade42"><rb>斗</rb><rp>(</rp><rt>두</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja grade40"><rb>歸</rb><rp>(</rp><rt>귀</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade0"><rb>帰</rb><rp>(</rp><rt>귀</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade0"><rb>归</rb><rp>(</rp><rt>귀</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<h3><span id="같은漢字(한자)이나_다른_意味(의미)를_가진_경우"></span><span class="mw-headline" id=".EA.B0.99.EC.9D.80.E6.BC.A2.E5.AD.97.28.ED.95.9C.EC.9E.90.29.EC.9D.B4.EB.82.98_.EB.8B.A4.EB.A5.B8_.E6.84.8F.E5.91.B3.28.EC.9D.98.EB.AF.B8.29.EB.A5.BC_.EA.B0.80.EC.A7.84_.EA.B2.BD.EC.9A.B0">같은<ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>이나 다른 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>를 가진 경우</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%BC%A2%E5%AD%97%E6%96%87%E5%8C%96%E5%9C%88&amp;action=edit&amp;section=10" title="부분 편집: 같은漢字(한자)이나 다른 意味(의미)를 가진 경우">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>같은 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>여도 나라별로 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>가 다른경우가 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>한다.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></th>
+<th><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<td><ruby class="hanja grade72"><rb>火車</rb><rp>(</rp><rt>화차</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade42"><rb>武器火車</rb><rp>(</rp><rt>무기화차</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade20"><rb>妖怪</rb><rp>(</rp><rt>요괴</rt><rp>)</rp></ruby></td>
+<td><a href="/index.php?title=%E5%88%97%E8%BB%8A&amp;action=edit&amp;redlink=1" class="new" title="列車 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>列車</rb><rp>(</rp><rt>열차</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td><ruby class="hanja grade62"><rb>發現</rb><rp>(</rp><rt>발현</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade62"><rb>發現</rb><rp>(</rp><rt>발현</rt><rp>)</rp></ruby>하다.</td>
+<td><ruby class="hanja grade62"><rb>發現</rb><rp>(</rp><rt>발현</rt><rp>)</rp></ruby>하다.</td>
+<td><ruby class="hanja grade52"><rb>發見</rb><rp>(</rp><rt>발견</rt><rp>)</rp></ruby>
+</td></tr>
+</tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja grade60"><rb>本字</rb><rp>(</rp><rt>본자</rt><rp>)</rp></ruby>는<ruby class="hanja grade0"><rb>鬭</rb><rp>(</rp><rt>투</rt><rp>)</rp></ruby></span>
+</li>
+</ol></div>
 </div></body></html>
