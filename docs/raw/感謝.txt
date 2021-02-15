@@ -49,5 +49,5 @@
 <li>9. 이제서야</li>
 <li>10. 사랑하지 않으니까요</li>
 <li>11. <ruby class="hanja grade32"><rb>欲心</rb><rp>(</rp><rt>욕심</rt><rp>)</rp></ruby>쟁이</li>
-<li>12. <ruby class="hanja grade32"><rb>殘響</rb><rp>(</rp><rt>잔향</rt><rp>)</rp></ruby></li></ul>
+<li>12. 잔향</li></ul>
 </div></body></html>
