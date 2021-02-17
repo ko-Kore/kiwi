@@ -62,14 +62,14 @@
       "count": 5
     },
     {
-      "title": "軍歌",
-      "surrounding": "(國語(국어) 注音(주음)) jūngē (普通話(보통화) ... jūn jūn gē 중국인민해방군가",
-      "count": 5
-    },
-    {
       "title": "프린세스 커넥트! Re:Dive",
       "surrounding": "Re:Dive 開發(개발) Cygames (게임製作(제작)) ... (มหาชน) Ini3 Digital PLC",
       "count": 5
+    },
+    {
+      "title": "軍歌",
+      "surrounding": "中国人民解放军军歌(중국인민해방군군가) (簡體(간체)) zhōng guó ... jūn jūn gē 중국인민해방군가",
+      "count": 4
     },
     {
       "title": "中國語 入力方式",
