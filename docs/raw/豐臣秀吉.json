@@ -1,8 +1,11 @@
 {
   "title": "豐臣秀吉",
   "namespace": 0,
-  "timestamp": 1613535284000,
-  "categories": [],
+  "timestamp": 1613540509000,
+  "categories": [
+    "壬辰倭亂",
+    "丁酉再亂"
+  ],
   "members": [],
   "file": null
 }
