@@ -210,6 +210,13 @@
 <td colspan="2" style="text-align: center;"><ruby class="hanja grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja grade32"><rb>項</rb><rp>(</rp><rt>항</rt><rp>)</rp></ruby> ㄱ<ruby class="hanja grade60"><rb>目</rb><rp>(</rp><rt>목</rt><rp>)</rp></ruby>
 </td>
 <td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade20"><rb>第一款子項</rb><rp>(</rp><rt>제일관자항</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<td>line A–B
+</td>
+<td colspan="2" style="text-align: center;">가—나<ruby class="hanja grade62"><rb>線</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby>
+</td>
+<td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade40"><rb>甲</rb><rp>(</rp><rt>갑</rt><rp>)</rp></ruby>—<ruby class="hanja grade32"><rb>乙線</rb><rp>(</rp><rt>을선</rt><rp>)</rp></ruby></span>
 </td></tr></tbody></table>
 <h2><span id="第(제)1卷(권)_協定文本(협정문본)"></span><span class="mw-headline" id=".E7.AC.AC.28.EC.A0.9C.291.E5.8D.B7.28.EA.B6.8C.29_.E5.8D.94.E5.AE.9A.E6.96.87.E6.9C.AC.28.ED.98.91.EC.A0.95.EB.AC.B8.EB.B3.B8.29"><ruby class="hanja grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja grade40"><rb>卷</rb><rp>(</rp><rt>권</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>協定文本</rb><rp>(</rp><rt>협정문본</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%9F%93%E5%9C%8B%E5%81%9C%E6%88%B0%E5%8D%94%E5%AE%9A&amp;action=edit&amp;section=4" title="부분 편집: 第(제)1卷(권) 協定文本(협정문본)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="notice" style="overflow: hidden; padding: 15px; margin: 15px 0px; border: 3px solid #888; background-color: #eee;border-radius: 4px;"><div style="">
