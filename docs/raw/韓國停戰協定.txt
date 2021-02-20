@@ -107,6 +107,13 @@
 <td><span class="noruby"><ruby class="hanja grade52"><rb>朝鮮</rb><rp>(</rp><rt>조선</rt><rp>)</rp></ruby></span>
 </td></tr>
 <tr>
+<td>Korean</td>
+<td><ruby class="hanja grade70"><rb>韓國文</rb><rp>(</rp><rt>한국문</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade52"><rb>朝鮮文</rb><rp>(</rp><rt>조선문</rt><rp>)</rp></ruby></td>
+<td><span class="noruby"><ruby class="hanja grade70"><rb>韓文</rb><rp>(</rp><rt>한문</rt><rp>)</rp></ruby></span></td>
+<td><span class="noruby"><ruby class="hanja grade60"><rb>朝文</rb><rp>(</rp><rt>조문</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
 <td>United Nations Command</td>
 <td><ruby class="hanja grade0"><rb><span class="noruby"><ruby class="hanja grade32"><rb>國際聯合軍</rb><rp>(</rp><rt>국제연합군</rt><rp>)</rp></ruby></span></rb><rp>(</rp><rt>국제련합군</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja grade0"><rb><span class="noruby"><ruby class="hanja grade32"><rb>聯合國軍</rb><rp>(</rp><rt>연합국군</rt><rp>)</rp></ruby></span></rb><rp>(</rp><rt>련합국군</rt><rp>)</rp></ruby>
@@ -147,6 +154,41 @@
 <td><ruby class="hanja grade42"><rb>職級</rb><rp>(</rp><rt>직급</rt><rp>)</rp></ruby>(<ruby class="hanja grade60"><rb>別</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby>)
 </td>
 <td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade60"><rb>級別</rb><rp>(</rp><rt>급별</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<td>Kim Il Sung
+</td>
+<td colspan="2" style="text-align: center;"><ruby class="hanja grade0"><rb><span class="noruby"><ruby class="hanja grade62"><rb>金日成</rb><rp>(</rp><rt>금일성</rt><rp>)</rp></ruby></span></rb><rp>(</rp><rt>김일성</rt><rp>)</rp></ruby>
+</td>
+<td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade62"><rb>金日成</rb><rp>(</rp><rt>금일성</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<td>Peng Teh-huai
+</td>
+<td colspan="2" style="text-align: center;"><ruby class="hanja grade12"><rb>彭德懷</rb><rp>(</rp><rt>팽덕회</rt><rp>)</rp></ruby>
+</td>
+<td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade12"><rb>彭德懷</rb><rp>(</rp><rt>팽덕회</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<td>Mark W. Clark</td>
+<td>마ー크 더불유. 클라크</td>
+<td>마ー크·더불유·클라크
+</td>
+<td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade32"><rb>馬克</rb><rp>(</rp><rt>마극</rt><rp>)</rp></ruby>·<ruby class="hanja grade20"><rb>克拉克</rb><rp>(</rp><rt>극랍극</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<td>Nam Il
+</td>
+<td colspan="2" style="text-align: center;"><ruby class="hanja grade80"><rb>南日</rb><rp>(</rp><rt>남일</rt><rp>)</rp></ruby>
+</td>
+<td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade80"><rb>南日</rb><rp>(</rp><rt>남일</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<td>William K. Harrison, Jr.</td>
+<td>윌리암 케이. 해리슨</td>
+<td>윌리암·케이·해리슨
+</td>
+<td colspan="2" style="text-align: center;"><span class="noruby"><ruby class="hanja grade30"><rb>威廉</rb><rp>(</rp><rt>위렴</rt><rp>)</rp></ruby>·<ruby class="hanja grade10"><rb>凱</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>·<ruby class="hanja grade60"><rb>海立勝</rb><rp>(</rp><rt>해립승</rt><rp>)</rp></ruby></span>
 </td></tr>
 <tr>
 <td>armistice
