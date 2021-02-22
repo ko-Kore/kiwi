@@ -1,8 +1,10 @@
 {
   "title": "芳文社",
   "namespace": 0,
-  "timestamp": 1612835858000,
-  "categories": [],
+  "timestamp": 1614019294000,
+  "categories": [
+    "出版社"
+  ],
   "members": [],
   "file": null
 }

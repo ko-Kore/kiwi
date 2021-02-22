@@ -1,8 +1,11 @@
 {
   "title": "韓國戰爭",
   "namespace": 0,
-  "timestamp": 1613288013000,
-  "categories": [],
+  "timestamp": 1614019547000,
+  "categories": [
+    "戰爭",
+    "韓半島"
+  ],
   "members": [],
   "file": null
 }
