@@ -737,11 +737,6 @@
       "count": 1
     },
     {
-      "title": "PTSD",
-      "surrounding": "契機(계기)로 인하여 事故(사고)나 事件(사건)을",
-      "count": 1
-    },
-    {
       "title": "Steins;Gate",
       "surrounding": "03 - 나비 날개의",
       "count": 1
@@ -874,6 +869,11 @@
     {
       "title": "地下鐵",
       "surrounding": "地下鐵(지하철) 運營社(운영사)가 輕電鐵(경전철)이나 모노레일",
+      "count": 1
+    },
+    {
+      "title": "外傷後 스트레스 障礙",
+      "surrounding": "PTSD)란 어떤 事故(사고)나 事件(사건)을",
       "count": 1
     },
     {

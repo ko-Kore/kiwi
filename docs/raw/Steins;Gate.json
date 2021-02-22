@@ -1,8 +1,10 @@
 {
   "title": "Steins;Gate",
   "namespace": 0,
-  "timestamp": 1612703613000,
-  "categories": [],
+  "timestamp": 1614018381000,
+  "categories": [
+    "Steins;Gate"
+  ],
   "members": [],
   "file": null
 }

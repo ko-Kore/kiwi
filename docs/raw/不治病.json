@@ -1,8 +1,10 @@
 {
   "title": "不治病",
   "namespace": 0,
-  "timestamp": 1613308010000,
-  "categories": [],
+  "timestamp": 1614018536000,
+  "categories": [
+    "疾病"
+  ],
   "members": [],
   "file": null
 }
