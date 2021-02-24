@@ -48,7 +48,7 @@
 <tr>
 <th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
 </th>
-<td>36,197km²
+<td>(<ruby class="hanja grade52"><rb>事實上</rb><rp>(</rp><rt>사실상</rt><rp>)</rp></ruby>) 36,197km²
 </td></tr>
 <tr>
 <th><ruby class="hanja grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
@@ -114,6 +114,11 @@
 <tr>
 <th colspan="2"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
 </th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade40"><rb>中華民國前</rb><rp>(</rp><rt>중화민국전</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>10<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>10<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> (<ruby class="hanja grade42"><rb>國慶日</rb><rp>(</rp><rt>국경일</rt><rp>)</rp></ruby>), <a href="/index.php?title=1912%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1912年 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby>1<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=1%E6%9C%881%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="1月1日 (없는 문서)">1<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a> (<ruby class="hanja grade40"><rb>開國紀念日</rb><rp>(</rp><rt>개국기염일</rt><rp>)</rp></ruby>)
+</td></tr>
 <tr>
 <th><ruby class="hanja grade42"><rb>國際電話番號</rb><rp>(</rp><rt>국제전화번호</rt><rp>)</rp></ruby>
 </th>
