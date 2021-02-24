@@ -1,8 +1,11 @@
 {
   "title": "沖繩縣",
   "namespace": 0,
-  "timestamp": 1612775690000,
-  "categories": [],
+  "timestamp": 1614170355000,
+  "categories": [
+    "토막글",
+    "日本의 都道府縣"
+  ],
   "members": [],
   "file": null
 }
