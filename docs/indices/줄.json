@@ -42,6 +42,11 @@
       "count": 1
     },
     {
+      "title": "PTSD",
+      "surrounding": "넘겨줄 대상:外傷後",
+      "count": 1
+    },
+    {
       "title": "北韓圓",
       "surrounding": "넘겨줄 대상:圓(朝鮮民主主義人民共和國)",
       "count": 1
@@ -132,7 +137,17 @@
       "count": 1
     },
     {
+      "title": "打字機",
+      "surrounding": "狀態(상태)로 固定(고정)해 줄 뿐",
+      "count": 1
+    },
+    {
       "title": "拜啓도펠겡어",
+      "surrounding": "PRAY 「내가 제대로너를살아줄테니까」 PAIN",
+      "count": 1
+    },
+    {
+      "title": "拜啓도플갱어",
       "surrounding": "PRAY 「내가 제대로너를살아줄테니까」 PAIN",
       "count": 1
     },
@@ -227,6 +242,11 @@
       "count": 1
     },
     {
+      "title": "豐臣秀吉",
+      "surrounding": "넘겨줄 대상:豊臣秀吉",
+      "count": 1
+    },
+    {
       "title": "越南社會主義公和國",
       "surrounding": "넘겨줄 대상:越南社會主義共和國",
       "count": 1
@@ -243,7 +263,7 @@
     },
     {
       "title": "韓國停戰協定",
-      "surrounding": "또는 影響(영향)을 줄 수",
+      "surrounding": "또는 影響(영향)을 줄수없다 第(제)8條(조)",
       "count": 1
     },
     {
