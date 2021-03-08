@@ -11,12 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set variable
-        run: |
-          body='{
-          "request": {
-          "branch":"gh-pages",
-          "message":"Trigger build"
-          }}'
+        run: "body='{\"request\":{\"branch\":\"gh-pages\",\"message\":\"Trigger build\"}}'"
       - name: Make POST request
         run: |
           curl -s -X POST \
