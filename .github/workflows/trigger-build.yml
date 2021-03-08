@@ -10,14 +10,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Set variable
-        run: "body='{\"request\":{\"branch\":\"gh-pages\",\"message\":\"Trigger build\"}}'"
       - name: Make POST request
+        env:
+          BODY: "{\"request\":{\"branch\":\"gh-pages\",\"message\":\"Trigger build\"}}"
         run: |
           curl -s -X POST \
           -H "Content-Type: application/json" \
           -H "Accept: application/json" \
           -H "Travis-API-Version: 3" \
           -H "Authorization: token ${{ secrets.TOKEN }}" \
-          -d "$body" \
+          -d "$BODY" \
           https://api.travis-ci.com/repo/hanja-club%2Fkiwi/requests
