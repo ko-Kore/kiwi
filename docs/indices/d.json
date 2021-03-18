@@ -82,6 +82,11 @@
       "count": 3
     },
     {
+      "title": "巴里",
+      "surrounding": "commune ↑ arrondissement ↑ ... de ville de Paris",
+      "count": 3
+    },
+    {
       "title": "마인크래프트",
       "surrounding": "GB GPU Nvidia GeForce ... Windows 7 Windows 10",
       "count": 3
@@ -184,11 +189,6 @@
     {
       "title": "外傷後 스트레스 障礙",
       "surrounding": "障礙(장애)(Post-traumatic stress disorder PTSD)란",
-      "count": 1
-    },
-    {
-      "title": "巴里",
-      "surrounding": "commune ↑ arrondissement ",
       "count": 1
     },
     {
