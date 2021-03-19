@@ -20,14 +20,19 @@
 <td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_France.svg" class="image"><img alt="Flag of France.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-25px-Flag_of_France.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-38px-Flag_of_France.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-50px-Flag_of_France.svg.png 2x"></a> <a href="/wiki/%E4%BD%9B%E8%98%AD%E8%A5%BF" title="佛蘭西"><ruby class="hanja grade32"><rb>佛蘭西</rb><rp>(</rp><rt>불란서</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
+<th><ruby class="hanja grade40"><rb>上位行政區域</rb><rp>(</rp><rt>상위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade10"><rb>巴里州</rb><rp>(</rp><rt>파리주</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</td></tr>
+<tr>
 <th><ruby class="hanja grade40"><rb>下位行政區域</rb><rp>(</rp><rt>하위행정구역</rt><rp>)</rp></ruby>
 </th>
-<td>20<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<td>20<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade40"><rb>市廳</rb><rp>(</rp><rt>시청</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
 </th>
-<td><ruby class="hanja grade10"><rb>巴里</rb><rp>(</rp><rt>파리</rt><rp>)</rp></ruby>4<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby> <ruby class="hanja grade10"><rb>巴里市廳舍</rb><rp>(</rp><rt>파리시청사</rt><rp>)</rp></ruby><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<td><a href="/index.php?title=%E5%B7%B4%E9%87%8C%E7%AC%AC4%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="巴里第4區 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>巴里第</rb><rp>(</rp><rt>파리제</rt><rp>)</rp></ruby>4<ruby class="hanja grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a><ruby class="hanja grade40"><rb>市廳舍廣場</rb><rp>(</rp><rt>시청사광장</rt><rp>)</rp></ruby> <ruby class="hanja grade10"><rb>巴里市廳舍</rb><rp>(</rp><rt>파리시청사</rt><rp>)</rp></ruby><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
@@ -56,6 +61,11 @@
 <td>105.4km²
 </td></tr>
 <tr>
+<th><ruby class="hanja grade32"><rb>海拔</rb><rp>(</rp><rt>해발</rt><rp>)</rp></ruby>
+</th>
+<td>28 ~ 131m
+</td></tr>
+<tr>
 <td colspan="2"><a rel="nofollow" class="external text" href="https://www.paris.fr">홈페이지</a>
 </td></tr></tbody></table>
 <blockquote>
@@ -68,9 +78,11 @@
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">commune</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">arrondissement</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">département</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">hôtel de ville de Paris</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">arrondissement</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">hôtel de ville de Paris</span>
 </li>
 </ol></div>
 </div></body></html>

@@ -83,7 +83,7 @@
     },
     {
       "title": "巴里",
-      "surrounding": "commune ↑ arrondissement ↑",
+      "surrounding": "département ↑ arrondissement ↑",
       "count": 1
     },
     {
