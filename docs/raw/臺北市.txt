@@ -27,7 +27,7 @@
 <tr>
 <th><ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E8%8F%AF%E5%8D%97%E5%9C%B0%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="華南地區 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>華南地區</rb><rp>(</rp><rt>화남지구</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E5%8C%97%E9%83%A8%E5%9C%B0%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="北部地區 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>北部地區</rb><rp>(</rp><rt>북부지구</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade40"><rb>上位行政區域</rb><rp>(</rp><rt>상위행정구역</rt><rp>)</rp></ruby>
@@ -42,17 +42,17 @@
 <tr>
 <th><ruby class="hanja grade40"><rb>市廳</rb><rp>(</rp><rt>시청</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
 </th>
-<td><ruby class="hanja grade32"><rb>臺北市</rb><rp>(</rp><rt>대북시</rt><rp>)</rp></ruby><a href="/index.php?title=%E4%BF%A1%E7%BE%A9%E5%8D%80_(%E8%87%BA%E5%8C%97%E5%B8%82)&amp;action=edit&amp;redlink=1" class="new" title="信義區 (臺北市) (없는 문서)"><ruby class="hanja grade42 unknown"><rb>信義區</rb><rp>(</rp><rt>신의구</rt><rp>)</rp></ruby></a><ruby class="hanja grade42"><rb>市府路</rb><rp>(</rp><rt>시부로</rt><rp>)</rp></ruby>1<ruby class="hanja grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>臺北市政府</rb><rp>(</rp><rt>대북시정부</rt><rp>)</rp></ruby>
+<td><ruby class="hanja grade32"><rb>臺北市</rb><rp>(</rp><rt>대북시</rt><rp>)</rp></ruby><a href="/index.php?title=%E4%BF%A1%E7%BE%A9%E5%8D%80_(%E8%87%BA%E5%8C%97%E5%B8%82)&amp;action=edit&amp;redlink=1" class="new" title="信義區 (臺北市) (없는 문서)"><ruby class="hanja grade42 unknown"><rb>信義區</rb><rp>(</rp><rt>신의구</rt><rp>)</rp></ruby></a><ruby class="hanja grade42"><rb>市府路</rb><rp>(</rp><rt>시부로</rt><rp>)</rp></ruby>1<ruby class="hanja grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E6%9F%AF%E6%96%87%E5%93%B2&amp;action=edit&amp;redlink=1" class="new" title="柯文哲 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>柯文哲</rb><rp>(</rp><rt>가문철</rt><rp>)</rp></ruby></a>(<a href="/index.php?title=%E8%87%BA%E7%81%A3%E6%B0%91%E8%A1%86%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="臺灣民衆黨 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>臺灣民衆黨</rb><rp>(</rp><rt>대만민중당</rt><rp>)</rp></ruby></a>)
+<td><a href="/index.php?title=%E6%9F%AF%E6%96%87%E5%93%B2&amp;action=edit&amp;redlink=1" class="new" title="柯文哲 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>柯文哲</rb><rp>(</rp><rt>가문철</rt><rp>)</rp></ruby></a>(<a href="/index.php?title=%E5%8F%B0%E7%81%A3%E6%B0%91%E8%A1%86%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="台灣民衆黨 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>台灣民衆黨</rb><rp>(</rp><rt>태만민중당</rt><rp>)</rp></ruby></a>)
 </td></tr>
 <tr>
 <th><ruby class="hanja grade40"><rb>地域語</rb><rp>(</rp><rt>지역어</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E8%87%BA%E7%81%A3%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="臺灣語 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>臺灣語</rb><rp>(</rp><rt>대만어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%AE%A2%E5%AE%B6%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="客家語 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>客家語</rb><rp>(</rp><rt>객가어</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade42"><rb>北平官話</rb><rp>(</rp><rt>북평관화</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%E8%87%BA%E7%81%A3%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="臺灣語 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>臺灣語</rb><rp>(</rp><rt>대만어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%AE%A2%E5%AE%B6%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="客家語 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>客家語</rb><rp>(</rp><rt>객가어</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade42"><rb>官話</rb><rp>(</rp><rt>관화</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
