@@ -1,8 +1,11 @@
 {
   "title": "右翼",
   "namespace": 0,
-  "timestamp": 1617777023000,
-  "categories": [],
+  "timestamp": 1617823799000,
+  "categories": [
+    "右翼",
+    "政治理念"
+  ],
   "members": [],
   "file": null
 }
