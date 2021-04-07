@@ -1,8 +1,10 @@
 {
   "title": "트위터",
   "namespace": 0,
-  "timestamp": 1617756332000,
-  "categories": [],
+  "timestamp": 1617757669000,
+  "categories": [
+    "트위터"
+  ],
   "members": [],
   "file": null
 }
