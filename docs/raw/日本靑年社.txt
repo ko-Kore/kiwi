@@ -223,13 +223,13 @@
 <td>
 </td></tr>
 <tr>
-<td><ruby class="hanja grade0"><rb>静岡縣本部</rb><rp>(</rp><rt>정강현본부</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja grade0"><rb>静岡社友會</rb><rp>(</rp><rt>정강사우회</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade12"><rb>靜岡縣本部</rb><rp>(</rp><rt>정강현본부</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade12"><rb>靜岡社友會</rb><rp>(</rp><rt>정강사우회</rt><rp>)</rp></ruby> &nbsp;</td>
 <td>
 </td></tr>
 <tr>
 <td><ruby class="hanja grade32"><rb>御殿場支部</rb><rp>(</rp><rt>어전장지부</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja grade0"><rb>静岡東部社友會</rb><rp>(</rp><rt>정강동부사우회</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade12"><rb>靜岡東部社友會</rb><rp>(</rp><rt>정강동부사우회</rt><rp>)</rp></ruby></td>
 <td>
 </td></tr>
 <tr>
