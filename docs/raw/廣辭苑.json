@@ -1,8 +1,10 @@
 {
   "title": "廣辭苑",
   "namespace": 0,
-  "timestamp": 1618039702000,
-  "categories": [],
+  "timestamp": 1618557159000,
+  "categories": [
+    "辭典"
+  ],
   "members": [],
   "file": null
 }
