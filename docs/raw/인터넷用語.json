@@ -1,8 +1,11 @@
 {
   "title": "인터넷用語",
   "namespace": 0,
-  "timestamp": 1619290937000,
-  "categories": [],
+  "timestamp": 1619340128000,
+  "categories": [
+    "인터넷",
+    "言語"
+  ],
   "members": [],
   "file": null
 }
