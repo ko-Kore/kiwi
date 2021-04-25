@@ -445,6 +445,11 @@
       "title": "아마츠츠미",
       "surrounding": "PS Vita 支援言語(지원언어) 日本語(일본어)",
       "count": 1
+    },
+    {
+      "title": "오픈TTD",
+      "surrounding": "商用(상용)소프트웨어였던 TTD를 C言語(언어) 소스로",
+      "count": 1
     }
   ]
 }
