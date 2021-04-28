@@ -733,6 +733,11 @@
     },
     {
       "title": "갤럭시 S4",
+      "surrounding": " 목차 1",
+      "count": 1
+    },
+    {
+      "title": "갤럭시 S 시리즈",
       "surrounding": "목차 1",
       "count": 1
     },
