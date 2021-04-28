@@ -1,13 +1,15 @@
 {
   "title": "分類:地下鐵",
   "namespace": 14,
-  "timestamp": 0,
+  "timestamp": 1619643090000,
   "categories": [
     "鐵道",
+    "都市鐵道",
     "大衆交通"
   ],
   "members": [
-    "地下鐵"
+    "地下鐵",
+    "分類:서울地下鐵"
   ],
   "file": null
 }
