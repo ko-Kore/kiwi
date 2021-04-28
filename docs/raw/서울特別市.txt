@@ -6,7 +6,7 @@
 <th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E7%89%B9%E5%88%A5%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="特別市 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby></a>
 </th></tr>
 <tr>
-<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Logo_of_Seoul,_South_Korea.svg" class="image"><img alt="Logo of Seoul, South Korea.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_Seoul%2C_South_Korea.svg/langko-200px-Logo_of_Seoul%2C_South_Korea.svg.png" decoding="async" width="200" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_Seoul%2C_South_Korea.svg/langko-300px-Logo_of_Seoul%2C_South_Korea.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_Seoul%2C_South_Korea.svg/langko-400px-Logo_of_Seoul%2C_South_Korea.svg.png 2x"></a>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Logo_of_Seoul,_South_Korea.svg" class="image"><img alt="Logo of Seoul, South Korea.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_Seoul%2C_South_Korea.svg/langko-200px-Logo_of_Seoul%2C_South_Korea.svg.png" decoding="async" width="200" height="216" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_Seoul%2C_South_Korea.svg/langko-300px-Logo_of_Seoul%2C_South_Korea.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_Seoul%2C_South_Korea.svg/langko-400px-Logo_of_Seoul%2C_South_Korea.svg.png 2x"></a>
 </td></tr>
 <tr>
 <td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:South_Korea-Seoul.svg" class="image"><img alt="South Korea-Seoul.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/South_Korea-Seoul.svg/langko-150px-South_Korea-Seoul.svg.png" decoding="async" width="150" height="211" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/South_Korea-Seoul.svg/langko-225px-South_Korea-Seoul.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/South_Korea-Seoul.svg/langko-300px-South_Korea-Seoul.svg.png 2x"></a>
@@ -35,9 +35,9 @@
 <td>서울<ruby class="hanja grade60"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby> <a href="/index.php?title=%E4%B8%AD%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="中區 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>中區</rb><rp>(</rp><rt>중구</rt><rp>)</rp></ruby></a> <br> <a href="/index.php?title=%E4%B8%96%E5%AE%97%E5%A4%A7%E8%B7%AF&amp;action=edit&amp;redlink=1" class="new" title="世宗大路 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>世宗大路</rb><rp>(</rp><rt>세종대로</rt><rp>)</rp></ruby></a> 110
 </td></tr>
 <tr>
-<th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>(<ruby class="hanja grade42"><rb>權限代行</rb><rp>(</rp><rt>권한대행</rt><rp>)</rp></ruby>)
+<th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E5%BE%90%E6%AD%A3%E5%8D%94&amp;action=edit&amp;redlink=1" class="new" title="徐正協 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>徐正協</rb><rp>(</rp><rt>서정협</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade40"><rb>無所屬</rb><rp>(</rp><rt>무소속</rt><rp>)</rp></ruby>)
+<td><a href="/index.php?title=%E5%90%B3%E4%B8%96%E5%8B%B3&amp;action=edit&amp;redlink=1" class="new" title="吳世勳 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>吳世勳</rb><rp>(</rp><rt>오세훈</rt><rp>)</rp></ruby></a>(<a href="/index.php?title=%E5%9C%8B%E6%B0%91%EC%9D%98%ED%9E%98&amp;action=edit&amp;redlink=1" class="new" title="國民의힘 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>國民</rb><rp>(</rp><rt>국민</rt><rp>)</rp></ruby>의힘</a>)
 </td></tr>
 <tr>
 <th><ruby class="hanja grade40"><rb>地域語</rb><rp>(</rp><rt>지역어</rt><rp>)</rp></ruby>
@@ -137,7 +137,7 @@
 </p>
 <h3><span id="市外交通(시외교통)"></span><span class="mw-headline" id=".E5.B8.82.E5.A4.96.E4.BA.A4.E9.80.9A.28.EC.8B.9C.EC.99.B8.EA.B5.90.ED.86.B5.29"><ruby class="hanja grade60"><rb>市外交通</rb><rp>(</rp><rt>시외교통</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%84%9C%EC%9A%B8%E7%89%B9%E5%88%A5%E5%B8%82&amp;action=edit&amp;section=6" title="부분 편집: 市外交通(시외교통)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <h4><span id="鐵道(철도)_2"></span><span class="mw-headline" id=".E9.90.B5.E9.81.93.28.EC.B2.A0.EB.8F.84.29_2"><ruby class="hanja grade50"><rb>鐵道</rb><rp>(</rp><rt>철도</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%84%9C%EC%9A%B8%E7%89%B9%E5%88%A5%E5%B8%82&amp;action=edit&amp;section=7" title="부분 편집: 鐵道(철도)">편집</a><span class="mw-editsection-bracket">]</span></span></h4>
-<ul><li><a href="/index.php?title=%E4%BA%AC%E9%87%9C%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="京釜線 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>京釜線</rb><rp>(</rp><rt>경부선</rt><rp>)</rp></ruby></a></li>
+<ul><li><a href="/wiki/%E4%BA%AC%E9%87%9C%E7%B7%9A" title="京釜線"><ruby class="hanja grade12"><rb>京釜線</rb><rp>(</rp><rt>경부선</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E4%BA%AC%E7%BE%A9%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="京義線 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>京義線</rb><rp>(</rp><rt>경의선</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E4%BA%AC%E5%85%83%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="京元線 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>京元線</rb><rp>(</rp><rt>경원선</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E4%B8%AD%E5%A4%AE%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="中央線 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>中央線</rb><rp>(</rp><rt>중앙선</rt><rp>)</rp></ruby></a></li>
