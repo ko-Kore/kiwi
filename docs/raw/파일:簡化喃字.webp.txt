@@ -1,2 +1,3 @@
-<html><head></head><body><div class="mw-parser-output">
+<html><head></head><body><div class="mw-parser-output"><p><a href="/index.php?title=%ED%8B%80:%E9%9D%9E%E8%87%AA%E7%94%B1_%E5%BC%98%E5%A0%B1%E8%B3%87%E6%96%99&amp;action=edit&amp;redlink=1" class="new" title="틀:非自由 弘報資料 (없는 문서)">틀:<ruby class="hanja grade42 unknown"><rb>非自由</rb><rp>(</rp><rt>비자유</rt><rp>)</rp></ruby> <ruby class="hanja grade30 unknown"><rb>弘報資料</rb><rp>(</rp><rt>홍보자료</rt><rp>)</rp></ruby></a>
+</p>
 </div></body></html>
