@@ -192,11 +192,6 @@
       "count": 3
     },
     {
-      "title": "國漢大百科:文書作成要請",
-      "surrounding": "大田廣域市(대전광역시) 등 --EighteenChild (토론) ... 태블릿 PC --EighteenChild (토론)",
-      "count": 3
-    },
-    {
       "title": "新臺幣",
       "surrounding": "表記(표기) New Taiwan dollar ... 學名(학명)：Oncorhynchus masou formosanus）와南湖大山(남호대산) 그리고松木(송목)이그려져있다",
       "count": 3
@@ -394,6 +389,11 @@
     {
       "title": "國漢大百科",
       "surrounding": "韓國語(한국어) 漢字(한자) net로 變更(변경)되었다",
+      "count": 1
+    },
+    {
+      "title": "國漢大百科:文書作成要請",
+      "surrounding": "인터넷[편집] 인터넷 --EighteenChild (토론)",
       "count": 1
     },
     {
