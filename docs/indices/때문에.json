@@ -165,6 +165,11 @@
       "title": "에어팟",
       "surrounding": "유닛의 디자인 때문에 말이",
       "count": 1
+    },
+    {
+      "title": "태블릿PC",
+      "surrounding": "畵面(화면)은 크기 때문에 動映像(동영상)이나",
+      "count": 1
     }
   ]
 }
