@@ -335,6 +335,11 @@
       "title": "히라가나",
       "surrounding": "넘겨줄 대상:平假名",
       "count": 1
+    },
+    {
+      "title": "𡨸國語",
+      "surrounding": "넘겨줄 대상:國語字",
+      "count": 1
     }
   ]
 }
