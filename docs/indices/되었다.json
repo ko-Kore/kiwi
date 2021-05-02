@@ -137,6 +137,11 @@
       "count": 1
     },
     {
+      "title": "喃字",
+      "surrounding": "쓰이지 않게 되었다 [2]",
+      "count": 1
+    },
+    {
       "title": "大",
       "surrounding": "뜻으로 쓰이게 되었다 용례[편집]",
       "count": 1
@@ -344,11 +349,6 @@
     {
       "title": "한글專用",
       "surrounding": "다른 한자어로 대체되었다 ",
-      "count": 1
-    },
-    {
-      "title": "𡨸喃",
-      "surrounding": "쓰이지 않게 되었다 [2]",
       "count": 1
     }
   ]

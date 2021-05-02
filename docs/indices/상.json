@@ -852,6 +852,11 @@
       "count": 1
     },
     {
+      "title": "喃字",
+      "surrounding": "漢文(한문)을 익힌 上流層(상류층)만이 使用(사용)할",
+      "count": 1
+    },
+    {
       "title": "嗶哩嗶哩",
       "surrounding": "bìlibìli)는 中華人民共和國(중화인민공화국)의 動映像(동영상) 사이트이다",
       "count": 1
@@ -907,8 +912,13 @@
       "count": 1
     },
     {
+      "title": "國語字",
+      "surrounding": "該當(해당)하는데 越南語(월남어)의 特性上(특성상) 被修飾言(피수식언)인",
+      "count": 1
+    },
+    {
       "title": "圓 (北韓)",
-      "surrounding": "넘겨줄 대상:北韓圓 ",
+      "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
       "count": 1
     },
     {
@@ -958,7 +968,7 @@
     },
     {
       "title": "委班復生漢喃越南",
-      "surrounding": "뒤에 온다 上述(상술)했듯이 飜譯(번역)하면",
+      "surrounding": "넘겨줄 대상:越南漢喃復活委員會 ",
       "count": 1
     },
     {
@@ -968,12 +978,12 @@
     },
     {
       "title": "字喃",
-      "surrounding": "넘겨줄 대상:𡨸喃 ",
+      "surrounding": "넘겨줄 대상:喃字 ",
       "count": 1
     },
     {
       "title": "字國語",
-      "surrounding": "넘겨줄 대상:𡨸國語 ",
+      "surrounding": "넘겨줄 대상:國語字 ",
       "count": 1
     },
     {
@@ -1053,7 +1063,7 @@
     },
     {
       "title": "日圓",
-      "surrounding": "넘겨줄 대상:日本圓 ",
+      "surrounding": "넘겨줄 대상:圓 (日本)",
       "count": 1
     },
     {
@@ -1249,6 +1259,11 @@
     {
       "title": "象形文字",
       "surrounding": "인더스文字(문자) 漢字(한자)의 象形文字(상형문자) ",
+      "count": 1
+    },
+    {
+      "title": "越南漢喃復活委員會",
+      "surrounding": "뒤에 온다 上述(상술)했듯이 飜譯(번역)하면",
       "count": 1
     },
     {
@@ -1493,12 +1508,12 @@
     },
     {
       "title": "쯔꾸옥응으",
-      "surrounding": "넘겨줄 대상:𡨸國語 ",
+      "surrounding": "넘겨줄 대상:國語字 ",
       "count": 1
     },
     {
       "title": "쯔놈",
-      "surrounding": "넘겨줄 대상:𡨸喃 ",
+      "surrounding": "넘겨줄 대상:喃字 ",
       "count": 1
     },
     {
@@ -1553,7 +1568,7 @@
     },
     {
       "title": "𡨸喃",
-      "surrounding": "漢文(한문)을 익힌 上流層(상류층)만이 使用(사용)할",
+      "surrounding": "넘겨줄 대상:喃字 ",
       "count": 1
     },
     {

@@ -322,13 +322,13 @@
       "count": 1
     },
     {
-      "title": "外傷後 스트레스 障礙",
-      "surrounding": "外傷後(외상후) 스트레스 障礙(장애)(Post-traumatic stress",
+      "title": "喃字",
+      "surrounding": "𡨸喃(자남) Chữ Nôm 쯔놈)은",
       "count": 1
     },
     {
-      "title": "委班復生漢喃越南",
-      "surrounding": "標準化(표준화) 槪要(개요)[편집] 委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam)(越南漢喃復活委員會(월남한남부활위원회))은 越南(월남)의",
+      "title": "外傷後 스트레스 障礙",
+      "surrounding": "外傷後(외상후) 스트레스 障礙(장애)(Post-traumatic stress",
       "count": 1
     },
     {
@@ -369,6 +369,11 @@
     {
       "title": "艦隊컬렉션 ~칸코레~",
       "surrounding": "컬렉션 ~칸코레~艦隊(함대)これくしょん ~艦(함)これ~Combined Fleet",
+      "count": 1
+    },
+    {
+      "title": "越南漢喃復活委員會",
+      "surrounding": "標準化(표준화) 槪要(개요)[편집] 越南漢喃復活委員會(월남한남부활위원회)(委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam))은 越南(월남)의",
       "count": 1
     },
     {
@@ -414,11 +419,6 @@
     {
       "title": "아이폰 8",
       "surrounding": "카메라 1 821mAh 배터리가",
-      "count": 1
-    },
-    {
-      "title": "𡨸喃",
-      "surrounding": "槪要(개요)[편집] 𡨸喃(자남)(Chữ Nôm 쯔놈)은",
       "count": 1
     }
   ]

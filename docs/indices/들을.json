@@ -37,6 +37,11 @@
       "count": 1
     },
     {
+      "title": "喃字",
+      "surrounding": "새로 만들어낸 글字(자)들을 뜻한다",
+      "count": 1
+    },
+    {
       "title": "國漢大百科:大門",
       "surrounding": "처음 오신 분들을 爲(위)해",
       "count": 1
@@ -94,11 +99,6 @@
     {
       "title": "애니메이션 밈",
       "surrounding": "밈을 만드는 사람들을 밈러라고",
-      "count": 1
-    },
-    {
-      "title": "𡨸喃",
-      "surrounding": "새로 만들어낸 글字(자)들을 뜻한다",
       "count": 1
     }
   ]

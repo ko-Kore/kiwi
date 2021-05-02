@@ -302,6 +302,11 @@
       "count": 1
     },
     {
+      "title": "喃字",
+      "surrounding": "歷史學者(역사학자)와 같은 關聯職種(관련직종)의從事員外(종사원외)에는 읽을",
+      "count": 1
+    },
+    {
       "title": "國漢大百科",
       "surrounding": "수 있는 綜合(종합) 雜學(잡학)",
       "count": 1
@@ -589,11 +594,6 @@
     {
       "title": "프린세스 커넥트! Re:Dive",
       "surrounding": "CygamesPictures (애니製作(제작)) 機種(기종) *",
-      "count": 1
-    },
-    {
-      "title": "𡨸喃",
-      "surrounding": "歷史學者(역사학자)와 같은 關聯職種(관련직종)의從事員外(종사원외)에는 읽을",
       "count": 1
     }
   ]

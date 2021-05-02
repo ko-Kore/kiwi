@@ -78,7 +78,7 @@
     },
     {
       "title": "圓 (北韓)",
-      "surrounding": "넘겨줄 대상:北韓圓 ",
+      "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
       "count": 1
     },
     {
@@ -107,13 +107,18 @@
       "count": 1
     },
     {
+      "title": "委班復生漢喃越南",
+      "surrounding": "넘겨줄 대상:越南漢喃復活委員會 ",
+      "count": 1
+    },
+    {
       "title": "字喃",
-      "surrounding": "넘겨줄 대상:𡨸喃 ",
+      "surrounding": "넘겨줄 대상:喃字 ",
       "count": 1
     },
     {
       "title": "字國語",
-      "surrounding": "넘겨줄 대상:𡨸國語 ",
+      "surrounding": "넘겨줄 대상:國語字 ",
       "count": 1
     },
     {
@@ -138,7 +143,7 @@
     },
     {
       "title": "日圓",
-      "surrounding": "넘겨줄 대상:日本圓 ",
+      "surrounding": "넘겨줄 대상:圓 (日本)",
       "count": 1
     },
     {
@@ -343,12 +348,12 @@
     },
     {
       "title": "쯔꾸옥응으",
-      "surrounding": "넘겨줄 대상:𡨸國語 ",
+      "surrounding": "넘겨줄 대상:國語字 ",
       "count": 1
     },
     {
       "title": "쯔놈",
-      "surrounding": "넘겨줄 대상:𡨸喃 ",
+      "surrounding": "넘겨줄 대상:喃字 ",
       "count": 1
     },
     {
@@ -384,6 +389,11 @@
     {
       "title": "히라가나",
       "surrounding": "넘겨줄 대상:平假名 ",
+      "count": 1
+    },
+    {
+      "title": "𡨸喃",
+      "surrounding": "넘겨줄 대상:喃字 ",
       "count": 1
     },
     {

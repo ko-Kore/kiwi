@@ -182,6 +182,11 @@
       "count": 1
     },
     {
+      "title": "喃字",
+      "surrounding": " 목차 1",
+      "count": 1
+    },
+    {
       "title": "四",
       "surrounding": "語文會(어문회) 8級(급) 목차 1",
       "count": 1
@@ -269,11 +274,6 @@
     {
       "title": "女",
       "surrounding": "- - 목차 1",
-      "count": 1
-    },
-    {
-      "title": "委班復生漢喃越南",
-      "surrounding": "로고 [1] 목차 1",
       "count": 1
     },
     {
@@ -622,6 +622,11 @@
       "count": 1
     },
     {
+      "title": "越南漢喃復活委員會",
+      "surrounding": "로고 [1] 목차 1",
+      "count": 1
+    },
+    {
       "title": "辭典",
       "surrounding": "목차 1",
       "count": 1
@@ -909,11 +914,6 @@
     {
       "title": "한글打字機",
       "surrounding": "목차 1",
-      "count": 1
-    },
-    {
-      "title": "𡨸喃",
-      "surrounding": " 목차 1",
       "count": 1
     }
   ]
