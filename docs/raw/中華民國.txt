@@ -210,28 +210,30 @@
 <h3><span id="實際(실제)_行政區域(행정구역)"></span><span class="mw-headline" id=".E5.AF.A6.E9.9A.9B.28.EC.8B.A4.EC.A0.9C.29_.E8.A1.8C.E6.94.BF.E5.8D.80.E5.9F.9F.28.ED.96.89.EC.A0.95.EA.B5.AC.EC.97.AD.29"><ruby class="hanja grade42"><rb>實際</rb><rp>(</rp><rt>실제</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&amp;action=edit&amp;section=12" title="부분 편집: 實際(실제) 行政區域(행정구역)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <p><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>實際</rb><rp>(</rp><rt>실제</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>은 13<ruby class="hanja grade30"><rb>縣</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby>, 3<ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby>, 6<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>로 <ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>된다.
 </p>
-<ul><li><ruby class="hanja grade30"><rb>連江縣</rb><rp>(</rp><rt>연강현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>金門縣</rb><rp>(</rp><rt>김문현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>宜蘭縣</rb><rp>(</rp><rt>의란현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>新竹縣</rb><rp>(</rp><rt>신죽현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>苗栗縣</rb><rp>(</rp><rt>묘률현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade20"><rb>彰化縣</rb><rp>(</rp><rt>창화현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>南投縣</rb><rp>(</rp><rt>남투현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>雲林縣</rb><rp>(</rp><rt>운림현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade10"><rb>嘉義縣</rb><rp>(</rp><rt>가의현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade0"><rb>屏東縣</rb><rp>(</rp><rt>병동현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>臺東縣</rb><rp>(</rp><rt>대동현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade30"><rb>花蓮縣</rb><rp>(</rp><rt>화련현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade10"><rb>澎湖縣</rb><rp>(</rp><rt>팽호현</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade32"><rb>基隆市</rb><rp>(</rp><rt>기륭시</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade42"><rb>新竹市</rb><rp>(</rp><rt>신죽시</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade10"><rb>嘉義市</rb><rp>(</rp><rt>가의시</rt><rp>)</rp></ruby></li>
+<div class="column-4">
+<ul><li><a href="/index.php?title=%E9%80%A3%E6%B1%9F%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="連江縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>連江縣</rb><rp>(</rp><rt>연강현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E9%87%91%E9%96%80%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="金門縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>金門縣</rb><rp>(</rp><rt>김문현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%AE%9C%E8%98%AD%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="宜蘭縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>宜蘭縣</rb><rp>(</rp><rt>의란현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E6%96%B0%E7%AB%B9%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="新竹縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>新竹縣</rb><rp>(</rp><rt>신죽현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E8%8B%97%E6%A0%97%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="苗栗縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>苗栗縣</rb><rp>(</rp><rt>묘률현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%BD%B0%E5%8C%96%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="彰化縣 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>彰化縣</rb><rp>(</rp><rt>창화현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%8D%97%E6%8A%95%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="南投縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>南投縣</rb><rp>(</rp><rt>남투현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E9%9B%B2%E6%9E%97%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="雲林縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>雲林縣</rb><rp>(</rp><rt>운림현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%98%89%E7%BE%A9%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="嘉義縣 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>嘉義縣</rb><rp>(</rp><rt>가의현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%B1%8F%E6%9D%B1%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="屏東縣 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>屏東縣</rb><rp>(</rp><rt>병동현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E8%87%BA%E6%9D%B1%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="臺東縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>臺東縣</rb><rp>(</rp><rt>대동현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E8%8A%B1%E8%93%AE%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="花蓮縣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>花蓮縣</rb><rp>(</rp><rt>화련현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E6%BE%8E%E6%B9%96%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="澎湖縣 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>澎湖縣</rb><rp>(</rp><rt>팽호현</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%9F%BA%E9%9A%86%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="基隆市 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>基隆市</rb><rp>(</rp><rt>기륭시</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E6%96%B0%E7%AB%B9%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="新竹市 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>新竹市</rb><rp>(</rp><rt>신죽시</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%98%89%E7%BE%A9%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="嘉義市 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>嘉義市</rb><rp>(</rp><rt>가의시</rt><rp>)</rp></ruby></a></li>
 <li><a href="/wiki/%E8%87%BA%E5%8C%97%E5%B8%82" title="臺北市"><ruby class="hanja grade32"><rb>臺北市</rb><rp>(</rp><rt>대북시</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>)</li>
 <li><a href="/index.php?title=%E9%AB%98%E9%9B%84%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="高雄市 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>高雄市</rb><rp>(</rp><rt>고웅시</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>)</li>
 <li><a href="/wiki/%E6%96%B0%E5%8C%97%E5%B8%82" title="新北市"><ruby class="hanja grade62"><rb>新北市</rb><rp>(</rp><rt>신북시</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>)</li>
 <li><a href="/index.php?title=%E8%87%BA%E4%B8%AD%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="臺中市 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>臺中市</rb><rp>(</rp><rt>대중시</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>)</li>
 <li><a href="/index.php?title=%E8%87%BA%E5%8D%97%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="臺南市 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>臺南市</rb><rp>(</rp><rt>대남시</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>)</li>
 <li><a href="/index.php?title=%E6%A1%83%E5%9C%92%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="桃園市 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>桃園市</rb><rp>(</rp><rt>도원시</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>)</li></ul>
+</div>
 <h3><span id="法律上(법률상)_行政區域(행정구역)"></span><span class="mw-headline" id=".E6.B3.95.E5.BE.8B.E4.B8.8A.28.EB.B2.95.EB.A5.A0.EC.83.81.29_.E8.A1.8C.E6.94.BF.E5.8D.80.E5.9F.9F.28.ED.96.89.EC.A0.95.EA.B5.AC.EC.97.AD.29"><ruby class="hanja grade42"><rb>法律上</rb><rp>(</rp><rt>법률상</rt><rp>)</rp></ruby>&nbsp;<ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&amp;action=edit&amp;section=13" title="부분 편집: 法律上(법률상)&nbsp;行政區域(행정구역)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <p><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>法律上</rb><rp>(</rp><rt>법률상</rt><rp>)</rp></ruby>의&nbsp;<ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>은 35<ruby class="hanja grade62"><rb>省</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>, 1<ruby class="hanja grade42"><rb>特別行政區</rb><rp>(</rp><rt>특별행정구</rt><rp>)</rp></ruby>, 2<ruby class="hanja grade70"><rb>地方</rb><rp>(</rp><rt>지방</rt><rp>)</rp></ruby>, 18<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>로 <ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>된다.
 </p>
