@@ -1,6 +1,4 @@
-<html><head></head><body><div class="mw-parser-output"><p><br>
-</p>
-<table class="wikitable" style="margin: auto; text-align: center;">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
 <tbody><tr>
 <th colspan="99" style="background: #cc0000; color: white;"><span class="tp_link"><a href="/index.php?title=%E4%B8%AD%E5%9C%8B%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="中國史 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>中國史</rb><rp>(</rp><rt>중국사</rt><rp>)</rp></ruby></a></span>
 </th></tr>
@@ -9,7 +7,7 @@
 </td>
 <th>→
 </th>
-<td><b><a href="/index.php?title=%E7%8F%BE%E4%BB%A3&amp;action=edit&amp;redlink=1" class="new" title="現代 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>現代</rb><rp>(</rp><rt>현대</rt><rp>)</rp></ruby></a></b> <br> <a class="mw-selflink selflink">中華人民共和國</a> · <a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a>
+<td><b><a href="/index.php?title=%E7%8F%BE%E4%BB%A3&amp;action=edit&amp;redlink=1" class="new" title="現代 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>現代</rb><rp>(</rp><rt>현대</rt><rp>)</rp></ruby></a></b> <br> <a class="mw-selflink selflink">中華人民共和國</a>·<a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a>
 </td>
 <th>→
 </th>
@@ -44,6 +42,16 @@
 <td><a href="/wiki/%E7%BE%A9%E5%8B%87%E8%BB%8D%E9%80%B2%E8%A1%8C%E6%9B%B2" title="義勇軍進行曲"><ruby class="hanja grade42"><rb>義勇軍進行曲</rb><rp>(</rp><rt>의용군진행곡</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
+<th><ruby class="hanja grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
+</th>
+<td>없음<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
 <th colspan="2"><ruby class="hanja grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -57,7 +65,7 @@
 <td><a href="/wiki/%E5%85%B1%E7%94%A3%E4%B8%BB%E7%BE%A9" title="共産主義"><ruby class="hanja grade42"><rb>共産主義</rb><rp>(</rp><rt>공산주의</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%85%A8%E9%AB%94%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="全體主義 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>全體主義</rb><rp>(</rp><rt>전체주의</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E4%B8%80%E9%BB%A8%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="一黨制 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>一黨制</rb><rp>(</rp><rt>일당제</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E7%8D%A8%E8%A3%81%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="獨裁主義 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>獨裁主義</rb><rp>(</rp><rt>독재주의</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%9C%8B%E7%B2%B9%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="國粹主義 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>國粹主義</rb><rp>(</rp><rt>국수주의</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E6%B0%91%E6%97%8F%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="民族主義 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>民族主義</rb><rp>(</rp><rt>민족주의</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<th><ruby class="hanja grade60"><rb>主席</rb><rp>(</rp><rt>주석</rt><rp>)</rp></ruby>
+<th><ruby class="hanja grade60"><rb>國家主席</rb><rp>(</rp><rt>국가주석</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=%E7%BF%92%E8%BF%91%E5%B9%B3&amp;action=edit&amp;redlink=1" class="new" title="習近平 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>習近平</rb><rp>(</rp><rt>습근평</rt><rp>)</rp></ruby></a>
 </td></tr>
@@ -72,17 +80,57 @@
 <tr>
 <th><ruby class="hanja grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
 </th>
-<td>UTC+8
+<td>UTC+8<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>4<ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby> 23<ruby class="hanja grade62"><rb>省</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby> 5<ruby class="hanja grade42"><rb>自治區</rb><rp>(</rp><rt>자치구</rt><rp>)</rp></ruby> 2<ruby class="hanja grade42"><rb>特別行政區</rb><rp>(</rp><rt>특별행정구</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>1,339,724,852<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>145<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
 <th><ruby class="hanja grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>
 </td></tr>
-</tbody></table>
+<tr>
+<th><ruby class="hanja grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade30"><rb>人民幣</rb><rp>(</rp><rt>인민폐</rt><rp>)</rp></ruby><br><ruby class="hanja grade42"><rb>港圓</rb><rp>(</rp><rt>항원</rt><rp>)</rp></ruby> <small>(<ruby class="hanja grade42"><rb>香港</rb><rp>(</rp><rt>향항</rt><rp>)</rp></ruby>에서)</small><br><ruby class="hanja grade0"><rb>澳門圓</rb><rp>(</rp><rt>오문원</rt><rp>)</rp></ruby> <small>(<ruby class="hanja grade0"><rb>澳門</rb><rp>(</rp><rt>오문</rt><rp>)</rp></ruby>에서)</small>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td>1949<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>10<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>國際電話番號</rb><rp>(</rp><rt>국제전화번호</rt><rp>)</rp></ruby>
+</th>
+<td>86 <small>(<ruby class="hanja grade42"><rb>香港</rb><rp>(</rp><rt>향항</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>澳門</rb><rp>(</rp><rt>오문</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>以外</rb><rp>(</rp><rt>이외</rt><rp>)</rp></ruby>)</small><br>852 <small>(<ruby class="hanja grade42"><rb>香港</rb><rp>(</rp><rt>향항</rt><rp>)</rp></ruby>)</small><br>853 <small>(<ruby class="hanja grade0"><rb>澳門</rb><rp>(</rp><rt>오문</rt><rp>)</rp></ruby>)</small>
+</td></tr></tbody></table>
 <p><br>
 </p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
@@ -103,4 +151,10 @@
 <h2><span id="行政區域(행정구역)"></span><span class="mw-headline" id=".E8.A1.8C.E6.94.BF.E5.8D.80.E5.9F.9F.28.ED.96.89.EC.A0.95.EA.B5.AC.EC.97.AD.29"><ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;section=5" title="부분 편집: 行政區域(행정구역)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><a href="/wiki/%ED%8C%8C%EC%9D%BC:China-map_ko-kore.png" class="image"><img alt="China-map ko-kore.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/China-map_ko-kore.png/800px-China-map_ko-kore.png" decoding="async" width="800" height="637" srcset="https://upload.wikimedia.org/wikipedia/commons/f/fe/China-map_ko-kore.png 1.5x"></a>
 </p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja grade72"><rb>民間</rb><rp>(</rp><rt>민간</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>提案</rb><rp>(</rp><rt>제안</rt><rp>)</rp></ruby>으로 많았던 것은, <ruby class="hanja grade32"><rb>梅花</rb><rp>(</rp><rt>매화</rt><rp>)</rp></ruby>와 <ruby class="hanja grade10"><rb>牡丹</rb><rp>(</rp><rt>모란</rt><rp>)</rp></ruby>이었습니다.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja grade72"><rb>全國</rb><rp>(</rp><rt>전국</rt><rp>)</rp></ruby>이 <ruby class="hanja grade42"><rb>單一</rb><rp>(</rp><rt>단일</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby>을 쓴다.</span>
+</li>
+</ol></div>
 </div></body></html>
