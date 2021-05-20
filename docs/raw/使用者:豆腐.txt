@@ -1,3 +1,3 @@
-<html><head></head><body><div class="mw-parser-output"><p>변태<s>정상인</s>
+<html><head></head><body><div class="mw-parser-output"><p><ruby class="hanja grade42"><rb>變態</rb><rp>(</rp><rt>변태</rt><rp>)</rp></ruby><s><ruby class="hanja grade42"><rb>正常人</rb><rp>(</rp><rt>정상인</rt><rp>)</rp></ruby></s>
 </p>
 </div></body></html>
