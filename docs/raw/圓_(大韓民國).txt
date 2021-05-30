@@ -1,2 +1,2 @@
-<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B%E5%9C%93" title="大韓民國圓">大韓民國圓</a></li></ul></div>
+<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/wiki/%EC%9B%90_(%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B)" title="원 (大韓民國)">원 (大韓民國)</a></li></ul></div>
 </div></body></html>
