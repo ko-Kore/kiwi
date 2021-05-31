@@ -1,0 +1,86 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="2"><b><ruby class="hanja grade32"><rb>伯林</rb><rp>(</rp><rt>백림</rt><rp>)</rp></ruby></b>
+</th></tr>
+<tr>
+<th colspan="2">Berlin
+</th></tr>
+<tr>
+<th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E8%81%AF%E9%82%A6%E5%B7%9E&amp;action=edit&amp;redlink=1" class="new" title="聯邦州 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>聯邦州</rb><rp>(</rp><rt>연방주</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</th></tr>
+<tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Berlin.svg" class="image"><img alt="Coat of arms of Berlin.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/langko-200px-Coat_of_arms_of_Berlin.svg.png" decoding="async" width="200" height="328" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/langko-300px-Coat_of_arms_of_Berlin.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/langko-400px-Coat_of_arms_of_Berlin.svg.png 2x"></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Germany.svg" class="image"><img alt="Flag of Germany.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langko-25px-Flag_of_Germany.svg.png" decoding="async" width="25" height="15" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langko-38px-Flag_of_Germany.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langko-50px-Flag_of_Germany.svg.png 2x"></a> <a href="/index.php?title=%E7%8D%A8%E9%80%B8&amp;action=edit&amp;redlink=1" class="new" title="獨逸 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>上位行政區域</rb><rp>(</rp><rt>상위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>下位行政區域</rb><rp>(</rp><rt>하위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>12<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>市廳</rb><rp>(</rp><rt>시청</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%AF%B8%ED%85%8C%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="미테區 (없는 문서)">미테<ruby class="hanja grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a><ruby class="hanja grade40"><rb>市廳舍街</rb><rp>(</rp><rt>시청사가</rt><rp>)</rp></ruby><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>15 붉은<ruby class="hanja grade40"><rb>市廳舍</rb><rp>(</rp><rt>시청사</rt><rp>)</rp></ruby><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%AF%B8%ED%95%98%EC%97%98_%EB%AE%90%EB%9F%AC&amp;action=edit&amp;redlink=1" class="new" title="미하엘 뮐러 (없는 문서)">미하엘 뮐러</a>(<a href="/index.php?title=%E7%8D%A8%E9%80%B8%E7%A4%BE%E6%9C%83%E6%B0%91%E4%B8%BB%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="獨逸社會民主黨 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>獨逸社會民主黨</rb><rp>(</rp><rt>독일사회민주당</rt><rp>)</rp></ruby></a>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>地域語</rb><rp>(</rp><rt>지역어</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade32"><rb>東低地獨逸語</rb><rp>(</rp><rt>동저지독일어</rt><rp>)</rp></ruby><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>3,769,495<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>891.7km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade32"><rb>海拔</rb><rp>(</rp><rt>해발</rt><rp>)</rp></ruby>
+</th>
+<td>34m
+</td></tr>
+<tr>
+<td colspan="2"><a rel="nofollow" class="external text" href="https://www.berlin.de">홈페이지</a>
+</td></tr></tbody></table>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BC%AF%E6%9E%97&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b><ruby class="hanja grade32"><rb>伯林</rb><rp>(</rp><rt>백림</rt><rp>)</rp></ruby></b>은&nbsp;<a href="/index.php?title=%E7%8D%A8%E9%80%B8&amp;action=edit&amp;redlink=1" class="new" title="獨逸 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby></a>의&nbsp;<a href="/wiki/%E9%A6%96%E9%83%BD" title="首都"><ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>全體</rb><rp>(</rp><rt>전체</rt><rp>)</rp></ruby>가 브란덴부르크<ruby class="hanja grade52"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>에 둘러싸여 있으며 <ruby class="hanja grade32"><rb>伯林</rb><rp>(</rp><rt>백림</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>自體</rb><rp>(</rp><rt>자체</rt><rp>)</rp></ruby>도 <ruby class="hanja grade30"><rb>聯邦州</rb><rp>(</rp><rt>연방주</rt><rp>)</rp></ruby>이다.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Bundesland</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Bezirke</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Rathausstraße</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Rotes Rathaus</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Ostniederdeutsch</span>
+</li>
+</ol></div>
+</div></body></html>
