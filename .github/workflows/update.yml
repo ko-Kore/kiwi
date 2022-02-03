@@ -21,7 +21,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - uses: corcc/publish@master
+    - uses: ko-Kore/publish@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TASK_NAME: 'Update mirror'
