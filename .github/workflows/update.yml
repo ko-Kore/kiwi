@@ -17,11 +17,12 @@ jobs:
         ref: gh-pages
         submodules: recursive
 
-    - name: Build
+    - name: Setup node
       uses: actions/setup-node@v2
       with:
         node-version: 16.x
         cache: 'npm'
+
     - run: npm install
     - run: npm run update pages docs 20 2000
     - run: npm run fullbuild indices docs
@@ -33,9 +34,3 @@ jobs:
         TASK_NAME: 'Update mirror'
         TIMEZONE: 'Asia/Seoul'
         BRANCH_NAME: 'gh-pages'
-
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
