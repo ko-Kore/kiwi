@@ -1,0 +1,36 @@
+
+name: Update mirror
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x, 16.x]
+        
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - uses: corcc/publish@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TASK_NAME: 'Update mirror'
+        TIMEZONE: 'Asia/Seoul'
+        BRANCH_NAME: 'gh-pages'
+    - run: npm run update pages docs 20 2000
+    - run: npm run fullbuild indices docs
+    - run: git config user.email "actions@github.com"
+    - run: git config user.name "gh-actions"
+    - run: git add .
+    - run: git commit --allow-empty -m "Update mirror"
+    - run: git push https://Lee0701:${APP_PASSWORD}@${REPO_REF} HEAD:gh-pages
