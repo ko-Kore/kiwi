@@ -15,16 +15,18 @@ jobs:
       with:
         ref: gh-pages
         submodules: recursive
+
     - uses: actions/setup-node@v2
       with:
         node-version: 16.x
         cache: 'npm'
+    - run: npm install
+    - run: npm run update pages docs 20 2000
+    - run: npm run fullbuild indices docs
+
     - uses: ko-Kore/publish@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TASK_NAME: 'Update mirror'
         TIMEZONE: 'Asia/Seoul'
         BRANCH_NAME: 'gh-pages'
-    - run: npm install
-    - run: npm run update pages docs 20 2000
-    - run: npm run fullbuild indices docs
