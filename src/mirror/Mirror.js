@@ -4,7 +4,6 @@ const fse = require('fs-extra')
 const path = require('path')
 const axios = require('axios')
 const cheerio = require('cheerio')
-const {Liquid} = require('liquidjs')
 
 const {mkdir, writeStream, pageFilename} = require('./tools')
 
@@ -105,6 +104,32 @@ const Mirror = class Mirror {
         const isCategory = namespace == 14
         const isFile = namespace == 6
 
+        // Update timestamp if not set
+        if(timestamp == 0) {
+            const {data} = await this.axios.get(API_ENDPOINT, {
+                params: {
+                    format: 'json',
+                    action: 'query',
+                    prop: 'revisions',
+                    titles: title,
+                    rvprop: 'timestamp',
+                    formatversion: 2,
+                }
+            })
+            if(data.query && data.query.pages && data.query.pages.length && data.query.pages.length > 0) {
+                const page = data.query.pages[0]
+                if(page && page.revisions && page.revisions.length && page.revisions.length > 0) {
+                    const revision = page.revisions[0]
+                    if(revision && revision.timestamp) {
+                        try {
+                            timestamp = Date.parse(revision.timestamp)
+                        } catch(e) {
+                        }
+                    }
+                }
+            }
+        }
+
         const {data} = await this.axios.get(API_ENDPOINT, {
             params: {
                 format: 'json',
@@ -195,7 +220,7 @@ const Mirror = class Mirror {
                 const time = [rcend.slice(8, 10), rcend.slice(10, 12), rcend.slice(12, 14)].join(':')
                 rcend = new Date(date + ' ' + time).getTime()
             } else {
-                rcend = Date.parse(rcend).getTime()
+                rcend = Date.parse(rcend)
             }
         }
         if(rcend == null || rcend == NaN) {
