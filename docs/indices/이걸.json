@@ -12,6 +12,11 @@
       "count": 1
     },
     {
+      "title": "假名入力",
+      "surrounding": "한 方式(방식)이다 이걸 더욱",
+      "count": 1
+    },
+    {
       "title": "正字",
       "surrounding": "써라'는 것은 이걸 쓰라는",
       "count": 1
@@ -39,6 +44,11 @@
     {
       "title": "미디어위키",
       "surrounding": "위키의 大多數(대다수)가 이걸 使用(사용)한다",
+      "count": 1
+    },
+    {
+      "title": "오픈TTD",
+      "surrounding": "하는 都市(도시)에서 이걸 使用(사용)하여",
       "count": 1
     }
   ]

@@ -37,6 +37,11 @@
       "count": 2
     },
     {
+      "title": "오픈TTD",
+      "surrounding": "깔아야 運行(운행)할수 있으며 道路(도로)가 ... 配布(배포)할 수 있으며 게임內(내)에서는",
+      "count": 2
+    },
+    {
       "title": "VAIO",
       "surrounding": "模樣(모양)을 띠고 있으며 로고의",
       "count": 1
@@ -207,8 +212,18 @@
       "count": 1
     },
     {
+      "title": "맥모닝",
+      "surrounding": "注文(주문)할 수 있으며 이",
+      "count": 1
+    },
+    {
       "title": "버거킹",
       "surrounding": "使用(사용)할 수 있으며 와퍼級(급)",
+      "count": 1
+    },
+    {
+      "title": "빅맥",
+      "surrounding": "限定販賣(한정판매)되는 境遇(경우)가 있으며 히든메뉴로",
       "count": 1
     },
     {
@@ -229,11 +244,6 @@
     {
       "title": "얀데레",
       "surrounding": "사람이 間或(간혹) 있으며 이文書(문서)는",
-      "count": 1
-    },
-    {
-      "title": "오픈TTD",
-      "surrounding": "配布(배포)할 수 있으며 게임內(내)에서는",
       "count": 1
     },
     {

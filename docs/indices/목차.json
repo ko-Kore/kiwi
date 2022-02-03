@@ -127,6 +127,11 @@
       "count": 1
     },
     {
+      "title": "假名入力",
+      "surrounding": "목차 1",
+      "count": 1
+    },
+    {
       "title": "入力",
       "surrounding": "補充(보충)해 주세요 목차 1",
       "count": 1
@@ -862,6 +867,11 @@
       "count": 1
     },
     {
+      "title": "빅맥",
+      "surrounding": "오류 발생: 목차 1",
+      "count": 1
+    },
+    {
       "title": "새마을號",
       "surrounding": "새마을號 動車 목차 1",
       "count": 1
@@ -919,6 +929,11 @@
     {
       "title": "에어팟",
       "surrounding": "에어팟 웹사이트 목차 1",
+      "count": 1
+    },
+    {
+      "title": "오픈TTD",
+      "surrounding": " 타이틀畵面 목차 1",
       "count": 1
     },
     {

@@ -337,6 +337,11 @@
       "count": 1
     },
     {
+      "title": "假名入力",
+      "surrounding": "JIS 키보드 文書(문서)도 參考(참고)",
+      "count": 1
+    },
+    {
       "title": "共産黨이 없으면 新中國도 없다.",
       "surrounding": ") 關聯(관련) 文書(문서)[편집] 나는",
       "count": 1
@@ -429,6 +434,11 @@
     {
       "title": "漢電마인크래프트",
       "surrounding": "鐵道(철도)[편집] 漢電(한전)마인크래프트/鐵道(철도) 文書(문서)를 參考(참고)",
+      "count": 1
+    },
+    {
+      "title": "獨逸國",
+      "surrounding": "Heinrich Lammers)가 公用文書(공용문서) “Erlass",
       "count": 1
     },
     {
