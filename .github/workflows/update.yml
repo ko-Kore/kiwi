@@ -1,0 +1,38 @@
+
+name: Update mirror
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+        submodules: recursive
+
+    - name: Setup node
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16.x
+        cache: 'npm'
+
+    - run: npm install
+    - run: npm run update pages docs 20 2000
+    - run: npm run fullbuild indices docs
+
+    - name: Publish
+      uses: ko-Kore/publish@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TASK_NAME: 'Update mirror'
+        TIMEZONE: 'Asia/Seoul'
+        BRANCH_NAME: 'gh-pages'
+        
+    - run: curl -u ${{ env.GITHUB_ACTOR }}:${{ secrets.GITHUB_TOKEN }} -X POST https://api.github.com/repos/ko-Kore/kiwi/pages/builds
