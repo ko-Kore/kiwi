@@ -1,13 +1,16 @@
 {
   "title": "分類:印刷",
   "namespace": 14,
-  "timestamp": 1612569648000,
+  "timestamp": 0,
   "categories": [
     "出版",
     "技術"
   ],
   "members": [
-    "分類:書體"
+    "分類:書體",
+    "分類:組版",
+    "分類:出版",
+    "分類:打字機"
   ],
   "file": null
 }

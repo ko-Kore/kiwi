@@ -1,13 +1,15 @@
 {
   "title": "分類:키보드",
   "namespace": 14,
-  "timestamp": 1612565332000,
+  "timestamp": 0,
   "categories": [
     "入力裝置"
   ],
   "members": [
     "機械式 키보드",
-    "入力方式"
+    "키보드",
+    "分類:入力方式",
+    "分類:打字機"
   ],
   "file": null
 }

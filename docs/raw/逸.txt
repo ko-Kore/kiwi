@@ -36,7 +36,7 @@
 <p><a href="/wiki/%E6%9C%83%E6%84%8F%E6%96%87%E5%AD%97" title="會意文字"><ruby class="hanja grade62"><rb>會意文字</rb><rp>(</rp><rt>회의문자</rt><rp>)</rp></ruby></a>이다.
 </p>
 <h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%80%B8&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/index.php?title=%E7%8D%A8%E9%80%B8&amp;action=edit&amp;redlink=1" class="new" title="獨逸 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby></a></li>
+<ul><li><a href="/wiki/%E7%8D%A8%E9%80%B8" title="獨逸"><ruby class="hanja grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby></a></li>
 <li><ruby class="hanja grade32"><rb>逸脫</rb><rp>(</rp><rt>일탈</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>安逸</rb><rp>(</rp><rt>안일</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>逸話</rb><rp>(</rp><rt>일화</rt><rp>)</rp></ruby></li>

@@ -110,7 +110,7 @@
 <tbody><tr>
 <th>제목
 </th>
-<td><ruby class="hanja grade32"><rb>超異域公主連結</rb><rp>(</rp><rt>초이역공주연결</rt><rp>)</rp></ruby>☆Re:Dive
+<td><ruby class="hanja grade32"><rb>超異域公主連結</rb><rp>(</rp><rt>초이역공주련결</rt><rp>)</rp></ruby>☆Re:Dive
 </td></tr>
 <tr>
 <th><ruby class="hanja grade52"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby>

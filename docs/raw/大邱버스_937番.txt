@@ -8,12 +8,12 @@
 <th><span class="color" style="color: blue;"><a href="/index.php?title=%E5%A4%A7%E9%82%B1%E5%BB%A3%E5%9F%9F%E5%B8%82_%E5%B9%B9%E7%B7%9A%EB%B2%84%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="大邱廣域市 幹線버스 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>大邱廣域市</rb><rp>(</rp><rt>대구광역시</rt><rp>)</rp></ruby> <ruby class="hanja grade32 unknown"><rb>幹線</rb><rp>(</rp><rt>간선</rt><rp>)</rp></ruby>버스</a> 937<ruby class="hanja grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby></span>
 </th></tr>
 <tr>
-<th><a href="/index.php?title=%E7%A7%BB%E5%8B%95%E8%B7%AF%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="移動路線 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>移動路線</rb><rp>(</rp><rt>이동노선</rt><rp>)</rp></ruby></a>
+<th><a href="/index.php?title=%E7%A7%BB%E5%8B%95%E8%B7%AF%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="移動路線 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>移動路線</rb><rp>(</rp><rt>이동로선</rt><rp>)</rp></ruby></a>
 </th>
 <td><ruby class="hanja grade12"><rb>大邱廣域市</rb><rp>(</rp><rt>대구광역시</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>壽城區</rb><rp>(</rp><rt>수성구</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>時至地區</rb><rp>(</rp><rt>시지지구</rt><rp>)</rp></ruby> <a href="/index.php?title=%E5%BE%B7%E6%BA%90%E9%AB%98%E7%AD%89%E5%AD%B8%E6%A0%A1&amp;action=edit&amp;redlink=1" class="new" title="德源高等學校 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>德源高等學校</rb><rp>(</rp><rt>덕원고등학교</rt><rp>)</rp></ruby></a> ↔ <ruby class="hanja grade12"><rb>大邱廣域市</rb><rp>(</rp><rt>대구광역시</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>北區</rb><rp>(</rp><rt>북구</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>觀音洞</rb><rp>(</rp><rt>관음동</rt><rp>)</rp></ruby> <a href="/index.php?title=%E5%85%AC%E7%87%9F%E8%BB%8A%E5%BA%AB%E5%9C%B0&amp;action=edit&amp;redlink=1" class="new" title="公營車庫地 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>公營車庫地</rb><rp>(</rp><rt>공영차고지</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E9%85%8D%E8%BB%8A%E9%96%93%E9%9A%94&amp;action=edit&amp;redlink=1" class="new" title="配車間隔 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>配車間隔</rb><rp>(</rp><rt>배차간격</rt><rp>)</rp></ruby></a>
+<th><a href="/index.php?title=%E9%85%8D%E8%BB%8A%E9%96%93%E9%9A%94&amp;action=edit&amp;redlink=1" class="new" title="配車間隔 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>配車間隔</rb><rp>(</rp><rt>배찻간격</rt><rp>)</rp></ruby></a>
 </th>
 <td><ruby class="hanja grade72"><rb>平日</rb><rp>(</rp><rt>평일</rt><rp>)</rp></ruby>:9<ruby class="hanja grade62"><rb>分</rb><rp>(</rp><rt>분</rt><rp>)</rp></ruby> / <ruby class="hanja grade70"><rb>休日</rb><rp>(</rp><rt>휴일</rt><rp>)</rp></ruby>:11<ruby class="hanja grade62"><rb>分</rb><rp>(</rp><rt>분</rt><rp>)</rp></ruby>
 </td></tr>

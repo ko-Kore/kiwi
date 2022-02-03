@@ -3,7 +3,7 @@
 <th colspan="2"><b><ruby class="hanja grade10"><rb>川崎</rb><rp>(</rp><rt>천기</rt><rp>)</rp></ruby></b>
 </th></tr>
 <tr>
-<th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="市 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
 </th></tr>
 <tr>
 <td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg" class="image"><img alt="神奈川県川崎市市章.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/langko-200px-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png" decoding="async" width="200" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/langko-300px-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg/langko-400px-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B8%82%E7%AB%A0.svg.png 2x"></a>

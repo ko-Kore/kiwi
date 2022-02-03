@@ -1,8 +1,10 @@
 {
   "title": "國漢大百科:漢字入力環境",
   "namespace": 4,
-  "timestamp": 1620180585000,
-  "categories": [],
+  "timestamp": 0,
+  "categories": [
+    "國漢大百科 도움말"
+  ],
   "members": [],
   "file": null
 }

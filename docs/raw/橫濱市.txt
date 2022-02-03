@@ -3,10 +3,10 @@
 <th colspan="2"><b><ruby class="hanja grade10"><rb>橫濱</rb><rp>(</rp><rt>횡빈</rt><rp>)</rp></ruby></b>
 </th></tr>
 <tr>
-<th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="市 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
 </th></tr>
 <tr>
-<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_Yokohama,_Kanagawa.svg" class="image"><img alt="Emblem of Yokohama, Kanagawa.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Yokohama%2C_Kanagawa.svg/langko-200px-Emblem_of_Yokohama%2C_Kanagawa.svg.png" decoding="async" width="200" height="143" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Yokohama%2C_Kanagawa.svg/langko-300px-Emblem_of_Yokohama%2C_Kanagawa.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Yokohama%2C_Kanagawa.svg/langko-400px-Emblem_of_Yokohama%2C_Kanagawa.svg.png 2x"></a>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_Yokohama,_Kanagawa.svg" class="image"><img alt="Emblem of Yokohama, Kanagawa.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Yokohama%2C_Kanagawa.svg/langko-200px-Emblem_of_Yokohama%2C_Kanagawa.svg.png" decoding="async" width="200" height="125" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Yokohama%2C_Kanagawa.svg/langko-300px-Emblem_of_Yokohama%2C_Kanagawa.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emblem_of_Yokohama%2C_Kanagawa.svg/langko-400px-Emblem_of_Yokohama%2C_Kanagawa.svg.png 2x"></a>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>

@@ -32,8 +32,6 @@
 <td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>8<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
-<p><br>
-</p>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%AF%B8&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>손의 <ruby class="hanja grade42"><rb>形狀</rb><rp>(</rp><rt>형상</rt><rp>)</rp></ruby>인 <a href="/index.php?title=%E5%8F%88&amp;action=edit&amp;redlink=1" class="new" title="又 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>又</rb><rp>(</rp><rt>우</rt><rp>)</rp></ruby></a>와 손목이 있는 곳을 <ruby class="hanja grade50"><rb>表示</rb><rp>(</rp><rt>표시</rt><rp>)</rp></ruby>한 <a href="/wiki/%E4%B8%80" title="一"><ruby class="hanja grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>로 이루어진 <a href="/wiki/%E6%8C%87%E4%BA%8B%E6%96%87%E5%AD%97" title="指事文字"><ruby class="hanja grade42"><rb>指事文字</rb><rp>(</rp><rt>지사문자</rt><rp>)</rp></ruby></a>이다.
 </p>

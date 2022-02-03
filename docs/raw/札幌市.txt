@@ -3,7 +3,7 @@
 <th colspan="2"><b><ruby class="hanja grade0"><rb>札幌</rb><rp>(</rp><rt>찰황</rt><rp>)</rp></ruby></b>
 </th></tr>
 <tr>
-<th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="市 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
 </th></tr>
 <tr>
 <td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Symbol_of_Sapporo,_Hokkaido.svg" class="image"><img alt="Symbol of Sapporo, Hokkaido.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Symbol_of_Sapporo%2C_Hokkaido.svg/langko-200px-Symbol_of_Sapporo%2C_Hokkaido.svg.png" decoding="async" width="200" height="230" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Symbol_of_Sapporo%2C_Hokkaido.svg/langko-300px-Symbol_of_Sapporo%2C_Hokkaido.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Symbol_of_Sapporo%2C_Hokkaido.svg/langko-400px-Symbol_of_Sapporo%2C_Hokkaido.svg.png 2x"></a>

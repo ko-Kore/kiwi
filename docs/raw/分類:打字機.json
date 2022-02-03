@@ -1,7 +1,7 @@
 {
   "title": "分類:打字機",
   "namespace": 14,
-  "timestamp": 1614727084000,
+  "timestamp": 0,
   "categories": [
     "機械",
     "印刷",
@@ -9,7 +9,9 @@
     "키보드"
   ],
   "members": [
-    "打字機"
+    "打字機",
+    "한글打字機",
+    "和文打字機"
   ],
   "file": null
 }

@@ -1,5 +1,5 @@
-<html><head></head><body><div class="mw-parser-output"><p>Suzhou/ Soochow dialect mania ㄷ
-<ruby class="hanja grade32"><rb>蘇州</rb><rp>(</rp><rt>소주</rt><rp>)</rp></ruby>(소주, 쑤저우)<ruby class="hanja grade72"><rb>話</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>/<ruby class="hanja grade60"><rb>方言</rb><rp>(</rp><rt>방언</rt><rp>)</rp></ruby>(말씀 화/방언) 매니아/마니아 ㄷ
-<a href="/wiki/%E5%90%B3%E8%AA%9E" title="吳語"><ruby class="hanja grade12"><rb>吳語</rb><rp>(</rp><rt>오어</rt><rp>)</rp></ruby></a> 다 파고 <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade60"><rb>方言</rb><rp>(</rp><rt>방언</rt><rp>)</rp></ruby>들도 팜ㄷ 모든언어 방언학에 관심있음ㄷ
+<html><head></head><body><div class="mw-parser-output"><p>Suzhou/ Soochow dialect mania.
+<ruby class="hanja grade32"><rb>蘇州話</rb><rp>(</rp><rt>소주화</rt><rp>)</rp></ruby>/<ruby class="hanja grade60"><rb>方言</rb><rp>(</rp><rt>방언</rt><rp>)</rp></ruby> 매니아/마니아.
+<a href="/wiki/%E5%90%B3%E8%AA%9E" title="吳語"><ruby class="hanja grade12"><rb>吳語</rb><rp>(</rp><rt>오어</rt><rp>)</rp></ruby></a> 를 파고 <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade60"><rb>方言</rb><rp>(</rp><rt>방언</rt><rp>)</rp></ruby>들도 팜. 모든<ruby class="hanja grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>方言學</rb><rp>(</rp><rt>방언학</rt><rp>)</rp></ruby>에 <ruby class="hanja grade52"><rb>關心</rb><rp>(</rp><rt>관심</rt><rp>)</rp></ruby>있음.
 </p>
 </div></body></html>

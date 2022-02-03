@@ -1,8 +1,10 @@
 {
   "title": "分類:化學",
   "namespace": 14,
-  "timestamp": 1612365672000,
-  "categories": [],
+  "timestamp": 0,
+  "categories": [
+    "自然科學"
+  ],
   "members": [
     "酪酸",
     "蟻酸",

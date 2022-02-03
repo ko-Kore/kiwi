@@ -1,0 +1,207 @@
+<html><head></head><body><div class="mw-parser-output"><p><br>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th><ruby class="hanja grade30"><rb>紙幣</rb><rp>(</rp><rt>지폐</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja grade32"><rb>鑄貨</rb><rp>(</rp><rt>주화</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade40"><rb>錢</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby>
+</th>
+<td>wʌ̹n
+</td>
+<td>tsʌn
+</td></tr>
+<tr>
+<th>로마<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>表記法</rb><rp>(</rp><rt>표기법</rt><rp>)</rp></ruby>
+</th>
+<td>won
+</td>
+<td>chon
+</td></tr>
+<tr>
+<th>ISO 4217 코드
+</th>
+<td colspan="3" style="text-align: center;">KPW
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>記號</rb><rp>(</rp><rt>기호</rt><rp>)</rp></ruby>
+</th>
+<td colspan="3" style="text-align: center;">￦
+</td></tr></tbody></table>
+<h2><span id="槪說(개설)"></span><span class="mw-headline" id=".E6.A7.AA.E8.AA.AA.28.EA.B0.9C.EC.84.A4.29"><ruby class="hanja grade32"><rb>槪說</rb><rp>(</rp><rt>개설</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%93_(%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B)&amp;action=edit&amp;section=1" title="부분 편집: 槪說(개설)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="朝鮮民主主義人民共和國"><ruby class="hanja grade42"><rb>朝鮮民主主義人民共和國</rb><rp>(</rp><rt>조선민주주의인민공화국</rt><rp>)</rp></ruby></a>에서 <a href="/wiki/%E4%BD%BF%E7%94%A8" title="使用"><ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby></a>하는 <a href="/index.php?title=%E8%B2%A8%E5%B9%A3&amp;action=edit&amp;redlink=1" class="new" title="貨幣 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby></a>다.
+</p>
+<h2><span id="名稱(명칭)"></span><span class="mw-headline" id=".E5.90.8D.E7.A8.B1.28.EB.AA.85.EC.B9.AD.29"><ruby class="hanja grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%93_(%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B)&amp;action=edit&amp;section=2" title="부분 편집: 名稱(명칭)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby>에서는 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>가 <ruby class="hanja grade42"><rb>政權</rb><rp>(</rp><rt>정권</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>樹立時</rb><rp>(</rp><rt>수립시</rt><rp>)</rp></ruby>에 <ruby class="hanja grade32"><rb>廢止</rb><rp>(</rp><rt>폐지</rt><rp>)</rp></ruby> 되었기 때문에 <ruby class="hanja grade52"><rb>公式的</rb><rp>(</rp><rt>공식적</rt><rp>)</rp></ruby>인 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>는 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>하지 않지만, <ruby class="hanja grade20"><rb>中國語圈</rb><rp>(</rp><rt>중국어권</rt><rp>)</rp></ruby>에서는 “<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>”라고 쓴다.
+</p>
+<h2><span id="種類(종류)"></span><span class="mw-headline" id=".E7.A8.AE.E9.A1.9E.28.EC.A2.85.EB.A5.98.29"><ruby class="hanja grade52"><rb>種類</rb><rp>(</rp><rt>종류</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%93_(%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B)&amp;action=edit&amp;section=3" title="부분 편집: 種類(종류)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td colspan="8" style="text-align: center;"><ruby class="hanja grade60"><rb>現行</rb><rp>(</rp><rt>현행</rt><rp>)</rp></ruby> <ruby class="hanja grade30"><rb>紙幣</rb><rp>(</rp><rt>지폐</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>寫眞</rb><rp>(</rp><rt>사진</rt><rp>)</rp></ruby>
+</th>
+<th rowspan="2"><ruby class="hanja grade40"><rb>金額</rb><rp>(</rp><rt>금액</rt><rp>)</rp></ruby>
+</th>
+<th rowspan="2"><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<th rowspan="2"><ruby class="hanja grade52"><rb>色相</rb><rp>(</rp><rt>색상</rt><rp>)</rp></ruby>
+</th>
+<th rowspan="2"><ruby class="hanja grade60"><rb>發行開始年度</rb><rp>(</rp><rt>발행개시년도</rt><rp>)</rp></ruby>
+</th>
+<th colspan="2"><ruby class="hanja grade52"><rb>說明</rb><rp>(</rp><rt>설명</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>表面</rb><rp>(</rp><rt>표면</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja grade32"><rb>裏面</rb><rp>(</rp><rt>이면</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja grade62"><rb>表面</rb><rp>(</rp><rt>표면</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja grade32"><rb>裏面</rb><rp>(</rp><rt>이면</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=North_korea_dprk_5000_won_2013.00.00_b58a_pnl_0031333_f.jpg" class="new" title="파일:North korea dprk 5000 won 2013.00.00 b58a pnl 0031333 f.jpg">150px</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2013_-_5000won-2.jpg" class="new" title="파일:2013 - 5000won-2.jpg">150px</a>
+</td>
+<td rowspan="2">5000<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td rowspan="10">143 × 55㎜
+</td>
+<td rowspan="2"><ruby class="hanja grade32"><rb>茶色</rb><rp>(</rp><rt>다색</rt><rp>)</rp></ruby>
+</td>
+<td>2013<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>萬景臺</rb><rp>(</rp><rt>만경대</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>金日成</rb><rp>(</rp><rt>김일성</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>生家</rb><rp>(</rp><rt>생가</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>國際親善展覽館</rb><rp>(</rp><rt>국제친선전람관</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-5000a.jpg" class="new" title="파일:Nkorea08-5000a.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-5000b.jpg" class="new" title="파일:Nkorea08-5000b.jpg">150픽셀</a>
+</td>
+<td rowspan="6">2008<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E9%87%91%E6%97%A5%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="金日成 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>金日成</rb><rp>(</rp><rt>김일성</rt><rp>)</rp></ruby></a> <ruby class="hanja grade32"><rb>肖像畫</rb><rp>(</rp><rt>초상화</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>萬景臺</rb><rp>(</rp><rt>만경대</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>金日成</rb><rp>(</rp><rt>김일성</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>生家</rb><rp>(</rp><rt>생가</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-2000a.jpg" class="new" title="파일:Nkorea08-2000a.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2000_%D0%B2%D0%BE%D0%BD_%D0%9A%D0%9D%D0%94%D0%A0.jpg" class="new" title="파일:2000 вон КНДР.jpg">150픽셀</a>
+</td>
+<td>2000<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade70"><rb>靑色</rb><rp>(</rp><rt>청색</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade60"><rb>白頭山</rb><rp>(</rp><rt>백두산</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>密營</rb><rp>(</rp><rt>밀영</rt><rp>)</rp></ruby> (<ruby class="hanja grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade40"><rb>宣傳</rb><rp>(</rp><rt>선전</rt><rp>)</rp></ruby>하는 <ruby class="hanja grade72"><rb>金正日</rb><rp>(</rp><rt>김정일</rt><rp>)</rp></ruby>의 <ruby class="hanja grade70"><rb>出生地</rb><rp>(</rp><rt>출생지</rt><rp>)</rp></ruby>)
+</td>
+<td><ruby class="hanja grade60"><rb>白頭山</rb><rp>(</rp><rt>백두산</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>天池</rb><rp>(</rp><rt>천지</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-1000a.jpg" class="new" title="파일:Nkorea08-1000a.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-1000b.jpg" class="new" title="파일:Nkorea08-1000b.jpg">150픽셀</a>
+</td>
+<td>1000<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade40"><rb>紅色</rb><rp>(</rp><rt>홍색</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/wiki/%E9%87%91%E6%AD%A3%E6%B7%91" title="金正淑"><ruby class="hanja grade32"><rb>金正淑</rb><rp>(</rp><rt>김정숙</rt><rp>)</rp></ruby></a> <ruby class="hanja grade72"><rb>生家</rb><rp>(</rp><rt>생가</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade12"><rb>三池淵</rb><rp>(</rp><rt>삼지연</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=500_%D0%B2%D0%BE%D0%BD_%D0%9A%D0%9D%D0%94%D0%A0.jpg" class="new" title="파일:500 вон КНДР.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=500_%D0%B2%D0%BE%D0%BD_%D0%9A%D0%9D%D0%94%D0%A0-%D1%80.jpg" class="new" title="파일:500 вон КНДР-р.jpg">150픽셀</a>
+</td>
+<td>500<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade40"><rb>灰色</rb><rp>(</rp><rt>회색</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade10"><rb>凱旋門</rb><rp>(</rp><rt>개선문</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade40"><rb>額面</rb><rp>(</rp><rt>액면</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>數字</rb><rp>(</rp><rt>숫자</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=200_%D0%B2%D0%BE%D0%BD_%D0%9A%D0%9D%D0%94%D0%A0.jpg" class="new" title="파일:200 вон КНДР.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-200b.jpg" class="new" title="파일:Nkorea08-200b.jpg">150픽셀</a>
+</td>
+<td>200<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>紫色</rb><rp>(</rp><rt>자색</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>千里馬銅像</rb><rp>(</rp><rt>천리마동상</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade40"><rb>額面</rb><rp>(</rp><rt>액면</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>數字</rb><rp>(</rp><rt>숫자</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Nkorea08-100a_(1).jpg" class="new" title="파일:Nkorea08-100a (1).jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=100_%D0%B2%D0%BE%D0%BD_%D0%9A%D0%9D%D0%94%D0%A0.jpg" class="new" title="파일:100 вон КНДР.jpg">150픽셀</a>
+</td>
+<td>100<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade60"><rb>綠色</rb><rp>(</rp><rt>녹색</rt><rp>)</rp></ruby>
+</td>
+<td>함박꽃나무
+</td>
+<td><ruby class="hanja grade40"><rb>額面</rb><rp>(</rp><rt>액면</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>數字</rb><rp>(</rp><rt>숫자</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2002-50won-1.jpg" class="new" title="파일:2002-50won-1.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2002-50won-2.jpg" class="new" title="파일:2002-50won-2.jpg">150픽셀</a>
+</td>
+<td>50<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>紫色</rb><rp>(</rp><rt>자색</rt><rp>)</rp></ruby>
+</td>
+<td rowspan="3">2002<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade52"><rb>勞動者</rb><rp>(</rp><rt>노동자</rt><rp>)</rp></ruby>, <ruby class="hanja grade72"><rb>農民</rb><rp>(</rp><rt>농민</rt><rp>)</rp></ruby>, <ruby class="hanja grade52"><rb>知識人</rb><rp>(</rp><rt>지식인</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>主體思想塔</rb><rp>(</rp><rt>주체사상탑</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>黨創建記念塔</rb><rp>(</rp><rt>당창건기념탑</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2002-10won-1.jpg" class="new" title="파일:2002-10won-1.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2002-10won-2.jpg" class="new" title="파일:2002-10won-2.jpg">150픽셀</a>
+</td>
+<td>10<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade60"><rb>綠色</rb><rp>(</rp><rt>녹색</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade52"><rb>朝鮮人民軍</rb><rp>(</rp><rt>조선인민군</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>陸軍</rb><rp>(</rp><rt>육군</rt><rp>)</rp></ruby>·<ruby class="hanja grade72"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby>·<ruby class="hanja grade72"><rb>空軍</rb><rp>(</rp><rt>공군</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>兵士</rb><rp>(</rp><rt>병사</rt><rp>)</rp></ruby>, <ruby class="hanja grade52"><rb>朝鮮人民軍</rb><rp>(</rp><rt>조선인민군</rt><rp>)</rp></ruby> <ruby class="hanja grade12"><rb>徽章</rb><rp>(</rp><rt>휘장</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade32"><rb>祖國解放戰爭勝利記念塔</rb><rp>(</rp><rt>조국해방전쟁승리기념탑</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2002-5won-1.jpg" class="new" title="파일:2002-5won-1.jpg">150픽셀</a>
+</td>
+<td><a href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=2002-5won-2.jpg" class="new" title="파일:2002-5won-2.jpg">150픽셀</a>
+</td>
+<td>5<ruby class="hanja grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade70"><rb>靑色</rb><rp>(</rp><rt>청색</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade80"><rb>學生</rb><rp>(</rp><rt>학생</rt><rp>)</rp></ruby>과 <ruby class="hanja grade60"><rb>科學者</rb><rp>(</rp><rt>과학자</rt><rp>)</rp></ruby>, <ruby class="hanja grade62"><rb>地球</rb><rp>(</rp><rt>지구</rt><rp>)</rp></ruby>와 <ruby class="hanja grade50"><rb>原子</rb><rp>(</rp><rt>원자</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja grade60"><rb>禮成江</rb><rp>(</rp><rt>예성강</rt><rp>)</rp></ruby> <ruby class="hanja grade80"><rb>靑年</rb><rp>(</rp><rt>청년</rt><rp>)</rp></ruby>1<ruby class="hanja grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>水力發電所</rb><rp>(</rp><rt>수력발전소</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+</div></body></html>

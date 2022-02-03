@@ -1,8 +1,11 @@
 {
   "title": "委班復生漢喃越南",
   "namespace": 0,
-  "timestamp": 1619939420000,
-  "categories": [],
+  "timestamp": 0,
+  "categories": [
+    "團體",
+    "越南語"
+  ],
   "members": [],
   "file": null
 }

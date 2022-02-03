@@ -8,12 +8,12 @@
 <tr>
 <th><ruby class="hanja grade60"><rb>開發</rb><rp>(</rp><rt>개발</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Apple_logo_black.svg" class="image"><img alt="Apple logo black.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-20px-Apple_logo_black.svg.png" decoding="async" width="20" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-30px-Apple_logo_black.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-40px-Apple_logo_black.svg.png 2x"></a>
+<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Apple_logo_black.svg" class="image"><img alt="Apple logo black.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-20px-Apple_logo_black.svg.png" decoding="async" width="20" height="25" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-30px-Apple_logo_black.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-40px-Apple_logo_black.svg.png 2x"></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade42"><rb>製造</rb><rp>(</rp><rt>제조</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Apple_logo_black.svg" class="image"><img alt="Apple logo black.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-20px-Apple_logo_black.svg.png" decoding="async" width="20" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-30px-Apple_logo_black.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-40px-Apple_logo_black.svg.png 2x"></a> <br> 폭스콘
+<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Apple_logo_black.svg" class="image"><img alt="Apple logo black.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-20px-Apple_logo_black.svg.png" decoding="async" width="20" height="25" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-30px-Apple_logo_black.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/langko-40px-Apple_logo_black.svg.png 2x"></a> <br> 폭스콘
 </td></tr>
 <tr>
 <td colspan="2"><a rel="nofollow" class="external text" href="https://www.apple.com/kr/iphone/">아이폰 웹사이트</a>
@@ -61,6 +61,10 @@
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12_%ED%94%84%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 프로 (없는 문서)">아이폰 12 프로</a></li>
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12_%ED%94%84%EB%A1%9C_%EB%A7%A5%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 프로 맥스 (없는 문서)">아이폰 12 프로 맥스</a></li></ul></li></ul>
 </div>
+<h2><span id="關聯文書(관련문서)"></span><span class="mw-headline" id=".E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"><ruby class="hanja grade32"><rb>關聯文書</rb><rp>(</rp><rt>관련문서</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0&amp;action=edit&amp;section=3" title="부분 편집: 關聯文書(관련문서)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8C%9F&amp;action=edit&amp;redlink=1" class="new" title="아이팟 (없는 문서)">아이팟</a></li>
+<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C&amp;action=edit&amp;redlink=1" class="new" title="아이패드 (없는 문서)">아이패드</a></li>
+<li><a href="/index.php?title=%EC%95%A0%ED%94%8C_%EC%9B%8C%EC%B9%98&amp;action=edit&amp;redlink=1" class="new" title="애플 워치 (없는 문서)">애플 워치</a></li></ul>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">아이폰 5s <ruby class="hanja grade52"><rb>以後</rb><rp>(</rp><rt>이후</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>製品名</rb><rp>(</rp><rt>제품명</rt><rp>)</rp></ruby>이 4S→<b>4s</b>로 바뀌었다.</span>
 </li>

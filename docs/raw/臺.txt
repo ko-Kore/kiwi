@@ -1,0 +1,69 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade32"><rb>臺</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">대 대
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade42"><rb>至</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>14<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade12"><rb>台</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade12"><rb>台</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>3<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><span class="tocnumber">2</span> <span class="toctext">用例(용례)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E6.88.90.E8.AA.9E.28.EC.84.B1.EC.96.B4.29"><span class="tocnumber">2.1</span> <span class="toctext">成語(성어)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E5.9C.B0.E5.90.8D.28.EC.A7.80.EB.AA.85.29"><span class="tocnumber">2.2</span> <span class="toctext">地名(지명)</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%87%BA&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade32"><rb>臺</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>墩臺</rb><rp>(</rp><rt>돈대</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby>의 뜻을 나타내는 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>이다. <ruby class="hanja grade42"><rb>言論</rb><rp>(</rp><rt>언론</rt><rp>)</rp></ruby>에서 <a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a>을 <ruby class="hanja grade40"><rb>指稱</rb><rp>(</rp><rt>지칭</rt><rp>)</rp></ruby>할 때 쓰인다.
+</p><p><a href="/wiki/%E4%B8%AD%E5%9C%8B" title="中國"><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby></a>·<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>에서는 <ruby class="hanja grade42"><rb>傳統的</rb><rp>(</rp><rt>전통적</rt><rp>)</rp></ruby>으로 <a href="/wiki/%E6%BC%A2%E5%AD%97%E6%96%87%E5%8C%96%E5%9C%88" title="漢字文化圈"><ruby class="hanja grade20"><rb>漢字文化圈</rb><rp>(</rp><rt>한자문화권</rt><rp>)</rp></ruby></a>에서 <ruby class="hanja grade32"><rb>臺</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>를 빨리 쓸 때 <ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby>이 같은 <a href="/index.php?title=%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="台 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>台</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby></a>로 쓰는 <ruby class="hanja grade40"><rb>境遇</rb><rp>(</rp><rt>경우</rt><rp>)</rp></ruby>가 많다는 <ruby class="hanja grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>을 들어 <ruby class="hanja grade52"><rb>公式的</rb><rp>(</rp><rt>공식적</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade32"><rb>臺</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>를 <ruby class="hanja grade32"><rb>廢止</rb><rp>(</rp><rt>폐지</rt><rp>)</rp></ruby>하고 <ruby class="hanja grade12"><rb>台</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>에 <ruby class="hanja grade20"><rb>倂合</rb><rp>(</rp><rt>병합</rt><rp>)</rp></ruby>시켰다. <a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a>에서도 <ruby class="hanja grade72"><rb>自國</rb><rp>(</rp><rt>자국</rt><rp>)</rp></ruby>의 <ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>를 <ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>代身</rb><rp>(</rp><rt>대신</rt><rp>)</rp></ruby>에 “<ruby class="hanja grade12"><rb>台灣</rb><rp>(</rp><rt>태만</rt><rp>)</rp></ruby>”으로 쓰는 <ruby class="hanja grade40"><rb>境遇</rb><rp>(</rp><rt>경우</rt><rp>)</rp></ruby>가 많다.
+</p>
+<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%87%BA&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade32"><rb>燈臺</rb><rp>(</rp><rt>등대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>舞臺</rb><rp>(</rp><rt>무대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>砲臺</rb><rp>(</rp><rt>포대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>臺本</rb><rp>(</rp><rt>대본</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>臺帳</rb><rp>(</rp><rt>대장</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>寢臺</rb><rp>(</rp><rt>침대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>土臺</rb><rp>(</rp><rt>토대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade12"><rb>瞻星臺</rb><rp>(</rp><rt>첨성대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>臺詞</rb><rp>(</rp><rt>대사</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade0"><rb>墩臺</rb><rp>(</rp><rt>돈대</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade0"><rb>烽燧臺</rb><rp>(</rp><rt>봉수대</rt><rp>)</rp></ruby></li></ul>
+<h3><span id="成語(성어)"></span><span class="mw-headline" id=".E6.88.90.E8.AA.9E.28.EC.84.B1.EC.96.B4.29"><ruby class="hanja grade62"><rb>成語</rb><rp>(</rp><rt>성어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%87%BA&amp;action=edit&amp;section=3" title="부분 편집: 成語(성어)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><ruby class="hanja grade32"><rb>高臺廣室</rb><rp>(</rp><rt>고대광실</rt><rp>)</rp></ruby></li></ul>
+<h3><span id="地名(지명)"></span><span class="mw-headline" id=".E5.9C.B0.E5.90.8D.28.EC.A7.80.EB.AA.85.29"><ruby class="hanja grade70"><rb>地名</rb><rp>(</rp><rt>지명</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%87%BA&amp;action=edit&amp;section=4" title="부분 편집: 地名(지명)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/%E6%B5%B7%E9%9B%B2%E8%87%BA" title="海雲臺"><ruby class="hanja grade32"><rb>海雲臺</rb><rp>(</rp><rt>해운대</rt><rp>)</rp></ruby></a></li>
+<li><a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E7%85%99%E8%87%BA&amp;action=edit&amp;redlink=1" class="new" title="煙臺 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>煙臺</rb><rp>(</rp><rt>연대</rt><rp>)</rp></ruby></a></li>
+<li><a href="/wiki/%E4%BB%99%E8%87%BA" title="仙臺"><ruby class="hanja grade32"><rb>仙臺</rb><rp>(</rp><rt>선대</rt><rp>)</rp></ruby></a></li></ul>
+</div></body></html>

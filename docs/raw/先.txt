@@ -32,8 +32,6 @@
 <td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>8<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
-<p><br>
-</p>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%85%88&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><a href="/index.php?title=%E4%B9%8B&amp;action=edit&amp;redlink=1" class="new" title="之 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>之</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby></a>와 <a href="/index.php?title=%E5%84%BF&amp;action=edit&amp;redlink=1" class="new" title="儿 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>儿</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a>이 <ruby class="hanja grade60"><rb>合</rb><rp>(</rp><rt>합</rt><rp>)</rp></ruby>쳐진 <a href="/wiki/%E6%9C%83%E6%84%8F%E6%96%87%E5%AD%97" title="會意文字"><ruby class="hanja grade62"><rb>會意文字</rb><rp>(</rp><rt>회의문자</rt><rp>)</rp></ruby></a>로, 먼저를 뜻하는 <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a>다.
 </p>

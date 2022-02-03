@@ -1,0 +1,153 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">세르비아<ruby class="hanja grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Република Србија
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Serbia.svg" class="image"><img alt="Flag of Serbia.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/langko-240px-Flag_of_Serbia.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/langko-360px-Flag_of_Serbia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/langko-480px-Flag_of_Serbia.svg.png 2x"></a>
+</td>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Serbia.svg" class="image"><img alt="Coat of arms of Serbia.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Serbia.svg/langko-128px-Coat_of_arms_of_Serbia.svg.png" decoding="async" width="128" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Serbia.svg/langko-193px-Coat_of_arms_of_Serbia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Serbia.svg/langko-257px-Coat_of_arms_of_Serbia.svg.png 2x"></a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>國家象徵</rb><rp>(</rp><rt>국가상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%AD%A3%E7%BE%A9%EC%9D%98_%ED%95%98%EB%8A%90%EB%8B%98&amp;action=edit&amp;redlink=1" class="new" title="正義의 하느님 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>正義</rb><rp>(</rp><rt>정의</rt><rp>)</rp></ruby>의 하느님</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Serbia_(orthographic_projection).svg" class="image"><img alt="Serbia (orthographic projection).svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Serbia_%28orthographic_projection%29.svg/langko-300px-Serbia_%28orthographic_projection%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Serbia_%28orthographic_projection%29.svg/langko-450px-Serbia_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Serbia_%28orthographic_projection%29.svg/langko-600px-Serbia_%28orthographic_projection%29.svg.png 2x"></a><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%B2%A0%EC%98%A4%EA%B7%B8%EB%9D%BC%EB%93%9C&amp;action=edit&amp;redlink=1" class="new" title="베오그라드 (없는 문서)">베오그라드</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%95%8C%EB%A0%89%EC%82%B0%EB%8B%A4%EB%A5%B4_%EB%B6%80%EC%B9%98%EC%B9%98&amp;action=edit&amp;redlink=1" class="new" title="알렉산다르 부치치 (없는 문서)">알렉산다르 부치치</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>88,361<sup id="cite_ref-.EC.BD.94.EC.86.8C.EB.B3.B4_1-0" class="reference"><a href="#cite_note-.EC.BD.94.EC.86.8C.EB.B3.B4-1">[1]</a></sup>km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC +1
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>1<ruby class="hanja grade60"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby> 34<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>8,944,939<sup id="cite_ref-.EC.BD.94.EC.86.8C.EB.B3.B4_1-1" class="reference"><a href="#cite_note-.EC.BD.94.EC.86.8C.EB.B3.B4-1">[1]</a></sup><ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>101<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%84%B8%EB%A5%B4%EB%B9%84%EC%95%84%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="세르비아語 (없는 문서)">세르비아<ruby class="hanja grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>公用文字</rb><rp>(</rp><rt>공용문자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%ED%82%A4%EB%A6%B4%E6%96%87%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="키릴文字 (없는 문서)">키릴<ruby class="hanja grade70 unknown"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>族群</rb><rp>(</rp><rt>족군</rt><rp>)</rp></ruby>
+</th>
+<td>83.3% <a href="/wiki/%EC%84%B8%EB%A5%B4%EB%B8%8C%E4%BA%BA" title="세르브人">세르브<ruby class="hanja grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>3.5% <a href="/index.php?title=%EB%A7%88%EC%9E%90%EB%A5%B4%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="마자르人 (없는 문서)">마자르<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>2.1% <a href="/index.php?title=%EB%A1%AC%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="롬人 (없는 문서)">롬<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>2% <a href="/index.php?title=%EB%B3%B4%EC%8A%88%EB%83%90%ED%81%AC%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="보슈냐크人 (없는 문서)">보슈냐크<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>0.8% <a href="/index.php?title=%ED%81%AC%EB%A1%9C%EC%95%84%ED%8A%B8%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="크로아트人 (없는 문서)">크로아트<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>0.7% <a href="/index.php?title=%EC%8A%AC%EB%A1%9C%EB%B0%94%ED%81%AC%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="슬로바크人 (없는 문서)">슬로바크<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>4.3% <ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby><br>3.3% <ruby class="hanja grade32"><rb>未詳</rb><rp>(</rp><rt>미상</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%94%94%EB%82%98%EB%A5%B4_(%EC%84%B8%EB%A5%B4%EB%B9%84%EC%95%84)&amp;action=edit&amp;redlink=1" class="new" title="디나르 (세르비아) (없는 문서)">디나르</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$604<ruby class="hanja grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/wiki/2021%E5%B9%B4" title="2021年">2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>1<ruby class="hanja grade52"><rb>人當</rb><rp>(</rp><rt>인당</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$8,748&nbsp;(<a href="/wiki/2021%E5%B9%B4" title="2021年">2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$1,419<ruby class="hanja grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/wiki/2021%E5%B9%B4" title="2021年">2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>1<ruby class="hanja grade52"><rb>人當</rb><rp>(</rp><rt>인당</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$20,545&nbsp;(<a href="/wiki/2021%E5%B9%B4" title="2021年">2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=2006%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2006年 (없는 문서)">2006<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=6%E6%9C%885%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="6月5日 (없는 문서)">6<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>5<ruby class="hanja grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>國際電話番號</rb><rp>(</rp><rt>국제전화번호</rt><rp>)</rp></ruby>
+</th>
+<td>381
+</td></tr></tbody></table>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%84%B8%EB%A5%B4%EB%B9%84%EC%95%84&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>세르비아</b>(<ruby class="hanja grade32"><rb>塞耳維</rb><rp>(</rp><rt>새이유</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>)는 <ruby class="hanja grade80"><rb>南東</rb><rp>(</rp><rt>남동</rt><rp>)</rp></ruby><a href="/index.php?title=%EC%9C%A0%EB%9F%BD&amp;action=edit&amp;redlink=1" class="new" title="유럽 (없는 문서)">유럽</a>의 <a href="/index.php?title=%EB%B0%9C%EC%B9%B8%E5%8D%8A%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="발칸半島 (없는 문서)">발칸<ruby class="hanja grade50 unknown"><rb>半島</rb><rp>(</rp><rt>반도</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade62"><rb>中西部</rb><rp>(</rp><rt>중서부</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>內陸</rb><rp>(</rp><rt>내륙</rt><rp>)</rp></ruby>에 <ruby class="hanja grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>한 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다.
+</p>
+<h2><span id="國家象徵(국가상징)"></span><span class="mw-headline" id=".E5.9C.8B.E5.AE.B6.E8.B1.A1.E5.BE.B5.28.EA.B5.AD.EA.B0.80.EC.83.81.EC.A7.95.29"><ruby class="hanja grade32"><rb>國家象徵</rb><rp>(</rp><rt>국가상징</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%84%B8%EB%A5%B4%EB%B9%84%EC%95%84&amp;action=edit&amp;section=2" title="부분 편집: 國家象徵(국가상징)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="國名(국명)"></span><span class="mw-headline" id=".E5.9C.8B.E5.90.8D.28.EA.B5.AD.EB.AA.85.29"><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%84%B8%EB%A5%B4%EB%B9%84%EC%95%84&amp;action=edit&amp;section=3" title="부분 편집: 國名(국명)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-selflink selflink">세르비아</a><ruby class="hanja grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby>&nbsp;<ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby>은 “스르비야”(Србија)이다.
+</p><p>“세르비아”라는 말은 <a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a> “Serbia”에서 <ruby class="hanja grade60"><rb>由來</rb><rp>(</rp><rt>유래</rt><rp>)</rp></ruby>하여 “Serbia”라는 이름은 세르비아의 <ruby class="hanja grade52"><rb>主要</rb><rp>(</rp><rt>주요</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>民族</rb><rp>(</rp><rt>민족</rt><rp>)</rp></ruby>인 <a href="/index.php?title=%EC%84%B8%EB%A5%B4%EB%B9%84%EC%95%84%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="세르비아人 (없는 문서)">세르비아<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a>(Срби)의 이름에서 <ruby class="hanja grade60"><rb>由來</rb><rp>(</rp><rt>유래</rt><rp>)</rp></ruby>했다. Срби이라는 <ruby class="hanja grade60"><rb>民族名</rb><rp>(</rp><rt>민족명</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>對</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>한 <ruby class="hanja grade40"><rb>語源</rb><rp>(</rp><rt>어원</rt><rp>)</rp></ruby>은 <a href="/index.php?title=%E5%8F%A4%E4%BB%A3%EC%8A%AC%EB%9D%BC%EB%B8%8C%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="古代슬라브語 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>古代</rb><rp>(</rp><rt>고대</rt><rp>)</rp></ruby>슬라브<ruby class="hanja grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>인 *sьrbъ에서 <ruby class="hanja grade60"><rb>由來</rb><rp>(</rp><rt>유래</rt><rp>)</rp></ruby>된 것으로 <ruby class="hanja grade40"><rb>推測</rb><rp>(</rp><rt>추측</rt><rp>)</rp></ruby>할 뿐이다. <a href="/index.php?title=%E7%BE%85%E9%A6%AC%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="羅馬人 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>羅馬人</rb><rp>(</rp><rt>나마인</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%EC%8A%AC%EB%9D%BC%EB%B8%8C%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="슬라브人 (없는 문서)">슬라브<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%B8%8C%E8%87%98%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="希臘人 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>希臘人</rb><rp>(</rp><rt>희랍인</rt><rp>)</rp></ruby></a>이 모두 비슷한 <ruby class="hanja grade50"><rb>時期</rb><rp>(</rp><rt>시기</rt><rp>)</rp></ruby>에 이 <ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>을 세르비아와 비슷한 이름으로 <ruby class="hanja grade40"><rb>稱</rb><rp>(</rp><rt>칭</rt><rp>)</rp></ruby>했기에 <ruby class="hanja grade40"><rb>語源</rb><rp>(</rp><rt>어원</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>明確</rb><rp>(</rp><rt>명확</rt><rp>)</rp></ruby>한 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>를 알기가 힘들다.
+</p><p><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>·<ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby>의&nbsp;<ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>&nbsp;<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>는&nbsp;<ruby class="hanja grade10"><rb>塞爾維亞</rb><rp>(</rp><rt>새이유아</rt><rp>)</rp></ruby>이다.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-.EC.BD.94.EC.86.8C.EB.B3.B4-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-.EC.BD.94.EC.86.8C.EB.B3.B4_1-0">1.0</a></sup> <sup><a href="#cite_ref-.EC.BD.94.EC.86.8C.EB.B3.B4_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/index.php?title=%EC%BD%94%EC%86%8C%EB%B3%B4&amp;action=edit&amp;redlink=1" class="new" title="코소보 (없는 문서)">코소보</a>를 <ruby class="hanja grade32"><rb>包含</rb><rp>(</rp><rt>포함</rt><rp>)</rp></ruby></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://newslibrary.naver.com/viewer/index.naver?articleId=1922122000239202025&amp;editNo=0&amp;printCount=1&amp;publishDate=1922-12-20&amp;officeId=00023&amp;pageNo=2&amp;printNo=832&amp;publishType=00020"><ruby class="hanja grade32"><rb>塞耳維新內閣組織</rb><rp>(</rp><rt>새이유신내각조직</rt><rp>)</rp></ruby></a></span>
+</li>
+</ol></div>
+</div></body></html>

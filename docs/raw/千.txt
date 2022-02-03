@@ -32,8 +32,6 @@
 <td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>7<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
-<p><br>
-</p>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%83&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><a href="/index.php?title=%E6%95%B8%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="數字 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>數字</rb><rp>(</rp><rt>숫자</rt><rp>)</rp></ruby></a> 1000을 나타내는 <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a>이다.
 </p>
