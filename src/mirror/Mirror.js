@@ -106,27 +106,27 @@ const Mirror = class Mirror {
 
         // Update timestamp if not set
         if(timestamp == 0) {
-            const {data} = await this.axios.get(API_ENDPOINT, {
-                params: {
-                    format: 'json',
-                    action: 'query',
-                    prop: 'revisions',
-                    titles: title,
-                    rvprop: 'timestamp',
-                    formatversion: 2,
-                }
-            })
-            if(data.query && data.query.pages && data.query.pages.length && data.query.pages.length > 0) {
-                const page = data.query.pages[0]
-                if(page && page.revisions && page.revisions.length && page.revisions.length > 0) {
-                    const revision = page.revisions[0]
-                    if(revision && revision.timestamp) {
-                        try {
+            try {
+                const {data} = await this.axios.get(API_ENDPOINT, {
+                    params: {
+                        format: 'json',
+                        action: 'query',
+                        prop: 'revisions',
+                        titles: title,
+                        rvprop: 'timestamp',
+                        formatversion: 2,
+                    }
+                })
+                if(data.query && data.query.pages && data.query.pages.length && data.query.pages.length > 0) {
+                    const page = data.query.pages[0]
+                    if(page && page.revisions && page.revisions.length && page.revisions.length > 0) {
+                        const revision = page.revisions[0]
+                        if(revision && revision.timestamp) {
                             timestamp = Date.parse(revision.timestamp)
-                        } catch(e) {
                         }
                     }
                 }
+            } catch(e) {
             }
         }
 
