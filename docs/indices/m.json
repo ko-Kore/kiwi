@@ -2,6 +2,11 @@
   "word": "m",
   "pages": [
     {
+      "title": "나치獨逸의 노래",
+      "surrounding": "國民社會主義獨逸勞動黨(국민사회주의독일로동당)(나치黨(당))의 黨歌(당가)였다 突擊隊(돌격대)(Sturmabteilung) 隊員(대원)이었던 ... 名稱(명칭)은 赤色戰線戰士同盟(적색전선전사동맹)(Roter Frontkämpferbund) 獨逸共產黨(독일공산당)의",
+      "count": 45
+    },
+    {
       "title": "主祈禱文",
       "surrounding": "προσευχή 羅(나):Oratio Dominica或(혹)은Paster Noster ... and ever Amen 日本語(일본어)[편집]",
       "count": 31
@@ -13,8 +18,13 @@
     },
     {
       "title": "美合衆國",
-      "surrounding": "9 833 520km² 時間帶(시간대) ... States of America' ↑",
+      "surrounding": "States of America 國旗(국기) ... States of America' ↑",
       "count": 24
+    },
+    {
+      "title": "TORIKYU",
+      "surrounding": "desu gera metal song ... Saddharma aswresdatgaZEWTRfd mounten Autobahn",
+      "count": 22
     },
     {
       "title": "小苹果",
@@ -27,12 +37,22 @@
       "count": 14
     },
     {
+      "title": "레제프 타이이프 에르도안",
+      "surrounding": "貧困地域(빈곤지역) 베이욜루區(구)(Beyoğlu) 카슴파샤(Kasımpaşa)에서 태어났다 ... 에르도안 바이락타르 (Sümeyye Erdoğan",
+      "count": 11
+    },
+    {
       "title": "一伊那爾栖",
       "surrounding": " 一伊那尓栖(일이나이서) Ninomae Ina'nis ... checks on humanity as",
       "count": 10
     },
     {
       "title": "共産黨이 없으면 新中國도 없다.",
+      "surrounding": "共产党(공산당)(Gòngchǎndǎng) 就没有(취몰유)(jiù méiyǒu) 新中国(신중국)(xīn ... Gòngchǎndǎng jiù méiyǒu xīn",
+      "count": 9
+    },
+    {
+      "title": "共産黨이 없으면 新中國도 없다",
       "surrounding": "共产党(공산당)(Gòngchǎndǎng) 就没有(취몰유)(jiù méiyǒu) 新中国(신중국)(xīn ... Gòngchǎndǎng jiù méiyǒu xīn",
       "count": 9
     },
@@ -52,8 +72,18 @@
       "count": 7
     },
     {
+      "title": "通用規範漢字表",
+      "surrounding": "𬜬 U+2C72C màn 6794 ... 𬙊 U+2C64A mò 8042",
+      "count": 7
+    },
+    {
       "title": "蟻酸",
       "surrounding": "第一簡單(제일간단)한 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은 ... 名稱(명칭)의\"formic\"은 개미를意味(의미)하는 라틴語(어)\"formica\"에由來(유래)하며 韓國語(한국어)의\"蟻酸(의산)\"과相通(상통)한다",
+      "count": 6
+    },
+    {
+      "title": "越南語",
+      "surrounding": "- 魔(마) (ma 魂靈(혼령)) ... - 𣟭·𥡗·𥢂 (mạ 벼)",
       "count": 6
     },
     {
@@ -63,12 +93,17 @@
     },
     {
       "title": "中華民國",
-      "surrounding": "(事實上(사실상)) 36 197km² 時間帶(시간대) ... Tsou(鄒(추))語(어) Saisiyat(賽夏(새하))語(어) Yami(Tao 雅美(아미)",
+      "surrounding": "(事實上(사실상)) 36 197km² 內水面(내수면) ... Tsou(鄒(추))語(어) Saisiyat(賽夏(새하))語(어) Yami(Tao 雅美(아미)",
       "count": 5
     },
     {
       "title": "民",
       "surrounding": "병음 : mín 國語(국어) ... 蘇州語(소주어) min2 (min²²³) 越南語(월남어)[편집]",
+      "count": 5
+    },
+    {
+      "title": "英國",
+      "surrounding": "聯合王國(연합왕국) United Kingdom of ... (英(영): United Kingdom of",
       "count": 5
     },
     {
@@ -92,13 +127,43 @@
       "count": 3
     },
     {
+      "title": "濠洲",
+      "surrounding": " 濠洲聯邦(호주련방) Commonwealth of ... 人口密度(인구밀도) 3 4名(명)/km² 公用語(공용어)",
+      "count": 3
+    },
+    {
+      "title": "蔚山廣域市",
+      "surrounding": "人口密度(인구밀도) 1 096名(명)/km² 地理(지리) ... 홈페이지 파일:Ulsan montage png",
+      "count": 3
+    },
+    {
+      "title": "越南社會主義共和國",
+      "surrounding": "nghĩa Việt Nam 共和社會主義越南(공화사회주의월남) ... 人口密度(인구밀도) 295 0名(명)/km² 公用語(공용어)",
+      "count": 3
+    },
+    {
       "title": "醋酸",
-      "surrounding": "弱酸性(약산성)을지니는 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학연합))의命名法(명명법)에따른系統名(계통명)(systematic name)은 ... 名稱(명칭)의“acetic”은 食醋(식초)를意味(의미)하는 라틴語(어)“acetum”에由來(유래)하며 韓國語(한국어)의“醋酸(초산)”과相通(상통)한다",
+      "surrounding": "弱酸性(약산성)을지니는 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은 ... 名稱(명칭)의“acetic”은 食醋(식초)를意味(의미)하는 라틴語(어)“acetum”에由來(유래)하며 韓國語(한국어)의“醋酸(초산)”과相通(상통)한다",
       "count": 3
     },
     {
       "title": "釜山廣域市",
       "surrounding": "4 404 55名(명)/km² 地理(지리) ... 10km² 海拔(해발) 25m 象徵(상징)",
+      "count": 3
+    },
+    {
+      "title": "電子娛樂",
+      "surrounding": "西洋(서양)에서는 電子娛樂(전자오락)(electronic game)은 비디오 ... game)과 音聲(음성)게임(audio game) 等(등)으로",
+      "count": 3
+    },
+    {
+      "title": "韓國語의 漢字",
+      "surrounding": "-{膳物(선물)}- 선물 (seonmul) 賬單(장단) ... -{食母(식모)}- 식모 (sikmo，但讀作(단독작)/singmo/) 取締(취체)",
+      "count": 3
+    },
+    {
+      "title": "高速鐵道",
+      "surrounding": "旣存線路(기존선로)를 改良(개량)해서 200km/h以上(이상)을 내거나 ... 1964年(년)에 開通(개통)하여 210km/h로 營業運轉(영업운전)을",
       "count": 3
     },
     {
@@ -108,7 +173,7 @@
     },
     {
       "title": "나무위키",
-      "surrounding": "주세요 나무위키 Namu Wiki ... 2017年(년)9月(월)22日(일) 民選運營陳(민선운영진) nimda의 權限濫用(권한람용)",
+      "surrounding": " 나무위키 Namu Wiki ... 2017年(년)9月(월)22日(일) 民選運營陳(민선운영진) nimda의 權限濫用(권한람용)",
       "count": 3
     },
     {
@@ -133,7 +198,7 @@
     },
     {
       "title": "中華人民共和國",
-      "surrounding": "9 634 057km² 時間帶(시간대) ... 852名(명) 人口密度(인구밀도) 145名(명)/km² 公用語(공용어)",
+      "surrounding": "9 634 057km² 內水面(내수면) ... 852名(명) 人口密度(인구밀도) 145名(명)/km² 公用語(공용어)",
       "count": 2
     },
     {
@@ -162,6 +227,11 @@
       "count": 2
     },
     {
+      "title": "印度",
+      "surrounding": "3 287 263km² 時間帶(시간대) ... 280名(명) 人口密度(인구밀도) 412名(명)/km² 公用語(공용어)",
+      "count": 2
+    },
+    {
       "title": "名古屋市",
       "surrounding": "人口密度(인구밀도) 7 130名(명)/km² 地理(지리) ... 面積(면적) 326 45km² 象徵(상징)",
       "count": 2
@@ -178,7 +248,7 @@
     },
     {
       "title": "大韓民國",
-      "surrounding": "面積(면적) 100 363km² 時間帶(시간대) ... 人口密度(인구밀도) 516 47名(명)/km² 公用語(공용어)",
+      "surrounding": "面積(면적) 100 363km² 內水面(내수면) ... 人口密度(인구밀도) 516 47名(명)/km² 公用語(공용어)",
       "count": 2
     },
     {
@@ -217,8 +287,23 @@
       "count": 2
     },
     {
+      "title": "朝鮮民主主義人民共和國",
+      "surrounding": "面積(면적) 120 540km² 內水面(내수면) ... 人口密度(인구밀도) 198 3名(명)/km² 公用語(공용어)",
+      "count": 2
+    },
+    {
       "title": "札幌市",
       "surrounding": "人口密度(인구밀도) 1 750名(명)/km² 地理(지리) ... 1 121 26km² 象徵(상징)",
+      "count": 2
+    },
+    {
+      "title": "李承晩",
+      "surrounding": "雩南(우남) 英語名(영어명) Syngman Rhee ... 李承晩(이승만)(1875年(년)3月(월)26日(일)-1965年(년)7月(월)19日(일) 英文表記(영문표기) Syngman Rhee)은",
+      "count": 2
+    },
+    {
+      "title": "東京都",
+      "surrounding": "人口密度(인구밀도) 6 404名(명)/km² 地理(지리) ... 2 193 96km² 象徵(상징)",
       "count": 2
     },
     {
@@ -232,8 +317,23 @@
       "count": 2
     },
     {
+      "title": "沖繩縣",
+      "surrounding": "214名(명) 人口密度(인구밀도) 640名(명)/km² 地理(지리) ... 2 280 98km² 象徵(상징)",
+      "count": 2
+    },
+    {
       "title": "無政府資本主義",
       "surrounding": "前例(전례) 槪要(개요)[편집] 無政府資本主義(무정부자본주의)(英(영)：Anarcho-capitalism)는 政府(정부)와國家(국가)의 ... 政治思想(정치사상)이다 用語(용어)[편집] 「Anarcho-capitalism」이라는 名稱(명칭)의提唱者(제창자)는",
+      "count": 2
+    },
+    {
+      "title": "獨逸",
+      "surrounding": "面積(면적) 357 386km² 時間帶(시간대) ... 人口密度(인구밀도) 230 9名(명)/km² 公用語(공용어)",
+      "count": 2
+    },
+    {
+      "title": "甲骨文字",
+      "surrounding": "合(합)6654 解釋(해석) https://mouchengzhai tistory ... https://mouchengzhai tistory com/68 ",
       "count": 2
     },
     {
@@ -272,6 +372,11 @@
       "count": 2
     },
     {
+      "title": "長崎縣",
+      "surrounding": "777名(명) 人口密度(인구밀도) 314名(명)/km² 地理(지리) ... 4 130 88km² 象徵(상징)",
+      "count": 2
+    },
+    {
       "title": "韓國高速鐵道",
       "surrounding": "(五松(오송)~光州松汀(광주송정)) 最大速度(최대속도) 300km/h로 달릴 ... (淸凉里(청량리)-嶋潭(도담)) 最高速度(최고속도) 260km/h로 달릴",
       "count": 2
@@ -284,6 +389,11 @@
     {
       "title": "님의代",
       "surrounding": "Live on my Lord ... sides the moss doth",
+      "count": 2
+    },
+    {
+      "title": "세르비아",
+      "surrounding": "面積(면적) 88 361[1]km² 時間帶(시간대) ... 939[1]名(명) 人口密度(인구밀도) 101名(명)/km² 公用語(공용어)",
       "count": 2
     },
     {
@@ -307,6 +417,11 @@
       "count": 1
     },
     {
+      "title": "世宗特別自治市",
+      "surrounding": "面積(면적) 465 23km² 象徵(상징)",
+      "count": 1
+    },
+    {
       "title": "中國語 入力方式",
       "surrounding": "注音符號(주음부호)와 같이 보포모포(bopomofo)라고도 불린다",
       "count": 1
@@ -318,7 +433,7 @@
     },
     {
       "title": "使用者:Ngngiu7794",
-      "surrounding": "Soochow dialect mania ㄷ",
+      "surrounding": "Soochow dialect mania 蘇州話(소주화)/方言(방언)",
       "count": 1
     },
     {
@@ -327,13 +442,18 @@
       "count": 1
     },
     {
+      "title": "使用者:洪民憙",
+      "surrounding": "內容(내용)은 웹사이트 hongminhee org(英語(영어))와",
+      "count": 1
+    },
+    {
       "title": "十",
       "surrounding": "𡨸國語(자국어) : mộc ",
       "count": 1
     },
     {
-      "title": "喃字",
-      "surrounding": "𡨸喃(자남) Chữ Nôm 쯔놈)은",
+      "title": "國名의 漢字 略稱",
+      "surrounding": "罗马(나마) 拼音(평음): Luómǎ )의",
       "count": 1
     },
     {
@@ -342,18 +462,18 @@
       "count": 1
     },
     {
+      "title": "委班復生漢喃越南",
+      "surrounding": "標準化(표준화) 槪要(개요)[편집] 委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam)은 越南(월남)의",
+      "count": 1
+    },
+    {
       "title": "日本帝國",
       "surrounding": "面積(면적) 675 400km² 時間帶(시간대)",
       "count": 1
     },
     {
-      "title": "朝鮮民主主義人民共和國",
-      "surrounding": "面積(면적) 120 540km² 時間帶(시간대)",
-      "count": 1
-    },
-    {
-      "title": "李承晩",
-      "surrounding": "李承晩(이승만)(1875年(년)3月(월)26日(일)-1965年(년)7月(월)19日(일) 英文表記(영문표기) Syngman Rhee)은",
+      "title": "朴璐美",
+      "surrounding": "카난 기모스(Kanan Gimms)로 데뷔하게",
       "count": 1
     },
     {
@@ -363,7 +483,7 @@
     },
     {
       "title": "猫",
-      "surrounding": "병음 : māo 國語(국어)",
+      "surrounding": "倂音(병음) : māo 國語(국어)",
       "count": 1
     },
     {
@@ -377,6 +497,11 @@
       "count": 1
     },
     {
+      "title": "紳士와 아가씨",
+      "surrounding": "lady and gentleman 장르",
+      "count": 1
+    },
+    {
       "title": "繪文字",
       "surrounding": "名稱(명칭)[편집] 英文(영문)表記(표기)인 ‘Emoji’에 依(의)해",
       "count": 1
@@ -384,11 +509,6 @@
     {
       "title": "艦隊컬렉션 ~칸코레~",
       "surrounding": "컬렉션 ~칸코레~艦隊(함대)これくしょん ~艦(함)これ~Combined Fleet",
-      "count": 1
-    },
-    {
-      "title": "越南漢喃復活委員會",
-      "surrounding": "標準化(표준화) 槪要(개요)[편집] 越南漢喃復活委員會(월남한남부활위원회)(委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam))은 越南(월남)의",
       "count": 1
     },
     {
@@ -417,6 +537,11 @@
       "count": 1
     },
     {
+      "title": "갈고리十字",
+      "surrounding": "파일:Flag of Germany (1935–1945)",
+      "count": 1
+    },
+    {
       "title": "더블 래리어트",
       "surrounding": "改修(개수)로因(인)해 swf方式(방식)의映像(영상)이 mp4로 强制變換(강제변환)됨에",
       "count": 1
@@ -439,6 +564,31 @@
     {
       "title": "아이폰 8",
       "surrounding": "카메라 1 821mAh 배터리가",
+      "count": 1
+    },
+    {
+      "title": "안드로이드 運營體制",
+      "surrounding": "Android Operating System)는 美國(미국)의",
+      "count": 1
+    },
+    {
+      "title": "젤다의傳說 시리즈",
+      "surrounding": "파일:Wordmark Zelda",
+      "count": 1
+    },
+    {
+      "title": "텔레그램",
+      "surrounding": "사이트 槪要(개요)[편집] 텔레그램(Telegram)은 크로스",
+      "count": 1
+    },
+    {
+      "title": "필름",
+      "surrounding": "필름(film)은 셀로판",
+      "count": 1
+    },
+    {
+      "title": "𡨸喃",
+      "surrounding": "槪要(개요)[편집] 𡨸喃(자남)(Chữ Nôm 쯔놈)은",
       "count": 1
     }
   ]

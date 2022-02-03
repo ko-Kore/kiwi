@@ -172,6 +172,11 @@
       "count": 1
     },
     {
+      "title": "市",
+      "surrounding": "저자 시 部首(부수) 巾(건)",
+      "count": 1
+    },
+    {
       "title": "年",
       "surrounding": "해 년 部首(부수) 干(간)",
       "count": 1
@@ -222,6 +227,11 @@
       "count": 1
     },
     {
+      "title": "殉",
+      "surrounding": "따라죽을 순 部首(부수) 歹(알)",
+      "count": 1
+    },
+    {
       "title": "民",
       "surrounding": "백성 민 部首(부수) 氏(씨)",
       "count": 1
@@ -264,6 +274,16 @@
     {
       "title": "生",
       "surrounding": "날 생 部首(부수) 生(생)",
+      "count": 1
+    },
+    {
+      "title": "產",
+      "surrounding": "낳을 산 部首(부수) 生(생)",
+      "count": 1
+    },
+    {
+      "title": "臺",
+      "surrounding": "대 대 部首(부수) 至(지)",
       "count": 1
     },
     {

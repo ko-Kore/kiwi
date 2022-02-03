@@ -2,6 +2,16 @@
   "word": "줄",
   "pages": [
     {
+      "title": "漢文 敎育用 基礎 漢字",
+      "surrounding": "• 幹(간) (줄기 간) ... 絃(현) (악기 줄 현)",
+      "count": 11
+    },
+    {
+      "title": "朝鮮民主主義人民共和國",
+      "surrounding": "부르고있다 또한 줄여서 그냥 ... 黨(당)을 “中共(중공)”이라고 줄여서 부른다거나[4]",
+      "count": 4
+    },
+    {
       "title": "美合衆國",
       "surrounding": "別稱(별칭)으로는Stars and Stripes(별과줄 星條(성조))과 ... 靑色(청색)의長方形(장방형)이 있다[8] 열세줄의 赤白線(적백선)은",
       "count": 4
@@ -12,23 +22,33 @@
       "count": 3
     },
     {
-      "title": "애니메이션 밈",
-      "surrounding": "애니메이션 밈을 줄여서 밈(meme)이라고 ... 움직이는 느낌을 줄 수도",
-      "count": 3
-    },
-    {
       "title": "國漢大百科:免責條項",
       "surrounding": "되거나 不快感(불쾌감)을 줄 수도 ... 患者(환자)에게 刺戟(자극)을 줄 수도",
       "count": 2
     },
     {
+      "title": "國漢大百科:紹介",
+      "surrounding": "일이 比較的(비교적) 줄게 됩니다 ... 사람이 와서 修正(수정)해줄 수",
+      "count": 2
+    },
+    {
+      "title": "大韓民國의 人名用 漢字",
+      "surrounding": "濬(준)(䜭(예)) 陖(준)(埈(준)) 줄 茁(줄) ... 陖(준)(埈(준)) 줄 茁(줄) 중",
+      "count": 2
+    },
+    {
       "title": "深海少女",
-      "surrounding": "그女(여)에게는 너무눈부셨던 한줄기의빛 運命(운명)이라부르기에는 ... 문득 들이비치는 한줄기의빛 손을펴면닿을것같지만",
+      "surrounding": "그女(여)에게는 너무눈부셨던 한줄기의빛 運命(운명)이라부르기에는 ... 문득 들이비치는 한줄기의 빛",
       "count": 2
     },
     {
       "title": "金빛 모자이크",
-      "surrounding": "槪要(개요) 2 줄거리 3 ... 對(대)해서도 敍述(서술)한다 줄거리[편집] 『金(금)빛모자이크』",
+      "surrounding": "槪要(개요) 2 줄거리 3 ... 對(대)해서도 敍述(서술)한다 줄거리[편집] 『金(김)빛모자이크』",
+      "count": 2
+    },
+    {
+      "title": "韓國의 漢字 問題",
+      "surrounding": "旣成(기성)의 字劃(자획)을 줄여 簡略化(간략화)하는 ... 筆劃(필획)을 간단히 줄임: 魚(어)→鱼(어)",
       "count": 2
     },
     {
@@ -37,8 +57,28 @@
       "count": 2
     },
     {
+      "title": "포탈 2",
+      "surrounding": "槪要(개요) 2 줄거리 3 ... 포탈의 後續作(후속작)이다 줄거리[편집] 포탈로부터",
+      "count": 2
+    },
+    {
+      "title": "2複線",
+      "surrounding": "넘겨줄 대상:複複線",
+      "count": 1
+    },
+    {
+      "title": "CJK",
+      "surrounding": "新聞等(신문등)에도 漢字(한자)를 줄여나가고 있다",
+      "count": 1
+    },
+    {
       "title": "KTX",
       "surrounding": "넘겨줄 대상:韓國高速鐵道",
+      "count": 1
+    },
+    {
+      "title": "OpenTTD",
+      "surrounding": "넘겨줄 대상:오픈TTD",
       "count": 1
     },
     {
@@ -47,18 +87,33 @@
       "count": 1
     },
     {
+      "title": "共産黨이 없어야 新中國은 있다",
+      "surrounding": "넘겨줄 대상:共産黨이",
+      "count": 1
+    },
+    {
+      "title": "分類:美戀시 게임",
+      "surrounding": "넘겨줄 대상:分類:美少女戀愛",
+      "count": 1
+    },
+    {
+      "title": "北傀",
+      "surrounding": "있는 傀儡國(괴뢰국)”을 줄인 말이다",
+      "count": 1
+    },
+    {
       "title": "北韓圓",
-      "surrounding": "넘겨줄 대상:圓(朝鮮民主主義人民共和國)",
+      "surrounding": "넘겨줄 대상:圓",
+      "count": 1
+    },
+    {
+      "title": "喃字",
+      "surrounding": "넘겨줄 대상:𡨸喃",
       "count": 1
     },
     {
       "title": "單線",
       "surrounding": "槪要(개요)[편집] 외줄 한",
-      "count": 1
-    },
-    {
-      "title": "國漢大百科:紹介",
-      "surrounding": "사람이 와서 수정해줄 수",
       "count": 1
     },
     {
@@ -87,23 +142,43 @@
       "count": 1
     },
     {
+      "title": "國漢文倂用體",
+      "surrounding": "넘겨줄 대상:國漢文倂用",
+      "count": 1
+    },
+    {
       "title": "國漢文混用",
       "surrounding": "識者層(식자층)이 漸次(점차) 줄어들면서 新聞(신문)에서도",
       "count": 1
     },
     {
+      "title": "國漢文混用體",
+      "surrounding": "넘겨줄 대상:國漢文混用",
+      "count": 1
+    },
+    {
+      "title": "國語字",
+      "surrounding": "넘겨줄 대상:𡨸國語",
+      "count": 1
+    },
+    {
       "title": "圓 (北韓)",
-      "surrounding": "넘겨줄 대상:北韓圓",
+      "surrounding": "넘겨줄 대상:圓",
       "count": 1
     },
     {
       "title": "圓 (大韓民國)",
-      "surrounding": "넘겨줄 대상:大韓民國圓",
+      "surrounding": "넘겨줄 대상:원",
       "count": 1
     },
     {
       "title": "大日本帝國",
       "surrounding": "넘겨줄 대상:日本帝國",
+      "count": 1
+    },
+    {
+      "title": "大獨逸國",
+      "surrounding": "넘겨줄 대상:獨逸國",
       "count": 1
     },
     {
@@ -118,12 +193,12 @@
     },
     {
       "title": "字喃",
-      "surrounding": "넘겨줄 대상:𡨸喃",
+      "surrounding": "넘겨줄 대상:喃字",
       "count": 1
     },
     {
       "title": "字國語",
-      "surrounding": "넘겨줄 대상:𡨸國語",
+      "surrounding": "넘겨줄 대상:國語字",
       "count": 1
     },
     {
@@ -134,6 +209,11 @@
     {
       "title": "平仮名",
       "surrounding": "넘겨줄 대상:平假名",
+      "count": 1
+    },
+    {
+      "title": "忠清南道",
+      "surrounding": "넘겨줄 대상:忠淸南道",
       "count": 1
     },
     {
@@ -163,7 +243,12 @@
     },
     {
       "title": "日圓",
-      "surrounding": "넘겨줄 대상:日本圓",
+      "surrounding": "넘겨줄 대상:圓",
+      "count": 1
+    },
+    {
+      "title": "日文漢字",
+      "surrounding": "넘겨줄 대상:日本語의",
       "count": 1
     },
     {
@@ -182,8 +267,28 @@
       "count": 1
     },
     {
+      "title": "朝鮮民主主義人民共和國圓",
+      "surrounding": "넘겨줄 대상:圓",
+      "count": 1
+    },
+    {
+      "title": "橫書",
+      "surrounding": "言語(언어)의 表記體系(표기체계)에서는 글줄이 오른쪽에서",
+      "count": 1
+    },
+    {
+      "title": "橫濱",
+      "surrounding": "넘겨줄 대상:橫濱市",
+      "count": 1
+    },
+    {
       "title": "正體",
       "surrounding": "或(혹)은 正字體(정자체)를 줄여서 그냥",
+      "count": 1
+    },
+    {
+      "title": "歷史的假名遣",
+      "surrounding": "넘겨줄 대상:歷史的假名表記法",
       "count": 1
     },
     {
@@ -197,6 +302,11 @@
       "count": 1
     },
     {
+      "title": "漢文",
+      "surrounding": "漢文(한문)을 읽을 줄 안다고",
+      "count": 1
+    },
+    {
       "title": "漢電마인크래프트",
       "surrounding": "改稱(개칭)되었다 漢電市(한전시)로 줄여서 쓰기도",
       "count": 1
@@ -204,6 +314,11 @@
     {
       "title": "片仮名",
       "surrounding": "넘겨줄 대상:片假名",
+      "count": 1
+    },
+    {
+      "title": "甲骨文",
+      "surrounding": "넘겨줄 대상:甲骨文字",
       "count": 1
     },
     {
@@ -237,8 +352,18 @@
       "count": 1
     },
     {
+      "title": "臺灣",
+      "surrounding": "넘겨줄 대상:中華民國",
+      "count": 1
+    },
+    {
       "title": "艦隊컬렉션 ~艦코레~",
       "surrounding": "넘겨줄 대상:艦隊컬렉션",
+      "count": 1
+    },
+    {
+      "title": "萌擬人化",
+      "surrounding": "넘겨줄 대상:모에",
       "count": 1
     },
     {
@@ -254,6 +379,11 @@
     {
       "title": "豐臣秀吉",
       "surrounding": "넘겨줄 대상:豊臣秀吉",
+      "count": 1
+    },
+    {
+      "title": "越南漢喃復活委員會",
+      "surrounding": "넘겨줄 대상:委班復生漢喃越南",
       "count": 1
     },
     {
@@ -277,8 +407,23 @@
       "count": 1
     },
     {
+      "title": "韓文漢字",
+      "surrounding": "넘겨줄 대상:韓國語의",
+      "count": 1
+    },
+    {
       "title": "體",
-      "surrounding": "쓰이고 文體(문체)(문체)의 줄임말로 쓰이기도",
+      "surrounding": "쓰이고 文體(문체)의 줄임말로 쓰이기도",
+      "count": 1
+    },
+    {
+      "title": "高木正雄",
+      "surrounding": "넘겨줄 대상:朴正煕",
+      "count": 1
+    },
+    {
+      "title": "가로쓰기",
+      "surrounding": "넘겨줄 대상:橫書",
       "count": 1
     },
     {
@@ -299,6 +444,11 @@
     {
       "title": "국어",
       "surrounding": "넘겨줄 대상:國語",
+      "count": 1
+    },
+    {
+      "title": "나치獨逸의 노래",
+      "surrounding": "歌詞(가사)의 첫 줄을 딴",
       "count": 1
     },
     {
@@ -327,6 +477,11 @@
       "count": 1
     },
     {
+      "title": "데라우치 마사타케",
+      "surrounding": "넘겨줄 대상:寺內正毅",
+      "count": 1
+    },
+    {
       "title": "루게릭病",
       "surrounding": "넘겨줄 대상:筋萎縮性側索硬化症",
       "count": 1
@@ -342,6 +497,11 @@
       "count": 1
     },
     {
+      "title": "비나위키",
+      "surrounding": "넘겨줄 대상:韋那威箕",
+      "count": 1
+    },
+    {
       "title": "서울특별시",
       "surrounding": "넘겨줄 대상:서울特別市",
       "count": 1
@@ -352,6 +512,11 @@
       "count": 1
     },
     {
+      "title": "세로쓰기",
+      "surrounding": "넘겨줄 대상:縱書",
+      "count": 1
+    },
+    {
       "title": "아랍어",
       "surrounding": "넘겨줄 대상:아랍語",
       "count": 1
@@ -359,6 +524,11 @@
     {
       "title": "아키하바라",
       "surrounding": "넘겨줄 대상:秋葉原",
+      "count": 1
+    },
+    {
+      "title": "애니메이션 밈",
+      "surrounding": "애니메이션 밈을 줄여서 밈(meme)이라고",
       "count": 1
     },
     {
@@ -387,6 +557,26 @@
       "count": 1
     },
     {
+      "title": "인터넷新造語",
+      "surrounding": "等(등)의 方式(방식)으로 줄여서 2~4글字(자)로",
+      "count": 1
+    },
+    {
+      "title": "인터넷用語",
+      "surrounding": "넘겨줄 대상:인터넷新造語",
+      "count": 1
+    },
+    {
+      "title": "인피니티 O 디스플레이",
+      "surrounding": "넘겨줄 대상:인피니티",
+      "count": 1
+    },
+    {
+      "title": "인피니티 디스플레이",
+      "surrounding": "部分(부분)의 픽셀密度(밀도)를 줄이는 方式(방식)으로",
+      "count": 1
+    },
+    {
       "title": "일본어",
       "surrounding": "넘겨줄 대상:日本語",
       "count": 1
@@ -403,12 +593,12 @@
     },
     {
       "title": "쯔꾸옥응으",
-      "surrounding": "넘겨줄 대상:𡨸國語",
+      "surrounding": "넘겨줄 대상:國語字",
       "count": 1
     },
     {
       "title": "쯔놈",
-      "surrounding": "넘겨줄 대상:𡨸喃",
+      "surrounding": "넘겨줄 대상:喃字",
       "count": 1
     },
     {
@@ -422,8 +612,28 @@
       "count": 1
     },
     {
+      "title": "코로나19",
+      "surrounding": "넘겨줄 대상:코로나바이러스感染症-19",
+      "count": 1
+    },
+    {
       "title": "태풍",
       "surrounding": "넘겨줄 대상:颱風",
+      "count": 1
+    },
+    {
+      "title": "프랑스",
+      "surrounding": "넘겨줄 대상:佛蘭西",
+      "count": 1
+    },
+    {
+      "title": "하나조노明朝",
+      "surrounding": "넘겨줄 대상:花園明朝",
+      "count": 1
+    },
+    {
+      "title": "하켄크로이츠",
+      "surrounding": "넘겨줄 대상:갈고리十字",
       "count": 1
     },
     {
@@ -439,6 +649,11 @@
     {
       "title": "한글전용",
       "surrounding": "넘겨줄 대상:한글專用",
+      "count": 1
+    },
+    {
+      "title": "후추와 당근",
+      "surrounding": "畵(화)의 製作(제작)을 支援(지원)해줄수 있으며",
       "count": 1
     },
     {

@@ -3,13 +3,28 @@
   "pages": [
     {
       "title": "美合衆國",
-      "surrounding": "美合衆國(미합중국)의英稱(영칭)은“United States of America”이며 ... United States of America'",
-      "count": 16
+      "surrounding": "United States of America ... United States of America'",
+      "count": 17
     },
     {
       "title": "星條旗 (國歌)",
       "surrounding": "當時(당시)35歲(세))가쓴詩(시) 맥핸리要塞(요새)의防衛(방위)(Defence of Fort ... the home of the",
       "count": 15
+    },
+    {
+      "title": "TORIKYU",
+      "surrounding": "J minestadioum ageplofgecg sadinnetrs ... The Thought of a",
+      "count": 4
+    },
+    {
+      "title": "英國",
+      "surrounding": "United Kingdom of Great ... United Kingdom of Great",
+      "count": 2
+    },
+    {
+      "title": "나치獨逸의 노래",
+      "surrounding": "Hakenkreuz voll Hoffnung schon ... Hakenkreuz voll Hoffnung schon",
+      "count": 2
     },
     {
       "title": "Steins;Gate",
@@ -27,8 +42,23 @@
       "count": 1
     },
     {
+      "title": "中華民國",
+      "surrounding": "英語(영어)로는 Republic of China",
+      "count": 1
+    },
+    {
+      "title": "濠洲",
+      "surrounding": "濠洲聯邦(호주련방) Commonwealth of Australia",
+      "count": 1
+    },
+    {
       "title": "韓國停戰協定",
       "surrounding": "大佐(대좌) 上校(상교) officer 將校(장교)",
+      "count": 1
+    },
+    {
+      "title": "갈고리十字",
+      "surrounding": "閱覽注意(열람주의) 파일:Flag of Germany",
       "count": 1
     },
     {

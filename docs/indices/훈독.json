@@ -2,6 +2,11 @@
   "word": "훈독",
   "pages": [
     {
+      "title": "日本語의 漢字",
+      "surrounding": "5 2 訓讀(훈독) 5 ... 한다 音讀(음독)과 訓讀(훈독)에 따라",
+      "count": 7
+    },
+    {
       "title": "日本語",
       "surrounding": "읽는데 이를 訓讀(훈독)이라 한다 ... 한 單語(단어)에 訓讀(훈독)과 音讀(음독)이",
       "count": 2
@@ -73,17 +78,12 @@
     },
     {
       "title": "十",
-      "surrounding": "ジュウ ジッ 훈독 :",
+      "surrounding": "ジュウ ジッ 訓讀(훈독) :",
       "count": 1
     },
     {
       "title": "四",
       "surrounding": ": シ 훈독 :",
-      "count": 1
-    },
-    {
-      "title": "國",
-      "surrounding": ": コク 訓讀(훈독) :",
       "count": 1
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "title": "猫",
-      "surrounding": ": ビョウ 훈독 :",
+      "surrounding": ": ビョウ 訓讀(훈독) :",
       "count": 1
     },
     {

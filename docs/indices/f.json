@@ -2,19 +2,34 @@
   "word": "f",
   "pages": [
     {
+      "title": "나치獨逸의 노래",
+      "surrounding": "Die Reihen fest geschlossen ... 名稱(명칭)은 赤色戰線戰士同盟(적색전선전사동맹)(Roter Frontkämpferbund) 獨逸共產黨(독일공산당)의",
+      "count": 45
+    },
+    {
       "title": "星條旗 (國歌)",
       "surrounding": "Key 當時(당시)35歲(세))가쓴詩(시) 맥핸리要塞(요새)의防衛(방위)(Defence of ... the home of the",
       "count": 35
     },
     {
       "title": "美合衆國",
-      "surrounding": "美合衆國(미합중국)의英稱(영칭)은“United States of America”이며 ... United States of America'",
-      "count": 26
+      "surrounding": "United States of America ... United States of America'",
+      "count": 27
+    },
+    {
+      "title": "TORIKYU",
+      "surrounding": "DETH 富士山(부사산) abcdefg ame ... 収錄曲(수록곡) Saddharma aswresdatgaZEWTRfd mounten",
+      "count": 17
     },
     {
       "title": "主祈禱文",
       "surrounding": "in cælis sanctificetur nomen ... the glory for ever",
       "count": 8
+    },
+    {
+      "title": "通用規範漢字表",
+      "surrounding": "𫓧 U+2B4E7 fū 6846 ... 𬸪 U+2CE2A fán 7961",
+      "count": 6
     },
     {
       "title": "이어폰과蟬時雨",
@@ -47,9 +62,19 @@
       "count": 3
     },
     {
+      "title": "英國",
+      "surrounding": "United Kingdom of Great ... United Kingdom of Great",
+      "count": 2
+    },
+    {
       "title": "님의代",
       "surrounding": "thousand years of happy ... of happy life be",
       "count": 2
+    },
+    {
+      "title": "CJK",
+      "surrounding": "ISO 2022-JP Shift-JIS CJK",
+      "count": 1
     },
     {
       "title": "Steins;Gate",
@@ -59,6 +84,11 @@
     {
       "title": "中國語 入力方式",
       "surrounding": "注音符號(주음부호)와 같이 보포모포(bopomofo)라고도 불린다",
+      "count": 1
+    },
+    {
+      "title": "中華民國",
+      "surrounding": "英語(영어)로는 Republic of China",
       "count": 1
     },
     {
@@ -74,6 +104,16 @@
     {
       "title": "共産黨이 없으면 新中國도 없다.",
       "surrounding": "le rénmín jiěfàng de",
+      "count": 1
+    },
+    {
+      "title": "共産黨이 없으면 新中國도 없다",
+      "surrounding": "le rénmín jiěfàng de",
+      "count": 1
+    },
+    {
+      "title": "國名의 漢字 略稱",
+      "surrounding": "朝(조)[2] 南(남)아프리카 공화국(南(남)Africa 共和國(공화국)):",
       "count": 1
     },
     {
@@ -94,6 +134,11 @@
     {
       "title": "李承晩",
       "surrounding": "中立(중립)”(原題(원제):Neutrality as influenced by",
+      "count": 1
+    },
+    {
+      "title": "濠洲",
+      "surrounding": "濠洲聯邦(호주련방) Commonwealth of Australia",
       "count": 1
     },
     {
@@ -122,8 +167,8 @@
       "count": 1
     },
     {
-      "title": "颱風",
-      "surrounding": "(國語(국어) 注音(주음)) táifēng (普通話(보통화)",
+      "title": "갈고리十字",
+      "surrounding": "閱覽注意(열람주의) 파일:Flag of Germany",
       "count": 1
     },
     {
@@ -134,6 +179,11 @@
     {
       "title": "더블래리엇",
       "surrounding": "후레쉬支援終了(지원종료)에따른 니코니코動畵(동화)의動畵再生方式改修(동화재생방식개수)로因(인)해 swf方式(방식)의映像(영상)이mp4로强制變換(강제변환)됨에따른것이다 ↑",
+      "count": 1
+    },
+    {
+      "title": "레제프 타이이프 에르도안",
+      "surrounding": "國民救濟黨(국민구제당)의 後身(후신)인 福祉黨(복지당)(Refah Partisi)에",
       "count": 1
     },
     {
@@ -149,6 +199,21 @@
     {
       "title": "파일:Logo kancolle.png",
       "surrounding": "http://www dmm com/netgame/feature/kancolle html",
+      "count": 1
+    },
+    {
+      "title": "필름",
+      "surrounding": "필름(film)은 셀로판",
+      "count": 1
+    },
+    {
+      "title": "하프라이프",
+      "surrounding": " 하프라이프Half-Life 開發(개발)",
+      "count": 1
+    },
+    {
+      "title": "하프라이프 2",
+      "surrounding": " 하프라이프 2Half-Life 2",
       "count": 1
     }
   ]

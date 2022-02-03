@@ -3,7 +3,7 @@
   "pages": [
     {
       "title": "大韓民國",
-      "surrounding": "100 363km² 時間帶(시간대) KST(UTC ... 나라이다 [2] 時間帶(시간대)는 鄰國(인국)인",
+      "surrounding": "0 3% 時間帶(시간대) KST(UTC ... 나라이다 [2] 時間帶(시간대)는 鄰國(인국)인",
       "count": 2
     },
     {
@@ -18,12 +18,17 @@
     },
     {
       "title": "中華人民共和國",
-      "surrounding": "634 057km² 時間帶(시간대) UTC+8[2]",
+      "surrounding": "2 8% 時間帶(시간대) UTC+8[3]",
       "count": 1
     },
     {
       "title": "中華民國",
-      "surrounding": "36 197km² 時間帶(시간대) UTC",
+      "surrounding": "10 34% 時間帶(시간대) UTC",
+      "count": 1
+    },
+    {
+      "title": "印度",
+      "surrounding": "287 263km² 時間帶(시간대) UTC+5:30(IST)",
       "count": 1
     },
     {
@@ -43,12 +48,32 @@
     },
     {
       "title": "朝鮮民主主義人民共和國",
-      "surrounding": "120 540km² 時間帶(시간대) UTC+9",
+      "surrounding": "0 11% 時間帶(시간대) UTC+9",
+      "count": 1
+    },
+    {
+      "title": "濠洲",
+      "surrounding": "1 79% 時間帶(시간대) UTC",
+      "count": 1
+    },
+    {
+      "title": "獨逸",
+      "surrounding": "357 386km² 時間帶(시간대) UTC+1(CET)",
       "count": 1
     },
     {
       "title": "美合衆國",
       "surrounding": "833 520km² 時間帶(시간대) UTC-4:00",
+      "count": 1
+    },
+    {
+      "title": "英國",
+      "surrounding": "242 495km² 時間帶(시간대) UTC+0(GMT)",
+      "count": 1
+    },
+    {
+      "title": "越南社會主義共和國",
+      "surrounding": "6 38% 時間帶(시간대) UTC",
       "count": 1
     },
     {
@@ -59,6 +84,11 @@
     {
       "title": "서울地下鐵 7號線",
       "surrounding": "混雜度(혼잡도)가 높다 通勤時間帶(통근시간대)에는 많은",
+      "count": 1
+    },
+    {
+      "title": "세르비아",
+      "surrounding": "88 361[1]km² 時間帶(시간대) UTC",
       "count": 1
     }
   ]

@@ -7,6 +7,11 @@
       "count": 23
     },
     {
+      "title": "通用規範漢字表",
+      "surrounding": "𬳽 U+2CCFD shēn 6921 ... 𫚕 U+2B695 shī 7706",
+      "count": 7
+    },
+    {
       "title": "星條旗 (國歌)",
       "surrounding": "On the shore dimly ... in triumph shall wave",
       "count": 6
@@ -17,9 +22,19 @@
       "count": 4
     },
     {
+      "title": "共産黨이 없으면 新中國도 없다",
+      "surrounding": ") 他改善了人民生活(타개선료인민생활)(Tā gǎishàn le ... ) 他实行了民主好处多(타실행료민주호처다)(Tā shíxíng le",
+      "count": 4
+    },
+    {
       "title": "이어폰과蟬時雨",
       "surrounding": "I don't wish that ... I don't wish that",
       "count": 4
+    },
+    {
+      "title": "TORIKYU",
+      "surrounding": "MountenForever kakuchou Higashino Cattou ... Unbok ginwgweinghtuty shoteresting exprecchoun",
+      "count": 2
     },
     {
       "title": "一伊那爾栖",
@@ -43,7 +58,7 @@
     },
     {
       "title": "金빛 모자이크",
-      "surrounding": "모자이크 Best Wishes에 對(대)해서도 ... 『金(금)빛모자이크 Best Wishes 』",
+      "surrounding": "모자이크 Best Wishes에 對(대)해서도 ... 『金(김)빛모자이크 Best Wishes 』",
       "count": 2
     },
     {
@@ -72,13 +87,13 @@
       "count": 1
     },
     {
-      "title": "先",
-      "surrounding": "吳語(오어)[편집] 上海語(상해어) shi1 (ɕi⁵³)",
+      "title": "十",
+      "surrounding": "倂音(병음) : shí 國語(국어)",
       "count": 1
     },
     {
-      "title": "十",
-      "surrounding": "병음 : shí 國語(국어)",
+      "title": "國名의 漢字 略稱",
+      "surrounding": "普鲁士(보로사) 拼音(평음): Pǔlǔshì )의",
       "count": 1
     },
     {

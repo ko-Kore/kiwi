@@ -2,9 +2,19 @@
   "word": "b",
   "pages": [
     {
+      "title": "TORIKYU",
+      "surrounding": "song japan band \"TORIKYU\" ... 5th 収錄曲(수록곡) Autobahn 其他(기타)[편집]",
+      "count": 22
+    },
+    {
       "title": "星條旗 (國歌)",
       "surrounding": "you see by the ... of the brave 本來(본래)의歌詞(가사)는",
       "count": 21
+    },
+    {
+      "title": "나치獨逸의 노래",
+      "surrounding": "國民社會主義獨逸勞動黨(국민사회주의독일로동당)(나치黨(당))의 黨歌(당가)였다 突擊隊(돌격대)(Sturmabteilung) 隊員(대원)이었던 ... 名稱(명칭)은 赤色戰線戰士同盟(적색전선전사동맹)(Roter Frontkämpferbund) 獨逸共產黨(독일공산당)의",
+      "count": 18
     },
     {
       "title": "主祈禱文",
@@ -23,7 +33,7 @@
     },
     {
       "title": "一伊那爾栖",
-      "surrounding": "呫囁(첩섭)와天啓(천계)等(등)을받아 無垢(무구)하며至極(지극)히普通(보통)인 그女(여)는Vtuber活動(활동)을通(통)해사람들의SAN値(치)를削減(삭감)하고있는模樣(모양) [1] ... ↑ talk about와 日語(일어)로",
+      "surrounding": "至極(지극)히普通(보통)인 그女(여)는 Vtuber活動(활동)을通(통)해 사람들의SAN値(치)를 ... ↑ talk about와 日語(일어)로",
       "count": 10
     },
     {
@@ -34,6 +44,11 @@
     {
       "title": "美合衆國",
       "surrounding": "이는 컬럼비아萬歲(만세)(Hail Columbia)와 나의祖國(조국) ... Confederacy shall be 'The",
+      "count": 6
+    },
+    {
+      "title": "通用規範漢字表",
+      "surrounding": "𠳐 U+20CD0 bāng 5989 ... 𨭉 U+28B49 bān 8073",
       "count": 6
     },
     {
@@ -72,18 +87,33 @@
       "count": 3
     },
     {
+      "title": "세르비아",
+      "surrounding": "말은 英語(영어) “Serbia”에서 由來(유래)하여 ... 語源(어원)은 古代(고대)슬라브語(어)인 *sьrbъ에서 由來(유래)된",
+      "count": 3
+    },
+    {
       "title": "保登心愛",
-      "surrounding": " 파일:Cocoa body png ... 注文(주문)은兎(토)끼입니까의登場人物及主人公(등장인물급주인공) 高校入學(고교입학)을契機(계기)로智乃(지내)들이 사는마을에轉住(전주)해、喫茶店(끽다점)Rabbit House에下宿中(하숙중)。또、下宿處(하숙처)의智乃(지내)의언니를自處(자처)한다",
+      "surrounding": " 파일:Cocoa body png ... 高校入學(고교입학)을契機(계기)로智乃(지내)들이 사는마을에轉住(전주)해 喫茶店(끽다점)Rabbit House에下宿中(하숙중)",
       "count": 2
     },
     {
       "title": "北",
-      "surrounding": "병음 : běi 國語(국어) ... 𡨸國語(자국어) : bắc ",
+      "surrounding": "倂音(병음) : běi 國語(국어) ... 𡨸國語(자국어) : bắc ",
       "count": 2
     },
     {
       "title": "本",
       "surrounding": "병음 : běn 國語(국어) ... 𡨸國語(자국어) : bản 語文會(어문회)",
+      "count": 2
+    },
+    {
+      "title": "獨逸",
+      "surrounding": "도이칠란트 聯邦共和國(연방공화국) Bundesrepublik Deutschland ... 槪要(개요)[편집] 獨逸聯邦共和國(독일련방공화국)(獨(독): Bundesrepublik Deutschland)",
+      "count": 2
+    },
+    {
+      "title": "레제프 타이이프 에르도안",
+      "surrounding": "總理(총리)의 압둘라 귈(Abdullah Gül)로부터 ... (Esra Erdoğan Albayrak) 次女(차녀):",
       "count": 2
     },
     {
@@ -94,6 +124,11 @@
     {
       "title": "中國語 入力方式",
       "surrounding": "注音符號(주음부호)와 같이 보포모포(bopomofo)라고도 불린다",
+      "count": 1
+    },
+    {
+      "title": "中華民國",
+      "surrounding": "또 英語(영어)로는 Republic of",
       "count": 1
     },
     {
@@ -112,13 +147,28 @@
       "count": 1
     },
     {
+      "title": "共産黨이 없으면 新中國도 없다",
+      "surrounding": "le kàngzhàn bā nián",
+      "count": 1
+    },
+    {
+      "title": "國名의 漢字 略稱",
+      "surrounding": "西班牙(서반아) 拼音(평음): Xībānyá )의",
+      "count": 1
+    },
+    {
       "title": "國歌",
       "surrounding": "ðə stɑr-ˈspæŋgəld ˈbænər 星條旗(성조기)",
       "count": 1
     },
     {
       "title": "天天座理世",
-      "surrounding": "틀:登場人物情報(등장인물정보) 注文(주문)은兎(토)끼입니까의登場人物(등장인물)。喫茶店(끽다점)Rabbit House에서아르바이트店員(점원)으로일하고있다。",
+      "surrounding": "토끼입니까 의登場人物(등장인물) 喫茶店(끽다점)Rabbit House에서아르바이트店員(점원)으로일하고있다",
+      "count": 1
+    },
+    {
+      "title": "委班復生漢喃越南",
+      "surrounding": "標準化(표준화) 槪要(개요)[편집] 委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam)은 越南(월남)의",
       "count": 1
     },
     {
@@ -139,6 +189,11 @@
     {
       "title": "注文은 토끼입니까?",
       "surrounding": "order a rabbit )는",
+      "count": 1
+    },
+    {
+      "title": "漢字變換機 擴張機能",
+      "surrounding": "GitHub 목차",
       "count": 1
     },
     {
@@ -167,13 +222,18 @@
       "count": 1
     },
     {
-      "title": "越南漢喃復活委員會",
-      "surrounding": "標準化(표준화) 槪要(개요)[편집] 越南漢喃復活委員會(월남한남부활위원회)(委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam))은 越南(월남)의",
+      "title": "韓國語의 漢字",
+      "surrounding": "-{工夫(공부)}- 공부 (gongbu) 非常(비상)",
       "count": 1
     },
     {
       "title": "香風智乃",
       "surrounding": "登場人物(등장인물)로 喫茶店(끽다점) Rabbit House의主人(주인)의孫女及看板少女(손녀급간판소녀)",
+      "count": 1
+    },
+    {
+      "title": "벡스코",
+      "surrounding": "槪要(개요)[편집] 벡스코(Busan Exhibition &",
       "count": 1
     },
     {
@@ -189,6 +249,11 @@
     {
       "title": "태블릿PC",
       "surrounding": "탭 槪要(개요)[편집] 태블릿PC(Tablet PC)란",
+      "count": 1
+    },
+    {
+      "title": "파일:空賣渡 槪念 IBK.jpg",
+      "surrounding": "[1] 라이선스[편집] 틀:by-nc-nd-4 0",
       "count": 1
     }
   ]

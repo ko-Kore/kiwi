@@ -3,7 +3,12 @@
   "pages": [
     {
       "title": "空賣渡",
-      "surrounding": "空賣渡(공매도)라함은 投資(투자)・去來戰略中(거래전략중)하나로 對象物(대상물)(主(주)로株式(주식)이나其他有價證券(기타유가증권))의價値(가치)가 下落(하락)하는것을 ... 投資家(투자가)가 實際(실제)로 投資對象(투자대상)을 \"所有(소유)\"하지는",
+      "surrounding": "投資(투자)・去來(거래)戰略中(전략중) 하나로 對象物(대상물)(主(주)로株式(주식)이나其他(기타)有價證券(유가증권))의價値(가치)가 下落(하락)할 ... 投資家(투자가)가 實際(실제)로 投資對象(투자대상)을 \"所有(소유)\"하지는",
+      "count": 3
+    },
+    {
+      "title": "韓國의 漢字 問題",
+      "surrounding": "象形(상형)과 指事(지사)만을 대상으로 한다면 ... 것임에도 敎育(교육) 對象(대상)에서 제외하는",
       "count": 3
     },
     {
@@ -32,13 +37,28 @@
       "count": 2
     },
     {
+      "title": "2複線",
+      "surrounding": "넘겨줄 대상:複複線 ",
+      "count": 1
+    },
+    {
       "title": "KTX",
       "surrounding": "넘겨줄 대상:韓國高速鐵道 ",
       "count": 1
     },
     {
+      "title": "OpenTTD",
+      "surrounding": "넘겨줄 대상:오픈TTD ",
+      "count": 1
+    },
+    {
       "title": "PTSD",
       "surrounding": "넘겨줄 대상:外傷後 스트레스",
+      "count": 1
+    },
+    {
+      "title": "共産黨이 없어야 新中國은 있다",
+      "surrounding": "넘겨줄 대상:共産黨이 없어야",
       "count": 1
     },
     {
@@ -49,6 +69,11 @@
     {
       "title": "北韓圓",
       "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
+      "count": 1
+    },
+    {
+      "title": "喃字",
+      "surrounding": "넘겨줄 대상:𡨸喃 ",
       "count": 1
     },
     {
@@ -87,6 +112,11 @@
       "count": 1
     },
     {
+      "title": "國語字",
+      "surrounding": "넘겨줄 대상:𡨸國語 ",
+      "count": 1
+    },
+    {
       "title": "圓 (北韓)",
       "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
       "count": 1
@@ -107,6 +137,11 @@
       "count": 1
     },
     {
+      "title": "大獨逸國",
+      "surrounding": "넘겨줄 대상:獨逸國 ",
+      "count": 1
+    },
+    {
       "title": "大韓民國 원",
       "surrounding": "넘겨줄 대상:원 (大韓民國)",
       "count": 1
@@ -114,11 +149,6 @@
     {
       "title": "大韓民國圓",
       "surrounding": "넘겨줄 대상:원 ",
-      "count": 1
-    },
-    {
-      "title": "委班復生漢喃越南",
-      "surrounding": "넘겨줄 대상:越南漢喃復活委員會 ",
       "count": 1
     },
     {
@@ -142,6 +172,11 @@
       "count": 1
     },
     {
+      "title": "忠清南道",
+      "surrounding": "넘겨줄 대상:忠淸南道 ",
+      "count": 1
+    },
+    {
       "title": "慶尚北道",
       "surrounding": "넘겨줄 대상:慶尙北道 ",
       "count": 1
@@ -157,13 +192,38 @@
       "count": 1
     },
     {
+      "title": "日文漢字",
+      "surrounding": "넘겨줄 대상:日本語의 漢字",
+      "count": 1
+    },
+    {
       "title": "日本圓",
       "surrounding": "넘겨줄 대상:圓 (日本)",
       "count": 1
     },
     {
+      "title": "日本의 政黨",
+      "surrounding": "各種(각종) 保護(보호)의 對象(대상)으로 하고",
+      "count": 1
+    },
+    {
       "title": "日語",
       "surrounding": "넘겨줄 대상:日本語 ",
+      "count": 1
+    },
+    {
+      "title": "朝鮮民主主義人民共和國圓",
+      "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
+      "count": 1
+    },
+    {
+      "title": "橫濱",
+      "surrounding": "넘겨줄 대상:橫濱市 ",
+      "count": 1
+    },
+    {
+      "title": "歷史的假名遣",
+      "surrounding": "넘겨줄 대상:歷史的假名表記法 ",
       "count": 1
     },
     {
@@ -179,6 +239,11 @@
     {
       "title": "片仮名",
       "surrounding": "넘겨줄 대상:片假名 ",
+      "count": 1
+    },
+    {
+      "title": "甲骨文",
+      "surrounding": "넘겨줄 대상:甲骨文字 ",
       "count": 1
     },
     {
@@ -222,8 +287,18 @@
       "count": 1
     },
     {
+      "title": "臺灣",
+      "surrounding": "넘겨줄 대상:中華民國 ",
+      "count": 1
+    },
+    {
       "title": "艦隊컬렉션 ~艦코레~",
       "surrounding": "넘겨줄 대상:艦隊컬렉션 ~칸코레~",
+      "count": 1
+    },
+    {
+      "title": "萌擬人化",
+      "surrounding": "넘겨줄 대상:모에 擬人化",
       "count": 1
     },
     {
@@ -237,6 +312,11 @@
       "count": 1
     },
     {
+      "title": "越南漢喃復活委員會",
+      "surrounding": "넘겨줄 대상:委班復生漢喃越南 ",
+      "count": 1
+    },
+    {
       "title": "越南社會主義公和國",
       "surrounding": "넘겨줄 대상:越南社會主義共和國 ",
       "count": 1
@@ -244,6 +324,21 @@
     {
       "title": "霽れを待つ",
       "surrounding": "넘겨줄 대상:비 개길",
+      "count": 1
+    },
+    {
+      "title": "韓文漢字",
+      "surrounding": "넘겨줄 대상:韓國語의 漢字",
+      "count": 1
+    },
+    {
+      "title": "高木正雄",
+      "surrounding": "넘겨줄 대상:朴正煕 ",
+      "count": 1
+    },
+    {
+      "title": "가로쓰기",
+      "surrounding": "넘겨줄 대상:橫書 ",
       "count": 1
     },
     {
@@ -282,6 +377,11 @@
       "count": 1
     },
     {
+      "title": "데라우치 마사타케",
+      "surrounding": "넘겨줄 대상:寺內正毅 ",
+      "count": 1
+    },
+    {
       "title": "루게릭病",
       "surrounding": "넘겨줄 대상:筋萎縮性側索硬化症 ",
       "count": 1
@@ -297,6 +397,11 @@
       "count": 1
     },
     {
+      "title": "비나위키",
+      "surrounding": "넘겨줄 대상:韋那威箕 ",
+      "count": 1
+    },
+    {
       "title": "서울특별시",
       "surrounding": "넘겨줄 대상:서울特別市 ",
       "count": 1
@@ -304,6 +409,11 @@
     {
       "title": "세계인권선언",
       "surrounding": "넘겨줄 대상:世界人權宣言 ",
+      "count": 1
+    },
+    {
+      "title": "세로쓰기",
+      "surrounding": "넘겨줄 대상:縱書 ",
       "count": 1
     },
     {
@@ -339,6 +449,16 @@
     {
       "title": "음반",
       "surrounding": "넘겨줄 대상:音盤 ",
+      "count": 1
+    },
+    {
+      "title": "인터넷用語",
+      "surrounding": "넘겨줄 대상:인터넷新造語 ",
+      "count": 1
+    },
+    {
+      "title": "인피니티 O 디스플레이",
+      "surrounding": "넘겨줄 대상:인피니티 디스플레이#인피니티",
       "count": 1
     },
     {
@@ -387,6 +507,21 @@
       "count": 1
     },
     {
+      "title": "프랑스",
+      "surrounding": "넘겨줄 대상:佛蘭西 ",
+      "count": 1
+    },
+    {
+      "title": "하나조노明朝",
+      "surrounding": "넘겨줄 대상:花園明朝 ",
+      "count": 1
+    },
+    {
+      "title": "하켄크로이츠",
+      "surrounding": "넘겨줄 대상:갈고리十字 ",
+      "count": 1
+    },
+    {
       "title": "한국어",
       "surrounding": "넘겨줄 대상:韓國語 ",
       "count": 1
@@ -404,16 +539,6 @@
     {
       "title": "히라가나",
       "surrounding": "넘겨줄 대상:平假名 ",
-      "count": 1
-    },
-    {
-      "title": "𡨸喃",
-      "surrounding": "넘겨줄 대상:喃字 ",
-      "count": 1
-    },
-    {
-      "title": "𡨸國語",
-      "surrounding": "넘겨줄 대상:國語字 ",
       "count": 1
     }
   ]

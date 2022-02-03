@@ -7,8 +7,28 @@
       "count": 4
     },
     {
+      "title": "나치獨逸의 노래",
+      "surrounding": "있다 곧 히틀러의 旗(깃)발(깃발)이 ... 爲(위)해 싸우고우리는 히틀러를 爲(위)해",
+      "count": 4
+    },
+    {
+      "title": "韓國의 漢字 問題",
+      "surrounding": "있다 그것은 틀림없는 事實(사실)이다 ... 어려운 것만큼은 틀림없다 그렇더라도",
+      "count": 3
+    },
+    {
+      "title": "漢文 敎育用 基礎 漢字",
+      "surrounding": "• 械(계) (형틀 계) ... • 機(기) (틀 기)",
+      "count": 2
+    },
+    {
       "title": "音盤",
       "surrounding": "동그란 物件(물건)을 통틀어 이르는 ... 담긴 것도 통틀어 가리킨다",
+      "count": 2
+    },
+    {
+      "title": "포탈 2",
+      "surrounding": "있던 첼을 휘틀리가 깨워 ... 지나려다 멍청한 휘틀리가 GLaDOS를",
       "count": 2
     },
     {
@@ -17,8 +37,18 @@
       "count": 2
     },
     {
+      "title": "CJK",
+      "surrounding": "韓國語(한국어) 日本語(일본어)를 통틀어 이르는",
+      "count": 1
+    },
+    {
       "title": "中國語 入力方式",
       "surrounding": "入力(입력) 順序(순서)가 틀려도 바로잡아주는",
+      "count": 1
+    },
+    {
+      "title": "全國漢字敎育推進總聯合會",
+      "surrounding": "主張(주장)하고 있다 틀:引用文(인용문) 關聯(관련)",
       "count": 1
     },
     {
@@ -33,7 +63,7 @@
     },
     {
       "title": "天天座理世",
-      "surrounding": "틀:登場人物情報(등장인물정보) 注文(주문)은兎(토)끼입니까의登場人物(등장인물)。喫茶店(끽다점)Rabbit",
+      "surrounding": "틀:登場人物情報(등장인물정보) 槪要(개요)[편집]",
       "count": 1
     },
     {
@@ -52,18 +82,28 @@
       "count": 1
     },
     {
+      "title": "英國",
+      "surrounding": "튜더 薔薇(장미) 스코틀랜드: 엉겅퀴",
+      "count": 1
+    },
+    {
       "title": "갤럭시 S4",
       "surrounding": "世界最初(세계최초)로 빅 리틀 技術(기술)이",
       "count": 1
     },
     {
       "title": "나치獨逸",
-      "surrounding": "國民社會主義獨逸勞動者黨(국민사회주의독일노동자당)(나치黨(당))과 아돌프 히틀러 總統(총통)",
+      "surrounding": "國民社會主義獨逸勞動者黨(국민사회주의독일로동자당)(나치黨(당))과 아돌프 히틀러 總統(총통)",
       "count": 1
     },
     {
-      "title": "애니메이션 밈",
-      "surrounding": "모든 動作(동작)을 통틀어 트위닝이라고",
+      "title": "레제프 타이이프 에르도안",
+      "surrounding": "어머니: 텐지레 무틀루 (Tenzile",
+      "count": 1
+    },
+    {
+      "title": "록 音樂",
+      "surrounding": "홀리가 考案(고안)하여 비틀즈가 確立(확립)시켰다",
       "count": 1
     },
     {
@@ -74,6 +114,11 @@
     {
       "title": "이어폰과蟬時雨",
       "surrounding": "가운데에서 그것은 틀림없이 웃고",
+      "count": 1
+    },
+    {
+      "title": "파일:001 galaxy s10 5g Front Silver.jpg",
+      "surrounding": "三星電子(삼성전자) 라이선스[편집] 틀:非自由(비자유) 弘報資料(홍보자료)",
       "count": 1
     },
     {
@@ -92,13 +137,13 @@
       "count": 1
     },
     {
-      "title": "파일:Haeundae Ci.svg",
-      "surrounding": "確認(확인)) 라이선스[편집] 틀:CopyrightedFreeUse ",
+      "title": "파일:Euro Truck Simulator 2 cover.jpg",
+      "surrounding": "라이선스[편집] 틀:非自由(비자유) 비디오",
       "count": 1
     },
     {
-      "title": "파일:Hn-logo.png",
-      "surrounding": "라이선스[편집] 틀:비자유 로고",
+      "title": "파일:Haeundae Ci.svg",
+      "surrounding": "確認(확인)) 라이선스[편집] 틀:CopyrightedFreeUse ",
       "count": 1
     },
     {
@@ -107,33 +152,23 @@
       "count": 1
     },
     {
-      "title": "파일:Logo kancolle.png",
-      "surrounding": "html 라이선스[편집] 틀:비자유 로고",
-      "count": 1
-    },
-    {
       "title": "파일:Minecraft cover.png",
-      "surrounding": "이미지 라이선스[편집] 틀:비자유 비디오",
+      "surrounding": "이미지 라이선스[편집] 틀:非自由(비자유) 비디오",
       "count": 1
     },
     {
-      "title": "파일:PrincessConnectLogo.png",
-      "surrounding": "라이선스[편집] 틀:비자유 로고",
-      "count": 1
-    },
-    {
-      "title": "파일:VAIOロゴ.png",
-      "surrounding": "라이선스[편집] 틀:비자유 로고",
-      "count": 1
-    },
-    {
-      "title": "파일:ごちうさロゴ.png",
-      "surrounding": "라이선스[편집] 틀:비자유 로고",
+      "title": "파일:Representative prog.jpeg",
+      "surrounding": "LP 라이선스[편집] 틀:非自由(비자유) 音盤(음반)",
       "count": 1
     },
     {
       "title": "파일:三星 인피니티 디스플레이.jpg",
       "surrounding": "라이선스[편집] 틀:비자유 영상",
+      "count": 1
+    },
+    {
+      "title": "파일:協助付託드립니다 休憩所코로나19防疫에.jpg",
+      "surrounding": "寫眞(사진) 라이선스[편집] 틀:Cc-0 ",
       "count": 1
     },
     {
@@ -147,8 +182,8 @@
       "count": 1
     },
     {
-      "title": "파일:碧蓝航线logo.png",
-      "surrounding": "com/blhx/ 라이선스[편집] 틀:비자유 로고",
+      "title": "파일:空賣渡 槪念 IBK.jpg",
+      "surrounding": "[1] 라이선스[편집] 틀:by-nc-nd-4 0",
       "count": 1
     },
     {
@@ -157,18 +192,23 @@
       "count": 1
     },
     {
+      "title": "파일:나는귀엽당일주년그림.png",
+      "surrounding": "것입니다 라이선스[편집] 틀:著作權(저작권) 情報(정보)",
+      "count": 1
+    },
+    {
       "title": "파일:마이테츠 로고2.jpg",
-      "surrounding": "라이선스[편집] 틀:비자유 비디오",
+      "surrounding": "라이선스[편집] 틀:非自由(비자유) 비디오",
       "count": 1
     },
     {
       "title": "파일:마이테츠 로고3.jpg",
-      "surrounding": "라이선스[편집] 틀:비자유 비디오",
+      "surrounding": "라이선스[편집] 틀:非自由(비자유) 비디오",
       "count": 1
     },
     {
       "title": "파일:마이테츠로고.png",
-      "surrounding": "라이선스[편집] 틀:비자유 비디오",
+      "surrounding": "라이선스[편집] 틀:非自由(비자유) 비디오",
       "count": 1
     },
     {

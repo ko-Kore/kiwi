@@ -7,9 +7,19 @@
       "count": 73
     },
     {
+      "title": "TORIKYU",
+      "surrounding": "japaniiizu desu gera metal ... 収錄曲(수록곡) Saddharma aswresdatgaZEWTRfd mounten",
+      "count": 43
+    },
+    {
       "title": "星條旗 (國歌)",
       "surrounding": "槪要(개요)[편집] 『星條旗(성조기)』(英(영)：The Star-Spangled Banner)는 ... And the star-spangled banner",
       "count": 31
+    },
+    {
+      "title": "通用規範漢字表",
+      "surrounding": "𠳐 U+20CD0 bāng 5989 ... 𬙋 U+2C64B xiāng 8075",
+      "count": 28
     },
     {
       "title": "共産黨이 없으면 新中國도 없다.",
@@ -17,9 +27,19 @@
       "count": 22
     },
     {
+      "title": "共産黨이 없으면 新中國도 없다",
+      "surrounding": "歌詞(가사)[편집] 没有(몰유)(Méiyǒu) 共产党(공산당)(Gòngchǎndǎng) 就没有(취몰유)(jiù ... méiyǒu xīn Zhōngguó )",
+      "count": 22
+    },
+    {
+      "title": "나치獨逸의 노래",
+      "surrounding": "國民社會主義獨逸勞動黨(국민사회주의독일로동당)(나치黨(당))의 黨歌(당가)였다 突擊隊(돌격대)(Sturmabteilung) 隊員(대원)이었던 ... sind da geht's immer",
+      "count": 22
+    },
+    {
       "title": "美合衆國",
-      "surrounding": "伊太利(이태리)의探險家(탐험가)인 아메리고 베스푸치(Amerigo Vespucci)의 ... 同名稱(동명칭)이 처음發見(발견)되는것은 獨逸(독일)의製圖家(제도가)(cartographer)인 말틴",
-      "count": 13
+      "surrounding": "伊太利(이태리)의探險家(탐험가)인 아메리고 베스푸치(Amerigo Vespucci)의 ... 聯邦制(연방제)國家(국가)이다 議會(의회)(congress)와選擧人團(선거인단)(electoral college)等(등)을 通(통)한",
+      "count": 12
     },
     {
       "title": "韓國停戰協定",
@@ -67,13 +87,33 @@
       "count": 5
     },
     {
+      "title": "韓國語의 漢字",
+      "surrounding": "-{外上(외상)}- 외상 (oesang) 餐桌(찬탁) ... -{舍廊(사랑)、斜廊(사랑)}- 사랑 (sarang) 歸化漢字語(귀화한자어)[편집]",
+      "count": 5
+    },
+    {
       "title": "프린세스 커넥트! Re:Dive",
       "surrounding": "Re:Dive 開發(개발) Cygames (게임製作(제작)) ... (มหาชน) Ini3 Digital PLC",
       "count": 5
     },
     {
+      "title": "國漢大百科토론:編輯指針",
+      "surrounding": "남겨주시기 바랍니다 --EighteenChild (토론) ... 하지 않을까요 --EighteenChild (토론)",
+      "count": 4
+    },
+    {
+      "title": "越南社會主義共和國",
+      "surrounding": "주세요 越南社會主義共和國(월남사회주의공화국) Cộng hòa ... thuộc trung ương(城庯直屬中央(성포직속중앙)) ",
+      "count": 4
+    },
+    {
       "title": "軍歌",
       "surrounding": "中国人民解放军军歌(중국인민해방군군가) (簡體(간체)) zhōng guó ... jūn jūn gē 중국인민해방군가",
+      "count": 4
+    },
+    {
+      "title": "원 (大韓民國)",
+      "surrounding": "18㎜ 1 2g 銅(동)鍍金(도금)礬素(반소)（48％銅(동)、52％礬素(반소)） ... 5㎜ 7 7g 白銅(백동)（75％銅(동)、25％니켈）",
       "count": 4
     },
     {
@@ -89,6 +129,16 @@
     {
       "title": "月",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) gnioq8 (ȵioʔ¹²) ... 𡨸國語(자국어) : nguyệt ",
+      "count": 3
+    },
+    {
+      "title": "越南語",
+      "surrounding": "聲昂(성앙) (thanh ngang) - ... 聲(성)𨤼 (thanh nặng) -",
+      "count": 3
+    },
+    {
+      "title": "電子娛樂",
+      "surrounding": "西洋(서양)에서는 電子娛樂(전자오락)(electronic game)은 비디오 ... game)과 音聲(음성)게임(audio game) 等(등)으로",
       "count": 3
     },
     {
@@ -127,6 +177,11 @@
       "count": 2
     },
     {
+      "title": "使用者:洪民憙",
+      "surrounding": "內容(내용)은 웹사이트 hongminhee org(英語(영어))와 ... 웹사이트 hongminhee org(英語(영어))와 블로그",
+      "count": 2
+    },
+    {
       "title": "女",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) gniu6 (ȵy¹¹³) ... (ȵy¹¹³) 蘇州語(소주어) gniu6 (ȵy²³¹)",
       "count": 2
@@ -134,6 +189,11 @@
     {
       "title": "學",
       "surrounding": "(文(문) ɦiɑ̈ʔ¹²) ghoq8 (白(백) ... (文(문) ɦioʔ²³) ghoq8 (白(백)",
+      "count": 2
+    },
+    {
+      "title": "李承晩",
+      "surrounding": "雩南(우남) 英語名(영어명) Syngman Rhee ... 李承晩(이승만)(1875年(년)3月(월)26日(일)-1965年(년)7月(월)19日(일) 英文表記(영문표기) Syngman Rhee)은",
       "count": 2
     },
     {
@@ -152,6 +212,21 @@
       "count": 2
     },
     {
+      "title": "紳士와 아가씨",
+      "surrounding": "紳士(신사)와 아가씨 Young lady ... lady and gentleman 장르",
+      "count": 2
+    },
+    {
+      "title": "英國",
+      "surrounding": "聯合王國(연합왕국) United Kingdom of ... (英(영): United Kingdom of",
+      "count": 2
+    },
+    {
+      "title": "蔚山廣域市",
+      "surrounding": "홈페이지 파일:Ulsan montage png ... 파일:Ulsan montage png 時計方向으로:",
+      "count": 2
+    },
+    {
       "title": "野獸先輩",
       "surrounding": "170cm 體重(체중) 74kg 血液型(혈액형) ... 1999年(년)7月(월) Babylon Stage 27",
       "count": 2
@@ -162,9 +237,19 @@
       "count": 2
     },
     {
+      "title": "갈고리十字",
+      "surrounding": "- 閱覽注意(열람주의) 파일:Flag of ... Germany (1935–1945) svg 槪要(개요)[편집]",
+      "count": 2
+    },
+    {
       "title": "파일:Blood vessels kr.png",
       "surrounding": "英語版原本(영어판원본)：https://commons wikimedia org/wiki/File:Blood_vessels-en svg ... wikimedia org/wiki/File:Blood_vessels-en svg CC-BY-SA",
       "count": 2
+    },
+    {
+      "title": "CJK",
+      "surrounding": "다음과 같다 Big5 EUC-JP",
+      "count": 1
     },
     {
       "title": "Steins;Gate",
@@ -182,8 +267,8 @@
       "count": 1
     },
     {
-      "title": "國",
-      "surrounding": "拼音(평음) : guó 國語(국어)",
+      "title": "國名의 漢字 略稱",
+      "surrounding": "蒙古(몽고) 拼音(평음): Měnggǔ )의",
       "count": 1
     },
     {
@@ -197,8 +282,8 @@
       "count": 1
     },
     {
-      "title": "國語字",
-      "surrounding": "Chữ Quốc Ngữ 쯔꾸옥응으)는",
+      "title": "大韓民國의 人名用 漢字",
+      "surrounding": "入力(입력): Jōhō Tōgō Shinentai",
       "count": 1
     },
     {
@@ -207,8 +292,18 @@
       "count": 1
     },
     {
-      "title": "李承晩",
-      "surrounding": "李承晩(이승만)(1875年(년)3月(월)26日(일)-1965年(년)7月(월)19日(일) 英文表記(영문표기) Syngman Rhee)은",
+      "title": "敎",
+      "surrounding": "𡨸國語(자국어) : giáo ",
+      "count": 1
+    },
+    {
+      "title": "日本語의 漢字",
+      "surrounding": "↑ sci lang japan",
+      "count": 1
+    },
+    {
+      "title": "朴正煕",
+      "surrounding": "表記(표기) Park Chung-hee 出生(출생)",
       "count": 1
     },
     {
@@ -232,6 +327,26 @@
       "count": 1
     },
     {
+      "title": "漢字路 한글·漢字 自動變換機",
+      "surrounding": "該當(해당) 技術(기술)은 UTagger에 基盤(기반)한",
+      "count": 1
+    },
+    {
+      "title": "濠洲",
+      "surrounding": "Terra Australis Incognita의 것을",
+      "count": 1
+    },
+    {
+      "title": "獨逸",
+      "surrounding": "노래) 標語(표어) Einigkeit und",
+      "count": 1
+    },
+    {
+      "title": "甲骨文字",
+      "surrounding": "合(합)6654 解釋(해석) https://mouchengzhai tistory",
+      "count": 1
+    },
+    {
       "title": "空賣渡",
       "surrounding": "空賣渡(공매도)(英(영): short selling/shorting)은 없는것(空(공))을",
       "count": 1
@@ -252,8 +367,8 @@
       "count": 1
     },
     {
-      "title": "越南語",
-      "surrounding": "越南語 㗂越(생월) tiếng Việt",
+      "title": "釜山驛",
+      "surrounding": "20200521 001 jpg 목차",
       "count": 1
     },
     {
@@ -263,12 +378,7 @@
     },
     {
       "title": "非武裝地帶 一部區域 開放에 對한 國際聯合軍과 朝鮮人民軍間 合意書 (2002年)",
-      "surrounding": "(N ) 솔리건(Soligan) 少將(소장)國際聯合軍側(국제연합군측)",
-      "count": 1
-    },
-    {
-      "title": "颱風",
-      "surrounding": "(國語(국어) 注音(주음)) táifēng (普通話(보통화)",
+      "surrounding": "(N ) 솔리건(Soligan) 少將(소장)國際聯合軍側(국제련합군측)",
       "count": 1
     },
     {
@@ -293,7 +403,12 @@
     },
     {
       "title": "비 개길 기다리다",
-      "surrounding": "槪要(개요)[편집] 비갬을기다림(原題(원제):霽(제)(は)れを待(대)(ま)つ)는 Orangestar가 2021年(년)1月(월)10日(일)에",
+      "surrounding": "개길 기다리다(原題(원제):霽(제)(は)れを待(대)(ま)つ)는 Orangestar가 2021年(년)1月(월)10日(일)에",
+      "count": 1
+    },
+    {
+      "title": "안드로이드 運營體制",
+      "surrounding": "運營體制(운영체제)(英(영): Android Operating System)는",
       "count": 1
     },
     {
@@ -302,8 +417,18 @@
       "count": 1
     },
     {
+      "title": "젤다의傳說 시리즈",
+      "surrounding": "파일:Wordmark Zelda svg 시리즈",
+      "count": 1
+    },
+    {
       "title": "코로나바이러스感染症-19",
       "surrounding": "意味(의미)로 英文名(영문명) 'Kung Flu'",
+      "count": 1
+    },
+    {
+      "title": "텔레그램",
+      "surrounding": "사이트 槪要(개요)[편집] 텔레그램(Telegram)은 크로스",
       "count": 1
     },
     {
@@ -317,8 +442,18 @@
       "count": 1
     },
     {
+      "title": "파일:Representative prog.jpeg",
+      "surrounding": "설명[편집] representative prog LP",
+      "count": 1
+    },
+    {
       "title": "파일:碧蓝航线logo.png",
       "surrounding": "설명[편집] 출처: https://game bilibili",
+      "count": 1
+    },
+    {
+      "title": "𡨸國語",
+      "surrounding": "Chữ Quốc Ngữ 쯔꾸옥응으)는",
       "count": 1
     }
   ]

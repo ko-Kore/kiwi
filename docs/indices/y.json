@@ -12,9 +12,19 @@
       "count": 19
     },
     {
+      "title": "通用規範漢字表",
+      "surrounding": "𫐄 U+2B404 yuè 6594 ... 𬟁 U+2C7C1 yì 7996",
+      "count": 17
+    },
+    {
+      "title": "TORIKYU",
+      "surrounding": "automathiktrainedicationstopu ghul perentenarly boobooo ... Emotional Frea Hyoun est",
+      "count": 14
+    },
+    {
       "title": "美合衆國",
       "surrounding": "스티븐 모일란(Stephen Moylan)이 조세프 ... of this Confederacy shall",
-      "count": 14
+      "count": 13
     },
     {
       "title": "Steins;Gate",
@@ -32,6 +42,11 @@
       "count": 9
     },
     {
+      "title": "共産黨이 없으면 新中國도 없다",
+      "surrounding": "노래이다 歌詞(가사)[편집] 没有(몰유)(Méiyǒu) 共产党(공산당)(Gòngchǎndǎng) ... Gòngchǎndǎng jiù méiyǒu xīn",
+      "count": 9
+    },
+    {
       "title": "一伊那爾栖",
       "surrounding": "英原文(영원문): One day Ina'nis ... as an ordinary girl",
       "count": 8
@@ -39,6 +54,11 @@
     {
       "title": "主祈禱文",
       "surrounding": "Noster 英(영):Lord's Prayer)은 基督敎(기독교)의祈禱文(기도문)이다 ... and the glory for",
+      "count": 7
+    },
+    {
+      "title": "레제프 타이이프 에르도안",
+      "surrounding": "에르도안 Recep Tayyip Erdoğan ... (Sümeyye Erdoğan Bayraktar) ",
       "count": 7
     },
     {
@@ -52,6 +72,11 @@
       "count": 5
     },
     {
+      "title": "韓國語의 漢字",
+      "surrounding": "-{便紙(편지)}- 편지 (pyeonji) 草紙(초지) ... -{休止(휴지)}- 휴지 (hyuji) 學習(학습)",
+      "count": 5
+    },
+    {
       "title": "中華民國",
       "surrounding": "Pangcah(Amis 阿美(아미))語(어) Atayal(泰雅(태아))語(어) Paiwan(排灣(배만))語(어) ... Kavalan(噶瑪蘭(갈마란))語(어) Truku(太魯閣(태로각))語(어) Sakizaya(撒奇萊雅(살기래아))語(어) Seediq(賽德克(새덕극))語(어)",
       "count": 4
@@ -62,13 +87,18 @@
       "count": 4
     },
     {
+      "title": "李承晩",
+      "surrounding": "雩南(우남) 英語名(영어명) Syngman Rhee ... as influenced by the",
+      "count": 4
+    },
+    {
       "title": "님의代",
       "surrounding": "A thousand years of ... pebbles now By age",
       "count": 4
     },
     {
-      "title": "李承晩",
-      "surrounding": "李承晩(이승만)(1875年(년)3月(월)26日(일)-1965年(년)7月(월)19日(일) 英文表記(영문표기) Syngman Rhee)은 ... as influenced by the",
+      "title": "國名의 漢字 略稱",
+      "surrounding": "西班牙(서반아) 拼音(평음): Xībānyá )의 ... 印(인)度(도)尼(이)西亞(서아) 拼音(평음): Yìndùníxīyà )의",
       "count": 3
     },
     {
@@ -177,6 +207,11 @@
       "count": 1
     },
     {
+      "title": "委班復生漢喃越南",
+      "surrounding": "標準化(표준화) 槪要(개요)[편집] 委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam)은 越南(월남)의",
+      "count": 1
+    },
+    {
       "title": "打字機",
       "surrounding": "遺産(유산) 槪要(개요)[편집] 打字機(타자기)(Typewriter)는 字板(자판)을",
       "count": 1
@@ -217,8 +252,18 @@
       "count": 1
     },
     {
+      "title": "甲骨文字",
+      "surrounding": "解釋(해석) https://mouchengzhai tistory com/68",
+      "count": 1
+    },
+    {
       "title": "碧藍航路",
       "surrounding": "流通(유통) PWB Play Entertainment",
+      "count": 1
+    },
+    {
+      "title": "紳士와 아가씨",
+      "surrounding": "아가씨 Young lady and",
       "count": 1
     },
     {
@@ -232,18 +277,28 @@
       "count": 1
     },
     {
-      "title": "越南漢喃復活委員會",
-      "surrounding": "標準化(표준화) 槪要(개요)[편집] 越南漢喃復活委員會(월남한남부활위원회)(委(위)(ủy)班(반)(ban)復(복)(phục)生(생)(sinh)漢(한)(hán)喃(남)(nôm)越(월)(việt)南(남)(nam))은 越南(월남)의",
-      "count": 1
-    },
-    {
       "title": "越南語",
-      "surrounding": "ㄩˇ (國語(국어) 注音(주음))Yuènányǔ (普通話(보통화)",
+      "surrounding": "聲懸(성현) (thanh huyền) -",
       "count": 1
     },
     {
       "title": "醋酸",
-      "surrounding": "弱酸性(약산성)을지니는 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학연합))의命名法(명명법)에따른系統名(계통명)(systematic name)은",
+      "surrounding": "弱酸性(약산성)을지니는 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은",
+      "count": 1
+    },
+    {
+      "title": "韋那威箕",
+      "surrounding": "槪要(개요)[편집] 韋那威箕(위나위기)(Vi-na Uy-ki 비나위키)는",
+      "count": 1
+    },
+    {
+      "title": "高速鐵道",
+      "surrounding": "白耳義(백이의) 탈리스 (Thalys) :",
+      "count": 1
+    },
+    {
+      "title": "갈고리十字",
+      "surrounding": "파일:Flag of Germany (1935–1945)",
       "count": 1
     },
     {
@@ -257,6 +312,11 @@
       "count": 1
     },
     {
+      "title": "안드로이드 運營體制",
+      "surrounding": "Android Operating System)는 美國(미국)의",
+      "count": 1
+    },
+    {
       "title": "이얼 팬클럽",
       "surrounding": "은 中國語(중국어)로 一(일)(yī)二(이)(èr)이다 歌詞(가사)[편집]",
       "count": 1
@@ -264,6 +324,11 @@
     {
       "title": "파일:Haeundae Ci.svg",
       "surrounding": "確認(확인)) 라이선스[편집] 틀:CopyrightedFreeUse ",
+      "count": 1
+    },
+    {
+      "title": "파일:空賣渡 槪念 IBK.jpg",
+      "surrounding": "[1] 라이선스[편집] 틀:by-nc-nd-4 0",
       "count": 1
     }
   ]

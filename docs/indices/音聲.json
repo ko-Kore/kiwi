@@ -2,6 +2,11 @@
   "word": "音聲",
   "pages": [
     {
+      "title": "韓國의 漢字 問題",
+      "surrounding": "一般的(일반적)으로 文字(문자)는 音聲(음성) 言語(언어)를 ... 다르다 漢字(한자)는 音聲(음성) 言語(언어)의",
+      "count": 6
+    },
+    {
       "title": "VAIO",
       "surrounding": "Organizer (映像(영상) 音聲(음성) 知的(지적)",
       "count": 1
@@ -12,6 +17,16 @@
       "count": 1
     },
     {
+      "title": "言語",
+      "surrounding": "한다 種類(종류)[편집] 音聲言語(음성언어) 文字言語(문자언어)",
+      "count": 1
+    },
+    {
+      "title": "電子娛樂",
+      "surrounding": "게임(video game)과 音聲(음성)게임(audio game)",
+      "count": 1
+    },
+    {
       "title": "갤럭시 S4",
       "surrounding": "動作(동작)하도록 措置(조치)하였지만 音聲(음성)·映像(영상)通話(통화)나 文字(문자)",
       "count": 1
@@ -19,6 +34,11 @@
     {
       "title": "에어팟",
       "surrounding": "自動(자동)으로 페어링되며 音聲(음성)으로 시리를",
+      "count": 1
+    },
+    {
+      "title": "텔레그램",
+      "surrounding": "수도 있다 音聲(음성) 및",
       "count": 1
     }
   ]

@@ -3,13 +3,18 @@
   "pages": [
     {
       "title": "中國語 入力方式",
-      "surrounding": "2 2 注音符號(주음부호) 2 ... 쓰이는 方式(방식)이다 注音符號(주음부호)와 같이",
-      "count": 4
+      "surrounding": "2 2 注音符號(주음부호) 2 ... 12키 注音符號(주음부호)[편집] 注音符號(주음부호)를 12키",
+      "count": 7
     },
     {
       "title": "漢字文化圈",
       "surrounding": "正體字(정체자) 發音標記(발음표기) 國語注音符號(국어주음부호) 方音符號(방음부호) ... 臺羅(대라) 客拼(객평) 馬祖注音符號(마조주음부호) 馬拼(마평)",
       "count": 2
+    },
+    {
+      "title": "CJK",
+      "surrounding": "한글 拼音(평음) 注音符號(주음부호) 假名(가명)를",
+      "count": 1
     },
     {
       "title": "一",
@@ -78,22 +83,17 @@
     },
     {
       "title": "北",
-      "surrounding": "běi 國語(국어) 주음 :",
+      "surrounding": "běi 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
       "title": "十",
-      "surrounding": "shí 國語(국어) 주음 :",
+      "surrounding": "shí 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
       "title": "四",
       "surrounding": "sì 國語(국어) 주음 :",
-      "count": 1
-    },
-    {
-      "title": "國",
-      "surrounding": "guó 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "title": "女",
-      "surrounding": "ㄋㄩˇ 國語(국어) 주음 :",
+      "surrounding": "nǚ 國語(국어) 주음 :",
       "count": 1
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "title": "猫",
-      "surrounding": "māo 國語(국어) 주음 :",
+      "surrounding": "māo 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
@@ -198,17 +198,12 @@
     },
     {
       "title": "萬",
-      "surrounding": "wàn 國語(국어) 주음 :",
+      "surrounding": "wàn 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
       "title": "言",
       "surrounding": "yán 國語(국어) 주음 :",
-      "count": 1
-    },
-    {
-      "title": "越南語",
-      "surrounding": "ㄩˇ (國語(국어) 注音(주음))Yuènányǔ (普通話(보통화)",
       "count": 1
     },
     {
@@ -229,11 +224,6 @@
     {
       "title": "靑",
       "surrounding": "qīng 國語(국어) 주음 :",
-      "count": 1
-    },
-    {
-      "title": "颱風",
-      "surrounding": "台风(태풍)(簡體(간체)) (國語(국어) 注音(주음)) táifēng",
       "count": 1
     },
     {

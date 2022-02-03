@@ -22,18 +22,23 @@
       "count": 2
     },
     {
+      "title": "假名文字",
+      "surrounding": "使用(사용) 傳統(전통)이 있고 假名表記(가명표기)의",
+      "count": 1
+    },
+    {
       "title": "入力方式",
       "surrounding": "字素(자소)가 配定(배정)되어 있고 이를",
       "count": 1
     },
     {
-      "title": "喃字",
-      "surrounding": "會意文字(회의문자)나 形聲文字(형성문자)가 있고 漢字(한자)의",
+      "title": "國名의 漢字 略稱",
+      "surrounding": "쓰이는 것도 있고 略稱以外(약칭이외)에는",
       "count": 1
     },
     {
-      "title": "國語字",
-      "surrounding": "내는 境遇(경우)도 있고 글字(자)에",
+      "title": "國漢大百科토론:編輯指針",
+      "surrounding": "할 수도 있고요 --EighteenChild",
       "count": 1
     },
     {
@@ -57,8 +62,23 @@
       "count": 1
     },
     {
+      "title": "紳士와 아가씨",
+      "surrounding": "사람들이 다 있고 각자의",
+      "count": 1
+    },
+    {
+      "title": "肉脯",
+      "surrounding": "蛋白質(단백질)로 이루어져 있고 製作(제작)과정으로",
+      "count": 1
+    },
+    {
       "title": "萬",
       "surrounding": "뜻을 가지고 있고 中國(중국)과",
+      "count": 1
+    },
+    {
+      "title": "越南語의 漢字",
+      "surrounding": "한뜨)로만 쓰여져 있고 中國(중국)",
       "count": 1
     },
     {
@@ -67,18 +87,43 @@
       "count": 1
     },
     {
+      "title": "韓國語의 漢字",
+      "surrounding": "簡體字(간체자)와는 差異(차이)가 있고 臺灣(대만)",
+      "count": 1
+    },
+    {
+      "title": "韓國의 漢字 問題",
+      "surrounding": "있는 權利(권리)가 있고 읽을",
+      "count": 1
+    },
+    {
+      "title": "나치獨逸의 노래",
+      "surrounding": "그는 깨어 있고 살아있다",
+      "count": 1
+    },
+    {
       "title": "아이폰 4",
       "surrounding": "琉璃(유리)로 덮여 있고 側面(측면)은",
       "count": 1
     },
     {
-      "title": "애니메이션 밈",
-      "surrounding": "줄 수도 있고[1] 캐릭터가",
+      "title": "에어팟",
+      "surrounding": "할 수 있고 유닛이",
       "count": 1
     },
     {
-      "title": "에어팟",
-      "surrounding": "할 수 있고 유닛이",
+      "title": "유로 트럭 시뮬레이터 2",
+      "surrounding": "交替(교체)할 수 있고 追加(추가)로",
+      "count": 1
+    },
+    {
+      "title": "𡨸喃",
+      "surrounding": "會意文字(회의문자)나 形聲文字(형성문자)가 있고 漢字(한자)의",
+      "count": 1
+    },
+    {
+      "title": "𡨸國語",
+      "surrounding": "내는 境遇(경우)도 있고 글字(자)에",
       "count": 1
     }
   ]
