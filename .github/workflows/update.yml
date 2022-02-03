@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x, 14.x, 16.x]
+        node-version: [16.x]
         
     steps:
     - uses: actions/checkout@v2
@@ -31,8 +31,3 @@ jobs:
         BRANCH_NAME: 'gh-pages'
     - run: npm run update pages docs 20 2000
     - run: npm run fullbuild indices docs
-    - run: git config user.email "actions@github.com"
-    - run: git config user.name "gh-actions"
-    - run: git add .
-    - run: git commit --allow-empty -m "Update mirror"
-    - run: git push https://Lee0701:${APP_PASSWORD}@${REPO_REF} HEAD:gh-pages
