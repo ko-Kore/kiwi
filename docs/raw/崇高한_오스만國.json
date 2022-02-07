@@ -1,8 +1,13 @@
 {
   "title": "崇高한 오스만國",
   "namespace": 0,
-  "timestamp": 1644216726000,
-  "categories": [],
+  "timestamp": 1644225118000,
+  "categories": [
+    "유럽의 옛 國家",
+    "아시아의 옛 國家",
+    "아프리카의 옛 國家",
+    "帝國"
+  ],
   "members": [],
   "file": null
 }
