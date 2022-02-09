@@ -1,8 +1,10 @@
 {
   "title": "2022 北京올림픽",
   "namespace": 0,
-  "timestamp": 1644323791000,
-  "categories": [],
+  "timestamp": 1644431852000,
+  "categories": [
+    "冬季올림픽"
+  ],
   "members": [],
   "file": null
 }
