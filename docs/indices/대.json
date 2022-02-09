@@ -2172,6 +2172,11 @@
       "count": 1
     },
     {
+      "title": "도카이도 신칸센",
+      "surrounding": "넘겨줄 대상:東海道新幹線 ",
+      "count": 1
+    },
+    {
       "title": "두벌式",
       "surrounding": "配列(배열)이 可能(가능)하다 大韓民國(대한민국) KS標準(표준)과",
       "count": 1
@@ -2219,6 +2224,11 @@
     {
       "title": "세로쓰기",
       "surrounding": "넘겨줄 대상:縱書 ",
+      "count": 1
+    },
+    {
+      "title": "신칸센",
+      "surrounding": "넘겨줄 대상:新幹線 ",
       "count": 1
     },
     {
