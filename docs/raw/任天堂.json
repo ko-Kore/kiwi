@@ -1,8 +1,11 @@
 {
   "title": "任天堂",
   "namespace": 0,
-  "timestamp": 1644436456000,
-  "categories": [],
+  "timestamp": 1644436797000,
+  "categories": [
+    "任天堂",
+    "日本의 게임會社"
+  ],
   "members": [],
   "file": null
 }

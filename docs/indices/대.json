@@ -1392,6 +1392,11 @@
       "count": 1
     },
     {
+      "title": "任天堂",
+      "surrounding": "Wii U 携帶型(휴대형) 게임機(기)",
+      "count": 1
+    },
+    {
       "title": "佛蘭西",
       "surrounding": "首都(수도) 巴里(파리) 大統領(대통령) 에마뉘엘",
       "count": 1
@@ -2159,6 +2164,11 @@
     {
       "title": "니코動",
       "surrounding": "넘겨줄 대상:니코니코動畵 ",
+      "count": 1
+    },
+    {
+      "title": "닌텐도",
+      "surrounding": "넘겨줄 대상:任天堂 ",
       "count": 1
     },
     {
