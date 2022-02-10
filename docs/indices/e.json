@@ -392,6 +392,11 @@
       "count": 2
     },
     {
+      "title": "오픈TTD",
+      "surrounding": "其他(기타) 槪要(개요)[편집] 오픈TTD(OpenTTD)는 트랜스포트 ... 基盤施設(기반시설) 共有(공유)[편집] Infrastructure Sharing",
+      "count": 2
+    },
+    {
       "title": "위키위키",
       "surrounding": "소프트웨어[편집] 미디어위키 the seed ... 미디어위키 the seed 모니위키",
       "count": 2
@@ -599,11 +604,6 @@
     {
       "title": "아이폰",
       "surrounding": " iPhone 開發(개발)",
-      "count": 1
-    },
-    {
-      "title": "오픈TTD",
-      "surrounding": "패치 槪要(개요)[편집] 오픈TTD(OpenTTD)는 트랜스포트",
       "count": 1
     },
     {
