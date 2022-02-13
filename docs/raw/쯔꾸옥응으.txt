@@ -1,2 +1,2 @@
-<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/index.php?title=%E5%9C%8B%E8%AA%9E%E5%AD%97&amp;redirect=no" class="mw-redirect" title="國語字">國語字</a></li></ul></div>
+<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/wiki/%F0%A1%A8%B8%E5%9C%8B%E8%AA%9E" title="𡨸國語">𡨸國語</a></li></ul></div>
 </div></body></html>
