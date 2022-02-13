@@ -134,6 +134,7 @@
 <li class="toclevel-1 tocsection-3"><a href="#.E4.BA.92.E6.8F.9B.E7.94.A8.28.ED.98.B8.ED.99.98.EC.9A.A9.29_.E6.BC.A2.E5.AD.97.28.ED.95.9C.EC.9E.90.29.3F"><span class="tocnumber">3</span> <span class="toctext">互換用(호환용) 漢字(한자)?</span></a></li>
 <li class="toclevel-1 tocsection-4"><a href="#.ED.8C.8C.EC.9D.B4.ED.94.84_.ED.8A.B8.EB.A6.AD"><span class="tocnumber">4</span> <span class="toctext">파이프 트릭</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#.ED.85.8C.EC.8A.A4.ED.8A.B8"><span class="tocnumber">5</span> <span class="toctext">테스트</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><span class="tocnumber">6</span> <span class="toctext">日本語(일본어)</span></a></li>
 </ul>
 </div>
 <h2><span id="分岐(분기)_鍊習(연습)"></span><span class="mw-headline" id=".E5.88.86.E5.B2.90.28.EB.B6.84.EA.B8.B0.29_.E9.8D.8A.E7.BF.92.28.EC.97.B0.EC.8A.B5.29"><ruby class="hanja grade12"><rb>分岐</rb><rp>(</rp><rt>분기</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>鍊習</rb><rp>(</rp><rt>연습</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=1" title="부분 편집: 分岐(분기) 鍊習(연습)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -157,4 +158,40 @@
 <h2><span id="테스트"></span><span class="mw-headline" id=".ED.85.8C.EC.8A.A4.ED.8A.B8">테스트</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=5" title="부분 편집: 테스트">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><ruby class="hanja grade42"><rb>非</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby>로그인<ruby class="hanja grade20"><rb>編輯</rb><rp>(</rp><rt>편집</rt><rp>)</rp></ruby> 테스트</li>
 <li>테스트 2</li></ul>
+<h2><span id="日本語(일본어)"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=6" title="부분 편집: 日本語(일본어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="clear: both; float: right"></div>
+<table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="4"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="4" style="font-size: 4em; line-height: 120%;"><span class="noruby"></span> <span class="noruby"><ruby class="hanja grade80"><rb>校</rb><rp>(</rp><rt>교</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>音讀</rb><rp>(</rp><rt>음독</rt><rp>)</rp></ruby>
+</th>
+<td colspan="3">コウ, キョウ
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>訓讀</rb><rp>(</rp><rt>훈독</rt><rp>)</rp></ruby>
+</th>
+<td colspan="3">-
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>音讀</rb><rp>(</rp><rt>음독</rt><rp>)</rp></ruby> (<a href="/wiki/%E6%AD%B7%E5%8F%B2%E7%9A%84%E5%AD%97%E9%9F%B3%E5%81%87%E5%90%8D%E8%A1%A8%E8%A8%98%E6%B3%95" title="歷史的字音假名表記法"><ruby class="hanja grade52"><rb>歷</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></a>)
+</th>
+<td colspan="3">カウ, ケウ
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">-
+</td></tr></tbody></table>
 </div></body></html>
