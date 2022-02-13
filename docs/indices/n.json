@@ -147,11 +147,6 @@
       "count": 6
     },
     {
-      "title": "國名의 漢字 略稱",
-      "surrounding": "西班牙(서반아) 拼音(평음): Xībānyá )의 ... 瑞典(서전) 拼音(평음): Ruìdiǎn )의",
-      "count": 6
-    },
-    {
       "title": "民",
       "surrounding": "병음 : mín 國語(국어) ... 𡨸國語(자국어) : dân ",
       "count": 6
@@ -289,6 +284,11 @@
     {
       "title": "伯林",
       "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[1] ... Rathaus ↑ Ostniederdeutsch ",
+      "count": 3
+    },
+    {
+      "title": "國名의 漢字 略稱",
+      "surrounding": "印(인)度(도)尼(이)西亞(서아) 拼音(평음): Yìndùníxīyà의 두글자를 ... 瑞典(서전) 拼音(평음): Ruìdiǎn의 첫글자를",
       "count": 3
     },
     {
@@ -734,6 +734,11 @@
     {
       "title": "파일:空賣渡 槪念 IBK.jpg",
       "surrounding": "[1] 라이선스[편집] 틀:by-nc-nd-4 0",
+      "count": 1
+    },
+    {
+      "title": "𰻞",
+      "surrounding": "𰻞(국수이름 뱡 biáng)은 陝西省(섬서성)의",
       "count": 1
     }
   ]
