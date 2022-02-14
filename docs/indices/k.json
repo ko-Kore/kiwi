@@ -147,6 +147,11 @@
       "count": 2
     },
     {
+      "title": "島根縣",
+      "surrounding": "人口密度(인구밀도) 98 9名(명)/km² 地理(지리) ... 6 708 26km² 象徵(상징)",
+      "count": 2
+    },
+    {
       "title": "川崎市",
       "surrounding": "人口密度(인구밀도) 10 765名(명)/km² 地理(지리) ... 面積(면적) 143 01km² 象徵(상징)",
       "count": 2
@@ -404,6 +409,11 @@
     {
       "title": "파일:Logo kancolle.png",
       "surrounding": "http://www dmm com/netgame/feature/kancolle html",
+      "count": 1
+    },
+    {
+      "title": "파일:슈슈버거.jpg",
+      "surrounding": "mcdonalds co kr/kor/menu/detail do",
       "count": 1
     }
   ]
