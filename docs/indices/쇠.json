@@ -32,6 +32,11 @@
       "count": 2
     },
     {
+      "title": "빅맥",
+      "surrounding": "그 사이에 純(순)쇠고기 패티가 ... 참깨빵 위에 순쇠고기 패티",
+      "count": 2
+    },
+    {
       "title": "日本의 人名用 漢字",
       "surrounding": "帥(수) 粋(수) 衰(쇠) 推(추)",
       "count": 1
@@ -59,11 +64,6 @@
     {
       "title": "金",
       "surrounding": " 金(김) 쇠 금",
-      "count": 1
-    },
-    {
-      "title": "빅맥",
-      "surrounding": "그 사이에 純(순)쇠고기 패티가",
       "count": 1
     }
   ]
