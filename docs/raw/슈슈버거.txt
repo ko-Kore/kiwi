@@ -3,13 +3,9 @@
 <p>맥도날드에서 <ruby class="hanja grade30"><rb>販賣</rb><rp>(</rp><rt>판매</rt><rp>)</rp></ruby> <ruby class="hanja grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby>인 햄버거 메뉴이다.
 </p>
 <h2><span id="名稱(명칭)"></span><span class="mw-headline" id=".E5.90.8D.E7.A8.B1.28.EB.AA.85.EC.B9.AD.29"><ruby class="hanja grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%8A%88%EC%8A%88%EB%B2%84%EA%B1%B0&amp;action=edit&amp;section=2" title="부분 편집: 名稱(명칭)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>‘슈슈’는 <b>슈</b>프림 <b>슈</b>림프(Supreme Shrimp)를 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>한다.<a rel="nofollow" class="external autonumber" href="https://www.mcdonalds.co.kr/kor/menu/list.do">[1]</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>‘슈슈’는 <b>슈</b>프림 <b>슈</b>림프(Supreme Shrimp)를 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>한다.<a rel="nofollow" class="external autonumber" href="https://www.mcdonalds.co.kr/kor/menu/detail.do?page=1&amp;seq=91&amp;sub_category_seq=1">[1]</a>
 </p>
 <h2><span id="構成(구성)"></span><span class="mw-headline" id=".E6.A7.8B.E6.88.90.28.EA.B5.AC.EC.84.B1.29"><ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%8A%88%EC%8A%88%EB%B2%84%EA%B1%B0&amp;action=edit&amp;section=3" title="부분 편집: 構成(구성)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>빵, 소스, 슈림프 패티, 토마토, 양상추, 소스 <ruby class="hanja grade52"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>되어 있습니다.
 </p>
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.mcdonalds.co.kr/kor/menu/detail.do"><ruby class="hanja grade50"><rb>固有</rb><rp>(</rp><rt>고유</rt><rp>)</rp></ruby>링크</a>가 <ruby class="hanja grade62"><rb>作動</rb><rp>(</rp><rt>작동</rt><rp>)</rp></ruby>하지 않으므로 메뉴 <ruby class="hanja grade42"><rb>目錄</rb><rp>(</rp><rt>목록</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade42"><rb>直接</rb><rp>(</rp><rt>직접</rt><rp>)</rp></ruby> 찾아야 한다.</span>
-</li>
-</ol></div>
 </div></body></html>

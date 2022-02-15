@@ -52,14 +52,19 @@
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_XR&amp;action=edit&amp;redlink=1" class="new" title="아이폰 XR (없는 문서)">아이폰 XR</a></li></ul></li>
 <li>아이폰 11 시리즈
 <ul><li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_11&amp;action=edit&amp;redlink=1" class="new" title="아이폰 11 (없는 문서)">아이폰 11</a></li>
-<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_11_%ED%94%84%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="아이폰 11 프로 (없는 문서)">아이폰 11 프로</a></li>
+<li><a href="/wiki/%EC%95%84%EC%9D%B4%ED%8F%B0_11_%ED%94%84%EB%A1%9C" title="아이폰 11 프로">아이폰 11 프로</a></li>
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_11_%ED%94%84%EB%A1%9C_%EB%A7%A5%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="아이폰 11 프로 맥스 (없는 문서)">아이폰 11 프로 맥스</a></li></ul></li>
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_SE_(2%E4%B8%96%E4%BB%A3)&amp;action=edit&amp;redlink=1" class="new" title="아이폰 SE (2世代) (없는 문서)">아이폰 SE (2<ruby class="hanja grade62 unknown"><rb>世代</rb><rp>(</rp><rt>세대</rt><rp>)</rp></ruby>)</a></li>
 <li>아이폰 12 시리즈
 <ul><li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12_%EB%AF%B8%EB%8B%88&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 미니 (없는 문서)">아이폰 12 미니</a></li>
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 (없는 문서)">아이폰 12</a></li>
 <li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12_%ED%94%84%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 프로 (없는 문서)">아이폰 12 프로</a></li>
-<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12_%ED%94%84%EB%A1%9C_%EB%A7%A5%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 프로 맥스 (없는 문서)">아이폰 12 프로 맥스</a></li></ul></li></ul>
+<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_12_%ED%94%84%EB%A1%9C_%EB%A7%A5%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="아이폰 12 프로 맥스 (없는 문서)">아이폰 12 프로 맥스</a></li></ul></li>
+<li>아이폰 13 시리즈
+<ul><li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_13_%EB%AF%B8%EB%8B%88&amp;action=edit&amp;redlink=1" class="new" title="아이폰 13 미니 (없는 문서)">아이폰 13 미니</a></li>
+<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_13&amp;action=edit&amp;redlink=1" class="new" title="아이폰 13 (없는 문서)">아이폰 13</a></li>
+<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_13_%ED%94%84%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="아이폰 13 프로 (없는 문서)">아이폰 13 프로</a></li>
+<li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0_13_%ED%94%84%EB%A1%9C_%EB%A7%A5%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="아이폰 13 프로 맥스 (없는 문서)">아이폰 13 프로 맥스</a></li></ul></li></ul>
 </div>
 <h2><span id="關聯文書(관련문서)"></span><span class="mw-headline" id=".E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"><ruby class="hanja grade32"><rb>關聯文書</rb><rp>(</rp><rt>관련문서</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8F%B0&amp;action=edit&amp;section=3" title="부분 편집: 關聯文書(관련문서)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/index.php?title=%EC%95%84%EC%9D%B4%ED%8C%9F&amp;action=edit&amp;redlink=1" class="new" title="아이팟 (없는 문서)">아이팟</a></li>
