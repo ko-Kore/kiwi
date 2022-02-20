@@ -605,7 +605,7 @@
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td><a href="/index.php?title=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%E5%90%88%E8%A1%86%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="아메리카合衆國 (없는 문서)">아메리카<ruby class="hanja grade42 unknown"><rb>合衆國</rb><rp>(</rp><rt>합중국</rt><rp>)</rp></ruby></a></td>
+<td><a href="/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%E5%90%88%E8%A1%86%E5%9C%8B" class="mw-redirect" title="아메리카合衆國">아메리카<ruby class="hanja grade42"><rb>合衆國</rb><rp>(</rp><rt>합중국</rt><rp>)</rp></ruby></a></td>
 <td><ruby class="hanja grade60"><rb>米國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>, <ruby class="hanja grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>亞米利加</rb><rp>(</rp><rt>아미리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>亞墨利加</rb><rp>(</rp><rt>아묵리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>米利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>美利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>彌利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
