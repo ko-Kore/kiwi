@@ -1,8 +1,11 @@
 {
   "title": "釜田驛",
   "namespace": 0,
-  "timestamp": 1644600831000,
-  "categories": [],
+  "timestamp": 1645330246000,
+  "categories": [
+    "釜山廣域市의 鐵道驛",
+    "釜山鎭區"
+  ],
   "members": [],
   "file": null
 }

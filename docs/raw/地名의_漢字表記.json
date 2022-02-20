@@ -1,8 +1,11 @@
 {
   "title": "地名의 漢字表記",
   "namespace": 0,
-  "timestamp": 1644724580000,
-  "categories": [],
+  "timestamp": 1645330138000,
+  "categories": [
+    "漢字",
+    "地名"
+  ],
   "members": [],
   "file": null
 }

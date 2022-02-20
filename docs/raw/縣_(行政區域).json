@@ -1,8 +1,11 @@
 {
   "title": "縣 (行政區域)",
   "namespace": 0,
-  "timestamp": 1645053549000,
-  "categories": [],
+  "timestamp": 1645330090000,
+  "categories": [
+    "行政區域",
+    "日本의 行政區域"
+  ],
   "members": [],
   "file": null
 }
