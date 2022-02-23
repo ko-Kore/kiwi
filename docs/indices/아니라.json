@@ -47,11 +47,6 @@
       "count": 1
     },
     {
-      "title": "拳鍔",
-      "surrounding": "弱(약)한 部分(부분)이 아니라 주먹에",
-      "count": 1
-    },
-    {
       "title": "日本語",
       "surrounding": "하는 것은 아니라 初心者(초심자)들이",
       "count": 1
@@ -104,6 +99,11 @@
     {
       "title": "날개셋 한글 入力機",
       "surrounding": "있다 뿐만 아니라 나랏글",
+      "count": 1
+    },
+    {
+      "title": "너클 (武器)",
+      "surrounding": "弱(약)한 部分(부분)이 아니라 주먹에",
       "count": 1
     },
     {

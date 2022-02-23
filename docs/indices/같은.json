@@ -147,11 +147,6 @@
       "count": 1
     },
     {
-      "title": "拳鍔",
-      "surrounding": "뼈나 關節(관절)과 같은 弱(약)한",
-      "count": 1
-    },
-    {
       "title": "文書",
       "surrounding": "普通(보통) 종이 같은 데",
       "count": 1
@@ -294,6 +289,11 @@
     {
       "title": "갤럭시 S4",
       "surrounding": "設置(설치)하더라도 이와 같은 理由(이유)로",
+      "count": 1
+    },
+    {
+      "title": "너클 (武器)",
+      "surrounding": "뼈나 關節(관절)과 같은 弱(약)한",
       "count": 1
     },
     {

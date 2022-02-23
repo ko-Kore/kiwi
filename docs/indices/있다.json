@@ -812,11 +812,6 @@
       "count": 1
     },
     {
-      "title": "拳鍔",
-      "surrounding": "할 수 있다 많은",
-      "count": 1
-    },
-    {
       "title": "拷問",
       "surrounding": "아직도 이루어지고 있다 ",
       "count": 1
@@ -1114,6 +1109,11 @@
     {
       "title": "고딕體",
       "surrounding": "誤譯(오역)의 輿地(여지)가 있다 한글",
+      "count": 1
+    },
+    {
+      "title": "너클 (武器)",
+      "surrounding": "할 수 있다 많은",
       "count": 1
     },
     {
