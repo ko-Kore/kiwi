@@ -1,0 +1,69 @@
+<html><head></head><body><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#SVO"><span class="tocnumber">2</span> <span class="toctext">SVO</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#SOV"><span class="tocnumber">3</span> <span class="toctext">SOV</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#VSO"><span class="tocnumber">4</span> <span class="toctext">VSO</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.EA.B7.B8.E5.A4.96.28.EC.99.B8.29"><span class="tocnumber">5</span> <span class="toctext">그外(외)</span></a></li>
+</ul>
+</div>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%AA%9E%E9%A0%86&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade52"><rb>語順</rb><rp>(</rp><rt>어순</rt><rp>)</rp></ruby>에 대해 정리한 <ruby class="hanja grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>이다.
+</p>
+<h2><span class="mw-headline" id="SVO">SVO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%AA%9E%E9%A0%86&amp;action=edit&amp;section=2" title="부분 편집: SVO">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade70"><rb>主語</rb><rp>(</rp><rt>주어</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>動詞</rb><rp>(</rp><rt>동사</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>目的語</rb><rp>(</rp><rt>목적어</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby>이다.
+<ruby class="hanja grade52"><rb>代表的</rb><rp>(</rp><rt>대표적</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby>와 <ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby>가 있다.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby>
+</th>
+<td>I Love You
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade0"><rb>我爱你</rb><rp>(</rp><rt>아애니</rt><rp>)</rp></ruby><br><ruby class="hanja grade0"><rb>我愛你</rb><rp>(</rp><rt>아애니</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade32"><rb>解釋</rb><rp>(</rp><rt>해석</rt><rp>)</rp></ruby>
+</th>
+<td>나는 사랑해 너를
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="SOV">SOV</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%AA%9E%E9%A0%86&amp;action=edit&amp;section=3" title="부분 편집: SOV">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade70"><rb>主語</rb><rp>(</rp><rt>주어</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>目的語</rb><rp>(</rp><rt>목적어</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>動詞</rb><rp>(</rp><rt>동사</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby>이다.
+<ruby class="hanja grade52"><rb>代表的</rb><rp>(</rp><rt>대표적</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby>와 <ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby>가 있다.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade40"><rb>私</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>は<ruby class="hanja grade40"><rb>君</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>を<ruby class="hanja grade60"><rb>愛</rb><rp>(</rp><rt>애</rt><rp>)</rp></ruby>してる。
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby>
+</th>
+<td>난 널 사랑해.
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="VSO">VSO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%AA%9E%E9%A0%86&amp;action=edit&amp;section=4" title="부분 편집: VSO">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade32"><rb>動詞</rb><rp>(</rp><rt>동사</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>主語</rb><rp>(</rp><rt>주어</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>目的語</rb><rp>(</rp><rt>목적어</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby>이다.
+<ruby class="hanja grade52"><rb>代表的</rb><rp>(</rp><rt>대표적</rt><rp>)</rp></ruby>으로 아랍어와 이집트어가 있다.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>아랍어
+</th>
+<td>انا احبك
+</td></tr>
+<tr>
+<th><ruby class="hanja grade32"><rb>解釋</rb><rp>(</rp><rt>해석</rt><rp>)</rp></ruby>
+</th>
+<td>사랑해 나는 너를
+</td></tr>
+</tbody></table>
+<h2><span id="그外(외)"></span><span class="mw-headline" id=".EA.B7.B8.E5.A4.96.28.EC.99.B8.29">그<ruby class="hanja grade80"><rb>外</rb><rp>(</rp><rt>외</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%AA%9E%E9%A0%86&amp;action=edit&amp;section=5" title="부분 편집: 그外(외)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>VOS,OVS,OSV 가 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>한다.
+</p>
+</div></body></html>
