@@ -1,8 +1,10 @@
 {
   "title": "너클 (武器)",
   "namespace": 0,
-  "timestamp": 1645610074000,
-  "categories": [],
+  "timestamp": 1645669238000,
+  "categories": [
+    "武器"
+  ],
   "members": [],
   "file": null
 }

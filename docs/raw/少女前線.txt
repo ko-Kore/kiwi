@@ -1,10 +1,9 @@
-<html><head></head><body><div class="mw-parser-output"><p><a href="/wiki/%ED%8C%8C%EC%9D%BC:%EC%86%8C%EB%85%80%EC%A0%84%EC%84%A0_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="소녀전선 로고.png" src="/images/b/b0/%EC%86%8C%EB%85%80%EC%A0%84%EC%84%A0_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="175" height="60"></a>
-</p>
-<table class="wikitable infobox">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <tbody><tr>
-<th><ruby class="hanja grade60"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby>
-</th>
-<td><ruby class="hanja grade62"><rb>少女前線</rb><rp>(</rp><rt>소녀전선</rt><rp>)</rp></ruby> <br> <ruby class="hanja grade0"><rb>少女前线</rb><rp>(</rp><rt>소녀전선</rt><rp>)</rp></ruby>
+<th colspan="2"><ruby class="hanja grade62"><rb>少女前線</rb><rp>(</rp><rt>소녀전선</rt><rp>)</rp></ruby> <br> <ruby class="hanja grade0"><rb>少女前线</rb><rp>(</rp><rt>소녀전선</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%EC%86%8C%EB%85%80%EC%A0%84%EC%84%A0_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="소녀전선 로고.png" src="/images/b/b0/%EC%86%8C%EB%85%80%EC%A0%84%EC%84%A0_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="175" height="60"></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade60"><rb>開發</rb><rp>(</rp><rt>개발</rt><rp>)</rp></ruby>

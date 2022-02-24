@@ -1,8 +1,10 @@
 {
   "title": "홀로라이브",
   "namespace": 0,
-  "timestamp": 1645433306000,
-  "categories": [],
+  "timestamp": 1645670069000,
+  "categories": [
+    "홀로라이브"
+  ],
   "members": [],
   "file": null
 }
