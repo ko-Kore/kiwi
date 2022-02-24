@@ -9,12 +9,12 @@
 </p>
 <h2><span id="曲目錄(곡목록)"></span><span class="mw-headline" id=".E6.9B.B2.E7.9B.AE.E9.8C.84.28.EA.B3.A1.EB.AA.A9.EB.A1.9D.29"><ruby class="hanja grade42"><rb>曲目錄</rb><rp>(</rp><rt>곡목록</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%95%97%E5%8C%97%E8%80%85_%EA%B0%9C%EC%97%90%EA%B2%8C_%EC%95%B5%EC%BD%9C%EC%9D%80_%E5%BF%85%E8%A6%81%EC%97%86%EC%96%B4_(%E9%9F%B3%E7%9B%A4)&amp;action=edit&amp;section=3" title="부분 편집: 曲目錄(곡목록)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ol><li><ruby class="hanja grade72"><rb>前世</rb><rp>(</rp><rt>전세</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade50"><rb>敗北者</rb><rp>(</rp><rt>패배자</rt><rp>)</rp></ruby> 개에게 앵콜은 <ruby class="hanja grade52"><rb>必要</rb><rp>(</rp><rt>필요</rt><rp>)</rp></ruby>없어</li>
+<li><a href="/index.php?title=%E6%95%97%E5%8C%97%E8%80%85_%EA%B0%9C%EC%97%90%EA%B2%8C_%EC%95%B5%EC%BD%9C%EC%9D%80_%E5%BF%85%E8%A6%81%EC%97%86%EC%96%B4&amp;action=edit&amp;redlink=1" class="new" title="敗北者 개에게 앵콜은 必要없어 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>敗北者</rb><rp>(</rp><rt>패배자</rt><rp>)</rp></ruby> 개에게 앵콜은 <ruby class="hanja grade52 unknown"><rb>必要</rb><rp>(</rp><rt>필요</rt><rp>)</rp></ruby>없어</a></li>
 <li><ruby class="hanja grade20"><rb>爆彈魔</rb><rp>(</rp><rt>폭탄마</rt><rp>)</rp></ruby></li>
-<li>히치콕</li>
+<li><a href="/wiki/%ED%9E%88%EC%B9%98%EC%BD%95_(%EC%9A%94%EB%A3%A8%EC%8B%9C%EC%B9%B4)" title="히치콕 (요루시카)">히치콕</a></li>
 <li><ruby class="hanja grade50"><rb>落下</rb><rp>(</rp><rt>낙하</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>準透明少年</rb><rp>(</rp><rt>준투명소년</rt><rp>)</rp></ruby></li>
-<li>그저 네게 개어라</li>
+<li><a href="/index.php?title=%EA%B7%B8%EC%A0%80_%EB%84%A4%EA%B2%8C_%EA%B0%9C%EC%96%B4%EB%9D%BC&amp;action=edit&amp;redlink=1" class="new" title="그저 네게 개어라 (없는 문서)">그저 네게 개어라</a></li>
 <li><ruby class="hanja grade32"><rb>冬眠</rb><rp>(</rp><rt>동면</rt><rp>)</rp></ruby></li>
 <li>여름, 버스<ruby class="hanja grade42"><rb>停留場</rb><rp>(</rp><rt>정류장</rt><rp>)</rp></ruby>, 너를 기다려</li></ol>
 <p><br>
