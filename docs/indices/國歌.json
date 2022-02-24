@@ -82,11 +82,6 @@
       "count": 1
     },
     {
-      "title": "烏克蘭",
-      "surrounding": "國章(국장) 國家象徵(국가상징) 國歌(국가) 烏克蘭(오극란)의",
-      "count": 1
-    },
-    {
       "title": "獨逸",
       "surrounding": "Deutschland 國家象徵(국가상징) 國歌(국가) Deutschlandlied",
       "count": 1
@@ -124,6 +119,11 @@
     {
       "title": "수퍼볼LV",
       "surrounding": "재즈민 설리번(Jazmine Sullivan)에依(의)한國歌齊唱(국가제창)이있었으며 하프타임쇼에는",
+      "count": 1
+    },
+    {
+      "title": "우크라이나",
+      "surrounding": "國章(국장) 國家象徵(국가상징) 國歌(국가) 우크라이나의",
       "count": 1
     }
   ]

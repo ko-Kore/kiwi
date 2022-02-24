@@ -1,0 +1,154 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">우크라이나
+</th></tr>
+<tr>
+<th colspan="2">Україна
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Ukraine.svg" class="image"><img alt="Flag of Ukraine.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langko-240px-Flag_of_Ukraine.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langko-360px-Flag_of_Ukraine.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langko-480px-Flag_of_Ukraine.svg.png 2x"></a>
+</td>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Lesser_Coat_of_Arms_of_Ukraine.svg" class="image"><img alt="Lesser Coat of Arms of Ukraine.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/langko-114px-Lesser_Coat_of_Arms_of_Ukraine.svg.png" decoding="async" width="114" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/langko-172px-Lesser_Coat_of_Arms_of_Ukraine.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/langko-229px-Lesser_Coat_of_Arms_of_Ukraine.svg.png 2x"></a>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>國家象徵</rb><rp>(</rp><rt>국가상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%EC%9D%98_%E6%A6%AE%E5%85%89%EC%9D%80_%EC%82%AC%EB%9D%BC%EC%A7%80%EC%A7%80_%EC%95%8A%EC%9C%BC%EB%A6%AC&amp;action=edit&amp;redlink=1" class="new" title="우크라이나의 榮光은 사라지지 않으리 (없는 문서)">우크라이나의 <ruby class="hanja grade42 unknown"><rb>榮光</rb><rp>(</rp><rt>영광</rt><rp>)</rp></ruby>은 사라지지 않으리</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Europe-Ukraine_(orthographic_projection;_disputed_territory).svg" class="image"><img alt="Europe-Ukraine (orthographic projection; disputed territory).svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg/langko-300px-Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg/langko-450px-Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg/langko-600px-Europe-Ukraine_%28orthographic_projection%3B_disputed_territory%29.svg.png 2x"></a><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%ED%82%A4%EC%98%88%ED%94%84&amp;action=edit&amp;redlink=1" class="new" title="키예프 (없는 문서)">키예프</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%B3%BC%EB%A1%9C%EB%94%94%EB%AF%B8%EB%A5%B4_%EC%A0%A4%EB%A0%8C%EC%8A%A4%ED%82%A4&amp;action=edit&amp;redlink=1" class="new" title="볼로디미르 젤렌스키 (없는 문서)">볼로디미르 젤렌스키</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>603,700km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>內水面</rb><rp>(</rp><rt>내수면</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>比率</rb><rp>(</rp><rt>비율</rt><rp>)</rp></ruby>
+</th>
+<td>7%
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC +2
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>2<ruby class="hanja grade60"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby> 24<ruby class="hanja grade52"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby> 1<ruby class="hanja grade42"><rb>自治共和國</rb><rp>(</rp><rt>자치공화국</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>43,734,000<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>75.5<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="우크라이나語 (없는 문서)">우크라이나<ruby class="hanja grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>公用文字</rb><rp>(</rp><rt>공용문자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%ED%82%A4%EB%A6%B4%E6%96%87%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="키릴文字 (없는 문서)">키릴<ruby class="hanja grade70 unknown"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>族群</rb><rp>(</rp><rt>족군</rt><rp>)</rp></ruby>
+</th>
+<td>77.8% <a href="/index.php?title=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="우크라이나人 (없는 문서)">우크라이나<ruby class="hanja grade80 unknown"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a><br>17.3% <a href="/index.php?title=%E9%9C%B2%E8%A5%BF%E4%BA%9E%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="露西亞人 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>露西亞人</rb><rp>(</rp><rt>노서아인</rt><rp>)</rp></ruby></a><br>4.9% <ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>/<ruby class="hanja grade32"><rb>未詳</rb><rp>(</rp><rt>미상</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%ED%9D%90%EB%A6%AC%EC%9A%B0%EB%83%90&amp;action=edit&amp;redlink=1" class="new" title="흐리우냐 (없는 문서)">흐리우냐</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$2040<ruby class="hanja grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/index.php?title=2022%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2022年 (없는 문서)">2022<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>1<ruby class="hanja grade52"><rb>人當</rb><rp>(</rp><rt>인당</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$4,958&nbsp;(<a href="/index.php?title=2022%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2022年 (없는 문서)">2022<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$6220<ruby class="hanja grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/index.php?title=2022%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2022年 (없는 문서)">2022<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>1<ruby class="hanja grade52"><rb>人當</rb><rp>(</rp><rt>인당</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$15,124&nbsp;(<a href="/index.php?title=2022%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2022年 (없는 문서)">2022<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=1918%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1918年 (없는 문서)">1918<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=1%E6%9C%8822%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="1月22日 (없는 문서)">1<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>22<ruby class="hanja grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a> (우크라이나<ruby class="hanja grade60"><rb>民族共和國</rb><rp>(</rp><rt>민족공화국</rt><rp>)</rp></ruby>으로서 <ruby class="hanja grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby>)<br><a href="/index.php?title=1991%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1991年 (없는 문서)">1991<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=8%E6%9C%8824%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="8月24日 (없는 문서)">8<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>24<ruby class="hanja grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a> (<ruby class="hanja grade32"><rb>蘇聯</rb><rp>(</rp><rt>소련</rt><rp>)</rp></ruby>으로부터 <ruby class="hanja grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>宣言</rb><rp>(</rp><rt>선언</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>國際電話番號</rb><rp>(</rp><rt>국제전화번호</rt><rp>)</rp></ruby>
+</th>
+<td>380
+</td></tr></tbody></table>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>우크라이나</b>는 <a href="/index.php?title=%E6%9D%B1%EC%9C%A0%EB%9F%BD&amp;action=edit&amp;redlink=1" class="new" title="東유럽 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby>유럽</a>에 있는 나라이다. 유럽에서 <ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>이 두 <ruby class="hanja grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>째로 큰 나라이다. <ruby class="hanja grade72"><rb>中世</rb><rp>(</rp><rt>중세</rt><rp>)</rp></ruby>에는 <ruby class="hanja grade80"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby>슬라브<ruby class="hanja grade52"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby>의 <ruby class="hanja grade70"><rb>中心地</rb><rp>(</rp><rt>중심지</rt><rp>)</rp></ruby>이자 <a href="/index.php?title=%EB%A3%A8%EC%8A%A4%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="루스國 (없는 문서)">루스<ruby class="hanja grade80 unknown"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby></a>이라는 <ruby class="hanja grade60"><rb>强力</rb><rp>(</rp><rt>강력</rt><rp>)</rp></ruby>한 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>가 우크라이나의 <ruby class="hanja grade52"><rb>國民意識</rb><rp>(</rp><rt>국민의식</rt><rp>)</rp></ruby>의 <ruby class="hanja grade32"><rb>基礎</rb><rp>(</rp><rt>기초</rt><rp>)</rp></ruby>를 <ruby class="hanja grade62"><rb>形成</rb><rp>(</rp><rt>형성</rt><rp>)</rp></ruby>했다.
+</p><p><a href="/wiki/2021%E5%B9%B4" title="2021年">2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=3%E6%9C%88&amp;action=edit&amp;redlink=1" class="new" title="3月 (없는 문서)">3<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby></a>부터 <a href="/index.php?title=%E9%9C%B2%E8%A5%BF%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="露西亞 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby></a>와의 사이에서 <ruby class="hanja grade40"><rb>危機</rb><rp>(</rp><rt>위기</rt><rp>)</rp></ruby>가 높아졌고, <a href="/index.php?title=2022%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2022年 (없는 문서)">2022<ruby class="hanja grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=2%E6%9C%8824%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="2月24日 (없는 문서)">2<ruby class="hanja grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>24<ruby class="hanja grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>의 <a href="/wiki/2022%E5%B9%B4_%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EB%9F%AC%EC%8B%9C%EC%95%84_%E6%88%B0%E7%88%AD" title="2022年 우크라이나-러시아 戰爭">우크라이나 <ruby class="hanja grade40"><rb>侵攻</rb><rp>(</rp><rt>침공</rt><rp>)</rp></ruby>이 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby></a>되었다.
+</p>
+<h2><span id="名稱(명칭)"></span><span class="mw-headline" id=".E5.90.8D.E7.A8.B1.28.EB.AA.85.EC.B9.AD.29"><ruby class="hanja grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98&amp;action=edit&amp;section=2" title="부분 편집: 名稱(명칭)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98" title="國名의 漢字表記"><ruby class="hanja grade32"><rb>漢字音借</rb><rp>(</rp><rt>한자음차</rt><rp>)</rp></ruby></a>로는 ‘<ruby class="hanja grade32"><rb>烏克蘭</rb><rp>(</rp><rt>오극란</rt><rp>)</rp></ruby>’이라 <ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>한다.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">크림을 <ruby class="hanja grade32"><rb>包含</rb><rp>(</rp><rt>포함</rt><rp>)</rp></ruby></span>
+</li>
+</ol></div>
+</div></body></html>

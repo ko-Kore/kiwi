@@ -132,11 +132,6 @@
       "count": 1
     },
     {
-      "title": "烏克蘭",
-      "surrounding": "比率(비율) 7% 時間帶(시간대) UTC",
-      "count": 1
-    },
-    {
       "title": "獨逸",
       "surrounding": "357 386km² 時間帶(시간대) UTC+1(CET)",
       "count": 1
@@ -184,6 +179,11 @@
     {
       "title": "오픈TTD",
       "surrounding": "包含(포함) 自動配車(자동배차)[편집] 時間表(시간표)만 設定(설정)해",
+      "count": 1
+    },
+    {
+      "title": "우크라이나",
+      "surrounding": "比率(비율) 7% 時間帶(시간대) UTC",
       "count": 1
     },
     {
