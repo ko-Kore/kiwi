@@ -23,7 +23,7 @@
 <tr>
 <th>버전
 </th>
-<td><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>: 4.0.5 <br> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>: 3.0.3
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>: 5.8.1 <br> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>: 4.9.2
 </td></tr>
 <tr>
 <th>웹 사이트
@@ -78,7 +78,7 @@
 <li>픽업 가챠: <a href="/index.php?title=%E7%89%B9%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="特定 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>特定</rb><rp>(</rp><rt>특정</rt><rp>)</rp></ruby></a>캐릭터가 <a href="/index.php?title=%E7%A2%BA%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="確率 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>確率</rb><rp>(</rp><rt>확률</rt><rp>)</rp></ruby></a> 업 해서 나온다.</li>
 <li>프린세스 페스 가챠: 3<a href="/index.php?title=%E6%98%9F&amp;action=edit&amp;redlink=1" class="new" title="星 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>星</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E7%A2%BA%E7%8E%87&amp;action=edit&amp;redlink=1" class="new" title="確率 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>確率</rb><rp>(</rp><rt>확률</rt><rp>)</rp></ruby></a>이 2<a href="/index.php?title=%E5%80%8D&amp;action=edit&amp;redlink=1" class="new" title="倍 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>倍</rb><rp>(</rp><rt>배</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E5%A2%9E%E5%8A%A0&amp;action=edit&amp;redlink=1" class="new" title="增加 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>增加</rb><rp>(</rp><rt>증가</rt><rp>)</rp></ruby></a>하며 프린세스 페스 <a href="/index.php?title=%E9%99%90%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="限定 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>限定</rb><rp>(</rp><rt>한정</rt><rp>)</rp></ruby></a> 캐릭터가 등장한다.</li>
 <li>프라이즈 가챠: <a href="/index.php?title=%E9%81%8E%E5%8E%BB&amp;action=edit&amp;redlink=1" class="new" title="過去 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>過去</rb><rp>(</rp><rt>과거</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E9%99%90%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="限定 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>限定</rb><rp>(</rp><rt>한정</rt><rp>)</rp></ruby></a> 캐릭터가 <a href="/index.php?title=%E7%99%BB%E5%A0%B4&amp;action=edit&amp;redlink=1" class="new" title="登場 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>登場</rb><rp>(</rp><rt>등장</rt><rp>)</rp></ruby></a>하며 <a href="/index.php?title=%E7%AD%89%E6%95%B8&amp;action=edit&amp;redlink=1" class="new" title="等數 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>等數</rb><rp>(</rp><rt>등수</rt><rp>)</rp></ruby></a> 시스템이 <a href="/index.php?title=%E5%AD%98%E5%9C%A8&amp;action=edit&amp;redlink=1" class="new" title="存在 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby></a>한다.</li></ul>
-<p>※ <ruby class="hanja grade32"><rb>天井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby>시스템: 가챠를 1번 할 때 마다 1pt씩 주는데, 300pt를 모으면 <a href="/index.php?title=%E7%89%B9%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="特定 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>特定</rb><rp>(</rp><rt>특정</rt><rp>)</rp></ruby></a> 캐릭터를 얻을 수 있다.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<p>※ <ruby class="hanja grade32"><rb>天井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby>시스템: 가챠를 1번 할 때 마다 1pt씩 주는데, 300pt를 모으면 <a href="/index.php?title=%E7%89%B9%E5%AE%9A&amp;action=edit&amp;redlink=1" class="new" title="特定 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>特定</rb><rp>(</rp><rt>특정</rt><rp>)</rp></ruby></a> 캐릭터를 얻을 수 있다.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> 일섭은 200pt이다.
 </p>
 <h3><span id="메뉴"></span><span class="mw-headline" id=".EB.A9.94.EB.89.B4">메뉴</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4_%EC%BB%A4%EB%84%A5%ED%8A%B8!_Re:Dive&amp;action=edit&amp;section=9" title="부분 편집: 메뉴">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <h2><span id="登場人物(등장인물)_2"></span><span class="mw-headline" id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29_2"><ruby class="hanja grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4_%EC%BB%A4%EB%84%A5%ED%8A%B8!_Re:Dive&amp;action=edit&amp;section=10" title="부분 편집: 登場人物(등장인물)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -86,19 +86,19 @@
 <h3><span id="大韓民國(대한민국)_서비스"></span><span class="mw-headline" id=".E5.A4.A7.E9.9F.93.E6.B0.91.E5.9C.8B.28.EB.8C.80.ED.95.9C.EB.AF.BC.EA.B5.AD.29_.EC.84.9C.EB.B9.84.EC.8A.A4"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby> 서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4_%EC%BB%A4%EB%84%A5%ED%8A%B8!_Re:Dive&amp;action=edit&amp;section=12" title="부분 편집: 大韓民國(대한민국) 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
 <tbody><tr>
-<th><a href="/index.php?title=%E9%A1%8C%E7%9B%AE&amp;action=edit&amp;redlink=1" class="new" title="題目 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade60"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby>
 </th>
 <td>프린세스 커넥트! Re:Dive
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E6%B5%81%E9%80%9A&amp;action=edit&amp;redlink=1" class="new" title="流通 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade52"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=%EC%B9%B4%EC%B9%B4%EC%98%A4_%EA%B2%8C%EC%9E%84%EC%A6%88&amp;action=edit&amp;redlink=1" class="new" title="카카오 게임즈 (없는 문서)">카카오 게임즈</a>
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E7%AD%89%E7%B4%9A&amp;action=edit&amp;redlink=1" class="new" title="等級 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>等級</rb><rp>(</rp><rt>등급</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade60"><rb>等級</rb><rp>(</rp><rt>등급</rt><rp>)</rp></ruby>
 </th>
-<td>12<a href="/index.php?title=%E6%AD%B2&amp;action=edit&amp;redlink=1" class="new" title="歲 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E4%BB%A5%E4%B8%8A&amp;action=edit&amp;redlink=1" class="new" title="以上 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby></a>
+<td>12<ruby class="hanja grade52"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th>사이트
@@ -108,7 +108,7 @@
 <h3><span id="臺灣(대만)_서비스"></span><span class="mw-headline" id=".E8.87.BA.E7.81.A3.28.EB.8C.80.EB.A7.8C.29_.EC.84.9C.EB.B9.84.EC.8A.A4"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby> 서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4_%EC%BB%A4%EB%84%A5%ED%8A%B8!_Re:Dive&amp;action=edit&amp;section=13" title="부분 편집: 臺灣(대만) 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
 <tbody><tr>
-<th>제목
+<th><ruby class="hanja grade60"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby>
 </th>
 <td><ruby class="hanja grade32"><rb>超異域公主連結</rb><rp>(</rp><rt>초이역공주련결</rt><rp>)</rp></ruby>☆Re:Dive
 </td></tr>
@@ -118,7 +118,7 @@
 <td><ruby class="hanja grade0"><rb>台灣碩網網路娛樂股份有限公司</rb><rp>(</rp><rt>태만석망망로오락고빈유한공사</rt><rp>)</rp></ruby> <br> So-net Entertainment Taiwan Limited
 </td></tr>
 <tr>
-<th>등급
+<th><ruby class="hanja grade60"><rb>等級</rb><rp>(</rp><rt>등급</rt><rp>)</rp></ruby>
 </th>
 <td>12<ruby class="hanja grade52"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby>
 </td></tr>
@@ -131,12 +131,12 @@
 <h3><span id="中國(중국)_서비스"></span><span class="mw-headline" id=".E4.B8.AD.E5.9C.8B.28.EC.A4.91.EA.B5.AD.29_.EC.84.9C.EB.B9.84.EC.8A.A4"><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby> 서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4_%EC%BB%A4%EB%84%A5%ED%8A%B8!_Re:Dive&amp;action=edit&amp;section=14" title="부분 편집: 中國(중국) 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
 <tbody><tr>
-<th><a href="/index.php?title=%E9%A1%8C%E7%9B%AE&amp;action=edit&amp;redlink=1" class="new" title="題目 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade60"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby>
 </th>
 <td><ruby class="hanja grade0"><rb>公主连结</rb><rp>(</rp><rt>공주련결</rt><rp>)</rp></ruby> Re:Dive <br> gōngzhǔ liánjié
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E6%B5%81%E9%80%9A&amp;action=edit&amp;redlink=1" class="new" title="流通 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade52"><rb>流通</rb><rp>(</rp><rt>유통</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/wiki/%E5%97%B6%E5%93%A9%E5%97%B6%E5%93%A9" title="嗶哩嗶哩"><ruby class="hanja grade0"><rb>嗶哩嗶哩</rb><rp>(</rp><rt>필리필리</rt><rp>)</rp></ruby></a>
 </td></tr>
