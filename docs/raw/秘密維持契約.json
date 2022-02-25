@@ -1,8 +1,12 @@
 {
   "title": "秘密維持契約",
   "namespace": 0,
-  "timestamp": 1645788846000,
-  "categories": [],
+  "timestamp": 1645788993000,
+  "categories": [
+    "知識財産法",
+    "法律文書",
+    "秘密"
+  ],
   "members": [],
   "file": null
 }
