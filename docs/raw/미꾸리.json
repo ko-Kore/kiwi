@@ -1,8 +1,11 @@
 {
   "title": "미꾸리",
   "namespace": 0,
-  "timestamp": 1645783196000,
-  "categories": [],
+  "timestamp": 1645786854000,
+  "categories": [
+    "미꾸리科",
+    "물고기"
+  ],
   "members": [],
   "file": null
 }
