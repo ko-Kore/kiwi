@@ -1,8 +1,10 @@
 {
   "title": "맥도날드",
   "namespace": 0,
-  "timestamp": 1645913775000,
-  "categories": [],
+  "timestamp": 1645915025000,
+  "categories": [
+    "맥도날드"
+  ],
   "members": [],
   "file": null
 }
