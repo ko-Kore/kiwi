@@ -23,7 +23,7 @@
 <li><ruby class="hanja grade12"><rb>釜山院洞</rb><rp>(</rp><rt>부산원동</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>栽松</rb><rp>(</rp><rt>재송</rt><rp>)</rp></ruby></li>
 <li><a href="/index.php?title=%EC%84%BC%ED%85%80%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="센텀驛 (없는 문서)">센텀</a></li>
-<li>벡스코</li>
+<li><a href="/index.php?title=%EB%B2%A1%EC%8A%A4%EC%BD%94%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="벡스코驛 (없는 문서)">벡스코</a></li>
 <li><a href="/index.php?title=%E6%96%B0%E6%B5%B7%E9%9B%B2%E8%87%BA%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="新海雲臺驛 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>新海雲臺</rb><rp>(</rp><rt>신해운대</rt><rp>)</rp></ruby></a></li>
 <li><ruby class="hanja grade32"><rb>松亭</rb><rp>(</rp><rt>송정</rt><rp>)</rp></ruby></li>
 <li>오시리아</li>
@@ -34,7 +34,7 @@
 <li><ruby class="hanja grade80"><rb>西生</rb><rp>(</rp><rt>서생</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>南倉</rb><rp>(</rp><rt>남창</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade52"><rb>望陽</rb><rp>(</rp><rt>망양</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade52"><rb>德下</rb><rp>(</rp><rt>덕하</rt><rp>)</rp></ruby></li>
+<li><a href="/index.php?title=%E5%BE%B7%E4%B8%8B%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="德下驛 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>德下</rb><rp>(</rp><rt>덕하</rt><rp>)</rp></ruby></a></li>
 <li><ruby class="hanja grade32"><rb>開雲浦</rb><rp>(</rp><rt>개운포</rt><rp>)</rp></ruby></li>
 <li><a href="/index.php?title=%E5%A4%AA%E5%92%8C%E6%B1%9F%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="太和江驛 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>太和江驛</rb><rp>(</rp><rt>태화강역</rt><rp>)</rp></ruby></a></li></ul>
 </div>
