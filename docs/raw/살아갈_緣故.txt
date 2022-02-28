@@ -8,7 +8,11 @@
 <li class="toclevel-2 tocsection-3"><a href="#.E9.8C.84.E9.9F.B3.28.EB.85.B9.EC.9D.8C.29.EB.A9.A4.EB.B2.84"><span class="tocnumber">2.1</span> <span class="toctext">錄音(녹음)멤버</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-4"><a href="#.E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"><span class="tocnumber">3</span> <span class="toctext">歌詞(가사)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"><span class="tocnumber">3</span> <span class="toctext">歌詞(가사)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#.E9.9F.93.E8.AD.AF.28.ED.95.9C.EC.97.AD.29"><span class="tocnumber">3.1</span> <span class="toctext">韓譯(한역)</span></a></li>
+</ul>
+</li>
 </ul>
 </div>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%82%B4%EC%95%84%EA%B0%88_%E7%B7%A3%E6%95%85&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -94,5 +98,77 @@
 </p>
 </div></blockquote>
 <p><ruby class="hanja grade42"><rb>出處</rb><rp>(</rp><rt>출처</rt><rp>)</rp></ruby>: <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=86IxCGKUOzY"><ruby class="hanja grade32"><rb>映像</rb><rp>(</rp><rt>영상</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>說明欄</rb><rp>(</rp><rt>설명란</rt><rp>)</rp></ruby></a>
+</p>
+<h3><span id="韓譯(한역)"></span><span class="mw-headline" id=".E9.9F.93.E8.AD.AF.28.ED.95.9C.EC.97.AD.29"><ruby class="hanja grade32"><rb>韓譯</rb><rp>(</rp><rt>한역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%82%B4%EC%95%84%EA%B0%88_%E7%B7%A3%E6%95%85&amp;action=edit&amp;section=5" title="부분 편집: 韓譯(한역)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<blockquote><div class="noruby">
+<p>밤의 <ruby class="hanja grade20"><rb>藍色</rb><rp>(</rp><rt>남색</rt><rp>)</rp></ruby>에 피어 채워져가라 살아갈 <ruby class="hanja grade40"><rb>緣故</rb><rp>(</rp><rt>연고</rt><rp>)</rp></ruby><br>
+<ruby class="hanja grade40"><rb>傷處</rb><rp>(</rp><rt>상처</rt><rp>)</rp></ruby>도 거짓말도 아픔도 <ruby class="hanja grade42"><rb>詩</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby>가 되어라<br>
+꿈을, 사랑을 써서 뭘 <ruby class="hanja grade50"><rb>救</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>할 수 있나요<br>
+근심하는 하늘을 물들일 빛이 되어라<br>
+<br>
+이 <ruby class="hanja grade72"><rb>世上</rb><rp>(</rp><rt>세상</rt><rp>)</rp></ruby>에 흔해빠진 <ruby class="hanja grade52"><rb>幸福</rb><rp>(</rp><rt>행복</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>形態</rb><rp>(</rp><rt>형태</rt><rp>)</rp></ruby><br>
+그래선 빈 구멍을 메울 수 없어<br>
+<br>
+거짓말쟁이야 나는 살아있다느니<br>
+이런 <ruby class="hanja grade32"><rb>機械</rb><rp>(</rp><rt>기계</rt><rp>)</rp></ruby>같은 마음으로 말야<br>
+<br>
+할수없어 알지못해 <ruby class="hanja grade52"><rb>變</rb><rp>(</rp><rt>변</rt><rp>)</rp></ruby>하지않아<br>
+말들은 <ruby class="hanja grade32"><rb>無價値</rb><rp>(</rp><rt>무가치</rt><rp>)</rp></ruby>한 <ruby class="hanja grade62"><rb>音色</rb><rp>(</rp><rt>음색</rt><rp>)</rp></ruby>이 돼<br>
+채워지지 않아 이뤄지지 않아<br>
+이런 노래로는<br>
+아아　누구의 마음도 밝힐 수 없어<br>
+<br>
+밤의 슬픔에 갈라져 쓰러져가라 살아갈 <ruby class="hanja grade40"><rb>緣故</rb><rp>(</rp><rt>연고</rt><rp>)</rp></ruby><br>
+잘못도 <ruby class="hanja grade72"><rb>答</rb><rp>(</rp><rt>답</rt><rp>)</rp></ruby>도 오늘도 <ruby class="hanja grade42"><rb>未來</rb><rp>(</rp><rt>미래</rt><rp>)</rp></ruby>도 <ruby class="hanja grade42"><rb>詩</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby>가 되어라<br>
+<ruby class="hanja grade32"><rb>演奏</rb><rp>(</rp><rt>연주</rt><rp>)</rp></ruby>된 이 목소리가 지금 들리나요<br>
+어리석은 나의 우스운 외침을<br>
+<br>
+부디 이런 목숨에<br>
+<ruby class="hanja grade70"><rb>來日</rb><rp>(</rp><rt>내일</rt><rp>)</rp></ruby>을 살아갈 <ruby class="hanja grade60"><rb>理由</rb><rp>(</rp><rt>이유</rt><rp>)</rp></ruby>를 줘<br>
+제발 나를 찾아내줘<br>
+<ruby class="hanja grade52"><rb>着實</rb><rp>(</rp><rt>착실</rt><rp>)</rp></ruby>히 있는 한낮의 달을<br>
+<br>
+<br>
+말을 집어삼킨 목이 쑤셨어<br>
+가슴이 결리는 이건 무엇인가<br>
+<br>
+마음을 집어삼킨 어둠을 올려다보았어<br>
+저무는 노을빛에 손을 뻗어<br>
+<br>
+모든게 그야 <ruby class="hanja grade42"><rb>報答</rb><rp>(</rp><rt>보답</rt><rp>)</rp></ruby>받는건 아냐<br>
+<ruby class="hanja grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby>도 돈도 헛것이 될지도 모르지<br>
+언젠가는 <ruby class="hanja grade50"><rb>過去</rb><rp>(</rp><rt>과거</rt><rp>)</rp></ruby>로 사라져가<br>
+그럼에도 내가 노래하는건 여기에 태어났기 때문이야<br>
+<br>
+올바른 것만으론 <ruby class="hanja grade50"><rb>救</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>할 수 없는것도 있어<br>
+울지 않는 것이 <ruby class="hanja grade60"><rb>强</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby>한 거라면<br>
+나는 <ruby class="hanja grade62"><rb>弱</rb><rp>(</rp><rt>약</rt><rp>)</rp></ruby>한대로 있어도 돼<br>
+<br>
+밤의 슬픔에 갈라져 쓰러져가라 살아갈 <ruby class="hanja grade40"><rb>緣故</rb><rp>(</rp><rt>연고</rt><rp>)</rp></ruby><br>
+잘못도 <ruby class="hanja grade72"><rb>答</rb><rp>(</rp><rt>답</rt><rp>)</rp></ruby>도 오늘도 <ruby class="hanja grade42"><rb>未來</rb><rp>(</rp><rt>미래</rt><rp>)</rp></ruby>도 <ruby class="hanja grade42"><rb>詩</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby>가 되어라<br>
+<br>
+모르겠어<br>
+재주나 <ruby class="hanja grade80"><rb>人生</rb><rp>(</rp><rt>인생</rt><rp>)</rp></ruby>따위 알 것 같냐<br>
+거짓말투성이라도<br>
+그래도,<br>
+<br>
+살아라<br>
+<br>
+사랑도 아무것도 없다 해도 <ruby class="hanja grade80"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby>은 틀거야<br>
+태어난 <ruby class="hanja grade60"><rb>理由</rb><rp>(</rp><rt>이유</rt><rp>)</rp></ruby>따위 나중에 붙여도 돼<br>
+<br>
+죽어가는 꼴을 그것을 <ruby class="hanja grade60"><rb>美</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby>라고 하지 마<br>
+지기 <ruby class="hanja grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>해 피는 꽃 같은건 없잖아<br>
+<br>
+<ruby class="hanja grade30"><rb>醜</rb><rp>(</rp><rt>추</rt><rp>)</rp></ruby>할 <ruby class="hanja grade42"><rb>程度</rb><rp>(</rp><rt>정도</rt><rp>)</rp></ruby>로 아름다운 것이<br>
+<ruby class="hanja grade42"><rb>缺如</rb><rp>(</rp><rt>결여</rt><rp>)</rp></ruby>된 마음을 메워줘<br>
+<br>
+이런 노래로 이런 말들로<br>
+어두운 밤의 <ruby class="hanja grade40"><rb>緣故</rb><rp>(</rp><rt>연고</rt><rp>)</rp></ruby>가 될까?<br>
+<br>
+<ruby class="hanja grade62"><rb>神</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby>께 바라는 것은 <ruby class="hanja grade32"><rb>但</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby> 하나 뿐
+</p>
+</div></blockquote>
+<p><ruby class="hanja grade42"><rb>修正</rb><rp>(</rp><rt>수정</rt><rp>)</rp></ruby>바람.
 </p>
 </div></body></html>
