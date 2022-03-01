@@ -1,8 +1,10 @@
 {
   "title": "2022年 우크라이나-러시아 戰爭",
   "namespace": 0,
-  "timestamp": 1646103409000,
-  "categories": [],
+  "timestamp": 1646177617000,
+  "categories": [
+    "戰爭"
+  ],
   "members": [],
   "file": null
 }
