@@ -442,8 +442,18 @@
       "count": 1
     },
     {
+      "title": "도요토미 히데요시",
+      "surrounding": "넘겨줄 대상:豊臣秀吉 ",
+      "count": 1
+    },
+    {
       "title": "도카이도 신칸센",
       "surrounding": "넘겨줄 대상:東海道新幹線 ",
+      "count": 1
+    },
+    {
+      "title": "도쿠가와 이에야스",
+      "surrounding": "넘겨줄 대상:德川家康 ",
       "count": 1
     },
     {
@@ -519,6 +529,11 @@
     {
       "title": "언어",
       "surrounding": "넘겨줄 대상:言語 ",
+      "count": 1
+    },
+    {
+      "title": "오다 노부나가",
+      "surrounding": "넘겨줄 대상:織田信長 ",
       "count": 1
     },
     {
