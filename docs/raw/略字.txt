@@ -1,0 +1,8 @@
+<html><head></head><body><div class="mw-parser-output"><h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%95%A5%E5%AD%97&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>로 <ruby class="hanja grade42"><rb>非公式</rb><rp>(</rp><rt>비공식</rt><rp>)</rp></ruby>으로 줄일때 많이 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>한다.
+</p>
+<h2><span id="例示(예시)"></span><span class="mw-headline" id=".E4.BE.8B.E7.A4.BA.28.EC.98.88.EC.8B.9C.29"><ruby class="hanja grade50"><rb>例示</rb><rp>(</rp><rt>예시</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%95%A5%E5%AD%97&amp;action=edit&amp;section=2" title="부분 편집: 例示(예시)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%ED%8C%8C%EC%9D%BC:Ryakuji.png" class="image"><img alt="Ryakuji.png" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Ryakuji.png" decoding="async" width="629" height="347"></a> <br>
+<ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하고 있는 <ruby class="hanja grade42"><rb>非公式</rb><rp>(</rp><rt>비공식</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>略字</rb><rp>(</rp><rt>약자</rt><rp>)</rp></ruby>다.
+</p>
+</div></body></html>
