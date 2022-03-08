@@ -1,8 +1,10 @@
 {
   "title": "略字",
   "namespace": 0,
-  "timestamp": 1646742066000,
-  "categories": [],
+  "timestamp": 1646772759000,
+  "categories": [
+    "漢字"
+  ],
   "members": [],
   "file": null
 }
