@@ -1,8 +1,10 @@
 {
   "title": "散彈銃",
   "namespace": 0,
-  "timestamp": 1646812146000,
-  "categories": [],
+  "timestamp": 1646816907000,
+  "categories": [
+    "火器"
+  ],
   "members": [],
   "file": null
 }
