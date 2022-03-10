@@ -82,7 +82,7 @@
 <tr>
 <th><ruby class="hanja grade32"><rb>營業距離</rb><rp>(</rp><rt>영업거리</rt><rp>)</rp></ruby>
 </th>
-<td>14.8km
+<td>{{{영업거리}}}km
 </td></tr>
 <tr>
 <th><ruby class="hanja grade30"><rb>軌間</rb><rp>(</rp><rt>궤간</rt><rp>)</rp></ruby>
@@ -100,9 +100,9 @@
 <td>160m
 </td></tr>
 <tr>
-<th><ruby class="hanja grade52"><rb>電化方式</rb><rp>(</rp><rt>전화방식</rt><rp>)</rp></ruby>
+<th><ruby class="hanja grade50"><rb>電鐵化方式</rb><rp>(</rp><rt>전철화방식</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="直流電化 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>直流</rb><rp>(</rp><rt>직류</rt><rp>)</rp></ruby></a>1,500 <a href="/index.php?title=V&amp;action=edit&amp;redlink=1" class="new" title="V (없는 문서)">V</a> <a href="/index.php?title=%E6%9E%B6%E7%A9%BA%E9%9B%BB%E8%BB%8A%E7%B7%9A%E6%96%B9%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="架空電車線方式 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>架空電車線方式</rb><rp>(</rp><rt>가공전차선방식</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E7%9B%B4%E6%B5%81%E9%9B%BB%E5%8C%96&amp;action=edit&amp;redlink=1" class="new" title="直流電化 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>直流</rb><rp>(</rp><rt>직류</rt><rp>)</rp></ruby></a>1,500<a href="/index.php?title=V&amp;action=edit&amp;redlink=1" class="new" title="V (없는 문서)">V</a> <a href="/index.php?title=%E6%9E%B6%E7%A9%BA%E9%9B%BB%E8%BB%8A%E7%B7%9A%E6%96%B9%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="架空電車線方式 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>架空電車線方式</rb><rp>(</rp><rt>가공전차선방식</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade32"><rb>閉塞方式</rb><rp>(</rp><rt>폐색방식</rt><rp>)</rp></ruby>
