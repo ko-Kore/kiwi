@@ -1,8 +1,10 @@
 {
   "title": "仙臺市交通局",
   "namespace": 0,
-  "timestamp": 1646992675000,
-  "categories": [],
+  "timestamp": 1647040054000,
+  "categories": [
+    "仙臺市의 交通"
+  ],
   "members": [],
   "file": null
 }
