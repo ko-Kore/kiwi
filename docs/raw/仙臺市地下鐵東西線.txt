@@ -3,6 +3,9 @@
 <th colspan="2" style="border-bottom:5px solid #00B1DD;border-top:5px solid #00B1DD;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Sendai_City_Subway_Logo.svg" class="image"><img alt="Sendai City Subway Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sendai_City_Subway_Logo.svg/langko-30px-Sendai_City_Subway_Logo.svg.png" decoding="async" width="30" height="18" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sendai_City_Subway_Logo.svg/langko-45px-Sendai_City_Subway_Logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sendai_City_Subway_Logo.svg/langko-60px-Sendai_City_Subway_Logo.svg.png 2x"></a><b><ruby class="hanja grade62"><rb>東西線</rb><rp>(</rp><rt>동서선</rt><rp>)</rp></ruby></b>
 </th></tr>
 <tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Sendai-City-Subway_Tozai-Line-Series2501.jpg" class="image"><img alt="Sendai-City-Subway Tozai-Line-Series2501.jpg" src="/images/thumb/f/fe/Sendai-City-Subway_Tozai-Line-Series2501.jpg/200px-Sendai-City-Subway_Tozai-Line-Series2501.jpg" decoding="async" width="200" height="150" srcset="/images/thumb/f/fe/Sendai-City-Subway_Tozai-Line-Series2501.jpg/300px-Sendai-City-Subway_Tozai-Line-Series2501.jpg 1.5x, /images/thumb/f/fe/Sendai-City-Subway_Tozai-Line-Series2501.jpg/400px-Sendai-City-Subway_Tozai-Line-Series2501.jpg 2x"></a>
+</td></tr>
+<tr>
 <th colspan="2"><ruby class="hanja grade42"><rb>基本情報</rb><rp>(</rp><rt>기본정보</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
