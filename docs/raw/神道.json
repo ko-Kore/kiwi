@@ -1,8 +1,11 @@
 {
   "title": "神道",
   "namespace": 0,
-  "timestamp": 1647055752000,
-  "categories": [],
+  "timestamp": 1647142541000,
+  "categories": [
+    "宗敎",
+    "日本의 文化"
+  ],
   "members": [],
   "file": null
 }

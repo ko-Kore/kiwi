@@ -1,8 +1,11 @@
 {
   "title": "佛敎",
   "namespace": 0,
-  "timestamp": 1647057475000,
-  "categories": [],
+  "timestamp": 1647142432000,
+  "categories": [
+    "佛敎",
+    "宗敎"
+  ],
   "members": [],
   "file": null
 }
