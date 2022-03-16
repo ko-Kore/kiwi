@@ -1,0 +1,11 @@
+<html><head></head><body><div class="mw-parser-output"><h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8F%AF%E6%B1%BA&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>뜻은 <ruby class="hanja grade52"><rb>合當</rb><rp>(</rp><rt>합당</rt><rp>)</rp></ruby>해서 <ruby class="hanja grade52"><rb>決定</rb><rp>(</rp><rt>결정</rt><rp>)</rp></ruby>을 내리는 뜻을 가지고 있다.
+</p>
+<h2><span id="類義語(유의어)"></span><span class="mw-headline" id=".E9.A1.9E.E7.BE.A9.E8.AA.9E.28.EC.9C.A0.EC.9D.98.EC.96.B4.29"><ruby class="hanja grade42"><rb>類義語</rb><rp>(</rp><rt>유의어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8F%AF%E6%B1%BA&amp;action=edit&amp;section=2" title="부분 편집: 類義語(유의어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade52"><rb>決意</rb><rp>(</rp><rt>결의</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade52"><rb>通過</rb><rp>(</rp><rt>통과</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade52"><rb>決定</rb><rp>(</rp><rt>결정</rt><rp>)</rp></ruby></li></ul>
+<h2><span id="反對語(반대어)"></span><span class="mw-headline" id=".E5.8F.8D.E5.B0.8D.E8.AA.9E.28.EB.B0.98.EB.8C.80.EC.96.B4.29"><ruby class="hanja grade62"><rb>反對語</rb><rp>(</rp><rt>반대어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8F%AF%E6%B1%BA&amp;action=edit&amp;section=3" title="부분 편집: 反對語(반대어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade52"><rb>不通過</rb><rp>(</rp><rt>불통과</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade30"><rb>棄却</rb><rp>(</rp><rt>기각</rt><rp>)</rp></ruby></li></ul>
+</div></body></html>
