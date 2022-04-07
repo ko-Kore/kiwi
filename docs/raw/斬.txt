@@ -1,0 +1,47 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade20"><rb>斬</rb><rp>(</rp><rt>참</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">벨 참
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade30"><rb>斤</rb><rp>(</rp><rt>근</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>11<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade0"><rb>斩</rb><rp>(</rp><rt>참</rt><rp>)</rp></ruby>
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>2<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%96%AC&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E6%9C%83%E6%84%8F%E6%96%87%E5%AD%97" title="會意文字"><ruby class="hanja grade62"><rb>會意文字</rb><rp>(</rp><rt>회의문자</rt><rp>)</rp></ruby></a>이다. “<ruby class="hanja grade72"><rb>車</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby>”+“<ruby class="hanja grade30"><rb>斤</rb><rp>(</rp><rt>근</rt><rp>)</rp></ruby>”에서 나무를 도끼(<ruby class="hanja grade30"><rb>斤</rb><rp>(</rp><rt>근</rt><rp>)</rp></ruby>)로 자르고 <ruby class="hanja grade72"><rb>車</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>材料</rb><rp>(</rp><rt>재료</rt><rp>)</rp></ruby>를 얻는 것입니다. “베다”, “끊어지다” <ruby class="hanja grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby>을 뜻한다.
+</p>
+<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%96%AC&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade10"><rb>擒斬</rb><rp>(</rp><rt>금참</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade20"><rb>斬首</rb><rp>(</rp><rt>참수</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade20"><rb>腰斬</rb><rp>(</rp><rt>요참</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade20"><rb>斬屍</rb><rp>(</rp><rt>참시</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade20"><rb>斬衰</rb><rp>(</rp><rt>참쇠</rt><rp>)</rp></ruby></li></ul>
+<h3><span id="成語(성어)"></span><span class="mw-headline" id=".E6.88.90.E8.AA.9E.28.EC.84.B1.EC.96.B4.29"><ruby class="hanja grade62"><rb>成語</rb><rp>(</rp><rt>성어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%96%AC&amp;action=edit&amp;section=3" title="부분 편집: 成語(성어)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><ruby class="hanja grade20"><rb>先斬後啓</rb><rp>(</rp><rt>선참후계</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade20"><rb>快刀斬亂麻</rb><rp>(</rp><rt>쾌도참란마</rt><rp>)</rp></ruby></li></ul>
+</div></body></html>
