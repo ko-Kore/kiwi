@@ -1,0 +1,35 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade0"><rb>渃</rb><rp>(</rp><rt>약</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">성이름 약
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade0"><rb>氵</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>11<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">-
+</td></tr></tbody></table>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B8%83&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E5%BD%A2%E8%81%B2%E6%96%87%E5%AD%97" title="形聲文字"><ruby class="hanja grade42"><rb>形聲文字</rb><rp>(</rp><rt>형성문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade70"><rb>漢文</rb><rp>(</rp><rt>한문</rt><rp>)</rp></ruby>에서는 “큰물”을 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>하며 <ruby class="hanja grade42"><rb>城</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>과 <ruby class="hanja grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby>의 이름에도 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>됩니다.
+</p>
+<h2><span id="其他(기타)"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.28.EA.B8.B0.ED.83.80.29"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B8%83&amp;action=edit&amp;section=2" title="부분 편집: 其他(기타)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby>로 물, <ruby class="hanja grade10"><rb>汁液</rb><rp>(</rp><rt>즙액</rt><rp>)</rp></ruby>, 나라라는 뜻입니다.
+</p>
+</div></body></html>
