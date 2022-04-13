@@ -9,4 +9,8 @@
 <p>처음에는 모든 <a href="/wiki/%E6%BC%A2%E5%AD%97%E8%AA%9E" title="漢字語">한자어</a>를 <a href="/wiki/%E5%9B%BA%E6%9C%89%E8%AA%9E" title="固有語">고유어</a>로 바꿔야 한다는 주장도 있었지만 현재로는 한자어는 그 <a href="/wiki/%E9%9F%B3" title="音">음</a>만 <a href="/wiki/%ED%95%9C%EA%B8%80" title="한글">한글</a>로 표기하고 있다.
 </p><p>하지만 이럴 경우 <a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語">한국어</a>의 수 많은 <a href="/wiki/%E5%90%8C%E9%9F%B3%E7%95%B0%E7%BE%A9%E8%AA%9E" title="同音異義語">동음이의어</a>를 제대로 분간하지 못하게 된다는 문제가 생긴다. <a href="/index.php?title=2000%E5%B9%B4%E4%BB%A3&amp;action=edit&amp;redlink=1" class="new" title="2000年代 (없는 문서)">2000년대</a>에 들어서는 이런 동음이의 한자어들의 대다수가 고유어로 고쳐지거나 다른 한자어로 대체되었다.
 </p>
+<h2><span id="관련_문서"></span><span class="mw-headline" id=".EA.B4.80.EB.A0.A8_.EB.AC.B8.EC.84.9C">관련 문서</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%95%9C%EA%B8%80%E5%B0%88%E7%94%A8&amp;action=edit&amp;section=3" title="부분 편집: 관련 문서">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%ED%95%9C%EA%B8%80" title="한글">한글</a></li>
+<li><a href="/wiki/%E5%9C%8B%E6%BC%A2%E6%96%87%E6%B7%B7%E7%94%A8" title="國漢文混用">국한문 혼용</a></li>
+<li><a href="/wiki/%E5%9C%8B%E6%BC%A2%E6%96%87%E5%80%82%E7%94%A8" title="國漢文倂用">국한문 병용</a></li></ul>
 </div></body></html>
