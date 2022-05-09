@@ -1,9 +1,10 @@
 {
   "title": "한글打字機",
   "namespace": 0,
-  "timestamp": 1650564479000,
+  "timestamp": 1652067280000,
   "categories": [
-    "打字機"
+    "打字機",
+    "한글"
   ],
   "members": [],
   "file": null
