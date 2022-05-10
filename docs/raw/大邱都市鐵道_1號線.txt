@@ -1,22 +1,21 @@
-<html><head></head><body><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Daegu_subway_line1.jpg" class="image"><img alt="Daegu subway line1.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Daegu_subway_line1.jpg/300px-Daegu_subway_line1.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Daegu_subway_line1.jpg/450px-Daegu_subway_line1.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Daegu_subway_line1.jpg/600px-Daegu_subway_line1.jpg 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Daegu_subway_line1.jpg" class="internal" title="拡大"></a></div></div></div></div>
+<html><head></head><body><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Daegu_subway_line1.jpg" class="image"><img alt="Daegu subway line1.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Daegu_subway_line1.jpg/300px-Daegu_subway_line1.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Daegu_subway_line1.jpg/450px-Daegu_subway_line1.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Daegu_subway_line1.jpg/600px-Daegu_subway_line1.jpg 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Daegu_subway_line1.jpg" class="internal" title="實際 크기로"></a></div></div></div></div>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E9%82%B1%E9%83%BD%E5%B8%82%E9%90%B5%E9%81%93_1%E8%99%9F%E7%B7%9A&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><ruby class="hanja grade12"><rb>大邱地下鐵</rb><rp>(</rp><rt>대구지하철</rt><rp>)</rp></ruby> 1<ruby class="hanja grade60"><rb>號線</rb><rp>(</rp><rt>호선</rt><rp>)</rp></ruby>에 정리한 <ruby class="hanja grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>다.
+<p><ruby class="hanja grade12"><rb>大邱地下鐵</rb><rp>(</rp><rt>대구지하철</rt><rp>)</rp></ruby> 1<ruby class="hanja grade60"><rb>號線</rb><rp>(</rp><rt>호선</rt><rp>)</rp></ruby>은 <ruby class="hanja grade10"><rb>大矩廣域市</rb><rp>(</rp><rt>대구광역시</rt><rp>)</rp></ruby> <a href="/index.php?title=%E8%88%8C%E5%8C%96%E6%A4%A7%E8%B0%B7%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="舌化椧谷驛 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>舌化椧谷驛</rb><rp>(</rp><rt>설화명곡역</rt><rp>)</rp></ruby></a>에서 <a href="/index.php?title=%E5%AE%89%E5%BF%83%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="安心驛 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>安心驛</rb><rp>(</rp><rt>안심역</rt><rp>)</rp></ruby></a>까지를 잇는 <a href="/wiki/%E5%A4%A7%E9%82%B1%E9%83%BD%E5%B8%82%E9%90%B5%E9%81%93" title="大邱都市鐵道"><ruby class="hanja grade12"><rb>大邱都市鐵道</rb><rp>(</rp><rt>대구도시철도</rt><rp>)</rp></ruby></a> <ruby class="hanja grade60"><rb>路線</rb><rp>(</rp><rt>노선</rt><rp>)</rp></ruby>이다.
 </p>
 <h2><span id="驛(역)"></span><span class="mw-headline" id=".E9.A9.9B.28.EC.97.AD.29"><ruby class="hanja grade32"><rb>驛</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E9%82%B1%E9%83%BD%E5%B8%82%E9%90%B5%E9%81%93_1%E8%99%9F%E7%B7%9A&amp;action=edit&amp;section=2" title="부분 편집: 驛(역)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable" style="text-align: center;">
 <tbody><tr>
 <th></th>
-<th><span class="color" style="color: red;"><a class="mw-selflink selflink">大邱都市鐵道 1號線</a></span>
+<th><a class="mw-selflink selflink">大邱都市鐵道 1號線</a>
 </th></tr>
 <tr>
-<th><a href="/index.php?title=%E7%A7%BB%E5%8B%95%E8%B7%AF%E7%B7%9A&amp;action=edit&amp;redlink=1" class="new" title="移動路線 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>移動路線</rb><rp>(</rp><rt>이동노선</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade60"><rb>區間</rb><rp>(</rp><rt>구간</rt><rp>)</rp></ruby>
 </th>
 <td><ruby class="hanja grade0"><rb>舌化椧谷驛</rb><rp>(</rp><rt>설화명곡역</rt><rp>)</rp></ruby> ↔ <ruby class="hanja grade32"><rb>安心驛</rb><rp>(</rp><rt>안심역</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E6%8F%9B%E4%B9%98%E9%A9%9B&amp;action=edit&amp;redlink=1" class="new" title="換乘驛 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>換乘驛</rb><rp>(</rp><rt>환승역</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade32"><rb>換乘驛</rb><rp>(</rp><rt>환승역</rt><rp>)</rp></ruby>
 </th>
 <td><ruby class="hanja grade32"><rb>半月堂驛</rb><rp>(</rp><rt>반월당역</rt><rp>)</rp></ruby>:1,2<ruby class="hanja grade60"><rb>號線</rb><rp>(</rp><rt>호선</rt><rp>)</rp></ruby> <br> <ruby class="hanja grade32"><rb>明德驛</rb><rp>(</rp><rt>명덕역</rt><rp>)</rp></ruby>:1,3<ruby class="hanja grade60"><rb>號線</rb><rp>(</rp><rt>호선</rt><rp>)</rp></ruby>
-</td></tr>
-</tbody></table>
+</td></tr></tbody></table>
 </div></body></html>
