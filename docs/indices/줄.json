@@ -117,6 +117,11 @@
       "count": 1
     },
     {
+      "title": "副次文化",
+      "surrounding": "넘겨줄 대상:下位文化",
+      "count": 1
+    },
+    {
       "title": "北傀",
       "surrounding": "있는 傀儡國(괴뢰국)”을 줄인 말이다",
       "count": 1
@@ -449,6 +454,11 @@
     {
       "title": "複線",
       "surrounding": "두 가닥의 줄을 나타내는",
+      "count": 1
+    },
+    {
+      "title": "討論:副次文化",
+      "surrounding": "넘겨줄 대상:討論:下位文化",
       "count": 1
     },
     {

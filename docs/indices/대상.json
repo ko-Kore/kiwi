@@ -77,6 +77,11 @@
       "count": 1
     },
     {
+      "title": "副次文化",
+      "surrounding": "넘겨줄 대상:下位文化 ",
+      "count": 1
+    },
+    {
       "title": "北韓圓",
       "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
       "count": 1
@@ -369,6 +374,11 @@
     {
       "title": "蜜柑星P",
       "surrounding": "넘겨줄 대상:Orangestar ",
+      "count": 1
+    },
+    {
+      "title": "討論:副次文化",
+      "surrounding": "넘겨줄 대상:討論:下位文化 ",
       "count": 1
     },
     {

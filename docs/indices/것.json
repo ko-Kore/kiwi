@@ -272,11 +272,6 @@
       "count": 3
     },
     {
-      "title": "討論:副次文化",
-      "surrounding": "쓰이지 않는 것은 아닙니다만 ... 더 適切(적절)할 것 같네요",
-      "count": 3
-    },
-    {
       "title": "韓國製漢字",
       "surrounding": "하나로 만든 것이다 夻(화)(대구 ... 쓰이지 않는 것들이다 裵(배)(성씨",
       "count": 3
@@ -502,6 +497,11 @@
       "count": 1
     },
     {
+      "title": "下位文化",
+      "surrounding": "Riesman)이 使用(사용)한 것이 처음이다",
+      "count": 1
+    },
+    {
       "title": "不整脈",
       "surrounding": "異常(이상)하게 搏動(박동)하는 것을 말한다",
       "count": 1
@@ -564,11 +564,6 @@
     {
       "title": "其他",
       "surrounding": "또 다른 것 用度(용도)[편집]",
-      "count": 1
-    },
-    {
-      "title": "副次文化",
-      "surrounding": "Riesman)이 使用(사용)한 것이 처음이다",
       "count": 1
     },
     {
