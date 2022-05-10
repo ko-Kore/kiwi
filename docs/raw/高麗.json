@@ -1,8 +1,11 @@
 {
   "title": "高麗",
   "namespace": 0,
-  "timestamp": 1652194203000,
-  "categories": [],
+  "timestamp": 1652194752000,
+  "categories": [
+    "高麗",
+    "韓國의 歷史"
+  ],
   "members": [],
   "file": null
 }
