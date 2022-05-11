@@ -1,8 +1,11 @@
 {
   "title": "臺灣語",
   "namespace": 0,
-  "timestamp": 1646056949000,
-  "categories": [],
+  "timestamp": 1652232559000,
+  "categories": [
+    "臺灣의 言語",
+    "中國語의 方言"
+  ],
   "members": [],
   "file": null
 }
