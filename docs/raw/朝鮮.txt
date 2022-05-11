@@ -1,0 +1,36 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
+<tbody><tr>
+<th colspan="99" style="background: linear-gradient(125deg, #cc0c2f 50%, #003478 50%); color: white;"><span class="tp_link"><a href="/index.php?title=%E9%9F%93%E5%9C%8B%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="韓國史 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>韓國史</rb><rp>(</rp><rt>한국사</rt><rp>)</rp></ruby></a></span>
+</th></tr>
+<tr>
+<td><a href="/wiki/%E9%AB%98%E9%BA%97" title="高麗"><ruby class="hanja grade42"><rb>高麗</rb><rp>(</rp><rt>고려</rt><rp>)</rp></ruby></a>
+</td>
+<th>→
+</th>
+<td><a class="mw-selflink selflink">朝鮮</a>
+</td>
+<th>→
+</th>
+<td><a href="/index.php?title=%E6%97%A5%E5%B8%9D%E5%BC%BA%E5%8D%A0%E6%9C%9F&amp;action=edit&amp;redlink=1" class="new" title="日帝强占期 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>日帝强占期</rb><rp>(</rp><rt>일제강점기</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<p><br>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.AD.B7.E5.8F.B2.28.EC.97.AD.EC.82.AC.29"><span class="tocnumber">2</span> <span class="toctext">歷史(역사)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E6.94.BF.E6.B2.BB.28.EC.A0.95.EC.B9.98.29"><span class="tocnumber">3</span> <span class="toctext">政治(정치)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E7.B6.93.E6.BF.9F.28.EA.B2.BD.EC.A0.9C.29"><span class="tocnumber">4</span> <span class="toctext">經濟(경제)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E7.A4.BE.E6.9C.83.28.EC.82.AC.ED.9A.8C.29"><span class="tocnumber">5</span> <span class="toctext">社會(사회)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E6.96.87.E5.8C.96.28.EB.AC.B8.ED.99.94.29"><span class="tocnumber">6</span> <span class="toctext">文化(문화)</span></a></li>
+</ul>
+</div>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%9C%9D%E9%AE%AE&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade52"><rb>朝鮮</rb><rp>(</rp><rt>조선</rt><rp>)</rp></ruby>은 1392<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <a href="/index.php?title=%E6%9D%8E%E6%88%90%E6%A1%82&amp;action=edit&amp;redlink=1" class="new" title="李成桂 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>李成桂</rb><rp>(</rp><rt>이성계</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 <ruby class="hanja grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>되어 1910<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 <ruby class="hanja grade20"><rb>强制倂合</rb><rp>(</rp><rt>강제병합</rt><rp>)</rp></ruby>되어 <ruby class="hanja grade32"><rb>滅亡</rb><rp>(</rp><rt>멸망</rt><rp>)</rp></ruby>하기까지 <a href="/index.php?title=%E9%9F%93%E5%8D%8A%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="韓半島 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>韓半島</rb><rp>(</rp><rt>한반도</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>하였던 <a href="/index.php?title=%E5%B0%88%E5%88%B6%E5%90%9B%E4%B8%BB%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="專制君主國 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>專制君主國</rb><rp>(</rp><rt>전제군주국</rt><rp>)</rp></ruby></a>이다.
+</p>
+<h2><span id="歷史(역사)"></span><span class="mw-headline" id=".E6.AD.B7.E5.8F.B2.28.EC.97.AD.EC.82.AC.29"><ruby class="hanja grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%9C%9D%E9%AE%AE&amp;action=edit&amp;section=2" title="부분 편집: 歷史(역사)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="政治(정치)"></span><span class="mw-headline" id=".E6.94.BF.E6.B2.BB.28.EC.A0.95.EC.B9.98.29"><ruby class="hanja grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%9C%9D%E9%AE%AE&amp;action=edit&amp;section=3" title="부분 편집: 政治(정치)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="經濟(경제)"></span><span class="mw-headline" id=".E7.B6.93.E6.BF.9F.28.EA.B2.BD.EC.A0.9C.29"><ruby class="hanja grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%9C%9D%E9%AE%AE&amp;action=edit&amp;section=4" title="부분 편집: 經濟(경제)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="社會(사회)"></span><span class="mw-headline" id=".E7.A4.BE.E6.9C.83.28.EC.82.AC.ED.9A.8C.29"><ruby class="hanja grade62"><rb>社會</rb><rp>(</rp><rt>사회</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%9C%9D%E9%AE%AE&amp;action=edit&amp;section=5" title="부분 편집: 社會(사회)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="文化(문화)"></span><span class="mw-headline" id=".E6.96.87.E5.8C.96.28.EB.AC.B8.ED.99.94.29"><ruby class="hanja grade52"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%9C%9D%E9%AE%AE&amp;action=edit&amp;section=6" title="부분 편집: 文化(문화)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+</div></body></html>
