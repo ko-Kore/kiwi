@@ -55,6 +55,11 @@
       "title": "맥 스튜디오",
       "surrounding": "보면 맥 미니를 위로",
       "count": 1
+    },
+    {
+      "title": "맥북 프로",
+      "surrounding": "데스크톱 맥 미니 맥",
+      "count": 1
     }
   ]
 }
