@@ -192,6 +192,11 @@
       "count": 1
     },
     {
+      "title": "振假名",
+      "surrounding": "써 놓은 것을 말한다",
+      "count": 1
+    },
+    {
       "title": "文書",
       "surrounding": "적어 놓은 것을 가리킨다",
       "count": 1
@@ -309,6 +314,11 @@
     {
       "title": "두벌式",
       "surrounding": "母音(모음)으로 나뉘어진 것을 말한다",
+      "count": 1
+    },
+    {
+      "title": "루비文字",
+      "surrounding": "讀音(독음)을 表記(표기)한 것을 말한다",
       "count": 1
     },
     {
