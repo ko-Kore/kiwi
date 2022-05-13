@@ -1,0 +1,7 @@
+<html><head></head><body><div class="mw-parser-output"><h2><span id="파일의_설명"></span><span class="mw-headline" id=".ED.8C.8C.EC.9D.BC.EC.9D.98_.EC.84.A4.EB.AA.85">파일의 설명</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%8C%8C%EC%9D%BC:OpenLoco_Icon_x1024.png&amp;action=edit&amp;section=1" title="부분 편집: 파일의 설명">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade50"><rb>原本</rb><rp>(</rp><rt>원본</rt><rp>)</rp></ruby>이 <a href="/index.php?title=MIT_%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="MIT 라이선스 (없는 문서)">MIT 라이선스</a>로 <ruby class="hanja grade42"><rb>配布</rb><rp>(</rp><rt>배포</rt><rp>)</rp></ruby>됨.
+</p>
+<h2><span id="라이선스"></span><span class="mw-headline" id=".EB.9D.BC.EC.9D.B4.EC.84.A0.EC.8A.A4">라이선스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%8C%8C%EC%9D%BC:OpenLoco_Icon_x1024.png&amp;action=edit&amp;section=2" title="부분 편집: 라이선스">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/index.php?title=%ED%8B%80:CopyrightedFreeUse&amp;action=edit&amp;redlink=1" class="new" title="틀:CopyrightedFreeUse (없는 문서)">틀:CopyrightedFreeUse</a>
+</p>
+</div></body></html>

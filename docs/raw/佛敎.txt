@@ -1,4 +1,19 @@
-<html><head></head><body><div class="mw-parser-output"><h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%9B%E6%95%8E&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
+<tbody><tr>
+<th colspan="99"><span class="tp_link"><ruby class="hanja grade42"><rb>世界四大宗敎</rb><rp>(</rp><rt>세계사대종교</rt><rp>)</rp></ruby></span>
+</th></tr>
+<tr>
+<td><a href="/index.php?title=%E5%9F%BA%E7%9D%A3%E6%95%8E&amp;action=edit&amp;redlink=1" class="new" title="基督敎 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>基督敎</rb><rp>(</rp><rt>기독교</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/wiki/%E5%9B%9E%E6%95%8E" title="回敎"><ruby class="hanja grade42"><rb>回敎</rb><rp>(</rp><rt>회교</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%ED%9E%8C%EB%91%90%E6%95%8E&amp;action=edit&amp;redlink=1" class="new" title="힌두敎 (없는 문서)">힌두<ruby class="hanja grade80 unknown"><rb>敎</rb><rp>(</rp><rt>교</rt><rp>)</rp></ruby></a>
+</td>
+<td><a class="mw-selflink selflink">佛敎</a>
+</td></tr></tbody></table>
+<p><br>
+</p>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BD%9B%E6%95%8E&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><b><ruby class="hanja grade42"><rb>佛敎</rb><rp>(</rp><rt>불교</rt><rp>)</rp></ruby></b>(बौद्धधर्म)는 <ruby class="hanja grade60"><rb>古代</rb><rp>(</rp><rt>고대</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>印度</rb><rp>(</rp><rt>인도</rt><rp>)</rp></ruby>의 <a href="/index.php?title=%E9%87%8B%E8%BF%A6%E7%89%9F%E5%B0%BC&amp;action=edit&amp;redlink=1" class="new" title="釋迦牟尼 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>釋迦牟尼</rb><rp>(</rp><rt>석가모니</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 <ruby class="hanja grade42"><rb>創始</rb><rp>(</rp><rt>창시</rt><rp>)</rp></ruby>된 <ruby class="hanja grade42"><rb>宗敎</rb><rp>(</rp><rt>종교</rt><rp>)</rp></ruby>이다. <ruby class="hanja grade42"><rb>佛敎</rb><rp>(</rp><rt>불교</rt><rp>)</rp></ruby>는 그가 펼친 가르침이자 또한 <ruby class="hanja grade42"><rb>眞理</rb><rp>(</rp><rt>진리</rt><rp>)</rp></ruby>를 깨달아 <ruby class="hanja grade10"><rb>佛陀</rb><rp>(</rp><rt>불타</rt><rp>)</rp></ruby>(깨우친 사람)가 될 것을 가르치는 <ruby class="hanja grade42"><rb>宗敎</rb><rp>(</rp><rt>종교</rt><rp>)</rp></ruby>이다.
 </p><p><ruby class="hanja grade52"><rb>世界的</rb><rp>(</rp><rt>세계적</rt><rp>)</rp></ruby>으로도 <a href="/index.php?title=%E5%9F%BA%E7%9D%A3%E6%95%8E&amp;action=edit&amp;redlink=1" class="new" title="基督敎 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>基督敎</rb><rp>(</rp><rt>기독교</rt><rp>)</rp></ruby></a>·<a href="/wiki/%EC%9D%B4%EC%8A%AC%EB%9E%8C" class="mw-redirect" title="이슬람">이슬람<ruby class="hanja grade80"><rb>敎</rb><rp>(</rp><rt>교</rt><rp>)</rp></ruby></a>에 이어 폭넓은 나라로 퍼지고 있어 <ruby class="hanja grade42"><rb>世界宗敎</rb><rp>(</rp><rt>세계종교</rt><rp>)</rp></ruby>의 하나로 <ruby class="hanja grade10"><rb>看做</rb><rp>(</rp><rt>간주</rt><rp>)</rp></ruby>되고 있다.
 </p>
