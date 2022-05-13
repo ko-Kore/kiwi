@@ -67,6 +67,11 @@
       "count": 6
     },
     {
+      "title": "獨逸",
+      "surrounding": "Bundesrepublik Deutschland 國家象徵(국가상징) 國歌(국가) ... 마침내 獨逸帝國(독일제국)이라는 統一國家(통일국가)가 成立(성립)된다",
+      "count": 6
+    },
+    {
       "title": "美合衆國",
       "surrounding": "國旗(국기) 國章(국장) 國家象徵(국가상징) 國歌(국가) ... 同名稱(동명칭)이 처음發見(발견)되는것은 獨逸(독일)의製圖家(제도가)인 말틴",
       "count": 6
@@ -639,11 +644,6 @@
     {
       "title": "漢文 敎育用 基礎 漢字",
       "surrounding": "ㅎ 가 家(가) (집",
-      "count": 1
-    },
-    {
-      "title": "獨逸",
-      "surrounding": "Bundesrepublik Deutschland 國家象徵(국가상징) 國歌(국가)",
       "count": 1
     },
     {
