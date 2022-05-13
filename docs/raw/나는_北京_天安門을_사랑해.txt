@@ -1,6 +1,6 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <tbody><tr>
-<th><ruby class="hanja grade60"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby>
+<th><ruby class="hanja grade50"><rb>原題</rb><rp>(</rp><rt>원제</rt><rp>)</rp></ruby>
 </th>
 <td><ruby class="hanja grade32"><rb>我愛北京天安門</rb><rp>(</rp><rt>아애북경천안문</rt><rp>)</rp></ruby>
 </td></tr>
@@ -13,10 +13,7 @@
 <th><ruby class="hanja grade50"><rb>作曲</rb><rp>(</rp><rt>작곡</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=%E9%87%91%E6%9C%88%E8%8B%93&amp;action=edit&amp;redlink=1" class="new" title="金月苓 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>金月苓</rb><rp>(</rp><rt>김월령</rt><rp>)</rp></ruby></a>
-</td></tr>
-</tbody></table>
-<p><br>
-</p>
+</td></tr></tbody></table>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%82%98%EB%8A%94_%E5%8C%97%E4%BA%AC_%E5%A4%A9%E5%AE%89%E9%96%80%EC%9D%84_%EC%82%AC%EB%9E%91%ED%95%B4&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>에서 만든 <a href="/index.php?title=%E6%AF%9B%E6%BE%A4%E6%9D%B1&amp;action=edit&amp;redlink=1" class="new" title="毛澤東 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>毛澤東</rb><rp>(</rp><rt>모택동</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E8%AE%9A%E6%8F%9A&amp;action=edit&amp;redlink=1" class="new" title="讚揚 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>讚揚</rb><rp>(</rp><rt>찬양</rt><rp>)</rp></ruby></a><ruby class="hanja grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>이다.
 </p>
