@@ -25,13 +25,13 @@
 <tr>
 <th><ruby class="hanja grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%EC%A7%84%EA%B5%B0%EA%B0%80&amp;action=edit&amp;redlink=1" class="new" title="진군가 (없는 문서)">진군가</a>
+<td><a href="/index.php?title=%E9%80%B2%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="進軍歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>進軍歌</rb><rp>(</rp><rt>진군가</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
 </th>
 <td>Độc lập - Tự do - Hạnh phúc <br>
-<p>(독립, 자유, 행복)
+<p>(<ruby class="hanja grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby>, <ruby class="hanja grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>, <ruby class="hanja grade52"><rb>幸福</rb><rp>(</rp><rt>행복</rt><rp>)</rp></ruby>)
 </p>
 </td></tr>
 <tr>
