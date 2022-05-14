@@ -3,6 +3,9 @@
 <th colspan="2"><ruby class="hanja grade12"><rb>伊太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
+<th colspan="2">Repubblica Italiana
+</th></tr>
+<tr>
 <td colspan="2" style="padding: 0;">
 <table style="width: 100%;">
 <tbody><tr>
