@@ -337,6 +337,11 @@
       "count": 1
     },
     {
+      "title": "歐羅巴",
+      "surrounding": "넘겨줄 대상:유럽",
+      "count": 1
+    },
+    {
       "title": "正體",
       "surrounding": "或(혹)은 正字體(정자체)를 줄여서 그냥",
       "count": 1
@@ -489,6 +494,11 @@
     {
       "title": "越南社會主義公和國",
       "surrounding": "넘겨줄 대상:越南社會主義共和國",
+      "count": 1
+    },
+    {
+      "title": "露烏戰爭",
+      "surrounding": "넘겨줄 대상:2022年",
       "count": 1
     },
     {
