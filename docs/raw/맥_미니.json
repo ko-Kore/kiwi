@@ -1,8 +1,10 @@
 {
   "title": "맥 미니",
   "namespace": 0,
-  "timestamp": 1652489332000,
-  "categories": [],
+  "timestamp": 1652596801000,
+  "categories": [
+    "애플"
+  ],
   "members": [],
   "file": null
 }
