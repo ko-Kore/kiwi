@@ -2,14 +2,14 @@
   "word": "統合漢字",
   "pages": [
     {
-      "title": "花園明朝",
-      "surrounding": "따로 計數(계수)) CJK統合漢字(통합한자) 擴張(확장) ... ISO/IEC 10646-1:1993에서規定(규정)된 CJK統合漢字(통합한자) 20",
+      "title": "CJK",
+      "surrounding": "現在(현재)는 유니코드의 CJK統合漢字(통합한자) 領域(영역)의 ... 2022-JP Shift-JIS CJK統合漢字(통합한자)로 代表(대표)되는",
       "count": 2
     },
     {
-      "title": "CJK",
-      "surrounding": "代表的(대표적)인 領域(영역)으로는 CJK統合漢字(통합한자)가 있다",
-      "count": 1
+      "title": "花園明朝",
+      "surrounding": "따로 計數(계수)) CJK統合漢字(통합한자) 擴張(확장) ... ISO/IEC 10646-1:1993에서規定(규정)된 CJK統合漢字(통합한자) 20",
+      "count": 2
     },
     {
       "title": "CJK統合漢字",

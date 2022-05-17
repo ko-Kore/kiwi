@@ -57,6 +57,11 @@
       "count": 3
     },
     {
+      "title": "CJK",
+      "surrounding": "固有名詞(고유명사)를 爲(위)해서는 더 많은 ... 領域(영역)의 漢字(한자)들에 더불어 한글",
+      "count": 2
+    },
+    {
       "title": "Steins;Gate",
       "surrounding": "- 透明(투명)의 스타더스트 (透明(투명)のスターダスト) ... - 透明(투명)의 스타더스트 Chapter",
       "count": 2
@@ -139,11 +144,6 @@
     {
       "title": "Alice in 冷凍庫",
       "surrounding": "쓸쓸해서 웃었다따따따 내밟는대로더럽혀 只今(지금)은얼지않도록",
-      "count": 1
-    },
-    {
-      "title": "CJK",
-      "surrounding": "固有名詞(고유명사)를 爲(위)해서는 더 많은",
       "count": 1
     },
     {

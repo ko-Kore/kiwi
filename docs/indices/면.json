@@ -607,6 +607,11 @@
       "count": 1
     },
     {
+      "title": "CJK",
+      "surrounding": "모두 支援(지원)하게 되면서 該當(해당)",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "알파벳을 順序(순서)대로 읽으면 QWERTY가",
       "count": 1
