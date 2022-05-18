@@ -1,8 +1,11 @@
 {
   "title": "五星紅旗",
   "namespace": 0,
-  "timestamp": 1652854270000,
-  "categories": [],
+  "timestamp": 1652871148000,
+  "categories": [
+    "中華人民共和國",
+    "國旗"
+  ],
   "members": [],
   "file": null
 }
