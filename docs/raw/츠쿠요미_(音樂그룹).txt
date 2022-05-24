@@ -28,7 +28,10 @@
 <li>3rd 『<ruby class="hanja grade62"><rb>新世界</rb><rp>(</rp><rt>신세계</rt><rp>)</rp></ruby>로부터』</li>
 <li>4th 『한낮의 달빛』</li>
 <li>5th 『<ruby class="hanja grade42"><rb>絶對領導</rb><rp>(</rp><rt>절대령도</rt><rp>)</rp></ruby>』</li>
-<li>6th 『<a href="/wiki/%EC%82%B4%EC%95%84%EA%B0%88_%E7%B7%A3%E6%95%85" title="살아갈 緣故">살아갈 <ruby class="hanja grade40"><rb>緣故</rb><rp>(</rp><rt>연고</rt><rp>)</rp></ruby></a>』</li></ul>
+<li>6th 『<a href="/wiki/%EC%82%B4%EC%95%84%EA%B0%88_%E7%B7%A3%E6%95%85" title="살아갈 緣故">살아갈 <ruby class="hanja grade40"><rb>緣故</rb><rp>(</rp><rt>연고</rt><rp>)</rp></ruby></a>』</li>
+<li>7th 『<a href="/wiki/%EB%A9%94%EC%9D%B4%EB%8D%B0%EC%9D%B4_(%EC%B8%A0%EC%BF%A0%EC%9A%94%EB%AF%B8)" title="메이데이 (츠쿠요미)">메이데이</a>』</li>
+<li>8th 『<a href="/index.php?title=%EC%8F%99%EB%8F%85%EC%83%88_(%EC%B8%A0%EC%BF%A0%EC%9A%94%EB%AF%B8)&amp;action=edit&amp;redlink=1" class="new" title="쏙독새 (츠쿠요미) (없는 문서)">쏙독새</a>』</li>
+<li>9th 『<a href="/index.php?title=%EC%9D%B4%ED%94%84&amp;action=edit&amp;redlink=1" class="new" title="이프 (없는 문서)">이프</a>』</li></ul>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja grade60"><rb>現在</rb><rp>(</rp><rt>현재</rt><rp>)</rp></ruby> <a href="/index.php?title=%E7%99%BC%E8%81%B2%E9%9A%9C%E7%A2%8D&amp;action=edit&amp;redlink=1" class="new" title="發聲障碍 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>發聲障碍</rb><rp>(</rp><rt>발성장애</rt><rp>)</rp></ruby></a>와 <a href="/index.php?title=%E8%80%B3%E9%B3%B4&amp;action=edit&amp;redlink=1" class="new" title="耳鳴 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>耳鳴</rb><rp>(</rp><rt>이명</rt><rp>)</rp></ruby></a> <ruby class="hanja grade32"><rb>症狀</rb><rp>(</rp><rt>증상</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade72"><rb>活動</rb><rp>(</rp><rt>활동</rt><rp>)</rp></ruby>을 쉬고 <ruby class="hanja grade10"><rb>寮養中</rb><rp>(</rp><rt>요양중</rt><rp>)</rp></ruby>이다.</span>
 </li>
