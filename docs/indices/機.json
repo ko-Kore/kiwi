@@ -92,6 +92,11 @@
       "count": 6
     },
     {
+      "title": "IBM 셀렉트릭",
+      "surrounding": "IBM 셀렉트릭 打字機(타자기)(IBM Selectric ... 끼우면 되는데 打字機(타자기) 自體(자체)를",
+      "count": 5
+    },
+    {
       "title": "Steins;Gate",
       "surrounding": "게임分類(분류) 想定科學(상정과학)ADV 機種(기종) Xbox ... 게임分類(분류) 想定科學(상정과학)ADV 機種(기종) PlayStation",
       "count": 5
@@ -140,11 +145,6 @@
       "title": "아이폰 8",
       "surrounding": "3 追加(추가) 機種(기종) 3 ... 아이폰 8의 上位機種(상위기종)이다 아이폰",
       "count": 4
-    },
-    {
-      "title": "IBM 셀렉트릭",
-      "surrounding": "IBM 셀렉트릭 打字機(타자기)(IBM Selectric ... 販賣(판매)한 電氣(전기)-機械式(기계식) 打字機(타자기)이다 特徵(특징)[편집]",
-      "count": 3
     },
     {
       "title": "全國漢字敎育推進總聯合會",
