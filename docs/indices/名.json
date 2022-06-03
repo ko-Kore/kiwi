@@ -1242,6 +1242,11 @@
       "count": 1
     },
     {
+      "title": "카스트制",
+      "surrounding": "text 順位(순위) 名稱(명칭) 職群(직군)",
+      "count": 1
+    },
+    {
       "title": "히라가나",
       "surrounding": "넘겨줄 대상:平假名 ",
       "count": 1
