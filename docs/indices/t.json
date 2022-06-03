@@ -267,11 +267,6 @@
       "count": 3
     },
     {
-      "title": "카스트制",
-      "surrounding": "카스트制(제) Kast Caption ... Kast Caption text 順位(순위)",
-      "count": 3
-    },
-    {
       "title": "파일:Logo kancolle.png",
       "surrounding": "설명[편집] 출처: http://www dmm ... dmm com/netgame/feature/kancolle html 라이선스[편집]",
       "count": 3
@@ -704,6 +699,11 @@
     {
       "title": "위키위키",
       "surrounding": "소프트웨어[편집] 미디어위키 the seed",
+      "count": 1
+    },
+    {
+      "title": "카스트制",
+      "surrounding": "주세요 카스트制(제) Kast 카스트制(제)",
       "count": 1
     },
     {
