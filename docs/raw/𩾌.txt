@@ -1,0 +1,3 @@
+<html><head></head><body><div class="mw-parser-output"><p><a href="/index.php?title=%E9%B1%87&amp;action=edit&amp;redlink=1" class="new" title="鱇 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>鱇</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby></a>의 <a href="/wiki/%E7%B0%A1%E9%AB%94%E5%AD%97" title="簡體字"><ruby class="hanja grade40"><rb>簡體字</rb><rp>(</rp><rt>간체자</rt><rp>)</rp></ruby></a>이다. <a href="/index.php?title=%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C&amp;action=edit&amp;redlink=1" class="new" title="유니코드 (없는 문서)">유니코드</a> U+29F8C.
+</p>
+</div></body></html>
