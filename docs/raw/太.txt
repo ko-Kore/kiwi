@@ -1,0 +1,78 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby></span>
+</td></tr>
+<tr>
+<th colspan="4">클 태
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td><span class="noruby"><ruby class="hanja grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby></span>
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>4<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>6<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><span class="tocnumber">2</span> <span class="toctext">用例(용례)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E6.88.90.E8.AA.9E.28.EC.84.B1.EC.96.B4.29"><span class="tocnumber">2.1</span> <span class="toctext">成語(성어)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E5.9C.B0.E5.90.8D.28.EC.A7.80.EB.AA.85.29"><span class="tocnumber">2.2</span> <span class="toctext">地名(지명)</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E6%8C%87%E4%BA%8B%E6%96%87%E5%AD%97" title="指事文字"><ruby class="hanja grade42"><rb>指事文字</rb><rp>(</rp><rt>지사문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>는 <ruby class="hanja grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade40"><rb>派生</rb><rp>(</rp><rt>파생</rt><rp>)</rp></ruby>된 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>로, “큰”, “커다란”, “크다”를 뜻한다. <ruby class="hanja grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>는 또한 우리나라의 <ruby class="hanja grade72"><rb>姓</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>의 하나입니다.
+</p>
+<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><ruby class="hanja grade60"><rb>太古</rb><rp>(</rp><rt>태고</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太極</rb><rp>(</rp><rt>태극</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade30"><rb>太廟</rb><rp>(</rp><rt>태묘</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太半</rb><rp>(</rp><rt>태반</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太陽</rb><rp>(</rp><rt>태양</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太平</rb><rp>(</rp><rt>태평</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太學</rb><rp>(</rp><rt>태학</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太虛</rb><rp>(</rp><rt>태허</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>明太</rb><rp>(</rp><rt>명태</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太祖</rb><rp>(</rp><rt>태조</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太宗</rb><rp>(</rp><rt>태종</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>太上皇</rb><rp>(</rp><rt>태상황</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太子</rb><rp>(</rp><rt>태자</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade12"><rb>太傅</rb><rp>(</rp><rt>태부</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太保</rb><rp>(</rp><rt>태보</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太師</rb><rp>(</rp><rt>태사</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太常</rb><rp>(</rp><rt>태상</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太守</rb><rp>(</rp><rt>태수</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>猶太人</rb><rp>(</rp><rt>유태인</rt><rp>)</rp></ruby></li></ul>
+<h3><span id="成語(성어)"></span><span class="mw-headline" id=".E6.88.90.E8.AA.9E.28.EC.84.B1.EC.96.B4.29"><ruby class="hanja grade62"><rb>成語</rb><rp>(</rp><rt>성어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=3" title="부분 편집: 成語(성어)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><ruby class="hanja grade60"><rb>天下太平</rb><rp>(</rp><rt>천하태평</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>太平聖代</rb><rp>(</rp><rt>태평성대</rt><rp>)</rp></ruby></li></ul>
+<h3><span id="地名(지명)"></span><span class="mw-headline" id=".E5.9C.B0.E5.90.8D.28.EC.A7.80.EB.AA.85.29"><ruby class="hanja grade70"><rb>地名</rb><rp>(</rp><rt>지명</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=4" title="부분 편집: 地名(지명)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><ruby class="hanja grade60"><rb>太平洋</rb><rp>(</rp><rt>태평양</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade60"><rb>太白山</rb><rp>(</rp><rt>태백산</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade50"><rb>太原</rb><rp>(</rp><rt>태원</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade50"><rb>太湖</rb><rp>(</rp><rt>태호</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade12"><rb>太秦</rb><rp>(</rp><rt>태진</rt><rp>)</rp></ruby></li></ul>
+</div></body></html>
