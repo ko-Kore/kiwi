@@ -44,9 +44,10 @@
 </ul>
 </div>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/wiki/%E6%8C%87%E4%BA%8B%E6%96%87%E5%AD%97" title="指事文字"><ruby class="hanja grade42"><rb>指事文字</rb><rp>(</rp><rt>지사문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>는 <ruby class="hanja grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade40"><rb>派生</rb><rp>(</rp><rt>파생</rt><rp>)</rp></ruby>된 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>로, “큰”, “커다란”, “크다”를 뜻한다. <ruby class="hanja grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>는 또한 우리나라의 <ruby class="hanja grade72"><rb>姓</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>의 하나입니다.
+<p><a href="/wiki/%E6%8C%87%E4%BA%8B%E6%96%87%E5%AD%97" title="指事文字"><ruby class="hanja grade42"><rb>指事文字</rb><rp>(</rp><rt>지사문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>는 <a href="/wiki/%E5%A4%A7" title="大"><ruby class="hanja grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby></a>에서 <ruby class="hanja grade40"><rb>派生</rb><rp>(</rp><rt>파생</rt><rp>)</rp></ruby>된 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>로, “큰”, “커다란”, “크다”를 뜻한다. 또한 우리나라의 <ruby class="hanja grade72"><rb>姓</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>의 하나이기도 하다.
 </p>
 <h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="column-4">
 <ul><li><ruby class="hanja grade60"><rb>太古</rb><rp>(</rp><rt>태고</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade42"><rb>太極</rb><rp>(</rp><rt>태극</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade30"><rb>太廟</rb><rp>(</rp><rt>태묘</rt><rp>)</rp></ruby></li>
@@ -66,6 +67,7 @@
 <li><ruby class="hanja grade42"><rb>太常</rb><rp>(</rp><rt>태상</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade42"><rb>太守</rb><rp>(</rp><rt>태수</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>猶太人</rb><rp>(</rp><rt>유태인</rt><rp>)</rp></ruby></li></ul>
+</div>
 <h3><span id="成語(성어)"></span><span class="mw-headline" id=".E6.88.90.E8.AA.9E.28.EC.84.B1.EC.96.B4.29"><ruby class="hanja grade62"><rb>成語</rb><rp>(</rp><rt>성어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%AA&amp;action=edit&amp;section=3" title="부분 편집: 成語(성어)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <ul><li><ruby class="hanja grade60"><rb>天下太平</rb><rp>(</rp><rt>천하태평</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade42"><rb>太平聖代</rb><rp>(</rp><rt>태평성대</rt><rp>)</rp></ruby></li></ul>
