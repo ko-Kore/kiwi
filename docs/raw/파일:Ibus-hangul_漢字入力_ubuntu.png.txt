@@ -1,0 +1,3 @@
+<html><head></head><body><div class="mw-parser-output"><p>ubuntu에서 ibus-hangul을 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하여 <ruby class="hanja grade70"><rb>漢字入力</rb><rp>(</rp><rt>한자입력</rt><rp>)</rp></ruby>
+</p>
+</div></body></html>
