@@ -357,6 +357,11 @@
       "count": 3
     },
     {
+      "title": "파일:Ibus-hangul 漢字入力 有效化 ubuntu.png.png",
+      "surrounding": "넘겨줄 대상:파일:Ibus-hangul 漢字入力 ... 有效化 ubuntu png ",
+      "count": 3
+    },
+    {
       "title": "VAIO",
       "surrounding": "'Video Audio Intelligent Organizer ... Audio Intelligent Organizer (映像(영상)",
       "count": 2
@@ -554,11 +559,6 @@
     {
       "title": "파일:Ibus-hangul 漢字入力 ubuntu.png",
       "surrounding": "ubuntu에서 ibus-hangul을 ... ubuntu에서 ibus-hangul을 使用(사용)하여",
-      "count": 2
-    },
-    {
-      "title": "파일:Ibus-hangul 漢字入力 有效化 ubuntu.png.png",
-      "surrounding": "ubuntu에서 ibus-hangul ... ubuntu에서 ibus-hangul 漢字入力(한자입력)",
       "count": 2
     },
     {

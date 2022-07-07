@@ -157,6 +157,11 @@
       "count": 2
     },
     {
+      "title": "파일:Ibus-hangul 漢字入力 有效化 ubuntu.png.png",
+      "surrounding": "넘겨줄 대상:파일:Ibus-hangul 漢字入力 ... 有效化 ubuntu png ",
+      "count": 2
+    },
+    {
       "title": "三星 갤럭시",
       "surrounding": "三星(삼성) 갤럭시 Samsung GALAXY",
       "count": 1
@@ -304,11 +309,6 @@
     {
       "title": "파일:Ibus-hangul 漢字入力 ubuntu.png",
       "surrounding": "ubuntu에서 ibus-hangul을 使用(사용)하여",
-      "count": 1
-    },
-    {
-      "title": "파일:Ibus-hangul 漢字入力 有效化 ubuntu.png.png",
-      "surrounding": "ubuntu에서 ibus-hangul 漢字入力(한자입력)",
       "count": 1
     },
     {

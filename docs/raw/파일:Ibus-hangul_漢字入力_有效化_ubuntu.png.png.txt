@@ -1,3 +1,2 @@
-<html><head></head><body><div class="mw-parser-output"><p>ubuntu에서 ibus-hangul <ruby class="hanja grade70"><rb>漢字入力</rb><rp>(</rp><rt>한자입력</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>有效化</rb><rp>(</rp><rt>유효화</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>設定</rb><rp>(</rp><rt>설정</rt><rp>)</rp></ruby> 메뉴
-</p>
+<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/wiki/%ED%8C%8C%EC%9D%BC:Ibus-hangul_%E6%BC%A2%E5%AD%97%E5%85%A5%E5%8A%9B_%E6%9C%89%E6%95%88%E5%8C%96_ubuntu.png" title="파일:Ibus-hangul 漢字入力 有效化 ubuntu.png">파일:Ibus-hangul 漢字入力 有效化 ubuntu.png</a></li></ul></div>
 </div></body></html>
