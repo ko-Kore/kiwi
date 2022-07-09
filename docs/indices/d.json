@@ -127,6 +127,11 @@
       "count": 4
     },
     {
+      "title": "유니코드",
+      "surrounding": "유니코드 標準(표준)(英語(영어): Unicode Standard) ... 參照(참조)[편집] ↑ Unicode Version",
+      "count": 4
+    },
+    {
       "title": "自由 소프트웨어",
       "surrounding": "GNU 프로젝트 〈Words to ... They Are Loaded or",
       "count": 3
@@ -404,11 +409,6 @@
     {
       "title": "위키위키",
       "surrounding": "미디어위키 the seed 모니위키",
-      "count": 1
-    },
-    {
-      "title": "유니코드",
-      "surrounding": "參照(참조)[편집] ↑ Unicode Version",
       "count": 1
     },
     {

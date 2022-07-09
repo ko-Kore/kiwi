@@ -127,6 +127,11 @@
       "count": 5
     },
     {
+      "title": "유니코드",
+      "surrounding": "유니코드 標準(표준)(英語(영어): Unicode Standard) ... 0 Character Counts ",
+      "count": 5
+    },
+    {
       "title": "中華民國",
       "surrounding": "英語(영어)로는 Republic of China ... 雅美(아미) 達悟(달오))語(어) Thao(邵(소))語(어) Kavalan(噶瑪蘭(갈마란))語(어)",
       "count": 4
@@ -234,11 +239,6 @@
     {
       "title": "오픈TTD",
       "surrounding": "하는 YACD(Yet Another Cargo ... Another Cargo Destinations)라는 패치도",
-      "count": 3
-    },
-    {
-      "title": "유니코드",
-      "surrounding": "參照(참조)[편집] ↑ Unicode Version ... 0 Character Counts ",
       "count": 3
     },
     {
@@ -399,6 +399,11 @@
     {
       "title": "酪酸",
       "surrounding": "IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은 부탄酸(산)(butanoic acid)이며 ... 名稱(명칭)의\"butyric\"은 버터(牛酪(우락))를意味(의미)하는 古代(고대)그리스語(어)\"βούτυρον\"(boútūron)에由來(유래)하며 韓國語(한국어)의\"酪酸(낙산)\"과相通(상통)한다",
+      "count": 2
+    },
+    {
+      "title": "電算學",
+      "surrounding": "컴퓨터 科學(과학)(英語(영어): computer science)은 ... 〈What is Computer Science",
       "count": 2
     },
     {

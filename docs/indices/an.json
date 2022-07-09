@@ -208,7 +208,7 @@
     },
     {
       "title": "多國語基本平面",
-      "surrounding": "多國語基本平面(다국어기본평면)(Basic Multilingual Plane)은 유니코드의",
+      "surrounding": "Basic Multilingual Plane)은 유니코드의",
       "count": 1
     },
     {
@@ -314,6 +314,11 @@
     {
       "title": "비 개길 기다리다",
       "surrounding": "개길 기다리다(原題(원제):霽(제)(は)れを待(대)(ま)つ)는 Orangestar가 2021年(년)1月(월)10日(일)에",
+      "count": 1
+    },
+    {
+      "title": "유니코드",
+      "surrounding": "標準(표준)(英語(영어): Unicode Standard) 줄여서",
       "count": 1
     },
     {

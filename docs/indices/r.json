@@ -242,6 +242,11 @@
       "count": 3
     },
     {
+      "title": "유니코드",
+      "surrounding": "標準(표준)(英語(영어): Unicode Standard) 줄여서 ... 14 0 Character Counts",
+      "count": 3
+    },
+    {
       "title": "Alice in 冷凍庫",
       "surrounding": "君(군)は何故(하고)か悲(비)しそうに 笑(소)ながら踊(용)る Wonderland またあの日(일)と ... 너는何故(하고)인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
       "count": 2
@@ -337,6 +342,11 @@
       "count": 2
     },
     {
+      "title": "電算學",
+      "surrounding": "컴퓨터 科學(과학)(英語(영어): computer science)은 ... 〈What is Computer Science",
+      "count": 2
+    },
+    {
       "title": "韓國語",
       "surrounding": "英語(영어)에서는 高麗(고려)에서由來(유래)한 Korea에서나온 Korean이라는 ... 高麗(고려)에서由來(유래)한 Korea에서나온 Korean이라는 名稱(명칭)을",
       "count": 2
@@ -359,11 +369,6 @@
     {
       "title": "안드로이드 運營體制",
       "surrounding": "안드로이드 運營體制(운영체제)(英(영): Android Operating ... 運營體制(운영체제)(英(영): Android Operating System)는",
-      "count": 2
-    },
-    {
-      "title": "유니코드",
-      "surrounding": "↑ Unicode Version 14 ... 14 0 Character Counts",
       "count": 2
     },
     {

@@ -672,6 +672,11 @@
       "count": 4
     },
     {
+      "title": "電算學",
+      "surrounding": "科學(과학)(英語(영어): computer science)은 計算(계산)과 ... 걸쳐 있다 電算學(전산학)은 一般的(일반적)으로",
+      "count": 4
+    },
+    {
       "title": "韓國",
       "surrounding": "이 部分(부분)의 本文(본문)은 大韓民國(대한민국)입니다 ... 이 部分(부분)의 本文(본문)은 大韓帝國(대한제국)입니다",
       "count": 4
@@ -1688,7 +1693,7 @@
     },
     {
       "title": "多國語基本平面",
-      "surrounding": "多國語基本平面(다국어기본평면)(Basic Multilingual Plane)은 유니코드의",
+      "surrounding": "Basic Multilingual Plane)은 유니코드의",
       "count": 1
     },
     {

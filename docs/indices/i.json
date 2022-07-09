@@ -262,6 +262,11 @@
       "count": 4
     },
     {
+      "title": "유니코드",
+      "surrounding": "유니코드 標準(표준)(英語(영어): Unicode Standard) ... ↑ Unicode Version 14",
+      "count": 4
+    },
+    {
       "title": "CJK",
       "surrounding": "槪要(개요)[편집] CJK(ChineseJapaneseKorean 또는 ... ISO 2022-JP Shift-JIS CJK統合漢字(통합한자)로",
       "count": 3
@@ -314,6 +319,11 @@
     {
       "title": "電子娛樂",
       "surrounding": "一種(일종)이다 西洋(서양)에서는 電子娛樂(전자오락)(electronic game)은 ... 게임(video game)과 音聲(음성)게임(audio game)",
+      "count": 3
+    },
+    {
+      "title": "電算學",
+      "surrounding": "科學(과학)(英語(영어): computer science)은 計算(계산)과 ... is Computer Science 〉",
       "count": 3
     },
     {
@@ -393,7 +403,7 @@
     },
     {
       "title": "多國語基本平面",
-      "surrounding": "槪要(개요)[편집] 多國語基本平面(다국어기본평면)(Basic Multilingual ... 槪要(개요)[편집] 多國語基本平面(다국어기본평면)(Basic Multilingual Plane)은",
+      "surrounding": "多國語基本平面(다국어기본평면)(英語(영어): Basic Multilingual ... 多國語基本平面(다국어기본평면)(英語(영어): Basic Multilingual Plane)은",
       "count": 2
     },
     {
@@ -529,11 +539,6 @@
     {
       "title": "오픈TTD",
       "surrounding": "Another Cargo Destinations)라는 패치도 ... 共有(공유)[편집] Infrastructure Sharing 멀티플레이에서",
-      "count": 2
-    },
-    {
-      "title": "유니코드",
-      "surrounding": "參照(참조)[편집] ↑ Unicode Version ... ↑ Unicode Version 14",
       "count": 2
     },
     {

@@ -192,6 +192,11 @@
       "count": 5
     },
     {
+      "title": "유니코드",
+      "surrounding": "유니코드 標準(표준)(英語(영어): Unicode Standard) ... 14 0 Character Counts",
+      "count": 5
+    },
+    {
       "title": "三",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) se1 (se̞⁵³) ... se1 (~年(연) se̞⁴⁴) 越南語(월남어)[편집]",
       "count": 4
@@ -209,6 +214,11 @@
     {
       "title": "金빛 모자이크",
       "surrounding": "金(김)빛 모자이크 Best Wishes에 ... 『金(김)빛모자이크 Best Wishes 』",
+      "count": 4
+    },
+    {
+      "title": "電算學",
+      "surrounding": "컴퓨터 科學(과학)(英語(영어): computer science)은 ... is Computer Science 〉",
       "count": 4
     },
     {
@@ -309,11 +319,6 @@
     {
       "title": "갤럭시 S10e",
       "surrounding": "槪要(개요)[편집] 갤럭시 S10e는 2019年(년)2月(월)20日(일)에 ... 알파벳 'e'는 essential을 意味(의미)한다고",
-      "count": 3
-    },
-    {
-      "title": "유니코드",
-      "surrounding": "參照(참조)[편집] ↑ Unicode Version ... 14 0 Character Counts",
       "count": 3
     },
     {
@@ -533,7 +538,7 @@
     },
     {
       "title": "多國語基本平面",
-      "surrounding": "多國語基本平面(다국어기본평면)(Basic Multilingual Plane)은 유니코드의",
+      "surrounding": "Basic Multilingual Plane)은 유니코드의",
       "count": 1
     },
     {

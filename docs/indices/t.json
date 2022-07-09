@@ -242,6 +242,11 @@
       "count": 3
     },
     {
+      "title": "電算學",
+      "surrounding": "컴퓨터 科學(과학)(英語(영어): computer science)은 ... 〈What is Computer Science",
+      "count": 3
+    },
+    {
       "title": "마인크래프트",
       "surrounding": "버전 - beta 1 ... A8-7600 APU Intel Core",
       "count": 3
@@ -264,6 +269,11 @@
     {
       "title": "애니메이션 밈",
       "surrounding": "槪要(개요)[편집] 애니메이션 밈(Animation meme)이란 ... 이펙트 - AviUtl -",
+      "count": 3
+    },
+    {
+      "title": "유니코드",
+      "surrounding": "標準(표준)(英語(영어): Unicode Standard) 줄여서 ... 0 Character Counts ",
       "count": 3
     },
     {
@@ -422,11 +432,6 @@
       "count": 2
     },
     {
-      "title": "유니코드",
-      "surrounding": "14 0 Character Counts ... 0 Character Counts ",
-      "count": 2
-    },
-    {
       "title": "파일:슈슈버거.jpg",
       "surrounding": "있는 出處(출처)는 https://www mcdonalds ... mcdonalds co kr/kor/menu/detail do",
       "count": 2
@@ -533,7 +538,7 @@
     },
     {
       "title": "多國語基本平面",
-      "surrounding": "槪要(개요)[편집] 多國語基本平面(다국어기본평면)(Basic Multilingual Plane)은",
+      "surrounding": "多國語基本平面(다국어기본평면)(英語(영어): Basic Multilingual Plane)은",
       "count": 1
     },
     {
