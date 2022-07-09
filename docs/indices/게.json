@@ -757,6 +757,11 @@
       "count": 1
     },
     {
+      "title": "多國語基本平面",
+      "surrounding": "U+DFFF까지는 UTF-16의 서러게이트雙(쌍)을 爲(위)해",
+      "count": 1
+    },
+    {
       "title": "大",
       "surrounding": "크다는 뜻으로 쓰이게 되었다",
       "count": 1
