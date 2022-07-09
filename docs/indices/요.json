@@ -1842,11 +1842,6 @@
       "count": 2
     },
     {
-      "title": "텔레그램",
-      "surrounding": "웹 사이트 槪要(개요)[편집] 텔레그램(Telegram)은 ... 백업을 할 必要(필요)가 없다",
-      "count": 2
-    },
-    {
       "title": "트위터",
       "surrounding": "목차 1 槪要(개요) 2 ... 外部(외부) 링크 槪要(개요)[편집] 트위터(Twitter)는",
       "count": 2
@@ -3249,6 +3244,11 @@
     {
       "title": "태블릿PC",
       "surrounding": "갤럭시 탭 槪要(개요)[편집] 태블릿PC(Tablet",
+      "count": 1
+    },
+    {
+      "title": "텔레그램",
+      "surrounding": "백업을 할 必要(필요)가 없다",
       "count": 1
     },
     {

@@ -1162,6 +1162,11 @@
       "count": 1
     },
     {
+      "title": "Telegram",
+      "surrounding": "넘겨줄 대상:텔레그램 ",
+      "count": 1
+    },
+    {
       "title": "Unicode",
       "surrounding": "넘겨줄 대상:유니코드 ",
       "count": 1

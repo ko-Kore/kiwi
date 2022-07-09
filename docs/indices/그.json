@@ -72,6 +72,11 @@
       "count": 10
     },
     {
+      "title": "텔레그램",
+      "surrounding": " 텔레그램(Telegram)은 크로스 ... 웹 사이트 텔레그램 國漢大百科(국한대백과)봇",
+      "count": 10
+    },
+    {
       "title": "Alice in 冷凍庫",
       "surrounding": "想(상)い熱(열)を放(방)て 韓譯(한역)[편집] 그것은時間(시간)의끝나는 劇場世界(극장세계)의프롤로그 ... 웃으며춤추는 Wonderland 또그날과 같은것같은",
       "count": 9
@@ -84,11 +89,6 @@
     {
       "title": "나치獨逸의 노래",
       "surrounding": "속에 如前(여전)히 그는 깨어 ... 이를 보고 그저 웃는다",
-      "count": 9
-    },
-    {
-      "title": "텔레그램",
-      "surrounding": "사이트 槪要(개요)[편집] 텔레그램(Telegram)은 크로스 ... 大部分(대부분) 同時(동시)에 로그인할 수",
       "count": 9
     },
     {
@@ -679,6 +679,11 @@
     {
       "title": "IBM 셀렉트릭",
       "surrounding": "키보드를 치면 그 키에",
+      "count": 1
+    },
+    {
+      "title": "Telegram",
+      "surrounding": "넘겨줄 대상:텔레그램 ",
       "count": 1
     },
     {
