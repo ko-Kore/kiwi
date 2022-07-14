@@ -8,6 +8,7 @@
 <li class="toclevel-2 tocsection-5"><a href="#.E9.9F.B3.28.EC.9D.8C.29.EC.9C.BC.EB.A1.9C_.EC.B0.BE.EA.B8.B0"><span class="tocnumber">2.3</span> <span class="toctext">音(음)으로 찾기</span></a></li>
 </ul>
 </li>
+<li class="toclevel-1 tocsection-6"><a href="#.E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"><span class="tocnumber">3</span> <span class="toctext">關聯文書(관련문서)</span></a></li>
 </ul>
 </div>
 <h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%AD%97%E5%85%B8&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -23,4 +24,6 @@
 <h3><span id="音(음)으로_찾기"></span><span class="mw-headline" id=".E9.9F.B3.28.EC.9D.8C.29.EC.9C.BC.EB.A1.9C_.EC.B0.BE.EA.B8.B0"><ruby class="hanja grade62"><rb>音</rb><rp>(</rp><rt>음</rt><rp>)</rp></ruby>으로 찾기</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%AD%97%E5%85%B8&amp;action=edit&amp;section=5" title="부분 편집: 音(음)으로 찾기">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <p><ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby>을 아는 글<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>의 <ruby class="hanja grade62"><rb>字形</rb><rp>(</rp><rt>자형</rt><rp>)</rp></ruby>을 찾고 싶을 때 쓰는 <ruby class="hanja grade52"><rb>方法</rb><rp>(</rp><rt>방법</rt><rp>)</rp></ruby>이다. <ruby class="hanja grade52"><rb>讀音順</rb><rp>(</rp><rt>독음순</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade40"><rb>整列</rb><rp>(</rp><rt>정렬</rt><rp>)</rp></ruby>된 글<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade60"><rb>訓</rb><rp>(</rp><rt>훈</rt><rp>)</rp></ruby>과 <ruby class="hanja grade62"><rb>音</rb><rp>(</rp><rt>음</rt><rp>)</rp></ruby>을 찾아 <ruby class="hanja grade62"><rb>字形</rb><rp>(</rp><rt>자형</rt><rp>)</rp></ruby>을 <ruby class="hanja grade42"><rb>確認</rb><rp>(</rp><rt>확인</rt><rp>)</rp></ruby>한다.
 </p>
+<h2><span id="關聯文書(관련문서)"></span><span class="mw-headline" id=".E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"><ruby class="hanja grade32"><rb>關聯文書</rb><rp>(</rp><rt>관련문서</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%AD%97%E5%85%B8&amp;action=edit&amp;section=6" title="부분 편집: 關聯文書(관련문서)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E8%BE%AD%E5%85%B8" title="辭典"><ruby class="hanja grade40"><rb>辭典</rb><rp>(</rp><rt>사전</rt><rp>)</rp></ruby></a></li></ul>
 </div></body></html>
