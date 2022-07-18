@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="float: right; text-align: center;">
 <tbody><tr>
-<th><ruby class="hanja grade42"><rb>三星</rb><rp>(</rp><rt>삼성</rt><rp>)</rp></ruby> 갤럭시 <br> Samsung GALAXY
+<th colspan="2"><ruby class="hanja grade42"><rb>三星</rb><rp>(</rp><rt>삼성</rt><rp>)</rp></ruby> 갤럭시 <br> Samsung GALAXY
 </th></tr>
 <tr>
 <td colspan="2" style="padding: 10px;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Samsung_Galaxy_logo.svg" class="image"><img alt="Samsung Galaxy logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Samsung_Galaxy_logo.svg/langko-300px-Samsung_Galaxy_logo.svg.png" decoding="async" width="300" height="127" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Samsung_Galaxy_logo.svg/langko-450px-Samsung_Galaxy_logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Samsung_Galaxy_logo.svg/langko-600px-Samsung_Galaxy_logo.svg.png 2x"></a>
