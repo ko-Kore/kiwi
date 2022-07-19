@@ -175,6 +175,11 @@
       "title": "오픈TTD",
       "surrounding": "유저가 直接(직접) 製作(제작)하여 配布(배포)할",
       "count": 1
+    },
+    {
+      "title": "텔레그램",
+      "surrounding": "스티커 팩을 製作(제작)할 수",
+      "count": 1
     }
   ]
 }
