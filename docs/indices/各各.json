@@ -12,6 +12,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "'악' '요' 各各(각각)에 對(대)한",
+      "count": 1
+    },
+    {
       "title": "VAIO",
       "surrounding": "I字(자)와 O字(자)는 各各(각각) 數字(숫자)",
       "count": 1

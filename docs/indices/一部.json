@@ -77,6 +77,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "配定(배정)된 漢字中(한자중) 一部(일부)는 實際(실제)로",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "言語實情(언어실정)에 맞게 一部(일부) 글字(자)의",
       "count": 1

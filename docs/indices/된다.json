@@ -197,6 +197,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "않으며 統合漢字(통합한자)로서 處理(처리)된다 ",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "읽으면 QWERTY가 된다는 것에서",
       "count": 1

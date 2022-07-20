@@ -277,6 +277,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "例(예)를 들어 樂(악)이라는 글字(자)가",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "있도록 된 것이라는 說(설)도",
       "count": 1

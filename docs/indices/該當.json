@@ -137,6 +137,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "互換用漢字(호환용한자)가 아니다 該當(해당) 12字(자)는",
+      "count": 1
+    },
+    {
       "title": "IBM 셀렉트릭",
       "surrounding": "그 키에 該當(해당)하는 文字(문자)가",
       "count": 1

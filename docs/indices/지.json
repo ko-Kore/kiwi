@@ -2057,6 +2057,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "重複(중복)된 글字(자)가 存在(존재)하지 않으며",
+      "count": 1
+    },
+    {
       "title": "IBM 셀렉트릭",
       "surrounding": "것과 比較(비교)도 되지 않을",
       "count": 1

@@ -242,6 +242,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "나타내는 코드 以外(이외)에도 重複(중복)된",
+      "count": 1
+    },
+    {
       "title": "PTSD",
       "surrounding": "넘겨줄 대상:外傷後 스트레스",
       "count": 1

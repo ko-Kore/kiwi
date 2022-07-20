@@ -112,6 +112,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "韓國語(한국어) 讀音(독음) 數(수)대로 重複配定(중복배정)한",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "配定(배정)된 알파벳을 順序(순서)대로 읽으면",
       "count": 1

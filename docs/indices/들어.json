@@ -167,6 +167,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "起因(기인)한다 例(예)를 들어 樂(악)이라는",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "있다 ‘TYPEWRITER’에 들어가는 모든",
       "count": 1

@@ -762,6 +762,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "CJK文字集合(문자집합)들과의 互換性(호환성)을 保障(보장)하기 爲(위)해",
+      "count": 1
+    },
+    {
       "title": "IBM 셀렉트릭",
       "surrounding": "있으며 使用者(사용자)가 키보드를 치면",
       "count": 1

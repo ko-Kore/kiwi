@@ -22,6 +22,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "對(대)한 글字(자)(코드포인트)를 하나씩 따로",
+      "count": 1
+    },
+    {
       "title": "中國語 入力方式",
       "surrounding": "키에 한 字(자)씩 配當(배당)할",
       "count": 1

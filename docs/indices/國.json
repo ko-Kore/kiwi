@@ -1607,6 +1607,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "같은 글字(자)를 韓國語(한국어) 讀音(독음)",
+      "count": 1
+    },
+    {
       "title": "KTX",
       "surrounding": "넘겨줄 대상:韓國高速鐵道 ",
       "count": 1

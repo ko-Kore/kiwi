@@ -687,6 +687,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "樂(악)이라는 글字(자)가 있다 하면",
+      "count": 1
+    },
+    {
       "title": "IBM 셀렉트릭",
       "surrounding": "낼 수 있다 다른",
       "count": 1
