@@ -10,5 +10,6 @@
 </p>
 <h2><span id="ㄱㅘㄴㄹㅕㄴ_ㅁㅜㄴㅅㅓ"></span><span class="mw-headline" id=".E3.84.B1.E3.85.98.E3.84.B4.E3.84.B9.E3.85.95.E3.84.B4_.E3.85.81.E3.85.9C.E3.84.B4.E3.85.85.E3.85.93">ㄱㅘㄴㄹㅕㄴ ㅁㅜㄴㅅㅓ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%ED%92%80%EC%96%B4%EC%93%B0%EA%B8%B0&amp;action=edit&amp;section=3" title="부분 편집: ㄱㅘㄴㄹㅕㄴ ㅁㅜㄴㅅㅓ">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/%ED%95%9C%EA%B8%80%EC%A0%84%EC%9A%A9" class="mw-redirect" title="한글전용">ㅎㅏㄴㄱㅡㄹㅈㅓㄴㅛㅇ</a></li>
-<li><a href="/index.php?title=%EB%AA%A8%EC%95%84%EC%93%B0%EA%B8%B0&amp;action=edit&amp;redlink=1" class="new" title="모아쓰기 (없는 문서)">ㅁㅗㅏㅆㅡㄱㅣ</a></li></ul>
+<li><a href="/index.php?title=%EB%AA%A8%EC%95%84%EC%93%B0%EA%B8%B0&amp;action=edit&amp;redlink=1" class="new" title="모아쓰기 (없는 문서)">ㅁㅗㅏㅆㅡㄱㅣ</a></li>
+<li><a href="/index.php?title=%EA%B8%B0%EC%9A%B8%EC%97%AC_%ED%92%80%EC%96%B4%EC%93%B0%EA%B8%B0&amp;action=edit&amp;redlink=1" class="new" title="기울여 풀어쓰기 (없는 문서)">ㄱㅣㅜㄹㅕ ㅍㅜㄹㅓㅆㅡㄱㅣ</a></li></ul>
 </div></body></html>
