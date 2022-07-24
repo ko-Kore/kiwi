@@ -102,6 +102,11 @@
       "count": 1
     },
     {
+      "title": "分類:醫學 分野",
+      "surrounding": "넘겨줄 대상:分類:醫學分野 ",
+      "count": 1
+    },
+    {
       "title": "副次文化",
       "surrounding": "넘겨줄 대상:下位文化 ",
       "count": 1
@@ -364,6 +369,11 @@
     {
       "title": "甲骨文",
       "surrounding": "넘겨줄 대상:甲骨文字 ",
+      "count": 1
+    },
+    {
+      "title": "疾患",
+      "surrounding": "넘겨줄 대상:疾病 ",
       "count": 1
     },
     {

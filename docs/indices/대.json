@@ -1842,6 +1842,11 @@
       "count": 1
     },
     {
+      "title": "分類:醫學 分野",
+      "surrounding": "넘겨줄 대상:分類:醫學分野 ",
+      "count": 1
+    },
+    {
       "title": "分類:컴퓨터",
       "surrounding": "이 分類(분류)에 對(대)해서는 컴퓨터",
       "count": 1
@@ -2354,6 +2359,11 @@
     {
       "title": "甲骨文字",
       "surrounding": "發見(발견) 過程(과정)에 對(대)한 한",
+      "count": 1
+    },
+    {
+      "title": "疾患",
+      "surrounding": "넘겨줄 대상:疾病 ",
       "count": 1
     },
     {

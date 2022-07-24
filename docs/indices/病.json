@@ -87,6 +87,11 @@
       "count": 1
     },
     {
+      "title": "疾患",
+      "surrounding": "넘겨줄 대상:疾病 ",
+      "count": 1
+    },
+    {
       "title": "自害",
       "surrounding": "等(등) 다른 病(병)에 걸릴",
       "count": 1
