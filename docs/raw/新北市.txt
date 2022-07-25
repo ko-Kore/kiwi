@@ -9,6 +9,9 @@
 <td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:New_Taipei_City_seal.svg" class="image"><img alt="New Taipei City seal.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/New_Taipei_City_seal.svg/langko-200px-New_Taipei_City_seal.svg.png" decoding="async" width="200" height="216" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/New_Taipei_City_seal.svg/langko-300px-New_Taipei_City_seal.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/New_Taipei_City_seal.svg/langko-400px-New_Taipei_City_seal.svg.png 2x"></a>
 </td></tr>
 <tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Taiwan_ROC_political_division_map_New_Taipei_City.svg" class="image"><img alt="Taiwan ROC political division map New Taipei City.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Taiwan_ROC_political_division_map_New_Taipei_City.svg/langko-150px-Taiwan_ROC_political_division_map_New_Taipei_City.svg.png" decoding="async" width="150" height="212" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Taiwan_ROC_political_division_map_New_Taipei_City.svg/langko-225px-Taiwan_ROC_political_division_map_New_Taipei_City.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Taiwan_ROC_political_division_map_New_Taipei_City.svg/langko-300px-Taiwan_ROC_political_division_map_New_Taipei_City.svg.png 2x"></a>
+</td></tr>
+<tr>
 <th colspan="2"><ruby class="hanja grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -44,7 +47,7 @@
 <tr>
 <th><ruby class="hanja grade40"><rb>地域語</rb><rp>(</rp><rt>지역어</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E8%87%BA%E7%81%A3%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="臺灣語 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>臺灣語</rb><rp>(</rp><rt>대만어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%AE%A2%E5%AE%B6%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="客家語 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>客家語</rb><rp>(</rp><rt>객가어</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade42"><rb>官話</rb><rp>(</rp><rt>관화</rt><rp>)</rp></ruby>
+<td><a href="/wiki/%E8%87%BA%E7%81%A3%E8%AA%9E" title="臺灣語"><ruby class="hanja grade20"><rb>臺灣語</rb><rp>(</rp><rt>대만어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%AE%A2%E5%AE%B6%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="客家語 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>客家語</rb><rp>(</rp><rt>객가어</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade42"><rb>官話</rb><rp>(</rp><rt>관화</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
@@ -83,7 +86,6 @@
 <tr>
 <td colspan="2"><a rel="nofollow" class="external text" href="https://www.ntpc.gov.tw">홈페이지</a>
 </td></tr></tbody></table>
-<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%96%B0%E5%8C%97%E5%B8%82&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><b><ruby class="hanja grade62"><rb>新北市</rb><rp>(</rp><rt>신북시</rt><rp>)</rp></ruby></b>는 <a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>北部</rb><rp>(</rp><rt>북부</rt><rp>)</rp></ruby>에있는 <a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a> <ruby class="hanja grade50"><rb>最大</rb><rp>(</rp><rt>최대</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby>이다. <ruby class="hanja grade52"><rb>以前</rb><rp>(</rp><rt>이전</rt><rp>)</rp></ruby>에는 <ruby class="hanja grade30"><rb>臺北縣</rb><rp>(</rp><rt>대북현</rt><rp>)</rp></ruby>이라고 불리었다.
 </p>
 </div></body></html>
