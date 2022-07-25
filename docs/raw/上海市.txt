@@ -1,0 +1,110 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="2"><b><ruby class="hanja grade72"><rb>上海</rb><rp>(</rp><rt>상해</rt><rp>)</rp></ruby></b>
+</th></tr>
+<tr>
+<th colspan="2" style="background: #CDDEFF;"><ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby> (<a href="/index.php?title=%E7%9B%B4%E8%BD%84%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="直轄市 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby></a>)
+</th></tr>
+<tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_Shanghai_City.png" class="image"><img alt="Emblem of Shanghai City.png" src="/images/thumb/6/62/Emblem_of_Shanghai_City.png/200px-Emblem_of_Shanghai_City.png" decoding="async" width="200" height="185" srcset="/images/thumb/6/62/Emblem_of_Shanghai_City.png/300px-Emblem_of_Shanghai_City.png 1.5x, /images/6/62/Emblem_of_Shanghai_City.png 2x"></a>
+</td></tr>
+<tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Shanghai_in_China_(%2Ball_claims_hatched).svg" class="image"><img alt="Shanghai in China (+all claims hatched).svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Shanghai_in_China_%28%2Ball_claims_hatched%29.svg/langko-250px-Shanghai_in_China_%28%2Ball_claims_hatched%29.svg.png" decoding="async" width="250" height="199" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Shanghai_in_China_%28%2Ball_claims_hatched%29.svg/langko-375px-Shanghai_in_China_%28%2Ball_claims_hatched%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Shanghai_in_China_%28%2Ball_claims_hatched%29.svg/langko-500px-Shanghai_in_China_%28%2Ball_claims_hatched%29.svg.png 2x"></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>略稱</rb><rp>(</rp><rt>약칭</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade0"><rb>滬</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby><br><ruby class="hanja grade42"><rb>申</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_People%27s_Republic_of_China.svg" class="image"><img alt="Flag of the People's Republic of China.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-25px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-38px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-50px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x"></a> <a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%8F%AF%E6%9D%B1%E5%9C%B0%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="華東地區 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>華東地區</rb><rp>(</rp><rt>화동지구</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>上位行政區域</rb><rp>(</rp><rt>상위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>下位行政區域</rb><rp>(</rp><rt>하위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>16<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>市廳</rb><rp>(</rp><rt>시청</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade72"><rb>上海市</rb><rp>(</rp><rt>상해시</rt><rp>)</rp></ruby><a href="/index.php?title=%E9%BB%83%E6%B5%A6%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="黃浦區 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>黃浦區</rb><rp>(</rp><rt>황포구</rt><rp>)</rp></ruby></a><ruby class="hanja grade72"><rb>人民大道</rb><rp>(</rp><rt>인민대도</rt><rp>)</rp></ruby>200<ruby class="hanja grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby><a href="/index.php?title=%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%BB%88&amp;action=edit&amp;redlink=1" class="new" title="人民大廈 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>人民大廈</rb><rp>(</rp><rt>인민대하</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade50"><rb>最高責任者</rb><rp>(</rp><rt>최고책임자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%9D%8E%E5%BC%B7&amp;action=edit&amp;redlink=1" class="new" title="李強 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>李強</rb><rp>(</rp><rt>이강</rt><rp>)</rp></ruby></a> (<ruby class="hanja grade40"><rb>市委員會書記</rb><rp>(</rp><rt>시위원회서기</rt><rp>)</rp></ruby>, <a href="/wiki/%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A3%E9%BB%A8" title="中國共産黨"><ruby class="hanja grade42"><rb>中國共産黨</rb><rp>(</rp><rt>중국공산당</rt><rp>)</rp></ruby></a>) <br> <a href="/index.php?title=%E9%BE%94%E6%AD%A3&amp;action=edit&amp;redlink=1" class="new" title="龔正 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>龔正</rb><rp>(</rp><rt>공정</rt><rp>)</rp></ruby></a> (<ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>, <a href="/wiki/%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A3%E9%BB%A8" title="中國共産黨"><ruby class="hanja grade42"><rb>中國共産黨</rb><rp>(</rp><rt>중국공산당</rt><rp>)</rp></ruby></a>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>地域語</rb><rp>(</rp><rt>지역어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E4%B8%8A%E6%B5%B7%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="上海語 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>上海語</rb><rp>(</rp><rt>상해어</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>24,894,300<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>3,854<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>6,340.5km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade32"><rb>海拔</rb><rp>(</rp><rt>해발</rt><rp>)</rp></ruby>
+</th>
+<td>4m
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>市木</rb><rp>(</rp><rt>시목</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>市花</rb><rp>(</rp><rt>시화</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%99%BD%E6%9C%A8%E8%93%AE&amp;action=edit&amp;redlink=1" class="new" title="白木蓮 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>白木蓮</rb><rp>(</rp><rt>백목련</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>市鳥</rb><rp>(</rp><rt>시조</rt><rp>)</rp></ruby>
+</th>
+<td>없음
+</td></tr>
+<tr>
+<td colspan="2"><a rel="nofollow" class="external text" href="http://www.shanghai.gov.cn/">홈페이지</a>
+</td></tr></tbody></table>
+<p><b><ruby class="hanja grade72"><rb>上海市</rb><rp>(</rp><rt>상해시</rt><rp>)</rp></ruby></b>는 <a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade10"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby>이다. <ruby class="hanja grade60"><rb>強力</rb><rp>(</rp><rt>강력</rt><rp>)</rp></ruby>한 <ruby class="hanja grade50"><rb>世界都市</rb><rp>(</rp><rt>세계도시</rt><rp>)</rp></ruby>이며 <ruby class="hanja grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>의 <a href="/index.php?title=%E9%A0%AD%E8%85%A6%E9%9B%86%E5%9C%98&amp;action=edit&amp;redlink=1" class="new" title="頭腦集團 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>頭腦集團</rb><rp>(</rp><rt>두뇌집단</rt><rp>)</rp></ruby></a>가 2021<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>에 <ruby class="hanja grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby>한 <ruby class="hanja grade20"><rb>綜合的</rb><rp>(</rp><rt>종합적</rt><rp>)</rp></ruby>인 <ruby class="hanja grade50"><rb>世界都市順位表</rb><rp>(</rp><rt>세계도시순위표</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade62"><rb>世界</rb><rp>(</rp><rt>세계</rt><rp>)</rp></ruby>10<ruby class="hanja grade50"><rb>位</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby>로 <ruby class="hanja grade40"><rb>評價</rb><rp>(</rp><rt>평가</rt><rp>)</rp></ruby>됐다.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja grade12"><rb>吳語</rb><rp>(</rp><rt>오어</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>蘇滬嘉小片</rb><rp>(</rp><rt>소호가소편</rt><rp>)</rp></ruby>에 <ruby class="hanja grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>합니다.</span>
+</li>
+</ol></div>
+</div></body></html>

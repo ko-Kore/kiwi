@@ -1,0 +1,30 @@
+{
+  "word": "海拔",
+  "pages": [
+    {
+      "title": "上海市",
+      "surrounding": "340 5km² 海拔(해발) 4m",
+      "count": 1
+    },
+    {
+      "title": "伯林",
+      "surrounding": "891 7km² 海拔(해발) 34m",
+      "count": 1
+    },
+    {
+      "title": "巴里",
+      "surrounding": "105 4km² 海拔(해발) 28",
+      "count": 1
+    },
+    {
+      "title": "釜山廣域市",
+      "surrounding": "770 10km² 海拔(해발) 25m",
+      "count": 1
+    },
+    {
+      "title": "서울特別市",
+      "surrounding": "605 2km² 海拔(해발) 38m",
+      "count": 1
+    }
+  ]
+}
