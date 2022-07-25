@@ -2,6 +2,11 @@
   "word": "辱",
   "pages": [
     {
+      "title": "ㅽ",
+      "surrounding": "ㅽ은 辱說(욕설)을 할",
+      "count": 1
+    },
+    {
       "title": "世界人權宣言",
       "surrounding": "殘酷(잔혹)하거나 非(비)人道(인도)的(적)이거나 屈辱的(굴욕적)인 處遇(처우)",
       "count": 1
@@ -29,6 +34,11 @@
     {
       "title": "漢文 敎育用 基礎 漢字",
       "surrounding": "욕) • 辱(욕) (욕보일",
+      "count": 1
+    },
+    {
+      "title": "ꥵ",
+      "surrounding": "ꥵ은 辱說(욕설)을 할",
       "count": 1
     }
   ]

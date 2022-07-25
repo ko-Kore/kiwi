@@ -2222,6 +2222,26 @@
       "count": 1
     },
     {
+      "title": "ㅳ",
+      "surrounding": "따서 한 글字(자)로 壓縮(압축)한",
+      "count": 1
+    },
+    {
+      "title": "ㅵ",
+      "surrounding": "따서 한 글字(자)로 壓縮(압축)한",
+      "count": 1
+    },
+    {
+      "title": "ㅽ",
+      "surrounding": "더 强(강)한 버전으로는 ꥵ이",
+      "count": 1
+    },
+    {
+      "title": "ㆆ",
+      "surrounding": "ㆆ은 0으로 나누기를",
+      "count": 1
+    },
+    {
       "title": "三",
       "surrounding": "3을 나타내는 한자로 指事文字(지사문자)이다",
       "count": 1
@@ -2769,6 +2789,11 @@
     {
       "title": "高",
       "surrounding": "高度(고도) 高等學校(고등학교) 高速道路(고속도로) 日本語(일본어)[편집]",
+      "count": 1
+    },
+    {
+      "title": "ꥵ",
+      "surrounding": "더 弱(약)한 버전으로는 ㅽ이",
       "count": 1
     },
     {

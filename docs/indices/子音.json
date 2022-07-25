@@ -22,6 +22,16 @@
       "count": 2
     },
     {
+      "title": "ㅽ",
+      "surrounding": "쓰는 한글 子音(자음)이다 더",
+      "count": 1
+    },
+    {
+      "title": "ㆆ",
+      "surrounding": "쓰는 한글 子音(자음)이다 ",
+      "count": 1
+    },
+    {
       "title": "日本語",
       "surrounding": "基本(기본)母音(모음)은 五種(오종)에 子音(자음)은 十種(십종)으로",
       "count": 1
@@ -34,6 +44,11 @@
     {
       "title": "韓國語 入力方式",
       "surrounding": "한글 字素(자소)가 子音(자음)과 母音(모음)으로",
+      "count": 1
+    },
+    {
+      "title": "ꥵ",
+      "surrounding": "쓰는 한글 子音(자음)이다 더",
       "count": 1
     },
     {
