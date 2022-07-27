@@ -1,0 +1,50 @@
+{
+  "word": "하나를",
+  "pages": [
+    {
+      "title": "文書",
+      "surrounding": "하나當(당) 文書(문서) 하나를 만든다",
+      "count": 1
+    },
+    {
+      "title": "琉球國",
+      "surrounding": "國名(국명)으로 다음中(중) 하나를 가리킨다",
+      "count": 1
+    },
+    {
+      "title": "繪文字",
+      "surrounding": "組合(조합)으로 글字(자) 하나를 나타내는",
+      "count": 1
+    },
+    {
+      "title": "韓國語 入力方式",
+      "surrounding": "該當(해당)하는 한글音節(음절) 하나를 漢字(한자)",
+      "count": 1
+    },
+    {
+      "title": "고다마 (列車)",
+      "surrounding": "愛稱(애칭)으로 다음中(중) 하나를 가리킨다",
+      "count": 1
+    },
+    {
+      "title": "마인크래프트",
+      "surrounding": "모드 中(중) 하나를 選擇(선택)해서",
+      "count": 1
+    },
+    {
+      "title": "미디어위키",
+      "surrounding": "PostgreSQL 中(중) 하나를 選擇(선택)하여",
+      "count": 1
+    },
+    {
+      "title": "애니메이션 밈",
+      "surrounding": "이미지 하나 하나를 움직일",
+      "count": 1
+    },
+    {
+      "title": "히치콕 (요루시카)",
+      "surrounding": "어째서일까요 線(선) 하나를 빼면",
+      "count": 1
+    }
+  ]
+}
