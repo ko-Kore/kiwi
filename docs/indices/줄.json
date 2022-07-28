@@ -932,6 +932,11 @@
       "count": 1
     },
     {
+      "title": "쿼티",
+      "surrounding": "넘겨줄 대상:QWERTY",
+      "count": 1
+    },
+    {
       "title": "태풍",
       "surrounding": "넘겨줄 대상:颱風",
       "count": 1
