@@ -52,6 +52,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "等(등) 一部(일부) 應用(응용)프로그램에서 基本(기본)으로",
+      "count": 1
+    },
+    {
       "title": "CJK統合漢字",
       "surrounding": "漢字(한자)코드들을 Unihan 프로젝트를 通(통)해",
       "count": 1

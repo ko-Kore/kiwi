@@ -82,6 +82,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "處理(처리)하더라도 基本的(기본적)으로 모든 互換用漢字(호환용한자)는",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "‘TYPEWRITER’에 들어가는 모든 글字(자)가",
       "count": 1
