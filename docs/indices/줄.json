@@ -332,6 +332,11 @@
       "count": 1
     },
     {
+      "title": "新字体",
+      "surrounding": "넘겨줄 대상:新字體",
+      "count": 1
+    },
+    {
       "title": "日圓",
       "surrounding": "넘겨줄 대상:圓",
       "count": 1
@@ -483,7 +488,7 @@
     },
     {
       "title": "簡化字",
-      "surrounding": "劃數(획수)를 조금이라도 줄이기 爲(위)해",
+      "surrounding": "划数(화수)를 조금이라도 줄이기 为(위)해",
       "count": 1
     },
     {
