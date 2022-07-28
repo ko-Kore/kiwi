@@ -1067,6 +1067,11 @@
       "count": 4
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "같은 글字(자)를 韓國語(한국어) 讀音(독음) ... 없지만 日本語(일본어)나 中國語(중국어) 폰트를",
+      "count": 3
+    },
+    {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot regime(外國(외국) 당근 ... 外国(외국): foreign (外國(외국)) 人参(인참):",
       "count": 3
@@ -1654,11 +1659,6 @@
     {
       "title": "6.25戰爭",
       "surrounding": "넘겨줄 대상:韓國戰爭 ",
-      "count": 1
-    },
-    {
-      "title": "CJK互換用漢字",
-      "surrounding": "같은 글字(자)를 韓國語(한국어) 讀音(독음)",
       "count": 1
     },
     {

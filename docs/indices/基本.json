@@ -72,6 +72,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "適用(적용)시키면 互換用漢字(호환용한자)만 基本(기본)(폴백) 폰트로",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "쓰이는 글字(자)가 基本(기본)자리로부터 멀리",
       "count": 1

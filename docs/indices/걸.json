@@ -77,6 +77,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "檢索(검색)해선 結果(결과)에 걸리지 않는다",
+      "count": 1
+    },
+    {
       "title": "QWERTY",
       "surrounding": "配定(배정)되어 있다는 걸로 보아",
       "count": 1

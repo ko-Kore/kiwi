@@ -227,6 +227,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "變換(변환)해서 檢索(검색)해선 結果(결과)에 걸리지",
+      "count": 1
+    },
+    {
       "title": "KTX-이음",
       "surrounding": "붙여 'KTX-이음'으로 決定(결정)되었다 [1]",
       "count": 1

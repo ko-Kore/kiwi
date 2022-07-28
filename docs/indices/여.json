@@ -832,6 +832,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "숨어있게 되어 여러 問題(문제)가",
+      "count": 1
+    },
+    {
       "title": "CJK統合漢字",
       "surrounding": "프로젝트를 通(통)해 統合(통합)하여 붙은",
       "count": 1

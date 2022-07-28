@@ -757,6 +757,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "여러 問題(문제)가 發生(발생)한다 檢索(검색)을",
+      "count": 1
+    },
+    {
       "title": "IBM 셀렉트릭",
       "surrounding": "Typewriter)는 IBM이 開發(개발)하고 販賣(판매)한",
       "count": 1
