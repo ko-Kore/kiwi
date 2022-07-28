@@ -1,0 +1,10 @@
+<html><head></head><body><div class="mw-parser-output"><p><b>자지 않는 진흙 우물</b>은 <a href="/index.php?title=%EB%84%A8%EB%8F%84%EB%A1%9C%EC%9D%B4%EB%93%9C&amp;action=edit&amp;redlink=1" class="new" title="넨도로이드 (없는 문서)">넨도로이드</a>(ねんどろいど)를 뜻한다. ねんどろいど를 <a href="/index.php?title=%E9%A3%9C%E8%AD%AF%E6%A9%9F&amp;action=edit&amp;redlink=1" class="new" title="飜譯機 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>飜譯機</rb><rp>(</rp><rt>번역기</rt><rp>)</rp></ruby></a>에 돌리면 이렇게 <a href="/index.php?title=%E9%A3%9C%E8%AD%AF&amp;action=edit&amp;redlink=1" class="new" title="飜譯 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>飜譯</rb><rp>(</rp><rt>번역</rt><rp>)</rp></ruby></a>되는 <ruby class="hanja grade40"><rb>境遇</rb><rp>(</rp><rt>경우</rt><rp>)</rp></ruby>가 있다.
+</p>
+<h2><span id="分析(분석)"></span><span class="mw-headline" id=".E5.88.86.E6.9E.90.28.EB.B6.84.EC.84.9D.29"><ruby class="hanja grade30"><rb>分析</rb><rp>(</rp><rt>분석</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%9E%90%EC%A7%80_%EC%95%8A%EB%8A%94_%EC%A7%84%ED%9D%99_%EC%9A%B0%EB%AC%BC&amp;action=edit&amp;section=1" title="부분 편집: 分析(분석)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>ね(<ruby class="hanja grade0"><rb>寝</rb><rp>(</rp><rt>침</rt><rp>)</rp></ruby>): 자-</li>
+<li>ん: -지 않는</li>
+<li>どろ(<ruby class="hanja grade32"><rb>泥</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>): <a href="/index.php?title=%EC%A7%84%ED%9D%99&amp;action=edit&amp;redlink=1" class="new" title="진흙 (없는 문서)">진흙</a></li>
+<li>いど(<ruby class="hanja grade0"><rb>井戸</rb><rp>(</rp><rt>정호</rt><rp>)</rp></ruby>): <a href="/index.php?title=%EC%9A%B0%EB%AC%BC&amp;action=edit&amp;redlink=1" class="new" title="우물 (없는 문서)">우물</a></li></ul>
+<p>따라서 딱히 <ruby class="hanja grade62"><rb>問題</rb><rp>(</rp><rt>문제</rt><rp>)</rp></ruby> 있는 <ruby class="hanja grade30"><rb>飜譯</rb><rp>(</rp><rt>번역</rt><rp>)</rp></ruby>은 아니라고 할 수 있을지도 모른다.
+</p>
+</div></body></html>
