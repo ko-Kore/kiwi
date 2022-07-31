@@ -78,7 +78,7 @@
     },
     {
       "title": "新字體",
-      "surrounding": " 新字體로 쓴 漢字(한자)",
+      "surrounding": " 新字体로 쓴 漢字(한자)",
       "count": 1
     },
     {
@@ -99,6 +99,11 @@
     {
       "title": "海雲臺區",
       "surrounding": "이게 崔致遠(최치원)이 쓴 것이라",
+      "count": 1
+    },
+    {
+      "title": "簡化字",
+      "surrounding": " 简化字로 쓴 汉字(한자)",
       "count": 1
     },
     {
