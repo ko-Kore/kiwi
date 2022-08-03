@@ -135,6 +135,7 @@
 <li class="toclevel-1 tocsection-4"><a href="#.ED.8C.8C.EC.9D.B4.ED.94.84_.ED.8A.B8.EB.A6.AD"><span class="tocnumber">4</span> <span class="toctext">파이프 트릭</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#.ED.85.8C.EC.8A.A4.ED.8A.B8"><span class="tocnumber">5</span> <span class="toctext">테스트</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#.E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><span class="tocnumber">6</span> <span class="toctext">日本語(일본어)</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29.3F"><span class="tocnumber">7</span> <span class="toctext">中國語(중국어)?</span></a></li>
 </ul>
 </div>
 <h2><span id="分岐(분기)_鍊習(연습)"></span><span class="mw-headline" id=".E5.88.86.E5.B2.90.28.EB.B6.84.EA.B8.B0.29_.E9.8D.8A.E7.BF.92.28.EC.97.B0.EC.8A.B5.29"><ruby class="hanja grade12"><rb>分岐</rb><rp>(</rp><rt>분기</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>鍊習</rb><rp>(</rp><rt>연습</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=1" title="부분 편집: 分岐(분기) 鍊習(연습)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -165,7 +166,7 @@
 <th colspan="4"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td colspan="4" style="font-size: 4em; line-height: 120%;"><span class="noruby"></span> <span class="noruby"><ruby class="hanja grade80"><rb>校</rb><rp>(</rp><rt>교</rt><rp>)</rp></ruby></span>
+<td colspan="4" style="font-size: 4em; line-height: 120%;"> 校
 </td></tr>
 <tr>
 <th><ruby class="hanja grade62"><rb>音讀</rb><rp>(</rp><rt>음독</rt><rp>)</rp></ruby>
@@ -193,5 +194,67 @@
 </td></tr>
 <tr>
 <td colspan="4" style="text-align: center;">-
+</td></tr></tbody></table>
+<h2><span id="中國語(중국어)?"></span><span class="mw-headline" id=".E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29.3F"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby>?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=7" title="부분 편집: 中國語(중국어)?">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td>
+</td>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td></tr>
+<tr>
+<td>1
+</td></tr>
+<tr>
+<td>2
+</td></tr>
+<tr>
+<td>3
+</td></tr>
+<tr>
+<td>4
+</td></tr>
+<tr>
+<td>5
+</td></tr>
+<tr>
+<td>6
+</td></tr>
+<tr>
+<td>7
 </td></tr></tbody></table>
 </div></body></html>
