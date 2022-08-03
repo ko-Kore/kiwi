@@ -439,7 +439,7 @@
 </td>
 <td><ruby class="hanja grade0"><rb>鉝</rb><rp>(</rp><rt>입</rt><rp>)</rp></ruby>
 </td>
-<td><ruby class="hanja grade0"><rb>畐</rb><rp>(</rp><rt>복</rt><rp>)</rp></ruby>
+<td>鿬
 </td>
 <td>鿫
 </td></tr>
