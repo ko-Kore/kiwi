@@ -196,7 +196,7 @@
 <td colspan="4" style="text-align: center;">-
 </td></tr></tbody></table>
 <h2><span id="中國語(중국어)?"></span><span class="mw-headline" id=".E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29.3F"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby>?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=7" title="부분 편집: 中國語(중국어)?">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable">
+<table class="wikitable" style="width: 100%;">
 <tbody><tr>
 <td>
 </td>
