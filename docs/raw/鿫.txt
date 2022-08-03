@@ -1,0 +1,6 @@
+<html><head></head><body><div class="mw-parser-output"><p><b>鿫</b>는 <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>에서 118<ruby class="hanja grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby> <a href="/index.php?title=%E5%85%83%E7%B4%A0&amp;action=edit&amp;redlink=1" class="new" title="元素 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>元素</rb><rp>(</rp><rt>원소</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%EC%98%A4%EA%B0%80%EB%84%A4%EC%86%90&amp;action=edit&amp;redlink=1" class="new" title="오가네손 (없는 문서)">오가네손</a>(oganesson)을 나타내는 <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a>이다.
+</p>
+<ul><li><ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>: ⿹<ruby class="hanja grade0"><rb>气奥</rb><rp>(</rp><rt>기오</rt><rp>)</rp></ruby></li>
+<li><a href="/wiki/%E6%A8%99%E6%BA%96%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="標準中國語"><ruby class="hanja grade40"><rb>標準中國語</rb><rp>(</rp><rt>표준중국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby>: ào</li>
+<li><a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a>: U+9FEB</li></ul>
+</div></body></html>
