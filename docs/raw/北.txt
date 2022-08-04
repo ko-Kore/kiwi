@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
 <tbody><tr>
-<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby></span>
+<td colspan="4" style="font-size: 5em; line-height: 120%;">北
 </td></tr>
 <tr>
 <th colspan="4">북녘 북 <br> 달아날 배
@@ -8,7 +8,7 @@
 <tr>
 <th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
 </th>
-<td><span class="noruby"><ruby class="hanja grade10"><rb>匕</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby></span>
+<td>匕
 </td>
 <th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
 </th>
@@ -32,44 +32,42 @@
 <td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>8<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
+<p><ruby class="hanja grade50"><rb>方位</rb><rp>(</rp><rt>방위</rt><rp>)</rp></ruby>를 나타내는 <a href="/wiki/%E6%9D%B1" title="東"><ruby class="hanja grade80"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby></a><a href="/wiki/%E8%A5%BF" title="西"><ruby class="hanja grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby></a><a href="/wiki/%E5%8D%97" title="南"><ruby class="hanja grade80"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby></a><a class="mw-selflink selflink">北</a> <ruby class="hanja grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby>의 하나로 <ruby class="hanja grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>녘을 뜻하며 '달아난다'라는 뜻도 있다. <a href="/wiki/%E5%8C%97%E9%9F%93" title="北韓"><ruby class="hanja grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade40"><rb>略稱</rb><rp>(</rp><rt>약칭</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade42"><rb>言論</rb><rp>(</rp><rt>언론</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하기도 한다.
+</p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#.E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#.E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><span class="tocnumber">2</span> <span class="toctext">用例(용례)</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#.E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><span class="tocnumber">3</span> <span class="toctext">日本語(일본어)</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#.E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><span class="tocnumber">1</span> <span class="toctext">用例(용례)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><span class="tocnumber">2</span> <span class="toctext">日本語(일본어)</span></a>
 <ul>
-<li class="toclevel-2 tocsection-4"><a href="#.E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29"><span class="tocnumber">3.1</span> <span class="toctext">發音(발음)</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29"><span class="tocnumber">2.1</span> <span class="toctext">發音(발음)</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-5"><a href="#.E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29"><span class="tocnumber">4</span> <span class="toctext">中國語(중국어)</span></a>
+<li class="toclevel-1 tocsection-4"><a href="#.E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29"><span class="tocnumber">3</span> <span class="toctext">中國語(중국어)</span></a>
 <ul>
-<li class="toclevel-2 tocsection-6"><a href="#.E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_2"><span class="tocnumber">4.1</span> <span class="toctext">發音(발음)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_2"><span class="tocnumber">3.1</span> <span class="toctext">發音(발음)</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-7"><a href="#.E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"><span class="tocnumber">5</span> <span class="toctext">越南語(월남어)</span></a>
+<li class="toclevel-1 tocsection-6"><a href="#.E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"><span class="tocnumber">4</span> <span class="toctext">越南語(월남어)</span></a>
 <ul>
-<li class="toclevel-2 tocsection-8"><a href="#.E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_3"><span class="tocnumber">5.1</span> <span class="toctext">發音(발음)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_3"><span class="tocnumber">4.1</span> <span class="toctext">發音(발음)</span></a></li>
 </ul>
 </li>
 </ul>
 </div>
-<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><ruby class="hanja grade50"><rb>方位</rb><rp>(</rp><rt>방위</rt><rp>)</rp></ruby>를 나타내는 <a href="/wiki/%E6%9D%B1" title="東"><ruby class="hanja grade80"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby></a><a href="/wiki/%E8%A5%BF" title="西"><ruby class="hanja grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby></a><a href="/wiki/%E5%8D%97" title="南"><ruby class="hanja grade80"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby></a><a class="mw-selflink selflink">北</a> <ruby class="hanja grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby>의 하나로 <ruby class="hanja grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>녘을 뜻하며 '달아난다'라는 뜻도 있다. <a href="/wiki/%E5%8C%97%E9%9F%93" title="北韓"><ruby class="hanja grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade40"><rb>略稱</rb><rp>(</rp><rt>약칭</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade42"><rb>言論</rb><rp>(</rp><rt>언론</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하기도 한다.
-</p>
-<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=1" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/index.php?title=%E6%9D%B1%E8%A5%BF%E5%8D%97%E5%8C%97&amp;action=edit&amp;redlink=1" class="new" title="東西南北 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>東西南北</rb><rp>(</rp><rt>동서남북</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E5%8D%97%E5%8C%97&amp;action=edit&amp;redlink=1" class="new" title="南北 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>南北</rb><rp>(</rp><rt>남북</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F&amp;action=edit&amp;redlink=1" class="new" title="北斗七星 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>北斗七星</rb><rp>(</rp><rt>북두칠성</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E5%8C%97%E5%8D%8A%E7%90%83&amp;action=edit&amp;redlink=1" class="new" title="北半球 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>北半球</rb><rp>(</rp><rt>북반구</rt><rp>)</rp></ruby></a></li></ul>
-<h2><span id="日本語(일본어)"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=3" title="부분 편집: 日本語(일본어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span id="發音(발음)"></span><span class="mw-headline" id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29"><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=4" title="부분 편집: 發音(발음)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span id="日本語(일본어)"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.AA.9E.28.EC.9D.BC.EB.B3.B8.EC.96.B4.29"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=2" title="부분 편집: 日本語(일본어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="發音(발음)"></span><span class="mw-headline" id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29"><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=3" title="부분 편집: 發音(발음)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <ul><li>음독&nbsp;: ホク</li>
 <li>훈독&nbsp;: きた</li></ul>
-<h2><span id="中國語(중국어)"></span><span class="mw-headline" id=".E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=5" title="부분 편집: 中國語(중국어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span id="發音(발음)_2"></span><span class="mw-headline" id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_2"><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=6" title="부분 편집: 發音(발음)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> <ruby class="hanja grade20"><rb>倂音</rb><rp>(</rp><rt>병음</rt><rp>)</rp></ruby>&nbsp;: běi</li>
+<h2><span id="中國語(중국어)"></span><span class="mw-headline" id=".E4.B8.AD.E5.9C.8B.E8.AA.9E.28.EC.A4.91.EA.B5.AD.EC.96.B4.29"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=4" title="부분 편집: 中國語(중국어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="發音(발음)_2"></span><span class="mw-headline" id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_2"><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=5" title="부분 편집: 發音(발음)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> <ruby class="hanja grade0"><rb>拼音</rb><rp>(</rp><rt>평음</rt><rp>)</rp></ruby>&nbsp;: běi</li>
 <li><a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>注音</rb><rp>(</rp><rt>주음</rt><rp>)</rp></ruby>&nbsp;: ㄅㄟˇ</li></ul>
-<h2><span id="越南語(월남어)"></span><span class="mw-headline" id=".E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"><ruby class="hanja grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=7" title="부분 편집: 越南語(월남어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span id="發音(발음)_3"></span><span class="mw-headline" id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_3"><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=8" title="부분 편집: 發音(발음)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span id="越南語(월남어)"></span><span class="mw-headline" id=".E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"><ruby class="hanja grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=6" title="부분 편집: 越南語(월남어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="發音(발음)_3"></span><span class="mw-headline" id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_3"><ruby class="hanja grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8C%97&amp;action=edit&amp;section=7" title="부분 편집: 發音(발음)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <ul><li><a href="/wiki/%F0%A1%A8%B8%E5%9C%8B%E8%AA%9E" title="𡨸國語"><ruby class="hanja grade0"><rb>𡨸國語</rb><rp>(</rp><rt>자국어</rt><rp>)</rp></ruby></a>&nbsp;: bắc</li></ul>
 </div></body></html>
