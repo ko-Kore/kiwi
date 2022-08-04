@@ -1,0 +1,11 @@
+<html><head></head><body><div class="mw-parser-output"><pre class="mw-code mw-css" dir="ltr">/* Covers most text */  
+body { 
+    font-family: "Source Han Sans K", sans-serif 
+} 
+ 
+/* Covers some headers */  
+.mw-body h1, .mw-body h2 { 
+    font-family: "Source Han Serif K", serif  
+}
+</pre>
+</div></body></html>
