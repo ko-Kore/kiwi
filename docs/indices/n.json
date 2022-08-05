@@ -82,6 +82,11 @@
       "count": 13
     },
     {
+      "title": "標準中國語",
+      "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는 ... 𰻝/𰻞(biáng) 哏(근)(gén) 咱(찰)(zán)을 除外(제외)하면",
+      "count": 12
+    },
+    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "Wǒ ài Běijīng Tiān’ānmén ... wǒmen xiàng qiánjìn 우리를",
       "count": 11
@@ -754,11 +759,6 @@
     {
       "title": "森喜朗",
       "surrounding": "森喜朗(삼희랑)은 英國(영국)首相(수상)토니 블레어(Tony Blair)와의會談中(회담중)",
-      "count": 1
-    },
-    {
-      "title": "標準中國語",
-      "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는",
       "count": 1
     },
     {

@@ -282,6 +282,11 @@
       "count": 2
     },
     {
+      "title": "標準中國語",
+      "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는 ... g j zh z",
+      "count": 2
+    },
+    {
       "title": "水",
       "surrounding": "병음 : shuǐ 國語(국어) ... 𡨸國語(자국어) : thuỷ ",
       "count": 2
@@ -504,11 +509,6 @@
     {
       "title": "校",
       "surrounding": ": đắng hiệu ",
-      "count": 1
-    },
-    {
-      "title": "標準中國語",
-      "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는",
       "count": 1
     },
     {

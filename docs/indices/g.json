@@ -82,6 +82,11 @@
       "count": 6
     },
     {
+      "title": "標準中國語",
+      "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는 ... 甭(봉)(béng) 𰻝/𰻞(biáng) 哏(근)(gén) 咱(찰)(zán)을",
+      "count": 6
+    },
+    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "Wǒ ài Běijīng Tiān’ānmén ... Zhǐyǐn wǒmen xiàng qiánjìn",
       "count": 6
@@ -389,11 +394,6 @@
     {
       "title": "校",
       "surrounding": "𡨸國語(자국어) : đắng hiệu",
-      "count": 1
-    },
-    {
-      "title": "標準中國語",
-      "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는",
       "count": 1
     },
     {

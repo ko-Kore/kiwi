@@ -97,6 +97,11 @@
       "count": 1
     },
     {
+      "title": "標準中國語",
+      "surrounding": "d g j zh",
+      "count": 1
+    },
+    {
       "title": "漢字文化圈",
       "surrounding": "漢字(한자)(ㄏㄢ˪ ㆢㄧ˫) 漢字(한자)(Hàn-jī) 漢(한)(hon)字(자)(sii)",
       "count": 1
