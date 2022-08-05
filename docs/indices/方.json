@@ -850,6 +850,11 @@
       "title": "하프라이프",
       "surrounding": "+ WASD 操作方式(조작방식)을 처음으로",
       "count": 1
+    },
+    {
+      "title": "𭤨",
+      "surrounding": "쓰인다 構成(구성): ⿰方(방)𠂉 유니코드:",
+      "count": 1
     }
   ]
 }
