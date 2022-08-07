@@ -555,6 +555,11 @@
       "title": "유로 트럭 시뮬레이터 2",
       "surrounding": "적이 있는 都市(도시) 어디서든",
       "count": 1
+    },
+    {
+      "title": "𥖨",
+      "surrounding": "𥖨里 𥖨下 𥖨都’에 쓰이는",
+      "count": 1
     }
   ]
 }

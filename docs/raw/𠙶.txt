@@ -1,0 +1,7 @@
+<html><head></head><body><div class="mw-parser-output"><p><b>𠙶</b>는 <a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E5%AE%89%E5%BE%BD%E7%9C%81&amp;action=edit&amp;redlink=1" class="new" title="安徽省 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>安徽省</rb><rp>(</rp><rt>안휘성</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade72"><rb>山名</rb><rp>(</rp><rt>산명</rt><rp>)</rp></ruby> 및 <ruby class="hanja grade70"><rb>地名</rb><rp>(</rp><rt>지명</rt><rp>)</rp></ruby> ‘<span lang="zh">𠙶山</span>’에 쓰이는 <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a>이다.
+</p>
+<ul><li><ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>: ⿶<ruby class="hanja grade0"><rb>凵了</rb><rp>(</rp><rt>감료</rt><rp>)</rp></ruby></li>
+<li><a href="/wiki/%E6%A8%99%E6%BA%96%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="標準中國語"><ruby class="hanja grade40"><rb>標準中國語</rb><rp>(</rp><rt>표준중국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby>: ǒu</li>
+<li><a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a>: U+20676</li>
+<li><a href="/wiki/%E9%80%9A%E7%94%A8%E8%A6%8F%E7%AF%84%E6%BC%A2%E5%AD%97%E8%A1%A8" title="通用規範漢字表"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby></a>: 6506</li></ul>
+</div></body></html>
