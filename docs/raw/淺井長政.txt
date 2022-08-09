@@ -1,0 +1,154 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>淺井長政</rb><rp>(</rp><rt>천정장정</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Azai-Nagamasa-cropped.jpg" class="image"><img alt="Azai-Nagamasa-cropped.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Azai-Nagamasa-cropped.jpg/144px-Azai-Nagamasa-cropped.jpg" decoding="async" width="144" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Azai-Nagamasa-cropped.jpg/216px-Azai-Nagamasa-cropped.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Azai-Nagamasa-cropped.jpg/289px-Azai-Nagamasa-cropped.jpg 2x"></a><br><center><ruby class="hanja grade32"><rb>淺井長政</rb><rp>(</rp><rt>천정장정</rt><rp>)</rp></ruby>의 <ruby class="hanja grade32"><rb>肖像</rb><rp>(</rp><rt>초상</rt><rp>)</rp></ruby><br>(<ruby class="hanja grade60"><rb>高野山</rb><rp>(</rp><rt>고야산</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>持明院</rb><rp>(</rp><rt>지명원</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>所藏</rb><rp>(</rp><rt>소장</rt><rp>)</rp></ruby>)</center>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja grade32"><rb>家紋</rb><rp>(</rp><rt>가문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg" class="image"><img alt="Japanese Crest mitumori Kikkou ni Hanabishi.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg/langko-160px-Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg/langko-240px-Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg/langko-320px-Japanese_Crest_mitumori_Kikkou_ni_Hanabishi.svg.png 2x"></a><br><center><ruby class="hanja grade30"><rb>三盛龜甲</rb><rp>(</rp><rt>삼성구갑</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>과 <ruby class="hanja grade10"><rb>唐花菱</rb><rp>(</rp><rt>당화릉</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></center>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>家名</rb><rp>(</rp><rt>가명</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade32"><rb>淺井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>通稱</rb><rp>(</rp><rt>통칭</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade32"><rb>新九郞</rb><rp>(</rp><rt>신구랑</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>氏</rb><rp>(</rp><rt>씨</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade20"><rb>藤原</rb><rp>(</rp><rt>등원</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>姓</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade52"><rb>朝臣</rb><rp>(</rp><rt>조신</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade10"><rb>諱</rb><rp>(</rp><rt>휘</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>賢政</rb><rp>(</rp><rt>현정</rt><rp>)</rp></ruby>→<ruby class="hanja grade42"><rb>長政</rb><rp>(</rp><rt>장정</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade62"><rb>時代</rb><rp>(</rp><rt>시대</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade62"><rb>戰國時代</rb><rp>(</rp><rt>전국시대</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%A4%A9%E6%96%87_(%E5%B9%B4%E8%99%9F)&amp;action=edit&amp;redlink=1" class="new" title="天文 (年號) (없는 문서)"><ruby class="hanja grade70 unknown"><rb>天文</rb><rp>(</rp><rt>천문</rt><rp>)</rp></ruby></a><ruby class="hanja grade80"><rb>十四年</rb><rp>(</rp><rt>십사년</rt><rp>)</rp></ruby> (1545<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E8%BF%91%E6%B1%9F%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="近江國 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>近江國</rb><rp>(</rp><rt>근강국</rt><rp>)</rp></ruby></a><ruby class="hanja grade42"><rb>觀音寺城</rb><rp>(</rp><rt>관음사성</rt><rp>)</rp></ruby><br>(<ruby class="hanja grade62"><rb>現</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby> <a href="/index.php?title=%E6%BB%8B%E8%B3%80%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="滋賀縣 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>滋賀縣</rb><rp>(</rp><rt>자하현</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E8%BF%91%E6%B1%9F%E5%85%AB%E5%B9%A1%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="近江八幡市 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>近江八幡市</rb><rp>(</rp><rt>근강팔번시</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%AE%89%E5%9C%9F%E7%94%BA&amp;action=edit&amp;redlink=1" class="new" title="安土町 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>安土町</rb><rp>(</rp><rt>안토정</rt><rp>)</rp></ruby></a>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade32"><rb>死沒</rb><rp>(</rp><rt>사몰</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%A4%A9%E6%AD%A3&amp;action=edit&amp;redlink=1" class="new" title="天正 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>天正</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby></a><ruby class="hanja grade52"><rb>元年九月一日</rb><rp>(</rp><rt>원년구월일일</rt><rp>)</rp></ruby> (1573<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>9<ruby class="hanja grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>26<ruby class="hanja grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>)<br><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E8%BF%91%E6%B1%9F%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="近江國 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>近江國</rb><rp>(</rp><rt>근강국</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%B0%8F%E8%B0%B7%E5%9F%8E&amp;action=edit&amp;redlink=1" class="new" title="小谷城 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>小谷城</rb><rp>(</rp><rt>소곡성</rt><rp>)</rp></ruby></a><ruby class="hanja grade30"><rb>本丸</rb><rp>(</rp><rt>본환</rt><rp>)</rp></ruby><br>(<ruby class="hanja grade62"><rb>現</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby> <a href="/index.php?title=%E6%BB%8B%E8%B3%80%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="滋賀縣 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>滋賀縣</rb><rp>(</rp><rt>자하현</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E9%95%B7%E6%BF%B1%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="長濱市 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>長濱市</rb><rp>(</rp><rt>장빈시</rt><rp>)</rp></ruby></a>)
+</td></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>兒名</rb><rp>(</rp><rt>아명</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade10"><rb>猿夜叉丸</rb><rp>(</rp><rt>원야차환</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>戒名</rb><rp>(</rp><rt>계명</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade40"><rb>養源院天英宗淸</rb><rp>(</rp><rt>양원원천영종청</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>墓所</rb><rp>(</rp><rt>묘소</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%BE%B7%E5%8B%9D%E5%AF%BA_(%E9%95%B7%E6%BF%B1%E5%B8%82)&amp;action=edit&amp;redlink=1" class="new" title="德勝寺 (長濱市) (없는 문서)"><ruby class="hanja grade42 unknown"><rb>德勝寺</rb><rp>(</rp><rt>덕승사</rt><rp>)</rp></ruby></a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>官位</rb><rp>(</rp><rt>관위</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade30"><rb>贈</rb><rp>(</rp><rt>증</rt><rp>)</rp></ruby><a href="/index.php?title=%E5%BE%9E%E4%BA%8C%E4%BD%8D&amp;action=edit&amp;redlink=1" class="new" title="從二位 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>從二位</rb><rp>(</rp><rt>종이위</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E4%B8%AD%E7%B4%8D%E8%A8%80&amp;action=edit&amp;redlink=1" class="new" title="中納言 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>中納言</rb><rp>(</rp><rt>중납언</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>主君</rb><rp>(</rp><rt>주군</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%85%AD%E8%A7%92%E7%BE%A9%E8%B3%A2&amp;action=edit&amp;redlink=1" class="new" title="六角義賢 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>六角義賢</rb><rp>(</rp><rt>육각의현</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>氏族</rb><rp>(</rp><rt>씨족</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%B7%BA%E4%BA%95%E6%B0%8F&amp;action=edit&amp;redlink=1" class="new" title="淺井氏 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>淺井氏</rb><rp>(</rp><rt>천정씨</rt><rp>)</rp></ruby></a>
+</td></tr>
+</tbody></table>
+<p><b><ruby class="hanja grade32"><rb>淺井長政</rb><rp>(</rp><rt>천정장정</rt><rp>)</rp></ruby></b>은 <ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby> <a href="/index.php?title=%E6%88%B0%E5%9C%8B%E6%99%82%E4%BB%A3_(%E6%97%A5%E6%9C%AC)&amp;action=edit&amp;redlink=1" class="new" title="戰國時代 (日本) (없는 문서)"><ruby class="hanja grade62 unknown"><rb>戰國時代</rb><rp>(</rp><rt>전국시대</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E6%AD%A6%E5%B0%87&amp;action=edit&amp;redlink=1" class="new" title="武將 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>武將</rb><rp>(</rp><rt>무장</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%A4%A7%E5%90%8D&amp;action=edit&amp;redlink=1" class="new" title="大名 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>大名</rb><rp>(</rp><rt>대명</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade32"><rb>淺井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>家門</rb><rp>(</rp><rt>가문</rt><rp>)</rp></ruby>의 3<ruby class="hanja grade62"><rb>代</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>째이며 마지막 <ruby class="hanja grade52"><rb>當主</rb><rp>(</rp><rt>당주</rt><rp>)</rp></ruby>이다.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E7.95.A5.E6.AD.B7.28.EC.95.BD.EB.A0.A5.29"><span class="tocnumber">1</span> <span class="toctext">略歷(약력)&nbsp;</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.AE.B6.E6.97.8F.28.EA.B0.80.EC.A1.B1.29"><span class="tocnumber">2</span> <span class="toctext">家族(가족)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E9.97.9C.E8.81.AF.28.EA.B4.80.EB.A0.A8.29.EB.90.9C_.E4.BD.9C.E5.93.81.28.EC.9E.91.ED.92.88.29"><span class="tocnumber">3</span> <span class="toctext">關聯(관련)된 作品(작품)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.E6.B7.BA.E4.BA.95.E9.95.B7.E6.94.BF.28.EC.B2.9C.EC.A0.95.EC.9E.A5.EC.A0.95.29.EC.9D.84_.E4.B8.BB.E9.A1.8C.28.EC.A3.BC.EC.A0.9C.29.EB.A1.9C_.ED.95.98.EB.8A.94_.E4.BD.9C.E5.93.81.28.EC.9E.91.ED.92.88.29"><span class="tocnumber">3.1</span> <span class="toctext">淺井長政(천정장정)을 主題(주제)로 하는 作品(작품)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E6.B7.BA.E4.BA.95.E9.95.B7.E6.94.BF.28.EC.B2.9C.EC.A0.95.EC.9E.A5.EC.A0.95.29.EC.9D.B4_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E4.BD.9C.E5.93.81.28.EC.9E.91.ED.92.88.29"><span class="tocnumber">3.2</span> <span class="toctext">淺井長政(천정장정)이 登場(등장)한 作品(작품)</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span id="略歷(약력)"></span><span class="mw-headline" id=".E7.95.A5.E6.AD.B7.28.EC.95.BD.EB.A0.A5.29"><ruby class="hanja grade40"><rb>略歷</rb><rp>(</rp><rt>약력</rt><rp>)</rp></ruby>&nbsp;</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B7%BA%E4%BA%95%E9%95%B7%E6%94%BF&amp;action=edit&amp;section=1" title="부분 편집: 略歷(약력)&nbsp;">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade32"><rb>淺井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>家門</rb><rp>(</rp><rt>가문</rt><rp>)</rp></ruby>을 <ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>近江國</rb><rp>(</rp><rt>근강국</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>北部</rb><rp>(</rp><rt>북부</rt><rp>)</rp></ruby>의 <ruby class="hanja grade72"><rb>大名</rb><rp>(</rp><rt>대명</rt><rp>)</rp></ruby>로 <ruby class="hanja grade62"><rb>成長</rb><rp>(</rp><rt>성장</rt><rp>)</rp></ruby>시켜 <ruby class="hanja grade60"><rb>近江國</rb><rp>(</rp><rt>근강국</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>北東部</rb><rp>(</rp><rt>북동부</rt><rp>)</rp></ruby>에 <ruby class="hanja grade42"><rb>勢力</rb><rp>(</rp><rt>세력</rt><rp>)</rp></ruby>을 갖고 있었다. 아내 오빠 <a href="/wiki/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7" title="織田信長"><ruby class="hanja grade40"><rb>織田信長</rb><rp>(</rp><rt>직전신장</rt><rp>)</rp></ruby></a>과 <ruby class="hanja grade32"><rb>同盟</rb><rp>(</rp><rt>동맹</rt><rp>)</rp></ruby>을 맺는 <ruby class="hanja grade32"><rb>淺井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>家門</rb><rp>(</rp><rt>가문</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>全盛期</rb><rp>(</rp><rt>전성기</rt><rp>)</rp></ruby>를 쌓았지만 나중에 <ruby class="hanja grade40"><rb>織田信長</rb><rp>(</rp><rt>직전신장</rt><rp>)</rp></ruby>과 <ruby class="hanja grade32"><rb>決裂</rb><rp>(</rp><rt>결렬</rt><rp>)</rp></ruby>하여 <ruby class="hanja grade40"><rb>織田軍</rb><rp>(</rp><rt>직전군</rt><rp>)</rp></ruby>과의 싸움에 <ruby class="hanja grade50"><rb>敗</rb><rp>(</rp><rt>패</rt><rp>)</rp></ruby>해 <ruby class="hanja grade52"><rb>自害</rb><rp>(</rp><rt>자해</rt><rp>)</rp></ruby>하고 <ruby class="hanja grade32"><rb>淺井</rb><rp>(</rp><rt>천정</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>家門</rb><rp>(</rp><rt>가문</rt><rp>)</rp></ruby>은 <ruby class="hanja grade32"><rb>滅亡</rb><rp>(</rp><rt>멸망</rt><rp>)</rp></ruby>했다.
+</p>
+<h2><span id="家族(가족)"></span><span class="mw-headline" id=".E5.AE.B6.E6.97.8F.28.EA.B0.80.EC.A1.B1.29"><ruby class="hanja grade60"><rb>家族</rb><rp>(</rp><rt>가족</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B7%BA%E4%BA%95%E9%95%B7%E6%94%BF&amp;action=edit&amp;section=2" title="부분 편집: 家族(가족)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt><ruby class="hanja grade42"><rb>兩親</rb><rp>(</rp><rt>양친</rt><rp>)</rp></ruby></dt></dl>
+<ul><li>아버지: <ruby class="hanja grade32"><rb>淺井久政</rb><rp>(</rp><rt>천정구정</rt><rp>)</rp></ruby></li>
+<li>어머니: <ruby class="hanja grade32"><rb>小野殿</rb><rp>(</rp><rt>소야전</rt><rp>)</rp></ruby></li></ul>
+<dl><dt><ruby class="hanja grade80"><rb>兄弟</rb><rp>(</rp><rt>형제</rt><rp>)</rp></ruby></dt></dl>
+<ul><li><ruby class="hanja grade10"><rb>岡崎安休</rb><rp>(</rp><rt>강기안휴</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>淺井政元</rb><rp>(</rp><rt>천정정원</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>淺井政之</rb><rp>(</rp><rt>천정정지</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade32"><rb>淺井治政</rb><rp>(</rp><rt>천정치정</rt><rp>)</rp></ruby></li></ul>
+<dl><dt><ruby class="hanja grade40"><rb>姊妹</rb><rp>(</rp><rt>자매</rt><rp>)</rp></ruby></dt></dl>
+<ul><li><ruby class="hanja grade32"><rb>淺井阿久</rb><rp>(</rp><rt>천정아구</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>京極</rb><rp>(</rp><rt>경극</rt><rp>)</rp></ruby>마리아 - <a href="/index.php?title=%E4%BA%AC%E6%A5%B5%E9%AB%98%E5%90%89&amp;action=edit&amp;redlink=1" class="new" title="京極高吉 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>京極高吉</rb><rp>(</rp><rt>경극고길</rt><rp>)</rp></ruby></a>의 아내</li></ul>
+<dl><dt><ruby class="hanja grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby></dt></dl>
+<ul><li><ruby class="hanja grade72"><rb>正室</rb><rp>(</rp><rt>정실</rt><rp>)</rp></ruby>: <a href="/index.php?title=%E5%B9%B3%E4%BA%95%E5%AE%9A%E6%AD%A6&amp;action=edit&amp;redlink=1" class="new" title="平井定武 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>平井定武</rb><rp>(</rp><rt>평정정무</rt><rp>)</rp></ruby></a>의 딸</li>
+<li><ruby class="hanja grade40"><rb>繼室</rb><rp>(</rp><rt>계실</rt><rp>)</rp></ruby>: <ruby class="hanja grade40"><rb>織田市</rb><rp>(</rp><rt>직전시</rt><rp>)</rp></ruby></li></ul>
+<dl><dt><ruby class="hanja grade72"><rb>子女</rb><rp>(</rp><rt>자녀</rt><rp>)</rp></ruby></dt>
+<dd></dd></dl>
+<ul><li><ruby class="hanja grade10"><rb>嫡子</rb><rp>(</rp><rt>적자</rt><rp>)</rp></ruby>: <ruby class="hanja grade30"><rb>淺井輝政</rb><rp>(</rp><rt>천정휘정</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>次男</rb><rp>(</rp><rt>차남</rt><rp>)</rp></ruby>: <ruby class="hanja grade32"><rb>淺井直政</rb><rp>(</rp><rt>천정직정</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade80"><rb>長女</rb><rp>(</rp><rt>장녀</rt><rp>)</rp></ruby>: <ruby class="hanja grade32"><rb>淺井茶茶</rb><rp>(</rp><rt>천정다다</rt><rp>)</rp></ruby> - <a href="/wiki/%E8%B1%90%E8%87%A3%E7%A7%80%E5%90%89" class="mw-redirect" title="豐臣秀吉"><ruby class="hanja grade40"><rb>豐臣秀吉</rb><rp>(</rp><rt>풍신수길</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade32"><rb>側室</rb><rp>(</rp><rt>측실</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade42"><rb>次女</rb><rp>(</rp><rt>차녀</rt><rp>)</rp></ruby>: <ruby class="hanja grade32"><rb>淺井初</rb><rp>(</rp><rt>천정초</rt><rp>)</rp></ruby> - <a href="/index.php?title=%E4%BA%AC%E6%A5%B5%E9%AB%98%E6%AC%A1&amp;action=edit&amp;redlink=1" class="new" title="京極高次 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>京極高次</rb><rp>(</rp><rt>경극고차</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade72"><rb>正室</rb><rp>(</rp><rt>정실</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade80"><rb>三女</rb><rp>(</rp><rt>삼녀</rt><rp>)</rp></ruby>: <ruby class="hanja grade32"><rb>淺井江</rb><rp>(</rp><rt>천정강</rt><rp>)</rp></ruby> - <a href="/index.php?title=%E4%BD%90%E6%B2%BB%E4%B8%80%E6%88%90&amp;action=edit&amp;redlink=1" class="new" title="佐治一成 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>佐治一成</rb><rp>(</rp><rt>좌치일성</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade72"><rb>正室</rb><rp>(</rp><rt>정실</rt><rp>)</rp></ruby>→<a href="/index.php?title=%E8%B1%90%E8%87%A3%E7%A7%80%E5%8B%9D&amp;action=edit&amp;redlink=1" class="new" title="豐臣秀勝 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>豐臣秀勝</rb><rp>(</rp><rt>풍신수승</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade72"><rb>正室</rb><rp>(</rp><rt>정실</rt><rp>)</rp></ruby>→<a href="/index.php?title=%E5%BE%B7%E5%B7%9D%E7%A7%80%E5%BF%A0&amp;action=edit&amp;redlink=1" class="new" title="德川秀忠 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>德川秀忠</rb><rp>(</rp><rt>덕천수충</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade40"><rb>繼室</rb><rp>(</rp><rt>계실</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade52"><rb>養子</rb><rp>(</rp><rt>양자</rt><rp>)</rp></ruby>: <ruby class="hanja grade32"><rb>淺井井賴</rb><rp>(</rp><rt>천정정뢰</rt><rp>)</rp></ruby></li></ul>
+<h2><span id="關聯(관련)된_作品(작품)"></span><span class="mw-headline" id=".E9.97.9C.E8.81.AF.28.EA.B4.80.EB.A0.A8.29.EB.90.9C_.E4.BD.9C.E5.93.81.28.EC.9E.91.ED.92.88.29"><ruby class="hanja grade32"><rb>關聯</rb><rp>(</rp><rt>관련</rt><rp>)</rp></ruby>된 <ruby class="hanja grade52"><rb>作品</rb><rp>(</rp><rt>작품</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B7%BA%E4%BA%95%E9%95%B7%E6%94%BF&amp;action=edit&amp;section=3" title="부분 편집: 關聯(관련)된 作品(작품)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="淺井長政(천정장정)을_主題(주제)로_하는_作品(작품)"></span><span class="mw-headline" id=".E6.B7.BA.E4.BA.95.E9.95.B7.E6.94.BF.28.EC.B2.9C.EC.A0.95.EC.9E.A5.EC.A0.95.29.EC.9D.84_.E4.B8.BB.E9.A1.8C.28.EC.A3.BC.EC.A0.9C.29.EB.A1.9C_.ED.95.98.EB.8A.94_.E4.BD.9C.E5.93.81.28.EC.9E.91.ED.92.88.29"><ruby class="hanja grade32"><rb>淺井長政</rb><rp>(</rp><rt>천정장정</rt><rp>)</rp></ruby>을 <ruby class="hanja grade62"><rb>主題</rb><rp>(</rp><rt>주제</rt><rp>)</rp></ruby>로 하는 <ruby class="hanja grade52"><rb>作品</rb><rp>(</rp><rt>작품</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B7%BA%E4%BA%95%E9%95%B7%E6%94%BF&amp;action=edit&amp;section=4" title="부분 편집: 淺井長政(천정장정)을 主題(주제)로 하는 作品(작품)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt><ruby class="hanja grade52"><rb>小說</rb><rp>(</rp><rt>소설</rt><rp>)</rp></ruby></dt></dl>
+<ul><li><a href="/index.php?title=%E4%BC%8A%E8%97%A4%E6%B5%A9%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="伊藤浩士 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>伊藤浩士</rb><rp>(</rp><rt>이등호사</rt><rp>)</rp></ruby></a>『<ruby class="hanja grade20"><rb>霸者</rb><rp>(</rp><rt>패자</rt><rp>)</rp></ruby>의 <ruby class="hanja grade32"><rb>系譜</rb><rp>(</rp><rt>계보</rt><rp>)</rp></ruby>』(霸者の系譜)</li>
+<li><a href="/index.php?title=%E9%88%B4%E6%9C%A8%E8%BC%9D%E4%B8%80%E9%83%9E&amp;action=edit&amp;redlink=1" class="new" title="鈴木輝一郞 (없는 문서)"><ruby class="hanja grade10 unknown"><rb>鈴木輝一郞</rb><rp>(</rp><rt>영목휘일랑</rt><rp>)</rp></ruby></a>『<ruby class="hanja grade32"><rb>淺井長政正傳</rb><rp>(</rp><rt>천정장정정전</rt><rp>)</rp></ruby> - 죽고 남겨라 <ruby class="hanja grade32"><rb>虎皮</rb><rp>(</rp><rt>호피</rt><rp>)</rp></ruby>』(淺井長政正傳　死して殘せよ虎の皮)</li></ul>
+<dl><dt>게임</dt></dl>
+<ul><li><a href="/index.php?title=%EC%98%A4%ED%86%A0%EB%A9%94%EC%9D%B4%ED%8A%B8&amp;action=edit&amp;redlink=1" class="new" title="오토메이트 (없는 문서)">오토메이트</a>『<ruby class="hanja grade0"><rb>花朧</rb><rp>(</rp><rt>화롱</rt><rp>)</rp></ruby>~<ruby class="hanja grade40"><rb>戰國傳亂奇</rb><rp>(</rp><rt>전국전란기</rt><rp>)</rp></ruby>~』</li></ul>
+<h3><span id="淺井長政(천정장정)이_登場(등장)한_作品(작품)"></span><span class="mw-headline" id=".E6.B7.BA.E4.BA.95.E9.95.B7.E6.94.BF.28.EC.B2.9C.EC.A0.95.EC.9E.A5.EC.A0.95.29.EC.9D.B4_.E7.99.BB.E5.A0.B4.28.EB.93.B1.EC.9E.A5.29.ED.95.9C_.E4.BD.9C.E5.93.81.28.EC.9E.91.ED.92.88.29"><ruby class="hanja grade32"><rb>淺井長政</rb><rp>(</rp><rt>천정장정</rt><rp>)</rp></ruby>이 <ruby class="hanja grade70"><rb>登場</rb><rp>(</rp><rt>등장</rt><rp>)</rp></ruby>한 <ruby class="hanja grade52"><rb>作品</rb><rp>(</rp><rt>작품</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B7%BA%E4%BA%95%E9%95%B7%E6%94%BF&amp;action=edit&amp;section=5" title="부분 편집: 淺井長政(천정장정)이 登場(등장)한 作品(작품)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/index.php?title=%EB%82%98%EB%9D%BC_%ED%9B%94%EC%B9%9C_%EC%9D%B4%EC%95%BC%EA%B8%B0&amp;action=edit&amp;redlink=1" class="new" title="나라 훔친 이야기 (없는 문서)">나라 훔친 이야기</a></li>
+<li><a href="/index.php?title=%E5%88%A9%E5%AE%B6%EC%99%80_%E6%9D%BE_~%E5%8A%A0%E8%B3%80_%E7%99%BE%E8%90%AC%E7%9F%B3_%EC%9D%B4%EC%95%BC%EA%B8%B0~&amp;action=edit&amp;redlink=1" class="new" title="利家와 松 ~加賀 百萬石 이야기~ (없는 문서)"><ruby class="hanja grade62 unknown"><rb>利家</rb><rp>(</rp><rt>이가</rt><rp>)</rp></ruby>와 <ruby class="hanja grade40 unknown"><rb>松</rb><rp>(</rp><rt>송</rt><rp>)</rp></ruby> ~<ruby class="hanja grade32 unknown"><rb>加賀</rb><rp>(</rp><rt>가하</rt><rp>)</rp></ruby> <ruby class="hanja grade60 unknown"><rb>百萬石</rb><rp>(</rp><rt>백만석</rt><rp>)</rp></ruby> 이야기~</a></li>
+<li><a href="/index.php?title=%E6%B1%9F_~%E5%85%AC%E4%B8%BB%EB%93%A4%EC%9D%98_%E6%88%B0%E5%9C%8B~&amp;action=edit&amp;redlink=1" class="new" title="江 ~公主들의 戰國~ (없는 문서)"><ruby class="hanja grade72 unknown"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby> ~<ruby class="hanja grade62 unknown"><rb>公主</rb><rp>(</rp><rt>공주</rt><rp>)</rp></ruby>들의 <ruby class="hanja grade62 unknown"><rb>戰國</rb><rp>(</rp><rt>전국</rt><rp>)</rp></ruby>~</a></li>
+<li><a href="/index.php?title=%E9%BA%92%E9%BA%9F%EC%9D%B4_%EC%98%A8%EB%8B%A4&amp;action=edit&amp;redlink=1" class="new" title="麒麟이 온다 (없는 문서)"><ruby class="hanja grade12 unknown"><rb>麒麟</rb><rp>(</rp><rt>기린</rt><rp>)</rp></ruby>이 온다</a></li>
+<li><a href="/index.php?title=%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="信長協奏曲 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>信長協奏曲</rb><rp>(</rp><rt>신장협주곡</rt><rp>)</rp></ruby></a></li></ul>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">三つ盛り龜甲, 거북 등껍질 세 칸</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja grade52"><rb>中國的</rb><rp>(</rp><rt>중국적</rt><rp>)</rp></ruby>인(<ruby class="hanja grade32"><rb>唐</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby>) <ruby class="hanja grade40"><rb>樣式</rb><rp>(</rp><rt>양식</rt><rp>)</rp></ruby> 마름모(<ruby class="hanja grade10"><rb>菱</rb><rp>(</rp><rt>능</rt><rp>)</rp></ruby>) 꽃(<ruby class="hanja grade70"><rb>花</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>) <ruby class="hanja grade50"><rb>圖案</rb><rp>(</rp><rt>도안</rt><rp>)</rp></ruby></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><ruby class="hanja grade10"><rb>滋賀縣長濱市</rb><rp>(</rp><rt>자하현장빈시</rt><rp>)</rp></ruby></span>
+</li>
+</ol></div>
+</div></body></html>
