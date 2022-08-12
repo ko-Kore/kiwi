@@ -2607,6 +2607,11 @@
       "count": 1
     },
     {
+      "title": "蔣介石",
+      "surrounding": "넘겨줄 대상:蔣中正 ",
+      "count": 1
+    },
+    {
       "title": "蜜柑星P",
       "surrounding": "넘겨줄 대상:Orangestar ",
       "count": 1
@@ -3304,6 +3309,11 @@
     {
       "title": "히라가나",
       "surrounding": "넘겨줄 대상:平假名 ",
+      "count": 1
+    },
+    {
+      "title": "𦰡",
+      "surrounding": "地名(지명) ‘𦰡溪(Nuóxī)’와 臺灣(대만)의 地名(지명)",
       "count": 1
     }
   ]
