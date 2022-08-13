@@ -1,0 +1,7 @@
+<html><head></head><body><div class="mw-parser-output"><p><b><ruby class="hanja grade0"><rb>嗧</rb><rp>(</rp><rt>윤</rt><rp>)</rp></ruby></b>은 <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>에서 부피 <ruby class="hanja grade42"><rb>單位</rb><rp>(</rp><rt>단위</rt><rp>)</rp></ruby> ‘갤런(gallon)’을 ‘<span lang="zh">加侖</span>’으로 <ruby class="hanja grade32"><rb>音譯</rb><rp>(</rp><rt>음역</rt><rp>)</rp></ruby>한 뒤 한 글<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>로 <ruby class="hanja grade40"><rb>壓縮</rb><rp>(</rp><rt>압축</rt><rp>)</rp></ruby>한 것이다.
+</p>
+<ul><li><ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>: ⿱<ruby class="hanja grade0"><rb>加侖</rb><rp>(</rp><rt>가륜</rt><rp>)</rp></ruby></li>
+<li><a href="/wiki/%E6%A8%99%E6%BA%96%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="標準中國語"><ruby class="hanja grade40"><rb>標準中國語</rb><rp>(</rp><rt>표준중국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby>: jiālún</li>
+<li><a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a>: U+55E7</li>
+<li><a href="/wiki/%E7%B0%A1%E5%8C%96%E5%AD%97" title="簡化字"><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby></a>: <a href="/index.php?title=%F0%B0%87%A0&amp;action=edit&amp;redlink=1" class="new" title="𰇠 (없는 문서)">𰇠</a>(U+301E0)</li></ul>
+</div></body></html>
