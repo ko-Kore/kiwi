@@ -2,11 +2,6 @@
   "word": "목차",
   "pages": [
     {
-      "title": "大局將棋",
-      "surrounding": "목차 1 ... 提婆(제파) 敎王(교왕) 木車(목차) 風鼈(풍별)",
-      "count": 2
-    },
-    {
       "title": "2019年",
       "surrounding": "목차 1",
       "count": 1
@@ -394,6 +389,11 @@
     {
       "title": "大動脈瘤",
       "surrounding": "腹部 大動脈瘤 목차 1",
+      "count": 1
+    },
+    {
+      "title": "大局將棋",
+      "surrounding": "提婆(제파) 敎王(교왕) 木車(목차) 風鼈(풍별)",
       "count": 1
     },
     {
