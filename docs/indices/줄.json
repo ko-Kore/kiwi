@@ -312,6 +312,16 @@
       "count": 1
     },
     {
+      "title": "手抓餅",
+      "surrounding": "넘겨줄 대상:手抓餠",
+      "count": 1
+    },
+    {
+      "title": "手抓餠",
+      "surrounding": "넘겨줄 대상:蔥抓餠",
+      "count": 1
+    },
+    {
       "title": "打字機",
       "surrounding": "狀態(상태)로 固定(고정)해 줄 뿐",
       "count": 1
@@ -567,6 +577,11 @@
       "count": 1
     },
     {
+      "title": "蔥抓餅",
+      "surrounding": "넘겨줄 대상:蔥抓餠",
+      "count": 1
+    },
+    {
       "title": "蜜柑星P",
       "surrounding": "넘겨줄 대상:Orangestar",
       "count": 1
@@ -787,6 +802,11 @@
       "count": 1
     },
     {
+      "title": "서우좌빙",
+      "surrounding": "넘겨줄 대상:手抓餠",
+      "count": 1
+    },
+    {
       "title": "서울특별시",
       "surrounding": "넘겨줄 대상:서울特別市",
       "count": 1
@@ -934,6 +954,11 @@
     {
       "title": "쯔놈",
       "surrounding": "넘겨줄 대상:𡨸喃",
+      "count": 1
+    },
+    {
+      "title": "충좌빙",
+      "surrounding": "넘겨줄 대상:蔥抓餅",
       "count": 1
     },
     {

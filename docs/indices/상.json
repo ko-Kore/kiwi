@@ -1682,6 +1682,16 @@
       "count": 1
     },
     {
+      "title": "手抓餅",
+      "surrounding": "넘겨줄 대상:手抓餠 ",
+      "count": 1
+    },
+    {
+      "title": "手抓餠",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
+      "count": 1
+    },
+    {
       "title": "拳鍔",
       "surrounding": "넘겨줄 대상:너클 (武器)",
       "count": 1
@@ -2082,6 +2092,11 @@
       "count": 1
     },
     {
+      "title": "蔥抓餅",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
+      "count": 1
+    },
+    {
       "title": "蜜柑星P",
       "surrounding": "넘겨줄 대상:Orangestar ",
       "count": 1
@@ -2462,6 +2477,11 @@
       "count": 1
     },
     {
+      "title": "서우좌빙",
+      "surrounding": "넘겨줄 대상:手抓餠 ",
+      "count": 1
+    },
+    {
       "title": "서울地下鐵 1號線",
       "surrounding": "貫通(관통)하기 때문에 恒常(항상) 乘客(승객)이",
       "count": 1
@@ -2654,6 +2674,11 @@
     {
       "title": "쯔놈",
       "surrounding": "넘겨줄 대상:𡨸喃 ",
+      "count": 1
+    },
+    {
+      "title": "충좌빙",
+      "surrounding": "넘겨줄 대상:蔥抓餅 ",
       "count": 1
     },
     {
