@@ -1,0 +1,7 @@
+<html><head></head><body><div class="mw-parser-output"><p><b>𨚕</b>은 <a href="/index.php?title=%E5%A7%93&amp;action=edit&amp;redlink=1" class="new" title="姓 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>姓</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby></a>의 하나이다.
+</p>
+<ul><li><ruby class="hanja grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby>: ⿰<ruby class="hanja grade0"><rb>弁阝</rb><rp>(</rp><rt>변부</rt><rp>)</rp></ruby></li>
+<li><a href="/wiki/%E6%A8%99%E6%BA%96%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="標準中國語"><ruby class="hanja grade40"><rb>標準中國語</rb><rp>(</rp><rt>표준중국어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby>: biàn</li>
+<li><a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a>: U+28695</li>
+<li><a href="/wiki/%E9%80%9A%E7%94%A8%E8%A6%8F%E7%AF%84%E6%BC%A2%E5%AD%97%E8%A1%A8" title="通用規範漢字表"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby></a>: 6637</li></ul>
+</div></body></html>
