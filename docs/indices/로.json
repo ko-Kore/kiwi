@@ -1842,11 +1842,6 @@
       "count": 2
     },
     {
-      "title": "U+",
-      "surrounding": "코드 포인트는 U+6F22로 나타낸다 ... 이름을 LG U+로 지었다",
-      "count": 2
-    },
-    {
       "title": "中",
       "surrounding": "指事文字(지사문자)[1] 中國(중국)의 약칭으로 쓰이기도 ... đúng ↑ 象形文字(상형문자)로 보는",
       "count": 2
@@ -2374,6 +2369,11 @@
     {
       "title": "Foreign carrot regime",
       "surrounding": "우물과 비슷한 境遇(경우)로 自然語處理(자연어처리)",
+      "count": 1
+    },
+    {
+      "title": "U+",
+      "surrounding": "코드 포인트는 U+6F22로 나타낸다",
       "count": 1
     },
     {
