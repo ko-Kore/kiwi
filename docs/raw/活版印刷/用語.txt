@@ -1,0 +1,103 @@
+<html><head></head><body><div class="mw-parser-output"><p><a href="/wiki/%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7" title="活版印刷"><ruby class="hanja grade32"><rb>活版印刷術</rb><rp>(</rp><rt>활판인쇄술</rt><rp>)</rp></ruby></a>에서 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>되는 <ruby class="hanja grade62"><rb>用語</rb><rp>(</rp><rt>용어</rt><rp>)</rp></ruby>들을 <ruby class="hanja grade40"><rb>整理</rb><rp>(</rp><rt>정리</rt><rp>)</rp></ruby>한다.
+</p>
+<h2><span id="活字(활자)"></span><span class="mw-headline" id=".E6.B4.BB.E5.AD.97.28.ED.99.9C.EC.9E.90.29"><ruby class="hanja grade70"><rb>活字</rb><rp>(</rp><rt>활자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=1" title="부분 편집: 活字(활자)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a></th>
+<th><ruby class="hanja grade42"><rb>備考</rb><rp>(</rp><rt>비고</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>Face</td>
+<td><ruby class="hanja grade70"><rb>字面</rb><rp>(</rp><rt>자면</rt><rp>)</rp></ruby>(じづら)</td>
+<td><ruby class="hanja grade70"><rb>字面</rb><rp>(</rp><rt>자면</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>Beard / Neck</td>
+<td><ruby class="hanja grade32"><rb>斜面</rb><rp>(</rp><rt>사면</rt><rp>)</rp></ruby>(しゃめん)</td>
+<td><ruby class="hanja grade32"><rb>傾斜面</rb><rp>(</rp><rt>경사면</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>Counter</td>
+<td><ruby class="hanja grade32"><rb>谷</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></td>
+<td>골</td>
+<td>
+</td></tr>
+<tr>
+<td>Pin Mark</td>
+<td>ピンマーク</td>
+<td>핀마크</td>
+<td>
+</td></tr>
+<tr>
+<td>Nick</td>
+<td>ネッキ</td>
+<td>닉</td>
+<td>
+</td></tr>
+<tr>
+<td>Feet</td>
+<td><ruby class="hanja grade72"><rb>足</rb><rp>(</rp><rt>족</rt><rp>)</rp></ruby></td>
+<td>발</td>
+<td>
+</td></tr>
+<tr>
+<td>Groove</td>
+<td><ruby class="hanja grade10"><rb>溝</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>(みぞ)</td>
+<td>홈</td>
+<td>
+</td></tr></tbody></table>
+<h2><span id="道具(도구)"></span><span class="mw-headline" id=".E9.81.93.E5.85.B7.28.EB.8F.84.EA.B5.AC.29"><ruby class="hanja grade52"><rb>道具</rb><rp>(</rp><rt>도구</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=2" title="부분 편집: 道具(도구)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a></th>
+<th><ruby class="hanja grade42"><rb>備考</rb><rp>(</rp><rt>비고</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>Chase</td>
+<td>チェース</td>
+<td>체이스</td>
+<td>
+</td></tr>
+<tr>
+<td>Furniture / Filling material</td>
+<td><ruby class="hanja grade0"><rb>込</rb><rp>(</rp><rt>입</rt><rp>)</rp></ruby>め<ruby class="hanja grade72"><rb>物</rb><rp>(</rp><rt>물</rt><rp>)</rp></ruby> / <ruby class="hanja grade72"><rb>空木</rb><rp>(</rp><rt>공목</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade72"><rb>空木</rb><rp>(</rp><rt>공목</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>Lead</td>
+<td>インテル</td>
+<td>인테르</td>
+<td>
+</td></tr>
+<tr>
+<td>Quoin</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>Composing Stick</td>
+<td>ステッキ</td>
+<td>스텍기 (스테키)</td>
+<td>
+</td></tr>
+<tr>
+<td>Quoin</td>
+<td>ジャッキ</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>Galley</td>
+<td>ゲラ</td>
+<td>게라</td>
+<td>
+</td></tr></tbody></table>
+</div></body></html>
