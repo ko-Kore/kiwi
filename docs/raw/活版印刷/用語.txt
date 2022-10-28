@@ -77,12 +77,6 @@
 <td>
 </td></tr>
 <tr>
-<td>Quoin</td>
-<td></td>
-<td></td>
-<td>
-</td></tr>
-<tr>
 <td>Composing Stick</td>
 <td>ステッキ</td>
 <td>스텍기 (스테키)</td>
