@@ -15,6 +15,11 @@
       "title": "鉛活字",
       "surrounding": " 鉛活字(연활자)는 납으로",
       "count": 1
+    },
+    {
+      "title": "납活字",
+      "surrounding": "넘겨줄 대상:鉛活字 ",
+      "count": 1
     }
   ]
 }
