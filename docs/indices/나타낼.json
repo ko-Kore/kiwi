@@ -1,0 +1,50 @@
+{
+  "word": "나타낼",
+  "pages": [
+    {
+      "title": "0으로 나누기",
+      "surrounding": "字母(자모) ㆆ으로 나타낼 수",
+      "count": 1
+    },
+    {
+      "title": "U+",
+      "surrounding": "코드 포인트를 나타낼 때",
+      "count": 1
+    },
+    {
+      "title": "〇",
+      "surrounding": "1024를 ‘一〇二四(일영이사)’로 나타낼 수",
+      "count": 1
+    },
+    {
+      "title": "倉頡",
+      "surrounding": "文字(문자)로써 槪念(개념)을 나타낼 수",
+      "count": 1
+    },
+    {
+      "title": "大",
+      "surrounding": "'위대하다'는 뜻을 나타낼 때도",
+      "count": 1
+    },
+    {
+      "title": "會意文字",
+      "surrounding": "같은 方法(방법)으로 나타낼 수",
+      "count": 1
+    },
+    {
+      "title": "片假名",
+      "surrounding": "딱딱한 語調(어조)를 나타낼 때에도",
+      "count": 1
+    },
+    {
+      "title": "語順",
+      "surrounding": "多樣(다양)한 語順(어순)으로 나타낼 수",
+      "count": 1
+    },
+    {
+      "title": "象形文字 (漢字)",
+      "surrounding": "抽象化(추상화)되었기 때문이다 나타낼 수",
+      "count": 1
+    }
+  ]
+}
