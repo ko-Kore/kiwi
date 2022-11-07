@@ -1,8 +1,11 @@
 {
   "title": "아펜니노半島",
   "namespace": 0,
-  "timestamp": 1667713287000,
-  "categories": [],
+  "timestamp": 1667832720000,
+  "categories": [
+    "半島",
+    "유럽의 地理"
+  ],
   "members": [],
   "file": null
 }

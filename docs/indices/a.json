@@ -512,6 +512,11 @@
       "count": 2
     },
     {
+      "title": "0으로 나누기",
+      "surrounding": "되므로 普通(보통) NaN이나 無限大(무한대)",
+      "count": 1
+    },
+    {
       "title": "CJK",
       "surrounding": "槪要(개요)[편집] CJK(ChineseJapaneseKorean 또는",
       "count": 1

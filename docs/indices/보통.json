@@ -27,6 +27,11 @@
       "count": 2
     },
     {
+      "title": "0으로 나누기",
+      "surrounding": "빠지게 되므로 普通(보통) NaN이나",
+      "count": 1
+    },
+    {
       "title": "1號線",
       "surrounding": "例外(예외)를 除外(제외)하면 普通(보통) 番號(번호)가",
       "count": 1
