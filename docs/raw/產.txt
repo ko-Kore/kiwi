@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
 <tbody><tr>
-<td colspan="4" style="font-size: 5em; line-height: 120%;"><span class="noruby"><ruby class="hanja grade0"><rb>產</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby></span>
+<td colspan="4" style="font-size: 5em; line-height: 120%;">產
 </td></tr>
 <tr>
 <th colspan="4">낳을 산
@@ -8,7 +8,7 @@
 <tr>
 <th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
 </th>
-<td><span class="noruby"><ruby class="hanja grade80"><rb>生</rb><rp>(</rp><rt>생</rt><rp>)</rp></ruby></span>
+<td>生
 </td>
 <th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
 </th>
@@ -26,8 +26,8 @@
 <tr>
 <td colspan="4" style="text-align: center;">-
 </td></tr></tbody></table>
-<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%94%A2&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%94%A2&amp;action=edit&amp;section=2" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="用例(용례)"></span><span class="mw-headline" id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"><ruby class="hanja grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%94%A2&amp;action=edit&amp;section=1" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="column-3">
 <ul><li><ruby class="hanja grade0"><rb>國產</rb><rp>(</rp><rt>국산</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade0"><rb>多產</rb><rp>(</rp><rt>다산</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade0"><rb>動產</rb><rp>(</rp><rt>동산</rt><rp>)</rp></ruby>
@@ -50,6 +50,7 @@
 <li><ruby class="hanja grade0"><rb>出產</rb><rp>(</rp><rt>출산</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade0"><rb>破產</rb><rp>(</rp><rt>파산</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade0"><rb>共產</rb><rp>(</rp><rt>공산</rt><rp>)</rp></ruby>
-<ul><li><a href="/index.php?title=%E5%85%B1%E7%94%A2%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="共產主義 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>共產主義</rb><rp>(</rp><rt>공산주의</rt><rp>)</rp></ruby></a></li>
-<li><ruby class="hanja grade0"><rb>共產黨</rb><rp>(</rp><rt>공산당</rt><rp>)</rp></ruby></li></ul></li></ul>
+<ul><li><a href="/wiki/%E5%85%B1%E7%94%A3%E4%B8%BB%E7%BE%A9" title="共産主義"><ruby class="hanja grade42"><rb>共産主義</rb><rp>(</rp><rt>공산주의</rt><rp>)</rp></ruby></a></li>
+<li><a href="/wiki/%E5%85%B1%E7%94%A3%E9%BB%A8" title="共産黨"><ruby class="hanja grade42"><rb>共産黨</rb><rp>(</rp><rt>공산당</rt><rp>)</rp></ruby></a></li></ul></li></ul>
+</div>
 </div></body></html>
