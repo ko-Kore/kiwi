@@ -1,8 +1,10 @@
 {
   "title": "大韓民國國軍",
   "namespace": 0,
-  "timestamp": 1668334259000,
-  "categories": [],
+  "timestamp": 1668354682000,
+  "categories": [
+    "軍隊"
+  ],
   "members": [],
   "file": null
 }
