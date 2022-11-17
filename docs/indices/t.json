@@ -207,11 +207,6 @@
       "count": 4
     },
     {
-      "title": "마스토돈 (소프트웨어)",
-      "surrounding": "文書(문서)를 參考(참고)하십시오 마스토돈(Mastodon)은 오이겐 ... 消息(소식) 計定(계정) (@GukhanWikiNews@botsin space)",
-      "count": 4
-    },
-    {
       "title": "마이테츠",
       "surrounding": "마이테츠 -pure station- まいてつ ... Run まいてつ Last Run",
       "count": 4
@@ -442,6 +437,11 @@
       "count": 2
     },
     {
+      "title": "마스토돈 (소프트웨어)",
+      "surrounding": "文書(문서)를 參考(참고)하십시오 마스토돈(Mastodon)은 오이겐 ... 消息(소식) 計定(계정) (@GukhanWikiNews@botsin space)",
+      "count": 2
+    },
+    {
       "title": "미디어위키",
       "surrounding": "데이터베이스 백엔드로 SQLite 및 ... 및 MySQL PostgreSQL 中(중)",
       "count": 2
@@ -554,6 +554,11 @@
     {
       "title": "國漢大百科",
       "surrounding": "韓國語(한국어) 漢字(한자) net로 變更(변경)되었다",
+      "count": 1
+    },
+    {
+      "title": "國漢大百科:大門",
+      "surrounding": "사이트 漢字(한자) net 포털",
       "count": 1
     },
     {

@@ -342,11 +342,6 @@
       "count": 3
     },
     {
-      "title": "마스토돈 (소프트웨어)",
-      "surrounding": "韓國語(한국어) 漢字(한자) net 인스턴스(서버) ... 計定(계정) (@GukhanWikiNews@botsin space) ",
-      "count": 3
-    },
-    {
       "title": "IBM 셀렉트릭",
       "surrounding": "셀렉트릭 打字機(타자기)(IBM Selectric Typewriter)는 ... 打字機(타자기)(IBM Selectric Typewriter)는 IBM이",
       "count": 2
@@ -467,6 +462,11 @@
       "count": 2
     },
     {
+      "title": "마스토돈 (소프트웨어)",
+      "surrounding": "消息(소식) 計定(계정) (@GukhanWikiNews@botsin space) ... 計定(계정) (@GukhanWikiNews@botsin space) ",
+      "count": 2
+    },
+    {
       "title": "미디어위키",
       "surrounding": "데이터베이스 백엔드로 SQLite 및 ... 및 MySQL PostgreSQL 中(중)",
       "count": 2
@@ -564,6 +564,11 @@
     {
       "title": "國漢大百科",
       "surrounding": "韓國語(한국어) 漢字(한자) net로 變更(변경)되었다",
+      "count": 1
+    },
+    {
+      "title": "國漢大百科:大門",
+      "surrounding": "사이트 漢字(한자) net 포털",
       "count": 1
     },
     {

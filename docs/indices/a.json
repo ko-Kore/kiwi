@@ -232,11 +232,6 @@
       "count": 4
     },
     {
-      "title": "마스토돈 (소프트웨어)",
-      "surrounding": "文書(문서)를 參考(참고)하십시오 마스토돈(Mastodon)은 오이겐 ... 計定(계정) (@GukhanWikiNews@botsin space) ",
-      "count": 4
-    },
-    {
       "title": "아랍語",
       "surrounding": " العربية /ʕarabi/ 使用(사용)地域(지역) ... 639-3 - ara *",
       "count": 4
@@ -314,6 +309,11 @@
     {
       "title": "나무위키",
       "surrounding": " 나무위키 Namu Wiki ... 2017年(년)9月(월)22日(일) 民選運營陳(민선운영진) nimda의 權限濫用(권한람용)",
+      "count": 3
+    },
+    {
+      "title": "마스토돈 (소프트웨어)",
+      "surrounding": "文書(문서)를 參考(참고)하십시오 마스토돈(Mastodon)은 오이겐 ... 計定(계정) (@GukhanWikiNews@botsin space) ",
       "count": 3
     },
     {

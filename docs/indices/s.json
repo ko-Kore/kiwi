@@ -182,11 +182,6 @@
       "count": 4
     },
     {
-      "title": "마스토돈 (소프트웨어)",
-      "surrounding": "文書(문서)를 參考(참고)하십시오 마스토돈(Mastodon)은 오이겐 ... 計定(계정) (@GukhanWikiNews@botsin space) ",
-      "count": 4
-    },
-    {
       "title": "마인크래프트",
       "surrounding": "GeForce 400 Series GeForce ... Windows 7 Windows 10",
       "count": 4
@@ -254,6 +249,11 @@
     {
       "title": "고양이",
       "surrounding": "貓(묘) 學名(학명): Felis catus ... Felis catus Linnaeus 1758",
+      "count": 3
+    },
+    {
+      "title": "마스토돈 (소프트웨어)",
+      "surrounding": "文書(문서)를 參考(참고)하십시오 마스토돈(Mastodon)은 오이겐 ... 計定(계정) (@GukhanWikiNews@botsin space) ",
       "count": 3
     },
     {
