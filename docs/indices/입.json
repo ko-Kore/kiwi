@@ -752,6 +752,11 @@
       "count": 1
     },
     {
+      "title": "新羅",
+      "surrounding": "이 文書(문서)는 토막글입니다 이",
+      "count": 1
+    },
+    {
       "title": "日本帝國",
       "surrounding": "部分(부분)의 本文(본문)은 日本軍(일본군)입니다 ",
       "count": 1
@@ -923,6 +928,11 @@
     },
     {
       "title": "百度",
+      "surrounding": "이 文書(문서)는 토막글입니다 이",
+      "count": 1
+    },
+    {
+      "title": "百濟",
       "surrounding": "이 文書(문서)는 토막글입니다 이",
       "count": 1
     },
