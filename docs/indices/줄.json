@@ -1090,6 +1090,11 @@
       "title": "히라가나",
       "surrounding": "넘겨줄 대상:平假名",
       "count": 1
+    },
+    {
+      "title": "𡨸國語",
+      "surrounding": "音節(음절)씩 한 줄에 나눠",
+      "count": 1
     }
   ]
 }
