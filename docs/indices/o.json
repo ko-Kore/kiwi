@@ -477,6 +477,11 @@
       "count": 2
     },
     {
+      "title": "맥북 에어",
+      "surrounding": "(‘미드나이트’色相) 맥북 에어(MacBook Air)는 ... 2口(구)가 끝 SoC는 애플",
+      "count": 2
+    },
+    {
       "title": "맥북 프로",
       "surrounding": "(24型(형)) 맥북 프로(MacBook Pro)는 ... 맥북 프로(MacBook Pro)는 애플社(사)의",
       "count": 2
@@ -759,11 +764,6 @@
     {
       "title": "맥 스튜디오",
       "surrounding": "맥 스튜디오(Mac Studio)는 애플社(사)의",
-      "count": 1
-    },
-    {
-      "title": "맥북 에어",
-      "surrounding": "(‘미드나이트’色相) 맥북 에어(MacBook Air)는",
       "count": 1
     },
     {
