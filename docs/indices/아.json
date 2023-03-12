@@ -762,6 +762,11 @@
       "count": 2
     },
     {
+      "title": "〇",
+      "surrounding": "〇(영)은 아라비아 數字(숫자) ... ↑ CJK統合漢字(통합한자)가 아닌 'CJK",
+      "count": 2
+    },
+    {
       "title": "下",
       "surrounding": " 下(하) 아래 하 ... 下(하)의 필순 아래의 뜻을",
       "count": 2
@@ -1159,11 +1164,6 @@
     {
       "title": "VAIO",
       "surrounding": "이러한 意匠(의장)은 '아날로그와 디지털의融合(융합)'을",
-      "count": 1
-    },
-    {
-      "title": "〇",
-      "surrounding": "〇(영)은 아라비아 數字(숫자)",
       "count": 1
     },
     {
