@@ -527,4 +527,23 @@
 <p><ruby class="hanja grade42"><rb>內容</rb><rp>(</rp><rt>내용</rt><rp>)</rp></ruby>이당
 </p><p><ruby class="hanja grade32"><rb>追加內容</rb><rp>(</rp><rt>추가내용</rt><rp>)</rp></ruby>이당
 </p>
+<center><ruby class="hanja grade32"><rb>中央整列</rb><rp>(</rp><rt>중앙정렬</rt><rp>)</rp></ruby></center>
+<table class="wikitable infobox">
+<tbody><tr>
+<td>테스트1</td>
+<td>테스트2</td>
+<td>테스트3
+</td></tr>
+<tr>
+<td colspan="3" style="text-align: center;"><ruby class="hanja grade62"><rb>表</rb><rp>(</rp><rt>표</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>內部</rb><rp>(</rp><rt>내부</rt><rp>)</rp></ruby><br><ruby class="hanja grade32"><rb>中央整列</rb><rp>(</rp><rt>중앙정렬</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<table class="wikitable infobox">
+<tbody><tr>
+<td>테스트1</td>
+<td>테스트2</td>
+<td>테스트3
+</td></tr>
+<tr>
+<td colspan="3"><center><ruby class="hanja grade62"><rb>表</rb><rp>(</rp><rt>표</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>內部</rb><rp>(</rp><rt>내부</rt><rp>)</rp></ruby><br><ruby class="hanja grade32"><rb>中央整列</rb><rp>(</rp><rt>중앙정렬</rt><rp>)</rp></ruby></center>
+</td></tr></tbody></table>
 </div></body></html>
