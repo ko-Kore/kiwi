@@ -139,6 +139,7 @@
 <li class="toclevel-1 tocsection-7"><a href="#中國語(중국어)?"><span class="tocnumber">7</span> <span class="toctext">中國語(중국어)?</span></a></li>
 <li class="toclevel-1 tocsection-8"><a href="#웹_폰트_테스트"><span class="tocnumber">8</span> <span class="toctext">웹 폰트 테스트</span></a></li>
 <li class="toclevel-1 tocsection-9"><a href="#섹션_追加(추가)"><span class="tocnumber">9</span> <span class="toctext">섹션 追加(추가)</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#韓國語(한국어)?"><span class="tocnumber">10</span> <span class="toctext">韓國語(한국어)?</span></a></li>
 </ul>
 </div>
 <h2><span id=".E5.88.86.E5.B2.90.28.EB.B6.84.EA.B8.B0.29_.E9.8D.8A.E7.BF.92.28.EC.97.B0.EC.8A.B5.29"></span><span class="mw-headline" id="分岐(분기)_鍊習(연습)"><ruby class="hanja grade12"><rb>分岐</rb><rp>(</rp><rt>분기</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>鍊習</rb><rp>(</rp><rt>연습</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=1" title="부분 편집: 分岐(분기) 鍊習(연습)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -546,4 +547,133 @@
 <tr>
 <td colspan="3"><center><ruby class="hanja grade62"><rb>表</rb><rp>(</rp><rt>표</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>內部</rb><rp>(</rp><rt>내부</rt><rp>)</rp></ruby><br><ruby class="hanja grade32"><rb>中央整列</rb><rp>(</rp><rt>중앙정렬</rt><rp>)</rp></ruby></center>
 </td></tr></tbody></table>
+<h2><span id=".E9.9F.93.E5.9C.8B.E8.AA.9E.28.ED.95.9C.EA.B5.AD.EC.96.B4.29.3F"></span><span class="mw-headline" id="韓國語(한국어)?"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby>?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=10" title="부분 편집: 韓國語(한국어)?">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<td colspan="2" style="width: 1%;">~<br>`
+</td>
+<td colspan="2" style="width: 1%;">1
+</td>
+<td colspan="2" style="width: 1%;">2
+</td>
+<td colspan="2" style="width: 1%;">3
+</td>
+<td colspan="2" style="width: 1%;">4
+</td>
+<td colspan="2" style="width: 1%;">5
+</td>
+<td colspan="2" style="width: 1%;">6
+</td>
+<td colspan="2" style="width: 1%;">7
+</td>
+<td colspan="2" style="width: 1%;">8
+</td>
+<td colspan="2" style="width: 1%;">9
+</td>
+<td colspan="2" style="width: 1%;">0
+</td>
+<td colspan="2" style="width: 1%;">_<br>-
+</td>
+<td colspan="2" style="width: 1%;">+<br>=
+</td>
+<th colspan="4" style="width: 1%;">Backspace
+</th></tr>
+<tr>
+<th colspan="3">Tab
+</th>
+<td colspan="2">Q
+</td>
+<td colspan="2">W
+</td>
+<td colspan="2">E
+</td>
+<td colspan="2">R
+</td>
+<td colspan="2">T
+</td>
+<td colspan="2">Y
+</td>
+<td colspan="2">U
+</td>
+<td colspan="2">I
+</td>
+<td colspan="2">O
+</td>
+<td colspan="2">P
+</td>
+<td colspan="2">{<br>[
+</td>
+<td colspan="2">}<br>]
+</td>
+<td colspan="3">|<br>\
+</td></tr>
+<tr>
+<th colspan="4">Caps Lock
+</th>
+<td colspan="2">A
+</td>
+<td colspan="2">S
+</td>
+<td colspan="2">D
+</td>
+<td colspan="2">F
+</td>
+<td colspan="2">G
+</td>
+<td colspan="2">H
+</td>
+<td colspan="2">J
+</td>
+<td colspan="2">K
+</td>
+<td colspan="2">L
+</td>
+<td colspan="2">:<br>;
+</td>
+<td colspan="2">"<br>'
+</td>
+<th colspan="4">Enter
+</th></tr>
+<tr>
+<th colspan="5">Shift
+</th>
+<td colspan="2">Z
+</td>
+<td colspan="2">X
+</td>
+<td colspan="2">C
+</td>
+<td colspan="2">V
+</td>
+<td colspan="2">B
+</td>
+<td colspan="2">N
+</td>
+<td colspan="2">M
+</td>
+<td colspan="2">&lt;<br>,
+</td>
+<td colspan="2">&gt;<br>.
+</td>
+<td colspan="2">?<br>/
+</td>
+<th colspan="5">Shift
+</th></tr>
+<tr>
+<th colspan="3">Ctrl
+</th>
+<th colspan="2">Win
+</th>
+<th colspan="3">Alt
+</th>
+<td colspan="14">Space
+</td>
+<th colspan="3">Alt
+</th>
+<th colspan="2">Win
+</th>
+<th colspan="2">Menu
+</th>
+<th colspan="3">Ctrl
+</th></tr></tbody></table>
 </div></body></html>
