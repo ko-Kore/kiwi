@@ -676,4 +676,132 @@
 </th>
 <th colspan="3">Ctrl
 </th></tr></tbody></table>
+<table class="wikitable" style="table-layout: fixed; width: 100%; text-align: center;">
+<tbody><tr>
+<td colspan="2">~<br>`
+</td>
+<td colspan="2">!<br>1
+</td>
+<td colspan="2">@<br>2
+</td>
+<td colspan="2">#<br>3
+</td>
+<td colspan="2">$<br>4
+</td>
+<td colspan="2">%<br>5
+</td>
+<td colspan="2">^<br>6
+</td>
+<td colspan="2">&amp;<br>7
+</td>
+<td colspan="2">*<br>8
+</td>
+<td colspan="2">(<br>9
+</td>
+<td colspan="2">)<br>0
+</td>
+<td colspan="2">_<br>-
+</td>
+<td colspan="2">+<br>=
+</td>
+<th colspan="4">Backspace
+</th></tr>
+<tr>
+<th colspan="3">Tab
+</th>
+<td colspan="2">ㅃ<br>ㅂ
+</td>
+<td colspan="2">ㅉ<br>ㅈ
+</td>
+<td colspan="2">ㄸ<br>ㄷ
+</td>
+<td colspan="2">ㄲ<br>ㄱ
+</td>
+<td colspan="2">ㅆ<br>ㅅ
+</td>
+<td colspan="2"><br>ㅛ
+</td>
+<td colspan="2"><br>ㅕ
+</td>
+<td colspan="2"><br>ㅑ
+</td>
+<td colspan="2">ㅒ<br>ㅐ
+</td>
+<td colspan="2">ㅖ<br>ㅔ
+</td>
+<td colspan="2">{<br>[
+</td>
+<td colspan="2">{<br>]
+</td>
+<td colspan="3">|<br>\
+</td></tr>
+<tr>
+<th colspan="4">Caps Lock
+</th>
+<td colspan="2"><br>ㅁ
+</td>
+<td colspan="2"><br>ㄴ
+</td>
+<td colspan="2"><br>ㅇ
+</td>
+<td colspan="2"><br>ㄹ
+</td>
+<td colspan="2"><br>ㅎ
+</td>
+<td colspan="2"><br>ㅗ
+</td>
+<td colspan="2"><br>ㅓ
+</td>
+<td colspan="2"><br>ㅏ
+</td>
+<td colspan="2"><br>ㅣ
+</td>
+<td colspan="2">:<br>;
+</td>
+<td colspan="2">"<br>'
+</td>
+<th colspan="4">Enter
+</th></tr>
+<tr>
+<th colspan="5">Shift
+</th>
+<td colspan="2"><br>ㅋ
+</td>
+<td colspan="2"><br>ㅌ
+</td>
+<td colspan="2"><br>ㅊ
+</td>
+<td colspan="2"><br>ㅍ
+</td>
+<td colspan="2"><br>ㅠ
+</td>
+<td colspan="2"><br>ㅜ
+</td>
+<td colspan="2"><br>ㅡ
+</td>
+<td colspan="2"><pre style="display: inline; background: none; border: none; padding: 0;">&lt;</pre><br><pre style="display: inline; background: none; border: none; padding: 0;">,</pre>
+</td>
+<td colspan="2"><pre style="display: inline; background: none; border: none; padding: 0;">&gt;</pre><br><pre style="display: inline; background: none; border: none; padding: 0;">.</pre>
+</td>
+<td colspan="2">?<br>/
+</td>
+<th colspan="5">Shift
+</th></tr>
+<tr>
+<th colspan="3" style="height: 4em;">Ctrl
+</th>
+<th colspan="2">Win
+</th>
+<th colspan="3">Alt
+</th>
+<td colspan="12">Space
+</td>
+<th colspan="3">Alt
+</th>
+<th colspan="2">Win
+</th>
+<th colspan="2">Menu
+</th>
+<th colspan="3">Ctrl
+</th></tr></tbody></table>
 </div></body></html>

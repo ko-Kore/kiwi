@@ -52,6 +52,11 @@
       "count": 4
     },
     {
+      "title": "國漢大百科:練習帳",
+      "surrounding": "Shift Ctrl Win Alt ... Space Alt Win Menu",
+      "count": 4
+    },
+    {
       "title": "民",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) min6 (min¹¹³) ... 蘇州語(소주어) min2 (min²²³) 越南語(월남어)[편집]",
       "count": 4
@@ -104,11 +109,6 @@
     {
       "title": "中華民國",
       "surrounding": "Republic of China 略稱(약칭)은 ... Paiwan(排灣(배만))語(어) Bunun(布農(포농))語(어) Pinuyumayan(Puyuma 卑南(비남))語(어)",
-      "count": 2
-    },
-    {
-      "title": "國漢大百科:練習帳",
-      "surrounding": "Shift Ctrl Win Alt ... Space Alt Win Menu",
       "count": 2
     },
     {

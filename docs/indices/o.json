@@ -327,6 +327,11 @@
       "count": 2
     },
     {
+      "title": "國漢大百科:練習帳",
+      "surrounding": "|\\ Caps Lock A ... |\\ Caps Lock ㅁ",
+      "count": 2
+    },
+    {
       "title": "圓 (朝鮮民主主義人民共和國)",
       "surrounding": "로마字(자) 表記法(표기법) won chon ... 表記法(표기법) won chon ISO",
       "count": 2
@@ -574,11 +579,6 @@
     {
       "title": "國漢大百科:紹介",
       "surrounding": "言語(언어) 設定(설정)을 `Ko-kore`로 바꾸면",
-      "count": 1
-    },
-    {
-      "title": "國漢大百科:練習帳",
-      "surrounding": "|\\ Caps Lock A",
       "count": 1
     },
     {

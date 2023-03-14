@@ -2,6 +2,11 @@
   "word": "ce",
   "pages": [
     {
+      "title": "國漢大百科:練習帳",
+      "surrounding": "_- += Backspace Tab ... Win Alt Space Alt",
+      "count": 4
+    },
+    {
       "title": "星條旗 (國歌)",
       "surrounding": "Key 當時(당시)35歲(세))가쓴詩(시) 맥핸리要塞(요새)의防衛(방위)(Defence of ... vict’ry and peace may",
       "count": 4
@@ -29,11 +34,6 @@
     {
       "title": "主祈禱文",
       "surrounding": "in cælis sanctificetur nomen ... in caelis sanctificetur nomen",
-      "count": 2
-    },
-    {
-      "title": "國漢大百科:練習帳",
-      "surrounding": "_- += Backspace Tab ... Win Alt Space Alt",
       "count": 2
     },
     {
