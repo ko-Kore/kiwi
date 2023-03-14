@@ -412,6 +412,11 @@
       "count": 4
     },
     {
+      "title": "UTF-16",
+      "surrounding": "BOM이라는 코드로써 自動(자동)으로 把握(파악)하도록 ... 것이다 BMP에서 서러게이트雙(쌍)으로 쓰는",
+      "count": 4
+    },
+    {
       "title": "Wwwww",
       "surrounding": "w만 가져와서 www[2]等(등)으로 웃는 ... ↑ 或(혹)은 全角(전각)으로 ｗｗｗ",
       "count": 4

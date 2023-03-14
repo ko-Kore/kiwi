@@ -292,6 +292,11 @@
       "count": 1
     },
     {
+      "title": "UTF-16",
+      "surrounding": "2바이트(16비트) 固定(고정)길이로는 全世界(전세계)에서 쓰였거나",
+      "count": 1
+    },
+    {
       "title": "Wwwww",
       "surrounding": "↑ 或(혹)은 全角(전각)으로 ｗｗｗ",
       "count": 1

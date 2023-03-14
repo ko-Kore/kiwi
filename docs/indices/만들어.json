@@ -62,6 +62,11 @@
       "count": 2
     },
     {
+      "title": "UTF-16",
+      "surrounding": "漢字(한자)만을 爲(위)해 만들어진 것을",
+      "count": 1
+    },
+    {
       "title": "人間",
       "surrounding": "使用(사용)하며 道具(도구)를 만들어 쓰고",
       "count": 1

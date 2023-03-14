@@ -387,6 +387,11 @@
       "count": 1
     },
     {
+      "title": "UTF-16",
+      "surrounding": "16비트인만큼 엔디언處理(처리)를 해야 한다",
+      "count": 1
+    },
+    {
       "title": "VA-11 HALL-A: 사이버펑크 바텐더 액션",
       "surrounding": "周邊(주변) 사람들의 이야기를 그린",
       "count": 1

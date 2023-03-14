@@ -42,6 +42,11 @@
       "count": 1
     },
     {
+      "title": "UTF-16",
+      "surrounding": "BMP에서 서러게이트雙(쌍)으로 쓰는 1024字(자)는",
+      "count": 1
+    },
+    {
       "title": "Wwwww",
       "surrounding": "wwwwww처럼 여러個(개)로 쓰는것도 똑같다",
       "count": 1

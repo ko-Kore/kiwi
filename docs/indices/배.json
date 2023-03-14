@@ -387,6 +387,11 @@
       "count": 1
     },
     {
+      "title": "UTF-16",
+      "surrounding": "U+FFFF에서 U+10FFFF까지로 11倍(배) 擴張(확장)되었다",
+      "count": 1
+    },
+    {
       "title": "中國語 敎科書",
       "surrounding": "같이 第二外國語(제이외국어)로 배운다 中國本土(중국본토)[편집]",
       "count": 1

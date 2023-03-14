@@ -17,6 +17,11 @@
       "count": 2
     },
     {
+      "title": "UTF-16",
+      "surrounding": "쓰이지 않고 UTF-16에서만 쓰이도록",
+      "count": 1
+    },
+    {
       "title": "活版印刷",
       "surrounding": "程度(정도)만을 찍어내 該當地域(해당지역)에서만 活用(활용)되었다",
       "count": 1
