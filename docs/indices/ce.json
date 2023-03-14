@@ -37,6 +37,11 @@
       "count": 2
     },
     {
+      "title": "假名入力",
+      "surrounding": "ゑへ ー Backspace Tab ... Alt 無変換(무변환) Space 変換(변환)",
+      "count": 2
+    },
+    {
       "title": "電算學",
       "surrounding": "科學(과학)(英語(영어): computer science)은 計算(계산)과 ... is Computer Science 〉",
       "count": 2
