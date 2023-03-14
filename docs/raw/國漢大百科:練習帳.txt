@@ -548,35 +548,35 @@
 <td colspan="3"><center><ruby class="hanja grade62"><rb>表</rb><rp>(</rp><rt>표</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>內部</rb><rp>(</rp><rt>내부</rt><rp>)</rp></ruby><br><ruby class="hanja grade32"><rb>中央整列</rb><rp>(</rp><rt>중앙정렬</rt><rp>)</rp></ruby></center>
 </td></tr></tbody></table>
 <h2><span id=".E9.9F.93.E5.9C.8B.E8.AA.9E.28.ED.95.9C.EA.B5.AD.EC.96.B4.29.3F"></span><span class="mw-headline" id="韓國語(한국어)?"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby>?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E6%BC%A2%E5%A4%A7%E7%99%BE%E7%A7%91:%E7%B7%B4%E7%BF%92%E5%B8%B3&amp;action=edit&amp;section=10" title="부분 편집: 韓國語(한국어)?">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable" style="text-align: center;">
+<table class="wikitable" style="table-layout: fixed; width: 100%; text-align: center;">
 <tbody><tr>
-<td colspan="2" style="width: 1%;">~<br>`
+<td colspan="2">~<br>`
 </td>
-<td colspan="2" style="width: 1%;">1
+<td colspan="2">1
 </td>
-<td colspan="2" style="width: 1%;">2
+<td colspan="2">2
 </td>
-<td colspan="2" style="width: 1%;">3
+<td colspan="2">3
 </td>
-<td colspan="2" style="width: 1%;">4
+<td colspan="2">4
 </td>
-<td colspan="2" style="width: 1%;">5
+<td colspan="2">5
 </td>
-<td colspan="2" style="width: 1%;">6
+<td colspan="2">6
 </td>
-<td colspan="2" style="width: 1%;">7
+<td colspan="2">7
 </td>
-<td colspan="2" style="width: 1%;">8
+<td colspan="2">8
 </td>
-<td colspan="2" style="width: 1%;">9
+<td colspan="2">9
 </td>
-<td colspan="2" style="width: 1%;">0
+<td colspan="2">0
 </td>
-<td colspan="2" style="width: 1%;">_<br>-
+<td colspan="2">_<br>-
 </td>
-<td colspan="2" style="width: 1%;">+<br>=
+<td colspan="2">+<br>=
 </td>
-<th colspan="4" style="width: 1%;">Backspace
+<th colspan="4">Backspace
 </th></tr>
 <tr>
 <th colspan="3">Tab
@@ -651,9 +651,9 @@
 </td>
 <td colspan="2">M
 </td>
-<td colspan="2">&lt;<br>,
+<td colspan="2"><pre style="display: inline; background: none; border: none; padding: 0;">&lt;</pre><br><pre style="display: inline; background: none; border: none; padding: 0;">,</pre>
 </td>
-<td colspan="2">&gt;<br>.
+<td colspan="2"><pre style="display: inline; background: none; border: none; padding: 0;">&gt;</pre><br><pre style="display: inline; background: none; border: none; padding: 0;">.</pre>
 </td>
 <td colspan="2">?<br>/
 </td>
@@ -666,7 +666,7 @@
 </th>
 <th colspan="3">Alt
 </th>
-<td colspan="14">Space
+<td colspan="12">Space
 </td>
 <th colspan="3">Alt
 </th>
