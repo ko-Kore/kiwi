@@ -112,6 +112,11 @@
       "count": 2
     },
     {
+      "title": "倉頡輸入法",
+      "surrounding": "Shift Ctrl Win Alt ... Space Alt Win Menu",
+      "count": 2
+    },
+    {
       "title": "假名入力",
       "surrounding": "Shift Ctrl Win Alt ... ひらがなカタカナローマ字(자) Alt Win Menu",
       "count": 2

@@ -192,6 +192,11 @@
       "count": 1
     },
     {
+      "title": "倉頡輸入法",
+      "surrounding": "+= Backspace Tab 手(수)",
+      "count": 1
+    },
+    {
       "title": "假名入力",
       "surrounding": "ー Backspace Tab た",
       "count": 1

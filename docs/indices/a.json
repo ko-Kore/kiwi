@@ -212,6 +212,11 @@
       "count": 4
     },
     {
+      "title": "倉頡輸入法",
+      "surrounding": "_- += Backspace Tab ... Win Alt Space Alt",
+      "count": 4
+    },
+    {
       "title": "假名入力",
       "surrounding": "ゑへ ー Backspace Tab ... Alt 無変換(무변환) Space 変換(변환)",
       "count": 4
