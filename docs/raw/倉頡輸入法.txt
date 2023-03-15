@@ -11,7 +11,16 @@
 </li>
 <li class="toclevel-1 tocsection-4"><a href="#用例(용례)"><span class="tocnumber">3</span> <span class="toctext">用例(용례)</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#配列(배열)"><span class="tocnumber">4</span> <span class="toctext">配列(배열)</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#關聯文書(관련문서)"><span class="tocnumber">5</span> <span class="toctext">關聯文書(관련문서)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#配置原理(배치원리)"><span class="tocnumber">5</span> <span class="toctext">配置原理(배치원리)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#哲學類(철학류)"><span class="tocnumber">5.1</span> <span class="toctext">哲學類(철학류)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#筆劃類(필획류)"><span class="tocnumber">5.2</span> <span class="toctext">筆劃類(필획류)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#人體類(인체류)"><span class="tocnumber">5.3</span> <span class="toctext">人體類(인체류)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#字形類(자형류)"><span class="tocnumber">5.4</span> <span class="toctext">字形類(자형류)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#特殊鍵(특수건)"><span class="tocnumber">5.5</span> <span class="toctext">特殊鍵(특수건)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#關聯文書(관련문서)"><span class="tocnumber">6</span> <span class="toctext">關聯文書(관련문서)</span></a></li>
 </ul>
 </div>
 <h2><span id=".E5.90.8D.E7.A8.B1.28.EB.AA.85.EC.B9.AD.29"></span><span class="mw-headline" id="名稱(명칭)"><ruby class="hanja grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=1" title="부분 편집: 名稱(명칭)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -158,7 +167,29 @@
 </th>
 <th colspan="3">Ctrl
 </th></tr></tbody></table>
-<h2><span id=".E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"></span><span class="mw-headline" id="關聯文書(관련문서)"><ruby class="hanja grade32"><rb>關聯文書</rb><rp>(</rp><rt>관련문서</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=6" title="부분 편집: 關聯文書(관련문서)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E9.85.8D.E7.BD.AE.E5.8E.9F.E7.90.86.28.EB.B0.B0.EC.B9.98.EC.9B.90.EB.A6.AC.29"></span><span class="mw-headline" id="配置原理(배치원리)"><ruby class="hanja grade42"><rb>配置原理</rb><rp>(</rp><rt>배치원리</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=6" title="부분 편집: 配置原理(배치원리)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja grade62"><rb>各</rb><rp>(</rp><rt>각</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>字根</rb><rp>(</rp><rt>자근</rt><rp>)</rp></ruby>은 <ruby class="hanja grade20"><rb>類型別</rb><rp>(</rp><rt>유형별</rt><rp>)</rp></ruby>로 나누어 알파벳으로 <ruby class="hanja grade50"><rb>順序</rb><rp>(</rp><rt>순서</rt><rp>)</rp></ruby>를 매기고 QWERTY <ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade42"><rb>配置</rb><rp>(</rp><rt>배치</rt><rp>)</rp></ruby>되었다. <ruby class="hanja grade60"><rb>字根</rb><rp>(</rp><rt>자근</rt><rp>)</rp></ruby>들의 <ruby class="hanja grade30"><rb>頻度</rb><rp>(</rp><rt>빈도</rt><rp>)</rp></ruby>가 고른 <ruby class="hanja grade70"><rb>便</rb><rp>(</rp><rt>편</rt><rp>)</rp></ruby>이기 때문에 <ruby class="hanja grade40"><rb>疲勞度</rb><rp>(</rp><rt>피로도</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>計算</rb><rp>(</rp><rt>계산</rt><rp>)</rp></ruby>이 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>없어서 그런 것으로 보인다.
+</p>
+<h3><span id=".E5.93.B2.E5.AD.B8.E9.A1.9E.28.EC.B2.A0.ED.95.99.EB.A5.98.29"></span><span class="mw-headline" id="哲學類(철학류)"><ruby class="hanja grade32"><rb>哲學類</rb><rp>(</rp><rt>철학류</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=7" title="부분 편집: 哲學類(철학류)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade80"><rb>日月金木水火土</rb><rp>(</rp><rt>일월금목수화토</rt><rp>)</rp></ruby> -- ABCDEFG
+</p><p><a href="/index.php?title=%E4%BA%94%E5%85%83%E7%B4%A0&amp;action=edit&amp;redlink=1" class="new" title="五元素 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>五元素</rb><rp>(</rp><rt>오원소</rt><rp>)</rp></ruby></a>에 해와 달을 함께 묶은 <ruby class="hanja grade20"><rb>類型</rb><rp>(</rp><rt>유형</rt><rp>)</rp></ruby>.
+</p>
+<h3><span id=".E7.AD.86.E5.8A.83.E9.A1.9E.28.ED.95.84.ED.9A.8D.EB.A5.98.29"></span><span class="mw-headline" id="筆劃類(필획류)"><ruby class="hanja grade32"><rb>筆劃類</rb><rp>(</rp><rt>필획류</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=8" title="부분 편집: 筆劃類(필획류)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade20"><rb>竹戈十大中一弓</rb><rp>(</rp><rt>죽과십대중일궁</rt><rp>)</rp></ruby> -- HIJKLMN
+</p><p><ruby class="hanja grade52"><rb>基本的</rb><rp>(</rp><rt>기본적</rt><rp>)</rp></ruby>인 <ruby class="hanja grade32"><rb>筆劃</rb><rp>(</rp><rt>필획</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>되는 <ruby class="hanja grade20"><rb>類型</rb><rp>(</rp><rt>유형</rt><rp>)</rp></ruby>.
+</p>
+<h3><span id=".E4.BA.BA.E9.AB.94.E9.A1.9E.28.EC.9D.B8.EC.B2.B4.EB.A5.98.29"></span><span class="mw-headline" id="人體類(인체류)"><ruby class="hanja grade52"><rb>人體類</rb><rp>(</rp><rt>인체류</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=9" title="부분 편집: 人體類(인체류)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade70"><rb>人心手口</rb><rp>(</rp><rt>인심수구</rt><rp>)</rp></ruby> -- OPQR
+</p><p><ruby class="hanja grade50"><rb>身體部位</rb><rp>(</rp><rt>신체부위</rt><rp>)</rp></ruby>를 나타내는 <ruby class="hanja grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>를 묶은 <ruby class="hanja grade20"><rb>類型</rb><rp>(</rp><rt>유형</rt><rp>)</rp></ruby>.
+</p>
+<h3><span id=".E5.AD.97.E5.BD.A2.E9.A1.9E.28.EC.9E.90.ED.98.95.EB.A5.98.29"></span><span class="mw-headline" id="字形類(자형류)"><ruby class="hanja grade52"><rb>字形類</rb><rp>(</rp><rt>자형류</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=10" title="부분 편집: 字形類(자형류)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade0"><rb>尸廿山女田卜</rb><rp>(</rp><rt>시입산녀전복</rt><rp>)</rp></ruby> -- STUVWY
+</p><p>여러가지 <ruby class="hanja grade62"><rb>字形</rb><rp>(</rp><rt>자형</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade52"><rb>變形</rb><rp>(</rp><rt>변형</rt><rp>)</rp></ruby>되어 쓰이는 <ruby class="hanja grade20"><rb>類型</rb><rp>(</rp><rt>유형</rt><rp>)</rp></ruby>.
+</p>
+<h3><span id=".E7.89.B9.E6.AE.8A.E9.8D.B5.28.ED.8A.B9.EC.88.98.EA.B1.B4.29"></span><span class="mw-headline" id="特殊鍵(특수건)"><ruby class="hanja grade12"><rb>特殊鍵</rb><rp>(</rp><rt>특수건</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=11" title="부분 편집: 特殊鍵(특수건)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>難重</rb><rp>(</rp><rt>난중</rt><rp>)</rp></ruby> (XZ)
+</p>
+<h2><span id=".E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"></span><span class="mw-headline" id="關聯文書(관련문서)"><ruby class="hanja grade32"><rb>關聯文書</rb><rp>(</rp><rt>관련문서</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;section=12" title="부분 편집: 關聯文書(관련문서)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/index.php?title=%E4%BA%94%E7%AD%86%E5%AD%97%E5%BD%A2%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="五筆字形輸入法 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>五筆字形輸入法</rb><rp>(</rp><rt>오필자형수입법</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="行列輸入法 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>行列輸入法</rb><rp>(</rp><rt>행렬수입법</rt><rp>)</rp></ruby></a></li>
 <li><a href="/wiki/%E6%BC%A2%E5%AD%97%E7%9B%B4%E6%8E%A5%E5%85%A5%E5%8A%9B" title="漢字直接入力"><ruby class="hanja grade42"><rb>漢字直接入力</rb><rp>(</rp><rt>한자직접입력</rt><rp>)</rp></ruby></a></li></ul>
