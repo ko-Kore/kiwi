@@ -1,8 +1,10 @@
 {
   "title": "미디어위키 선비 擴張機能",
   "namespace": 0,
-  "timestamp": 1678844927000,
-  "categories": [],
+  "timestamp": 1678873655000,
+  "categories": [
+    "미디어위키"
+  ],
   "members": [],
   "file": null
 }
