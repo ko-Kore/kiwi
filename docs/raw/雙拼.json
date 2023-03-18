@@ -1,8 +1,10 @@
 {
   "title": "雙拼",
   "namespace": 0,
-  "timestamp": 1679126066000,
-  "categories": [],
+  "timestamp": 1679126284000,
+  "categories": [
+    "中國語 入力方式"
+  ],
   "members": [],
   "file": null
 }
