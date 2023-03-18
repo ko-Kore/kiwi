@@ -45,7 +45,7 @@
 </td>
 <td colspan="2">t<br>ue
 </td>
-<td colspan="2">y<br>uai<br>ü
+<td colspan="2">y<br>ü<br>uai
 </td>
 <td colspan="2">sh<br>u
 </td>
@@ -97,7 +97,7 @@
 </td>
 <td colspan="2">c<br>iao
 </td>
-<td colspan="2">zh<br>ui<br>üe
+<td colspan="2">zh<br>üe<br>ui
 </td>
 <td colspan="2">b<br>ou
 </td>
@@ -133,9 +133,9 @@
 <p>위에서 든 <ruby class="hanja grade60"><rb>例</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby> ‘<span lang="zh">双</span>’(shuāng)을 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>하려면 <code>ud</code>를 누른다(sh → <code>u</code>, uang → <code>d</code>).
 </p><p><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>特徵</rb><rp>(</rp><rt>특징</rt><rp>)</rp></ruby>들은 다음과 같다.
 </p>
-<ul><li>ü가 <ruby class="hanja grade62"><rb>意外</rb><rp>(</rp><rt>의외</rt><rp>)</rp></ruby>로 <code>v</code> 키에 있지 않고 <code>y</code> 키에 있다.</li>
+<ul><li><ruby class="hanja grade32"><rb>韻母</rb><rp>(</rp><rt>운모</rt><rp>)</rp></ruby> ü가 <ruby class="hanja grade62"><rb>意外</rb><rp>(</rp><rt>의외</rt><rp>)</rp></ruby>로 <code>v</code> 키에 있지 않고 <code>y</code> 키에 있다.</li>
 <li>a, e, o <ruby class="hanja grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby> 하나로 <ruby class="hanja grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>하는 <ruby class="hanja grade52"><rb>音節</rb><rp>(</rp><rt>음절</rt><rp>)</rp></ruby>을 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>하려면 <code>o</code>를 먼저 누른 뒤 <ruby class="hanja grade30"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>韻母</rb><rp>(</rp><rt>운모</rt><rp>)</rp></ruby>를 누른다.
-<ul><li><ruby class="hanja grade60"><rb>例</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby>: ai를 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>하려면 <code>ol</code>을 누름</li></ul></li>
+<ul><li><ruby class="hanja grade60"><rb>例</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby>: <ruby class="hanja grade52"><rb>音節</rb><rp>(</rp><rt>음절</rt><rp>)</rp></ruby> ai를 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>하려면 <code>ol</code>을 누름</li></ul></li>
 <li>w와 y도 <ruby class="hanja grade42"><rb>聲母</rb><rp>(</rp><rt>성모</rt><rp>)</rp></ruby>로 친다.
 <ul><li><ruby class="hanja grade60"><rb>例</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby>: yuan은 <ruby class="hanja grade42"><rb>實際</rb><rp>(</rp><rt>실제</rt><rp>)</rp></ruby>로는 <ruby class="hanja grade30"><rb>零聲母</rb><rp>(</rp><rt>영성모</rt><rp>)</rp></ruby>+üan이지만, 그냥 y+uan으로 <ruby class="hanja grade10"><rb>取扱</rb><rp>(</rp><rt>취급</rt><rp>)</rp></ruby>해서 <code>yr</code>을 눌러 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>함</li></ul></li>
 <li><code>;</code> 키의 <ruby class="hanja grade40"><rb>境遇</rb><rp>(</rp><rt>경우</rt><rp>)</rp></ruby>, ing과 <ruby class="hanja grade52"><rb>結合</rb><rp>(</rp><rt>결합</rt><rp>)</rp></ruby>하는 <ruby class="hanja grade42"><rb>聲母</rb><rp>(</rp><rt>성모</rt><rp>)</rp></ruby>가 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>된 <ruby class="hanja grade42"><rb>狀態</rb><rp>(</rp><rt>상태</rt><rp>)</rp></ruby>에서만 ing으로 <ruby class="hanja grade62"><rb>動作</rb><rp>(</rp><rt>동작</rt><rp>)</rp></ruby>하며, 그 <ruby class="hanja grade80"><rb>外</rb><rp>(</rp><rt>외</rt><rp>)</rp></ruby>에는 그냥 ； <ruby class="hanja grade60"><rb>記號</rb><rp>(</rp><rt>기호</rt><rp>)</rp></ruby>가 <ruby class="hanja grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>된다.</li>

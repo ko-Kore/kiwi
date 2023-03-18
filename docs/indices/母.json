@@ -2,14 +2,14 @@
   "word": "母",
   "pages": [
     {
-      "title": "두벌式",
-      "surrounding": "키보드配列中(배열중) 子音(자음)과 母音(모음)으로 나뉘어진 ... ↑ 一部(일부) 子母(자모)는 쉬프트",
+      "title": "雙拼",
+      "surrounding": "키에 여러 韻母(운모)들이 割當(할당)돼 ... Caps Lock 零声母(영성모)a siongong",
       "count": 10
     },
     {
-      "title": "雙拼",
-      "surrounding": "키에 여러 韻母(운모)들이 割當(할당)돼 ... Caps Lock 零声母(영성모)a siongong",
-      "count": 9
+      "title": "두벌式",
+      "surrounding": "키보드配列中(배열중) 子音(자음)과 母音(모음)으로 나뉘어진 ... ↑ 一部(일부) 子母(자모)는 쉬프트",
+      "count": 10
     },
     {
       "title": "鉛活字",
