@@ -72,6 +72,11 @@
       "count": 4
     },
     {
+      "title": "雙拼",
+      "surrounding": "+= Backspace Tab qiu ... cao zhüui bei nianguang",
+      "count": 4
+    },
+    {
       "title": "八",
       "surrounding": "병음 : bā 國語(국어) ... : bát bắt ",
       "count": 3
@@ -139,11 +144,6 @@
     {
       "title": "獨逸",
       "surrounding": " 獨逸聯邦共和國(독일련방공화국) Bundesrepublik Deutschland ... 槪要(개요)[편집] 獨逸聯邦共和國(독일련방공화국)(獨(독): Bundesrepublik Deutschland)",
-      "count": 2
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "+= Backspace Tab qiu ... ciao zhuiüe bou nin",
       "count": 2
     },
     {

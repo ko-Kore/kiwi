@@ -452,6 +452,11 @@
       "count": 2
     },
     {
+      "title": "雙拼",
+      "surrounding": "bou nin mian 《， ... bei nianguang miao <",
+      "count": 2
+    },
+    {
       "title": "電算學",
       "surrounding": "컴퓨터 科學(과학)(英語(영어): computer science)은 ... 〈What is Computer Science",
       "count": 2
@@ -674,11 +679,6 @@
     {
       "title": "鉛活字",
       "surrounding": "삼는다 原圖活字(원도활자) 4~5cm 크기로",
-      "count": 1
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "bou nin mian 《，",
       "count": 1
     },
     {

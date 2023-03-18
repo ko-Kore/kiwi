@@ -57,6 +57,11 @@
       "count": 26
     },
     {
+      "title": "雙拼",
+      "surrounding": "——- += Backspace Tab ... Alt Win Menu Ctrl",
+      "count": 26
+    },
+    {
       "title": "自由 소프트웨어",
       "surrounding": "自由(자유) 소프트웨어[1](英語(영어): free software ... or Confusing: Access〉 (英語(영어))",
       "count": 19
@@ -84,11 +89,6 @@
     {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot ... carrot regime problem ",
-      "count": 15
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "——- += Backspace Tab ... 入力(입력)된다 ue와 üe가 各各(각각)",
       "count": 15
     },
     {

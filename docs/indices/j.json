@@ -57,6 +57,11 @@
       "count": 2
     },
     {
+      "title": "雙拼",
+      "surrounding": "geng hang jan kao ... gang heng jing kai",
+      "count": 2
+    },
+    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "Wǒ ài Běijīng Tiān’ānmén ... wǒmen xiàng qiánjìn 우리를",
       "count": 2
@@ -134,11 +139,6 @@
     {
       "title": "釜山廣域市",
       "surrounding": "20161027 46 jpg 龍頭山公園",
-      "count": 1
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "geng hang jan kao",
       "count": 1
     },
     {

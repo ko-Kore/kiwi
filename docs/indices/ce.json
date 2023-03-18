@@ -12,6 +12,11 @@
       "count": 4
     },
     {
+      "title": "雙拼",
+      "surrounding": "——- += Backspace Tab ... Win Alt Space Alt",
+      "count": 4
+    },
+    {
       "title": "美合衆國",
       "surrounding": "Scott Key)가쓴詩(시) 『맥핸리要塞(요새)의防衛(방위)』(Defence of ... 或(혹)은 當年(당년)의 獨立記念日(독립기념일)(Independence day)이",
       "count": 3
@@ -54,11 +59,6 @@
     {
       "title": "公炳禹세벌式 3-91",
       "surrounding": "+> \\: Backspace Tab ... Alt 한자 Space 한/영",
-      "count": 2
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "——- += Backspace Tab ... Win Alt Space Alt",
       "count": 2
     },
     {

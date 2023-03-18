@@ -52,6 +52,11 @@
       "count": 18
     },
     {
+      "title": "雙拼",
+      "surrounding": "있는데 中國語(중국어) phonotactics上(상) 出現(출현) ... Win Menu Ctrl 其他(기타)",
+      "count": 18
+    },
+    {
       "title": "國漢大百科:練習帳",
       "surrounding": ":; \"' Enter Shift ... Win Menu Ctrl ",
       "count": 14
@@ -89,11 +94,6 @@
     {
       "title": "英國",
       "surrounding": "北(북)아일랜드 聯合王國(연합왕국) United Kingdom ... Britain and Northern Ireland)",
-      "count": 10
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "있는데 中國語(중국어) phonotactics上(상) 出現(출현) ... üe가 各各(각각) t와 v에",
       "count": 10
     },
     {
