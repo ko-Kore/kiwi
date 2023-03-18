@@ -7,6 +7,11 @@
       "count": 3
     },
     {
+      "title": "雙拼",
+      "surrounding": "Menu Ctrl 위에서 든 ... Menu Ctrl 위에서 든",
+      "count": 2
+    },
+    {
       "title": "나치獨逸의 노래",
       "surrounding": "온 거리 위에 나부끼리라 ... 온 거리 위에 나부끼리라",
       "count": 2
@@ -69,11 +74,6 @@
     {
       "title": "鉛活字",
       "surrounding": "루비活字(활자) 컴퓨터組版(조판)에서도 글字(자)위에 작은크기로",
-      "count": 1
-    },
-    {
-      "title": "雙拼",
-      "surrounding": "Menu Ctrl 위에서 든",
       "count": 1
     },
     {
