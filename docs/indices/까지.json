@@ -238,7 +238,7 @@
     },
     {
       "title": "UTF-16",
-      "surrounding": "코드포인트가 U+FFFF에서 U+10FFFF까지로 11倍(배)",
+      "surrounding": "코드포인트가 U+FFFF에서 U+10FFFF까지로 17倍(배)",
       "count": 1
     },
     {
