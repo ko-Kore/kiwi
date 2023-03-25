@@ -247,6 +247,11 @@
       "count": 1
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "﨣(두) U+FA24 﨤(급) U+FA27",
+      "count": 1
+    },
+    {
       "title": "一",
       "surrounding": "- 語文會(어문회) 8級(급) 목차",
       "count": 1

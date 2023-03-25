@@ -52,6 +52,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "같다 U+FA0E 﨎(쌍) U+FA0F",
+      "count": 1
+    },
+    {
       "title": "圓 (日本)",
       "surrounding": "國名(국명) 鑄造年(주조년) 雙葉(쌍엽) 1959年(년)",
       "count": 1

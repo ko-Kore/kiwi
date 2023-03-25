@@ -137,6 +137,11 @@
       "count": 2
     },
     {
+      "title": "CJK互換用漢字",
+      "surrounding": "﨔(거) U+FA1F 﨟(알) U+FA21",
+      "count": 1
+    },
+    {
       "title": "CJK統合漢字",
       "surrounding": "CJK統合漢字(통합한자)는 CJK로 알려진 中國語(중국어)·日本語(일본어)·韓國語(한국어)",
       "count": 1
