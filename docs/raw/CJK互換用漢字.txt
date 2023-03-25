@@ -22,16 +22,18 @@
 <p>이 <ruby class="hanja grade40"><rb>領域</rb><rp>(</rp><rt>영역</rt><rp>)</rp></ruby>에 <ruby class="hanja grade42"><rb>配定</rb><rp>(</rp><rt>배정</rt><rp>)</rp></ruby>된 <ruby class="hanja grade70"><rb>漢字中</rb><rp>(</rp><rt>한자중</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>一部</rb><rp>(</rp><rt>일부</rt><rp>)</rp></ruby>는 <ruby class="hanja grade42"><rb>實際</rb><rp>(</rp><rt>실제</rt><rp>)</rp></ruby>로 <ruby class="hanja grade30"><rb>互換用漢字</rb><rp>(</rp><rt>호환용한자</rt><rp>)</rp></ruby>가 아니다! <ruby class="hanja grade30"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby> 12<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>는 <a href="/wiki/CJK%E7%B5%B1%E5%90%88%E6%BC%A2%E5%AD%97" title="CJK統合漢字">CJK<ruby class="hanja grade42"><rb>統合漢字</rb><rp>(</rp><rt>통합한자</rt><rp>)</rp></ruby></a> <ruby class="hanja grade72"><rb>內</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby>에 <ruby class="hanja grade40"><rb>重複</rb><rp>(</rp><rt>중복</rt><rp>)</rp></ruby>된 글<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>가 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>하지 않으며, <ruby class="hanja grade42"><rb>統合漢字</rb><rp>(</rp><rt>통합한자</rt><rp>)</rp></ruby>로서 <ruby class="hanja grade42"><rb>處理</rb><rp>(</rp><rt>처리</rt><rp>)</rp></ruby>된다.
 </p><p><ruby class="hanja grade30"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby> 12<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>는 다음과 같다.
 </p>
-<ul><li>U+FA0E <ruby class="hanja grade0"><rb>﨎</rb><rp>(</rp><rt>쌍</rt><rp>)</rp></ruby></li>
-<li>U+FA0F <ruby class="hanja grade0"><rb>﨏</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></li>
-<li>U+FA11 <ruby class="hanja grade0"><rb>﨑</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby></li>
-<li>U+FA13 <ruby class="hanja grade0"><rb>﨓</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby></li>
-<li>U+FA14 <ruby class="hanja grade0"><rb>﨔</rb><rp>(</rp><rt>거</rt><rp>)</rp></ruby></li>
-<li>U+FA1F <ruby class="hanja grade0"><rb>﨟</rb><rp>(</rp><rt>알</rt><rp>)</rp></ruby></li>
-<li>U+FA21 <ruby class="hanja grade0"><rb>﨡</rb><rp>(</rp><rt>생</rt><rp>)</rp></ruby></li>
-<li>U+FA23 <ruby class="hanja grade0"><rb>﨣</rb><rp>(</rp><rt>두</rt><rp>)</rp></ruby></li>
-<li>U+FA24 <ruby class="hanja grade0"><rb>﨤</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></li>
-<li>U+FA27 <ruby class="hanja grade0"><rb>﨧</rb><rp>(</rp><rt>효</rt><rp>)</rp></ruby></li>
-<li>U+FA28 <ruby class="hanja grade0"><rb>﨨</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby></li>
-<li>U+FA29 <ruby class="hanja grade0"><rb>﨩</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></li></ul>
+<div class="column-2">
+<ul><li>U+FA0E <a href="/index.php?title=%EF%A8%8E&amp;action=edit&amp;redlink=1" class="new" title="﨎 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨎</rb><rp>(</rp><rt>쌍</rt><rp>)</rp></ruby></a></li>
+<li>U+FA0F <a href="/wiki/%EF%A8%8F" title="﨏"><ruby class="hanja grade0"><rb>﨏</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></a></li>
+<li>U+FA11 <a href="/index.php?title=%EF%A8%91&amp;action=edit&amp;redlink=1" class="new" title="﨑 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨑</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby></a></li>
+<li>U+FA13 <a href="/index.php?title=%EF%A8%93&amp;action=edit&amp;redlink=1" class="new" title="﨓 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨓</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby></a></li>
+<li>U+FA14 <a href="/index.php?title=%EF%A8%94&amp;action=edit&amp;redlink=1" class="new" title="﨔 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨔</rb><rp>(</rp><rt>거</rt><rp>)</rp></ruby></a></li>
+<li>U+FA1F <a href="/index.php?title=%EF%A8%9F&amp;action=edit&amp;redlink=1" class="new" title="﨟 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨟</rb><rp>(</rp><rt>알</rt><rp>)</rp></ruby></a></li>
+<li>U+FA21 <a href="/wiki/%EF%A8%A1" title="﨡"><ruby class="hanja grade0"><rb>﨡</rb><rp>(</rp><rt>생</rt><rp>)</rp></ruby></a></li>
+<li>U+FA23 <a href="/index.php?title=%EF%A8%A3&amp;action=edit&amp;redlink=1" class="new" title="﨣 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨣</rb><rp>(</rp><rt>두</rt><rp>)</rp></ruby></a></li>
+<li>U+FA24 <a href="/wiki/%EF%A8%A4" title="﨤"><ruby class="hanja grade0"><rb>﨤</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></a></li>
+<li>U+FA27 <a href="/index.php?title=%EF%A8%A7&amp;action=edit&amp;redlink=1" class="new" title="﨧 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨧</rb><rp>(</rp><rt>효</rt><rp>)</rp></ruby></a></li>
+<li>U+FA28 <a href="/index.php?title=%EF%A8%A8&amp;action=edit&amp;redlink=1" class="new" title="﨨 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨨</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby></a></li>
+<li>U+FA29 <a href="/index.php?title=%EF%A8%A9&amp;action=edit&amp;redlink=1" class="new" title="﨩 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>﨩</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a></li></ul>
+</div>
 </div></body></html>
