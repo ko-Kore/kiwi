@@ -1,8 +1,10 @@
 {
   "title": "캐세이퍼시픽航空",
   "namespace": 0,
-  "timestamp": 1679822341000,
-  "categories": [],
+  "timestamp": 1679832923000,
+  "categories": [
+    "航空社"
+  ],
   "members": [],
   "file": null
 }
