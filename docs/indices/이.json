@@ -852,6 +852,11 @@
       "count": 13
     },
     {
+      "title": "QWERTY",
+      "surrounding": "가장 널리 쓰이는 컴퓨터 ... AZERTY QWERTZ 等(등)이 그",
+      "count": 13
+    },
+    {
       "title": "倉頡",
       "surrounding": "하는 傳說(전설)속의 人物(인물)이다 黃帝(황제)의 ... 이름을 딴 것이다 ",
       "count": 13
@@ -1020,11 +1025,6 @@
       "title": "텔레그램",
       "surrounding": "自由(자유) 인스턴트 메신저이다 機能(기능)[편집] ... 찍을 境遇(경우) 알림이 傳送(전송)된다",
       "count": 12
-    },
-    {
-      "title": "QWERTY",
-      "surrounding": "가장 널리 쓰이는 컴퓨터 ... AZERTY QWERTZ 等(등)이 그",
-      "count": 11
     },
     {
       "title": "三韓",
