@@ -297,6 +297,11 @@
       "count": 4
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... i++) { console log(\"問天地好在。\");",
+      "count": 4
+    },
+    {
       "title": "李承晩",
       "surrounding": "雩南(우남) 英語名(영어명) Syngman Rhee ... by the United States)이다",
       "count": 4
@@ -794,11 +799,6 @@
     {
       "title": "拜啓도플갱어",
       "surrounding": "映像內揷畵(영상내삽화)는 하쓰子(자)가 映像製作(영상제작)은ke-sanβ가各各擔當(각각담당)하였다 曲(곡)",
-      "count": 1
-    },
-    {
-      "title": "文言文編程語言",
-      "surrounding": "文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을",
       "count": 1
     },
     {

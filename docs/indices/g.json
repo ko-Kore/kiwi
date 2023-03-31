@@ -222,6 +222,11 @@
       "count": 2
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... { console log(\"問天地好在。\"); }",
+      "count": 2
+    },
+    {
       "title": "李承晩",
       "surrounding": "雩南(우남) 英語名(영어명) Syngman Rhee ... 李承晩(이승만)(1875年(년)3月(월)26日(일)-1965年(년)7月(월)19日(일) 英文表記(영문표기) Syngman Rhee)은",
       "count": 2
@@ -404,11 +409,6 @@
     {
       "title": "敎",
       "surrounding": "𡨸國語(자국어) : giáo ",
-      "count": 1
-    },
-    {
-      "title": "文言文編程語言",
-      "surrounding": "文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을",
       "count": 1
     },
     {

@@ -142,6 +142,11 @@
       "count": 1
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "i++) { console log(\"問天地好在。\");",
+      "count": 1
+    },
+    {
       "title": "紳士와 아가씨",
       "surrounding": "lady and gentleman 장르",
       "count": 1

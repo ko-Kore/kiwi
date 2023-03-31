@@ -357,6 +357,11 @@
       "count": 3
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "for (var i = ... < n; i++) {",
+      "count": 3
+    },
+    {
       "title": "李承晩",
       "surrounding": "影響(영향)을 받은 中立(중립)”(原題(원제):Neutrality as ... by the United States)이다",
       "count": 3

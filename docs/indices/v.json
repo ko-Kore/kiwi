@@ -62,6 +62,11 @@
       "count": 4
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "자바스크립트 코드 var a ... 3; for (var i",
+      "count": 3
+    },
+    {
       "title": "中華民國",
       "surrounding": "達悟(달오))語(어) Thao(邵(소))語(어) Kavalan(噶瑪蘭(갈마란))語(어) Truku(太魯閣(태로각))語(어) ... Seediq(賽德克(새덕극))語(어) Hla’alua(拉阿魯哇(납아로와))語(어) Kanakanavu(卡那卡那富(잡나잡나부))語(어) 馬祖語(마조어)(福州語(복주어))",
       "count": 2

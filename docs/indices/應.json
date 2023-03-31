@@ -107,6 +107,11 @@
       "count": 1
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "JS 코드에 對應(대응)되며 var",
+      "count": 1
+    },
+    {
       "title": "日本語",
       "surrounding": "用法(용법)이 恒常(항상) 一對一對應(일대일대응) 하는",
       "count": 1

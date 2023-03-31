@@ -1642,6 +1642,11 @@
       "count": 2
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "읽어보지 前(전)까지는 대강 儒敎(유교)經典(경전)같이 ... JS 코드에 對應(대응)되며 var",
+      "count": 2
+    },
+    {
       "title": "新字體",
       "surrounding": "漢字(한자) 字形(자형)이다 第二次世界大戦(제이차세계대전) 後(후) ... 書体(서체)를 써야 제대로 된",
       "count": 2
@@ -1984,6 +1989,11 @@
     {
       "title": "Unicode",
       "surrounding": "넘겨줄 대상:유니코드 ",
+      "count": 1
+    },
+    {
+      "title": "Wenyan-lang",
+      "surrounding": "넘겨줄 대상:文言文編程語言 ",
       "count": 1
     },
     {

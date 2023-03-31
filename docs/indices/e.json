@@ -342,6 +342,11 @@
       "count": 3
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... i++) { console log(\"問天地好在。\");",
+      "count": 3
+    },
+    {
       "title": "活版印刷",
       "surrounding": "名稱(명칭)[편집] 英語(영어)로는 ‘letterpress’라고 하며 ... 保管(보관)하거나 콰인(Quoin)으로 체이스(Chase) 안쪽에",
       "count": 3
@@ -669,11 +674,6 @@
     {
       "title": "文在寅",
       "surrounding": "表記(표기) Moon Jae-in 出生(출생)",
-      "count": 1
-    },
-    {
-      "title": "文言文編程語言",
-      "surrounding": "文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을",
       "count": 1
     },
     {
