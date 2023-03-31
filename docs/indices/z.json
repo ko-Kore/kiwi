@@ -47,6 +47,11 @@
       "count": 5
     },
     {
+      "title": "구글 日本語入力",
+      "surrounding": "變換性能(변환성능) 2 Mozc 3 ... 오픈소스化(화)한 프로젝트로 Mozc가 있다",
+      "count": 5
+    },
+    {
       "title": "人",
       "surrounding": "(白(백) ȵin¹¹³) zen6 (文(문) ... zen2 (文(문) zən²²³) 越南語(월남어)[편집]",
       "count": 4
@@ -59,11 +64,6 @@
     {
       "title": "雙拼",
       "surrounding": "Enter Shift zei xie ... xueüe cao zhüui bei",
-      "count": 4
-    },
-    {
-      "title": "구글 日本語入力",
-      "surrounding": "變換性能(변환성능) 2 Mozc 3 ... 오픈소스化(화)한 프로젝트로 Mozc가 있다",
       "count": 4
     },
     {
