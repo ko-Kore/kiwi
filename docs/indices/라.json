@@ -1542,6 +1542,11 @@
       "count": 2
     },
     {
+      "title": "파일:Wy-lang-logo.png",
+      "surrounding": "[1] MIT 라이선스로 公開(공개)되어 ... 公開(공개)되어 있음 라이선스[편집] 틀:CopyrightedFreeUse",
+      "count": 2
+    },
+    {
       "title": "파일:ごちうさロゴ.png",
       "surrounding": "라이선스[편집] 이 ... 公正利用(공정리용)의 守則(수칙)에 따라 利用(이용)됩니다",
       "count": 2
@@ -1939,6 +1944,11 @@
     {
       "title": "敗北者 개에게 앵콜은 必要없어 (音盤)",
       "surrounding": "그저 네게 개어라 冬眠(동면)",
+      "count": 1
+    },
+    {
+      "title": "文言文編程語言",
+      "surrounding": "貯藏所(저장소) 體驗(체험)해보기 (온라인 IDE)",
       "count": 1
     },
     {
