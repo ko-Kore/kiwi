@@ -217,6 +217,11 @@
       "count": 5
     },
     {
+      "title": "漢字組建",
+      "surrounding": "漢字組建(한자조건)(han3_ji7_tsoo1_kian3)은 漢字模樣說明式(한자모양설명식)으로 ... 驅動(구동)된다 https://(도메인名(명))/han3_ji7_tsoo1_kian3/(組字式(조자식)) (png/svg)와같이 (組字式(조자식))",
+      "count": 5
+    },
+    {
       "title": "漢語拼音",
       "surrounding": "漢語拼音(한어병음)(汉语拼音 Hànyǔ Pīnyīn)은 ... m̌ m̀ n̄ ń",
       "count": 5
@@ -834,11 +839,6 @@
     {
       "title": "活版印刷",
       "surrounding": "올러 保管(보관)하거나 콰인(Quoin)으로 체이스(Chase)",
-      "count": 1
-    },
-    {
-      "title": "漢字組建",
-      "surrounding": "漢字組建(한자조건)(han3_ji7_tsoo1_kian3)은 IDS로",
       "count": 1
     },
     {

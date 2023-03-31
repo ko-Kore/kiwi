@@ -87,6 +87,11 @@
       "count": 3
     },
     {
+      "title": "漢字組建",
+      "surrounding": "漢字組建(한자조건)(han3_ji7_tsoo1_kian3)은 漢字模樣說明式(한자모양설명식)으로 ... 웹API形式(형식)으로 驅動(구동)된다 https://(도메인名(명))/han3_ji7_tsoo1_kian3/(組字式(조자식)) (png/svg)와같이",
+      "count": 3
+    },
+    {
       "title": "美國달러",
       "surrounding": "記號(기호)인＄로表記(표기)되고 口語(구어)로는'dollar(s)'或(혹)은 俗稱(속칭)인'bucks'로불린다 補助單位(보조단위)로는 ... 앤드루 잭슨(Andrew Jackson)에서 女性(여성)奴隸解放運動家(노예해방운동가)였던",
       "count": 3
@@ -454,11 +459,6 @@
     {
       "title": "氣",
       "surrounding": "𡨸國語(자국어) : khí ",
-      "count": 1
-    },
-    {
-      "title": "漢字組建",
-      "surrounding": "漢字組建(한자조건)(han3_ji7_tsoo1_kian3)은 IDS로",
       "count": 1
     },
     {
