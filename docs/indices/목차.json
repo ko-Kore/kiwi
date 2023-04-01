@@ -557,11 +557,6 @@
       "count": 1
     },
     {
-      "title": "文字",
-      "surrounding": "補充(보충)해 주세요 목차 1",
-      "count": 1
-    },
-    {
       "title": "文言文編程語言",
       "surrounding": "프로그래밍 言語(언어)이다 목차 1",
       "count": 1
@@ -608,7 +603,7 @@
     },
     {
       "title": "日本語",
-      "surrounding": "- JPN 목차 1",
+      "surrounding": "日本語族(일본어족)에 屬(속)한다 목차 1",
       "count": 1
     },
     {
@@ -1573,7 +1568,7 @@
     },
     {
       "title": "한글",
-      "surrounding": " 목차 1",
+      "surrounding": "使用(사용)되는 文字(문자)中(중)하나이다 목차 1",
       "count": 1
     },
     {
