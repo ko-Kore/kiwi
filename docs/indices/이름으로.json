@@ -2,6 +2,11 @@
   "word": "이름으로",
   "pages": [
     {
+      "title": "IOS",
+      "surrounding": "現在(현재) iOS라는 이름으로는 아이폰에만",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "'서러게이트 雙(쌍)'이라는 이름으로 豫約(예약)하여",
       "count": 1
