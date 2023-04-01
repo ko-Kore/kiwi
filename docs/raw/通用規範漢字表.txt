@@ -12,1177 +12,1177 @@
 </th></tr>
 <tr>
 <td>4004</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%89%BC&amp;action=edit&amp;redlink=1" class="new" title="𬉼 (없는 문서)"><span lang="zh">𬉼</span></a></td>
 <td data-sort-value="180860"><code>U+2C27C</code></td>
 <td data-sort-value="ou3">ǒu
 </td></tr>
 <tr>
 <td>4190</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A0%B3%90&amp;action=edit&amp;redlink=1" class="new" title="𠳐 (없는 문서)"><span lang="zh">𠳐</span></a></td>
 <td data-sort-value="134352"><code>U+20CD0</code></td>
 <td data-sort-value="bang1">bāng
 </td></tr>
 <tr>
 <td>5989</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A5%BB%97&amp;action=edit&amp;redlink=1" class="new" title="𥻗 (없는 문서)"><span lang="zh">𥻗</span></a></td>
 <td data-sort-value="155351"><code>U+25ED7</code></td>
 <td data-sort-value="cha2">chá
 </td></tr>
 <tr>
 <td>6506</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A0%99%B6" title="𠙶"><span lang="zh">𠙶</span></a></td>
 <td data-sort-value="132726"><code>U+20676</code></td>
 <td data-sort-value="ou3">ǒu
 </td></tr>
 <tr>
 <td>6520</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A3%99&amp;action=edit&amp;redlink=1" class="new" title="𬣙 (없는 문서)"><span lang="zh">𬣙</span></a></td>
 <td data-sort-value="182489"><code>U+2C8D9</code></td>
 <td data-sort-value="xu1">xū
 </td></tr>
 <tr>
 <td>6529</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A8%99%B8" title="𨙸"><span lang="zh">𨙸</span></a></td>
 <td data-sort-value="165496"><code>U+28678</code></td>
 <td data-sort-value="qi2">qí
 </td></tr>
 <tr>
 <td>6547</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%87%95" title="𬇕"><span lang="zh">𬇕</span></a></td>
 <td data-sort-value="180693"><code>U+2C1D5</code></td>
 <td data-sort-value="wan4">wàn
 </td></tr>
 <tr>
 <td>6551</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A3%9E&amp;action=edit&amp;redlink=1" class="new" title="𬣞 (없는 문서)"><span lang="zh">𬣞</span></a></td>
 <td data-sort-value="182494"><code>U+2C8DE</code></td>
 <td data-sort-value="zhu3">zhǔ
 </td></tr>
 <tr>
 <td>6553</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%93&amp;action=edit&amp;redlink=1" class="new" title="𬘓 (없는 문서)"><span lang="zh">𬘓</span></a></td>
 <td data-sort-value="181779"><code>U+2C613</code></td>
 <td data-sort-value="xun2">xún
 </td></tr>
 <tr>
 <td>6560</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%AD%9F&amp;action=edit&amp;redlink=1" class="new" title="𫭟 (없는 문서)"><span lang="zh">𫭟</span></a></td>
 <td data-sort-value="179039"><code>U+2BB5F</code></td>
 <td data-sort-value="ou1qu1">ōu, qū
 </td></tr>
 <tr>
 <td>6564</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%AD%A2&amp;action=edit&amp;redlink=1" class="new" title="𫭢 (없는 문서)"><span lang="zh">𫭢</span></a></td>
 <td data-sort-value="179042"><code>U+2BB62</code></td>
 <td data-sort-value="lun3">lǔn
 </td></tr>
 <tr>
 <td>6576</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%87%AD&amp;action=edit&amp;redlink=1" class="new" title="𫇭 (없는 문서)"><span lang="zh">𫇭</span></a></td>
 <td data-sort-value="176621"><code>U+2B1ED</code></td>
 <td data-sort-value="wei3">wěi
 </td></tr>
 <tr>
 <td>6586</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%90%84&amp;action=edit&amp;redlink=1" class="new" title="𫐄 (없는 문서)"><span lang="zh">𫐄</span></a></td>
 <td data-sort-value="177156"><code>U+2B404</code></td>
 <td data-sort-value="yue4">yuè
 </td></tr>
 <tr>
 <td>6594</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AB%B5%B7" title="𫵷"><span lang="zh">𫵷</span></a></td>
 <td data-sort-value="179575"><code>U+2BD77</code></td>
 <td data-sort-value="li4">lì
 </td></tr>
 <tr>
 <td>6612</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A3%B2%98&amp;action=edit&amp;redlink=1" class="new" title="𣲘 (없는 문서)"><span lang="zh">𣲘</span></a></td>
 <td data-sort-value="146584"><code>U+23C98</code></td>
 <td data-sort-value="wu3">wǔ
 </td></tr>
 <tr>
 <td>6613</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A3%B2%97" title="𣲗"><span lang="zh">𣲗</span></a></td>
 <td data-sort-value="146583"><code>U+23C97</code></td>
 <td data-sort-value="wei2">wéi
 </td></tr>
 <tr>
 <td>6616</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%87%99" title="𬇙"><span lang="zh">𬇙</span></a></td>
 <td data-sort-value="180697"><code>U+2C1D9</code></td>
 <td data-sort-value="bei4">bèi
 </td></tr>
 <tr>
 <td>6623</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A3%A1&amp;action=edit&amp;redlink=1" class="new" title="𬣡 (없는 문서)"><span lang="zh">𬣡</span></a></td>
 <td data-sort-value="182497"><code>U+2C8E1</code></td>
 <td data-sort-value="jian4">jiàn
 </td></tr>
 <tr>
 <td>6630</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%B8%A9&amp;action=edit&amp;redlink=1" class="new" title="𫸩 (없는 문서)"><span lang="zh">𫸩</span></a></td>
 <td data-sort-value="179753"><code>U+2BE29</code></td>
 <td data-sort-value="kou1">kōu
 </td></tr>
 <tr>
 <td>6637</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A8%9A%95" title="𨚕"><span lang="zh">𨚕</span></a></td>
 <td data-sort-value="165525"><code>U+28695</code></td>
 <td data-sort-value="bian4">biàn
 </td></tr>
 <tr>
 <td>6640</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%9C&amp;action=edit&amp;redlink=1" class="new" title="𫘜 (없는 문서)"><span lang="zh">𫘜</span></a></td>
 <td data-sort-value="177692"><code>U+2B61C</code></td>
 <td data-sort-value="wen2">wén
 </td></tr>
 <tr>
 <td>6642</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%98&amp;action=edit&amp;redlink=1" class="new" title="𬘘 (없는 문서)"><span lang="zh">𬘘</span></a></td>
 <td data-sort-value="181784"><code>U+2C618</code></td>
 <td data-sort-value="dan3">dǎn
 </td></tr>
 <tr>
 <td>6643</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%9D&amp;action=edit&amp;redlink=1" class="new" title="𫘝 (없는 문서)"><span lang="zh">𫘝</span></a></td>
 <td data-sort-value="177693"><code>U+2B61D</code></td>
 <td data-sort-value="jue2">jué
 </td></tr>
 <tr>
 <td>6658</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A6%AD%9C" title="𦭜"><span lang="zh">𦭜</span></a></td>
 <td data-sort-value="158556"><code>U+26B5C</code></td>
 <td data-sort-value="zhi1">zhī
 </td></tr>
 <tr>
 <td>6670</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A8%82&amp;action=edit&amp;redlink=1" class="new" title="𬨂 (없는 문서)"><span lang="zh">𬨂</span></a></td>
 <td data-sort-value="182786"><code>U+2CA02</code></td>
 <td data-sort-value="qi2">qí
 </td></tr>
 <tr>
 <td>6671</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%80%A9&amp;action=edit&amp;redlink=1" class="new" title="𬀩 (없는 문서)"><span lang="zh">𬀩</span></a></td>
 <td data-sort-value="180265"><code>U+2C029</code></td>
 <td data-sort-value="wei3">wěi
 </td></tr>
 <tr>
 <td>6672</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%80%AA&amp;action=edit&amp;redlink=1" class="new" title="𬀪 (없는 문서)"><span lang="zh">𬀪</span></a></td>
 <td data-sort-value="180266"><code>U+2C02A</code></td>
 <td data-sort-value="xian4">xiàn
 </td></tr>
 <tr>
 <td>6688</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%A9&amp;action=edit&amp;redlink=1" class="new" title="𬬩 (없는 문서)"><span lang="zh">𬬩</span></a></td>
 <td data-sort-value="183081"><code>U+2CB29</code></td>
 <td data-sort-value="yi4">yì
 </td></tr>
 <tr>
 <td>6730</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%8D%A3&amp;action=edit&amp;redlink=1" class="new" title="𫍣 (없는 문서)"><span lang="zh">𫍣</span></a></td>
 <td data-sort-value="176995"><code>U+2B363</code></td>
 <td data-sort-value="tong2">tóng
 </td></tr>
 <tr>
 <td>6731</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A3%B3&amp;action=edit&amp;redlink=1" class="new" title="𬣳 (없는 문서)"><span lang="zh">𬣳</span></a></td>
 <td data-sort-value="182515"><code>U+2C8F3</code></td>
 <td data-sort-value="hen3">hěn
 </td></tr>
 <tr>
 <td>6732</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A9%BD&amp;action=edit&amp;redlink=1" class="new" title="𬩽 (없는 문서)"><span lang="zh">𬩽</span></a></td>
 <td data-sort-value="182909"><code>U+2CA7D</code></td>
 <td data-sort-value="xun2">xún
 </td></tr>
 <tr>
 <td>6737</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AE%BF&amp;action=edit&amp;redlink=1" class="new" title="𬮿 (없는 문서)"><span lang="zh">𬮿</span></a></td>
 <td data-sort-value="183231"><code>U+2CBBF</code></td>
 <td data-sort-value="gai4">gài
 </td></tr>
 <tr>
 <td>6739</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AF%80&amp;action=edit&amp;redlink=1" class="new" title="𬯀 (없는 문서)"><span lang="zh">𬯀</span></a></td>
 <td data-sort-value="183232"><code>U+2CBC0</code></td>
 <td data-sort-value="ji1">jī
 </td></tr>
 <tr>
 <td>6744</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%B0%9B&amp;action=edit&amp;redlink=1" class="new" title="𫰛 (없는 문서)"><span lang="zh">𫰛</span></a></td>
 <td data-sort-value="179227"><code>U+2BC1B</code></td>
 <td data-sort-value="xing2">xíng
 </td></tr>
 <tr>
 <td>6747</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B3%B5&amp;action=edit&amp;redlink=1" class="new" title="𬳵 (없는 문서)"><span lang="zh">𬳵</span></a></td>
 <td data-sort-value="183541"><code>U+2CCF5</code></td>
 <td data-sort-value="pi1">pī
 </td></tr>
 <tr>
 <td>6749</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="𬳶 (없는 문서)"><span lang="zh">𬳶</span></a></td>
 <td data-sort-value="183542"><code>U+2CCF6</code></td>
 <td data-sort-value="jiong1">jiōng
 </td></tr>
 <tr>
 <td>6752</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%A0%8A&amp;action=edit&amp;redlink=1" class="new" title="𫠊 (없는 문서)"><span lang="zh">𫠊</span></a></td>
 <td data-sort-value="178186"><code>U+2B80A</code></td>
 <td data-sort-value="xuan2">xuán
 </td></tr>
 <tr>
 <td>6761</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%8D%9B&amp;action=edit&amp;redlink=1" class="new" title="𬍛 (없는 문서)"><span lang="zh">𬍛</span></a></td>
 <td data-sort-value="181083"><code>U+2C35B</code></td>
 <td data-sort-value="li4">lì
 </td></tr>
 <tr>
 <td>6791</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%9C%AC" title="𬜬"><span lang="zh">𬜬</span></a></td>
 <td data-sort-value="182060"><code>U+2C72C</code></td>
 <td data-sort-value="man4">màn
 </td></tr>
 <tr>
 <td>6794</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A6%B0%A1" title="𦰡"><span lang="zh">𦰡</span></a></td>
 <td data-sort-value="158753"><code>U+26C21</code></td>
 <td data-sort-value="na4nuo2">nà, nuó
 </td></tr>
 <tr>
 <td>6820</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AA%BE%A2&amp;action=edit&amp;redlink=1" class="new" title="𪾢 (없는 문서)"><span lang="zh">𪾢</span></a></td>
 <td data-sort-value="176034"><code>U+2AFA2</code></td>
 <td data-sort-value="xian4">xiàn
 </td></tr>
 <tr>
 <td>6839</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AA%A8%B0" title="𪨰"><span lang="zh">𪨰</span></a></td>
 <td data-sort-value="174640"><code>U+2AA30</code></td>
 <td data-sort-value="qu1">qū
 </td></tr>
 <tr>
 <td>6844</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%93%A7&amp;action=edit&amp;redlink=1" class="new" title="𫓧 (없는 문서)"><span lang="zh">𫓧</span></a></td>
 <td data-sort-value="177383"><code>U+2B4E7</code></td>
 <td data-sort-value="fu1">fū
 </td></tr>
 <tr>
 <td>6846</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%AE&amp;action=edit&amp;redlink=1" class="new" title="𬬮 (없는 문서)"><span lang="zh">𬬮</span></a></td>
 <td data-sort-value="183086"><code>U+2CB2E</code></td>
 <td data-sort-value="chang3">chǎng
 </td></tr>
 <tr>
 <td>6847</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%B1&amp;action=edit&amp;redlink=1" class="new" title="𬬱 (없는 문서)"><span lang="zh">𬬱</span></a></td>
 <td data-sort-value="183089"><code>U+2CB31</code></td>
 <td data-sort-value="jin1">jīn
 </td></tr>
 <tr>
 <td>6848</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%AD&amp;action=edit&amp;redlink=1" class="new" title="𬬭 (없는 문서)"><span lang="zh">𬬭</span></a></td>
 <td data-sort-value="183085"><code>U+2CB2D</code></td>
 <td data-sort-value="lun2">lún
 </td></tr>
 <tr>
 <td>6867</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A6%99%B6" title="𦙶"><span lang="zh">𦙶</span></a></td>
 <td data-sort-value="157302"><code>U+26676</code></td>
 <td data-sort-value="gu3">gǔ
 </td></tr>
 <tr>
 <td>6919</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%A1&amp;action=edit&amp;redlink=1" class="new" title="𬘡 (없는 문서)"><span lang="zh">𬘡</span></a></td>
 <td data-sort-value="181793"><code>U+2C621</code></td>
 <td data-sort-value="yin1">yīn
 </td></tr>
 <tr>
 <td>6920</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B3%BD&amp;action=edit&amp;redlink=1" class="new" title="𬳽 (없는 문서)"><span lang="zh">𬳽</span></a></td>
 <td data-sort-value="183549"><code>U+2CCFD</code></td>
 <td data-sort-value="shen1">shēn
 </td></tr>
 <tr>
 <td>6921</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%A9&amp;action=edit&amp;redlink=1" class="new" title="𬘩 (없는 문서)"><span lang="zh">𬘩</span></a></td>
 <td data-sort-value="181801"><code>U+2C629</code></td>
 <td data-sort-value="ting1">tīng
 </td></tr>
 <tr>
 <td>6922</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%84%A7&amp;action=edit&amp;redlink=1" class="new" title="𫄧 (없는 문서)"><span lang="zh">𫄧</span></a></td>
 <td data-sort-value="176423"><code>U+2B127</code></td>
 <td data-sort-value="yan2">yán
 </td></tr>
 <tr>
 <td>6932</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AA%9F%9D&amp;action=edit&amp;redlink=1" class="new" title="𪟝 (없는 문서)"><span lang="zh">𪟝</span></a></td>
 <td data-sort-value="174045"><code>U+2A7DD</code></td>
 <td data-sort-value="ji4">jì
 </td></tr>
 <tr>
 <td>6937</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%8D%A4&amp;action=edit&amp;redlink=1" class="new" title="𬍤 (없는 문서)"><span lang="zh">𬍤</span></a></td>
 <td data-sort-value="181092"><code>U+2C364</code></td>
 <td data-sort-value="xun2">xún
 </td></tr>
 <tr>
 <td>6941</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%AD%BC&amp;action=edit&amp;redlink=1" class="new" title="𫭼 (없는 문서)"><span lang="zh">𫭼</span></a></td>
 <td data-sort-value="179068"><code>U+2BB7C</code></td>
 <td data-sort-value="lao2">láo
 </td></tr>
 <tr>
 <td>6951</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%9C%AF&amp;action=edit&amp;redlink=1" class="new" title="𬜯 (없는 문서)"><span lang="zh">𬜯</span></a></td>
 <td data-sort-value="182063"><code>U+2C72F</code></td>
 <td data-sort-value="liang3">liǎng
 </td></tr>
 <tr>
 <td>6959</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%82%A9&amp;action=edit&amp;redlink=1" class="new" title="𬂩 (없는 문서)"><span lang="zh">𬂩</span></a></td>
 <td data-sort-value="180393"><code>U+2C0A9</code></td>
 <td data-sort-value="jia1">jiā
 </td></tr>
 <tr>
 <td>6967</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%A0%86&amp;action=edit&amp;redlink=1" class="new" title="𫠆 (없는 문서)"><span lang="zh">𫠆</span></a></td>
 <td data-sort-value="178182"><code>U+2B806</code></td>
 <td data-sort-value="kui3">kuǐ
 </td></tr>
 <tr>
 <td>6976</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%90%88&amp;action=edit&amp;redlink=1" class="new" title="𨐈 (없는 문서)"><span lang="zh">𨐈</span></a></td>
 <td data-sort-value="164872"><code>U+28408</code></td>
 <td data-sort-value="guang1">guāng
 </td></tr>
 <tr>
 <td>6979</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%8C%97&amp;action=edit&amp;redlink=1" class="new" title="𬌗 (없는 문서)"><span lang="zh">𬌗</span></a></td>
 <td data-sort-value="181015"><code>U+2C317</code></td>
 <td data-sort-value="he2">hé
 </td></tr>
 <tr>
 <td>6995</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%91%A1&amp;action=edit&amp;redlink=1" class="new" title="𫑡 (없는 문서)"><span lang="zh">𫑡</span></a></td>
 <td data-sort-value="177249"><code>U+2B461</code></td>
 <td data-sort-value="meng2">méng
 </td></tr>
 <tr>
 <td>6999</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AA%A8%B6" title="𪨶"><span lang="zh">𪨶</span></a></td>
 <td data-sort-value="174646"><code>U+2AA36</code></td>
 <td data-sort-value="she1">shē
 </td></tr>
 <tr>
 <td>7004</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%B8&amp;action=edit&amp;redlink=1" class="new" title="𬬸 (없는 문서)"><span lang="zh">𬬸</span></a></td>
 <td data-sort-value="183096"><code>U+2CB38</code></td>
 <td data-sort-value="shu4">shù
 </td></tr>
 <tr>
 <td>7006</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%AC%BB" title="𬬻"><span lang="zh">𬬻</span></a></td>
 <td data-sort-value="183099"><code>U+2CB3B</code></td>
 <td data-sort-value="lu2">lú
 </td></tr>
 <tr>
 <td>7007</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%B9&amp;action=edit&amp;redlink=1" class="new" title="𬬹 (없는 문서)"><span lang="zh">𬬹</span></a></td>
 <td data-sort-value="183097"><code>U+2CB39</code></td>
 <td data-sort-value="shen2">shén
 </td></tr>
 <tr>
 <td>7008</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AC%BF&amp;action=edit&amp;redlink=1" class="new" title="𬬿 (없는 문서)"><span lang="zh">𬬿</span></a></td>
 <td data-sort-value="183103"><code>U+2CB3F</code></td>
 <td data-sort-value="zhao1">zhāo
 </td></tr>
 <tr>
 <td>7009</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%81&amp;action=edit&amp;redlink=1" class="new" title="𬭁 (없는 문서)"><span lang="zh">𬭁</span></a></td>
 <td data-sort-value="183105"><code>U+2CB41</code></td>
 <td data-sort-value="mu3">mǔ
 </td></tr>
 <tr>
 <td>7019</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%A2%B8&amp;action=edit&amp;redlink=1" class="new" title="𫢸 (없는 문서)"><span lang="zh">𫢸</span></a></td>
 <td data-sort-value="178360"><code>U+2B8B8</code></td>
 <td data-sort-value="dan4">dàn
 </td></tr>
 <tr>
 <td>7039</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%97%A7&amp;action=edit&amp;redlink=1" class="new" title="𫗧 (없는 문서)"><span lang="zh">𫗧</span></a></td>
 <td data-sort-value="177639"><code>U+2B5E7</code></td>
 <td data-sort-value="su4">sù
 </td></tr>
 <tr>
 <td>7053</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%8A%88&amp;action=edit&amp;redlink=1" class="new" title="𬊈 (없는 문서)"><span lang="zh">𬊈</span></a></td>
 <td data-sort-value="180872"><code>U+2C288</code></td>
 <td data-sort-value="xun2">xún
 </td></tr>
 <tr>
 <td>7070</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%92%88&amp;action=edit&amp;redlink=1" class="new" title="𬒈 (없는 문서)"><span lang="zh">𬒈</span></a></td>
 <td data-sort-value="181384"><code>U+2C488</code></td>
 <td data-sort-value="que4">què
 </td></tr>
 <tr>
 <td>7084</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%BA%99&amp;action=edit&amp;redlink=1" class="new" title="𨺙 (없는 문서)"><span lang="zh">𨺙</span></a></td>
 <td data-sort-value="167577"><code>U+28E99</code></td>
 <td data-sort-value="ni4">nì
 </td></tr>
 <tr>
 <td>7093</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B3%BF&amp;action=edit&amp;redlink=1" class="new" title="𬳿 (없는 문서)"><span lang="zh">𬳿</span></a></td>
 <td data-sort-value="183551"><code>U+2CCFF</code></td>
 <td data-sort-value="tu2">tú
 </td></tr>
 <tr>
 <td>7094</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%84%A8&amp;action=edit&amp;redlink=1" class="new" title="𫄨 (없는 문서)"><span lang="zh">𫄨</span></a></td>
 <td data-sort-value="176424"><code>U+2B128</code></td>
 <td data-sort-value="chi1">chī
 </td></tr>
 <tr>
 <td>7097</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%AB&amp;action=edit&amp;redlink=1" class="new" title="𬘫 (없는 문서)"><span lang="zh">𬘫</span></a></td>
 <td data-sort-value="181803"><code>U+2C62B</code></td>
 <td data-sort-value="huan2">huán
 </td></tr>
 <tr>
 <td>7114</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%AE%83&amp;action=edit&amp;redlink=1" class="new" title="𫮃 (없는 문서)"><span lang="zh">𫮃</span></a></td>
 <td data-sort-value="179075"><code>U+2BB83</code></td>
 <td data-sort-value="shan4">shàn
 </td></tr>
 <tr>
 <td>7161</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B1%96&amp;action=edit&amp;redlink=1" class="new" title="𬱖 (없는 문서)"><span lang="zh">𬱖</span></a></td>
 <td data-sort-value="183382"><code>U+2CC56</code></td>
 <td data-sort-value="di2">dí
 </td></tr>
 <tr>
 <td>7166</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%9F%BD&amp;action=edit&amp;redlink=1" class="new" title="𬟽 (없는 문서)"><span lang="zh">𬟽</span></a></td>
 <td data-sort-value="182269"><code>U+2C7FD</code></td>
 <td data-sort-value="dong1">dōng
 </td></tr>
 <tr>
 <td>7177</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%93%AF&amp;action=edit&amp;redlink=1" class="new" title="𫓯 (없는 문서)"><span lang="zh">𫓯</span></a></td>
 <td data-sort-value="177391"><code>U+2B4EF</code></td>
 <td data-sort-value="ji1">jī
 </td></tr>
 <tr>
 <td>7178</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9F%B9&amp;action=edit&amp;redlink=1" class="new" title="𫟹 (없는 문서)"><span lang="zh">𫟹</span></a></td>
 <td data-sort-value="178169"><code>U+2B7F9</code></td>
 <td data-sort-value="hong2">hóng
 </td></tr>
 <tr>
 <td>7180</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9F%BC&amp;action=edit&amp;redlink=1" class="new" title="𫟼 (없는 문서)"><span lang="zh">𫟼</span></a></td>
 <td data-sort-value="178172"><code>U+2B7FC</code></td>
 <td data-sort-value="da2">dá
 </td></tr>
 <tr>
 <td>7219</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A0%85%A4" title="𠅤"><span lang="zh">𠅤</span></a></td>
 <td data-sort-value="131428"><code>U+20164</code></td>
 <td data-sort-value="xi2">xí
 </td></tr>
 <tr>
 <td>7234</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%87%B9" title="𬇹"><span lang="zh">𬇹</span></a></td>
 <td data-sort-value="180729"><code>U+2C1F9</code></td>
 <td data-sort-value="guo2">guó
 </td></tr>
 <tr>
 <td>7241</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%8D%A1&amp;action=edit&amp;redlink=1" class="new" title="𬍡 (없는 문서)"><span lang="zh">𬍡</span></a></td>
 <td data-sort-value="181089"><code>U+2C361</code></td>
 <td data-sort-value="dang4">dàng
 </td></tr>
 <tr>
 <td>7249</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A4%87&amp;action=edit&amp;redlink=1" class="new" title="𬤇 (없는 문서)"><span lang="zh">𬤇</span></a></td>
 <td data-sort-value="182535"><code>U+2C907</code></td>
 <td data-sort-value="yin1">yīn
 </td></tr>
 <tr>
 <td>7250</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%8D%AF&amp;action=edit&amp;redlink=1" class="new" title="𫍯 (없는 문서)"><span lang="zh">𫍯</span></a></td>
 <td data-sort-value="177007"><code>U+2B36F</code></td>
 <td data-sort-value="xian2">xián
 </td></tr>
 <tr>
 <td>7254</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A4%8A&amp;action=edit&amp;redlink=1" class="new" title="𬤊 (없는 문서)"><span lang="zh">𬤊</span></a></td>
 <td data-sort-value="182538"><code>U+2C90A</code></td>
 <td data-sort-value="shi4">shì
 </td></tr>
 <tr>
 <td>7255</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%8D%B2&amp;action=edit&amp;redlink=1" class="new" title="𫍲 (없는 문서)"><span lang="zh">𫍲</span></a></td>
 <td data-sort-value="177010"><code>U+2B372</code></td>
 <td data-sort-value="xiao3">xiǎo
 </td></tr>
 <tr>
 <td>7260</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AF%8E&amp;action=edit&amp;redlink=1" class="new" title="𬯎 (없는 문서)"><span lang="zh">𬯎</span></a></td>
 <td data-sort-value="183246"><code>U+2CBCE</code></td>
 <td data-sort-value="tui2">tuí
 </td></tr>
 <tr>
 <td>7273</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%AC&amp;action=edit&amp;redlink=1" class="new" title="𬘬 (없는 문서)"><span lang="zh">𬘬</span></a></td>
 <td data-sort-value="181804"><code>U+2C62C</code></td>
 <td data-sort-value="qian4">qiàn
 </td></tr>
 <tr>
 <td>7274</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%AD&amp;action=edit&amp;redlink=1" class="new" title="𬘭 (없는 문서)"><span lang="zh">𬘭</span></a></td>
 <td data-sort-value="181805"><code>U+2C62D</code></td>
 <td data-sort-value="chen1">chēn
 </td></tr>
 <tr>
 <td>7275</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B4%82&amp;action=edit&amp;redlink=1" class="new" title="𬴂 (없는 문서)"><span lang="zh">𬴂</span></a></td>
 <td data-sort-value="183554"><code>U+2CD02</code></td>
 <td data-sort-value="fei1">fēi
 </td></tr>
 <tr>
 <td>7276</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%A6&amp;action=edit&amp;redlink=1" class="new" title="𫘦 (없는 문서)"><span lang="zh">𫘦</span></a></td>
 <td data-sort-value="177702"><code>U+2B626</code></td>
 <td data-sort-value="tao2">táo
 </td></tr>
 <tr>
 <td>7278</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9F%85&amp;action=edit&amp;redlink=1" class="new" title="𫟅 (없는 문서)"><span lang="zh">𫟅</span></a></td>
 <td data-sort-value="178117"><code>U+2B7C5</code></td>
 <td data-sort-value="liang2">liáng
 </td></tr>
 <tr>
 <td>7279</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%98%AF&amp;action=edit&amp;redlink=1" class="new" title="𬘯 (없는 문서)"><span lang="zh">𬘯</span></a></td>
 <td data-sort-value="181807"><code>U+2C62F</code></td>
 <td data-sort-value="zhun3">zhǔn
 </td></tr>
 <tr>
 <td>7281</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%A7&amp;action=edit&amp;redlink=1" class="new" title="𫘧 (없는 문서)"><span lang="zh">𫘧</span></a></td>
 <td data-sort-value="177703"><code>U+2B627</code></td>
 <td data-sort-value="lu4">lù
 </td></tr>
 <tr>
 <td>7299</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AA%A3%BB&amp;action=edit&amp;redlink=1" class="new" title="𪣻 (없는 문서)"><span lang="zh">𪣻</span></a></td>
 <td data-sort-value="174331"><code>U+2A8FB</code></td>
 <td data-sort-value="lou2">lóu
 </td></tr>
 <tr>
 <td>7300</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A1%8E%9A&amp;action=edit&amp;redlink=1" class="new" title="𡎚 (없는 문서)"><span lang="zh">𡎚</span></a></td>
 <td data-sort-value="136090"><code>U+2139A</code></td>
 <td data-sort-value="pian3">piǎn
 </td></tr>
 <tr>
 <td>7326</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%83%8A&amp;action=edit&amp;redlink=1" class="new" title="𬃊 (없는 문서)"><span lang="zh">𬃊</span></a></td>
 <td data-sort-value="180426"><code>U+2C0CA</code></td>
 <td data-sort-value="zhi4">zhì
 </td></tr>
 <tr>
 <td>7334</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B7%95&amp;action=edit&amp;redlink=1" class="new" title="𬷕 (없는 문서)"><span lang="zh">𬷕</span></a></td>
 <td data-sort-value="183765"><code>U+2CDD5</code></td>
 <td data-sort-value="bu3">bǔ
 </td></tr>
 <tr>
 <td>7343</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%90%90&amp;action=edit&amp;redlink=1" class="new" title="𫐐 (없는 문서)"><span lang="zh">𫐐</span></a></td>
 <td data-sort-value="177168"><code>U+2B410</code></td>
 <td data-sort-value="ni2">ní
 </td></tr>
 <tr>
 <td>7347</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B9%BC&amp;action=edit&amp;redlink=1" class="new" title="𬹼 (없는 문서)"><span lang="zh">𬹼</span></a></td>
 <td data-sort-value="183932"><code>U+2CE7C</code></td>
 <td data-sort-value="xie4">xiè
 </td></tr>
 <tr>
 <td>7354</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A7%BF%B9&amp;action=edit&amp;redlink=1" class="new" title="𧿹 (없는 문서)"><span lang="zh">𧿹</span></a></td>
 <td data-sort-value="163833"><code>U+27FF9</code></td>
 <td data-sort-value="mu3">mǔ
 </td></tr>
 <tr>
 <td>7361</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%B6%87&amp;action=edit&amp;redlink=1" class="new" title="𫶇 (없는 문서)"><span lang="zh">𫶇</span></a></td>
 <td data-sort-value="179591"><code>U+2BD87</code></td>
 <td data-sort-value="die2">dié
 </td></tr>
 <tr>
 <td>7367</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%96%AE&amp;action=edit&amp;redlink=1" class="new" title="𫖮 (없는 문서)"><span lang="zh">𫖮</span></a></td>
 <td data-sort-value="177582"><code>U+2B5AE</code></td>
 <td data-sort-value="yi3">yǐ
 </td></tr>
 <tr>
 <td>7375</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%8A&amp;action=edit&amp;redlink=1" class="new" title="𬭊 (없는 문서)"><span lang="zh">𬭊</span></a></td>
 <td data-sort-value="183114"><code>U+2CB4A</code></td>
 <td data-sort-value="du4">dù
 </td></tr>
 <tr>
 <td>7377</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%B1%87&amp;action=edit&amp;redlink=1" class="new" title="𨱇 (없는 문서)"><span lang="zh">𨱇</span></a></td>
 <td data-sort-value="166983"><code>U+28C47</code></td>
 <td data-sort-value="qiu2">qiú
 </td></tr>
 <tr>
 <td>7378</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%93%B6&amp;action=edit&amp;redlink=1" class="new" title="𫓶 (없는 문서)"><span lang="zh">𫓶</span></a></td>
 <td data-sort-value="177398"><code>U+2B4F6</code></td>
 <td data-sort-value="xuan1">xuān
 </td></tr>
 <tr>
 <td>7382</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%8E&amp;action=edit&amp;redlink=1" class="new" title="𬭎 (없는 문서)"><span lang="zh">𬭎</span></a></td>
 <td data-sort-value="183118"><code>U+2CB4E</code></td>
 <td data-sort-value="hong2">hóng
 </td></tr>
 <tr>
 <td>7399</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%96%AF&amp;action=edit&amp;redlink=1" class="new" title="𫖯 (없는 문서)"><span lang="zh">𫖯</span></a></td>
 <td data-sort-value="177583"><code>U+2B5AF</code></td>
 <td data-sort-value="fu3">fǔ
 </td></tr>
 <tr>
 <td>7405</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B1%9F&amp;action=edit&amp;redlink=1" class="new" title="𬱟 (없는 문서)"><span lang="zh">𬱟</span></a></td>
 <td data-sort-value="183391"><code>U+2CC5F</code></td>
 <td data-sort-value="wei3">wěi
 </td></tr>
 <tr>
 <td>7408</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9B%AD&amp;action=edit&amp;redlink=1" class="new" title="𫛭 (없는 문서)"><span lang="zh">𫛭</span></a></td>
 <td data-sort-value="177901"><code>U+2B6ED</code></td>
 <td data-sort-value="kuang2">kuáng
 </td></tr>
 <tr>
 <td>7414</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%B7%B7&amp;action=edit&amp;redlink=1" class="new" title="𫷷 (없는 문서)"><span lang="zh">𫷷</span></a></td>
 <td data-sort-value="179703"><code>U+2BDF7</code></td>
 <td data-sort-value="xin1">xīn
 </td></tr>
 <tr>
 <td>7421</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AE%B1&amp;action=edit&amp;redlink=1" class="new" title="𬮱 (없는 문서)"><span lang="zh">𬮱</span></a></td>
 <td data-sort-value="183217"><code>U+2CBB1</code></td>
 <td data-sort-value="yin1">yīn
 </td></tr>
 <tr>
 <td>7423</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="𬊤 (없는 문서)"><span lang="zh">𬊤</span></a></td>
 <td data-sort-value="180900"><code>U+2C2A4</code></td>
 <td data-sort-value="chan3">chǎn
 </td></tr>
 <tr>
 <td>7425</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A3%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="𣸣 (없는 문서)"><span lang="zh">𣸣</span></a></td>
 <td data-sort-value="146979"><code>U+23E23</code></td>
 <td data-sort-value="fen2">fén
 </td></tr>
 <tr>
 <td>7456</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B4%83&amp;action=edit&amp;redlink=1" class="new" title="𬴃 (없는 문서)"><span lang="zh">𬴃</span></a></td>
 <td data-sort-value="183555"><code>U+2CD03</code></td>
 <td data-sort-value="huo1">huō
 </td></tr>
 <tr>
 <td>7457</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%A8&amp;action=edit&amp;redlink=1" class="new" title="𫘨 (없는 문서)"><span lang="zh">𫘨</span></a></td>
 <td data-sort-value="177704"><code>U+2B628</code></td>
 <td data-sort-value="ti2">tí
 </td></tr>
 <tr>
 <td>7470</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A4%A7%9B&amp;action=edit&amp;redlink=1" class="new" title="𤧛 (없는 문서)"><span lang="zh">𤧛</span></a></td>
 <td data-sort-value="149979"><code>U+249DB</code></td>
 <td data-sort-value="di4">dì
 </td></tr>
 <tr>
 <td>7503</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AA%A9&amp;action=edit&amp;redlink=1" class="new" title="𬪩 (없는 문서)"><span lang="zh">𬪩</span></a></td>
 <td data-sort-value="182953"><code>U+2CAA9</code></td>
 <td data-sort-value="nong2">nóng
 </td></tr>
 <tr>
 <td>7506</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%92%94" title="𬒔"><span lang="zh">𬒔</span></a></td>
 <td data-sort-value="181396"><code>U+2C494</code></td>
 <td data-sort-value="geng3">gěng
 </td></tr>
 <tr>
 <td>7512</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A8%8E&amp;action=edit&amp;redlink=1" class="new" title="𬨎 (없는 문서)"><span lang="zh">𬨎</span></a></td>
 <td data-sort-value="182798"><code>U+2CA0E</code></td>
 <td data-sort-value="you2">yóu
 </td></tr>
 <tr>
 <td>7513</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%90%93&amp;action=edit&amp;redlink=1" class="new" title="𫐓 (없는 문서)"><span lang="zh">𫐓</span></a></td>
 <td data-sort-value="177171"><code>U+2B413</code></td>
 <td data-sort-value="rou2">róu
 </td></tr>
 <tr>
 <td>7519</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%AB%87&amp;action=edit&amp;redlink=1" class="new" title="𫫇 (없는 문서)"><span lang="zh">𫫇</span></a></td>
 <td data-sort-value="178887"><code>U+2BAC7</code></td>
 <td data-sort-value="e4">è
 </td></tr>
 <tr>
 <td>7529</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%93%B9&amp;action=edit&amp;redlink=1" class="new" title="𫓹 (없는 문서)"><span lang="zh">𫓹</span></a></td>
 <td data-sort-value="177401"><code>U+2B4F9</code></td>
 <td data-sort-value="ji1">jī
 </td></tr>
 <tr>
 <td>7534</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%9A&amp;action=edit&amp;redlink=1" class="new" title="𬭚 (없는 문서)"><span lang="zh">𬭚</span></a></td>
 <td data-sort-value="183130"><code>U+2CB5A</code></td>
 <td data-sort-value="chun2">chún
 </td></tr>
 <tr>
 <td>7537</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%9B&amp;action=edit&amp;redlink=1" class="new" title="𬭛 (없는 문서)"><span lang="zh">𬭛</span></a></td>
 <td data-sort-value="183131"><code>U+2CB5B</code></td>
 <td data-sort-value="bo1">bō
 </td></tr>
 <tr>
 <td>7541</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%95%82" title="𬕂"><span lang="zh">𬕂</span></a></td>
 <td data-sort-value="181570"><code>U+2C542</code></td>
 <td data-sort-value="long3">lǒng
 </td></tr>
 <tr>
 <td>7561</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%8B&amp;action=edit&amp;redlink=1" class="new" title="𬶋 (없는 문서)"><span lang="zh">𬶋</span></a></td>
 <td data-sort-value="183691"><code>U+2CD8B</code></td>
 <td data-sort-value="ju1">jū
 </td></tr>
 <tr>
 <td>7562</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%8D&amp;action=edit&amp;redlink=1" class="new" title="𬶍 (없는 문서)"><span lang="zh">𬶍</span></a></td>
 <td data-sort-value="183693"><code>U+2CD8D</code></td>
 <td data-sort-value="tuo2">tuó
 </td></tr>
 <tr>
 <td>7568</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A6%9D%BC&amp;action=edit&amp;redlink=1" class="new" title="𦝼 (없는 문서)"><span lang="zh">𦝼</span></a></td>
 <td data-sort-value="157564"><code>U+2677C</code></td>
 <td data-sort-value="lou2lü2">lóu, lǘ
 </td></tr>
 <tr>
 <td>7580</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%94%B6&amp;action=edit&amp;redlink=1" class="new" title="𫔶 (없는 문서)"><span lang="zh">𫔶</span></a></td>
 <td data-sort-value="177462"><code>U+2B536</code></td>
 <td data-sort-value="nie4">niè
 </td></tr>
 <tr>
 <td>7602</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%8C%80&amp;action=edit&amp;redlink=1" class="new" title="𫌀 (없는 문서)"><span lang="zh">𫌀</span></a></td>
 <td data-sort-value="176896"><code>U+2B300</code></td>
 <td data-sort-value="ji1">jī
 </td></tr>
 <tr>
 <td>7610</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%96%B3&amp;action=edit&amp;redlink=1" class="new" title="𫖳 (없는 문서)"><span lang="zh">𫖳</span></a></td>
 <td data-sort-value="177587"><code>U+2B5B3</code></td>
 <td data-sort-value="yun1">yūn
 </td></tr>
 <tr>
 <td>7617</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%AA&amp;action=edit&amp;redlink=1" class="new" title="𫘪 (없는 문서)"><span lang="zh">𫘪</span></a></td>
 <td data-sort-value="177706"><code>U+2B62A</code></td>
 <td data-sort-value="yuan2">yuán
 </td></tr>
 <tr>
 <td>7618</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%98%AC&amp;action=edit&amp;redlink=1" class="new" title="𫘬 (없는 문서)"><span lang="zh">𫘬</span></a></td>
 <td data-sort-value="177708"><code>U+2B62C</code></td>
 <td data-sort-value="xi2">xí
 </td></tr>
 <tr>
 <td>7622</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9E%A9&amp;action=edit&amp;redlink=1" class="new" title="𫞩 (없는 문서)"><span lang="zh">𫞩</span></a></td>
 <td data-sort-value="178089"><code>U+2B7A9</code></td>
 <td data-sort-value="men2">mén
 </td></tr>
 <tr>
 <td>7635</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A1%90%93" title="𡐓"><span lang="zh">𡐓</span></a></td>
 <td data-sort-value="136211"><code>U+21413</code></td>
 <td data-sort-value="kang1">kāng
 </td></tr>
 <tr>
 <td>7638</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AA%A4%97" title="𪤗"><span lang="zh">𪤗</span></a></td>
 <td data-sort-value="174359"><code>U+2A917</code></td>
 <td data-sort-value="liao4">liào
 </td></tr>
 <tr>
 <td>7650</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A3%97%8B&amp;action=edit&amp;redlink=1" class="new" title="𣗋 (없는 문서)"><span lang="zh">𣗋</span></a></td>
 <td data-sort-value="144843"><code>U+235CB</code></td>
 <td data-sort-value="dang3">dǎng
 </td></tr>
 <tr>
 <td>7654</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B8%98&amp;action=edit&amp;redlink=1" class="new" title="𬸘 (없는 문서)"><span lang="zh">𬸘</span></a></td>
 <td data-sort-value="183832"><code>U+2CE18</code></td>
 <td data-sort-value="yan3">yǎn
 </td></tr>
 <tr>
 <td>7661</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%AC%92%97" title="𬒗"><span lang="zh">𬒗</span></a></td>
 <td data-sort-value="181399"><code>U+2C497</code></td>
 <td data-sort-value="lan2">lán
 </td></tr>
 <tr>
 <td>7663</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A5%94%B2" title="𥔲"><span lang="zh">𥔲</span></a></td>
 <td data-sort-value="152882"><code>U+25532</code></td>
 <td data-sort-value="e4">è
 </td></tr>
 <tr>
 <td>7667</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9A%96&amp;action=edit&amp;redlink=1" class="new" title="𫚖 (없는 문서)"><span lang="zh">𫚖</span></a></td>
 <td data-sort-value="177814"><code>U+2B696</code></td>
 <td data-sort-value="ci3">cǐ
 </td></tr>
 <tr>
 <td>7678</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%B1%8F&amp;action=edit&amp;redlink=1" class="new" title="𨱏 (없는 문서)"><span lang="zh">𨱏</span></a></td>
 <td data-sort-value="166991"><code>U+28C4F</code></td>
 <td data-sort-value="da1">dā
 </td></tr>
 <tr>
 <td>7682</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%A4&amp;action=edit&amp;redlink=1" class="new" title="𬭤 (없는 문서)"><span lang="zh">𬭤</span></a></td>
 <td data-sort-value="183140"><code>U+2CB64</code></td>
 <td data-sort-value="hou2">hóu
 </td></tr>
 <tr>
 <td>7701</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9A%95&amp;action=edit&amp;redlink=1" class="new" title="𫚕 (없는 문서)"><span lang="zh">𫚕</span></a></td>
 <td data-sort-value="177813"><code>U+2B695</code></td>
 <td data-sort-value="shi1">shī
 </td></tr>
 <tr>
 <td>7706</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%90&amp;action=edit&amp;redlink=1" class="new" title="𬶐 (없는 문서)"><span lang="zh">𬶐</span></a></td>
 <td data-sort-value="183696"><code>U+2CD90</code></td>
 <td data-sort-value="zhao4">zhào
 </td></tr>
 <tr>
 <td>7707</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%8F&amp;action=edit&amp;redlink=1" class="new" title="𬶏 (없는 문서)"><span lang="zh">𬶏</span></a></td>
 <td data-sort-value="183695"><code>U+2CD8F</code></td>
 <td data-sort-value="wei2">wéi
 </td></tr>
 <tr>
 <td>7708</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A9%BD%BE&amp;action=edit&amp;redlink=1" class="new" title="𩽾 (없는 문서)"><span lang="zh">𩽾</span></a></td>
 <td data-sort-value="171902"><code>U+29F7E</code></td>
 <td data-sort-value="an1">ān
 </td></tr>
 <tr>
 <td>7712</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B8%9A&amp;action=edit&amp;redlink=1" class="new" title="𬸚 (없는 문서)"><span lang="zh">𬸚</span></a></td>
 <td data-sort-value="183834"><code>U+2CE1A</code></td>
 <td data-sort-value="yue4">yuè
 </td></tr>
 <tr>
 <td>7737</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%A4%9D&amp;action=edit&amp;redlink=1" class="new" title="𬤝 (없는 문서)"><span lang="zh">𬤝</span></a></td>
 <td data-sort-value="182557"><code>U+2C91D</code></td>
 <td data-sort-value="hui4">huì
 </td></tr>
 <tr>
 <td>7746</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%99%82&amp;action=edit&amp;redlink=1" class="new" title="𬙂 (없는 문서)"><span lang="zh">𬙂</span></a></td>
 <td data-sort-value="181826"><code>U+2C642</code></td>
 <td data-sort-value="yan3">yǎn
 </td></tr>
 <tr>
 <td>7789</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%A9&amp;action=edit&amp;redlink=1" class="new" title="𬭩 (없는 문서)"><span lang="zh">𬭩</span></a></td>
 <td data-sort-value="183145"><code>U+2CB69</code></td>
 <td data-sort-value="weng1">wēng
 </td></tr>
 <tr>
 <td>7799</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A9%BE%83&amp;action=edit&amp;redlink=1" class="new" title="𩾃 (없는 문서)"><span lang="zh">𩾃</span></a></td>
 <td data-sort-value="171907"><code>U+29F83</code></td>
 <td data-sort-value="mian3">miǎn
 </td></tr>
 <tr>
 <td>7824</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="𬸣 (없는 문서)"><span lang="zh">𬸣</span></a></td>
 <td data-sort-value="183843"><code>U+2CE23</code></td>
 <td data-sort-value="xian1">xiān
 </td></tr>
 <tr>
 <td>7828</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%8D%BD&amp;action=edit&amp;redlink=1" class="new" title="𫍽 (없는 문서)"><span lang="zh">𫍽</span></a></td>
 <td data-sort-value="177021"><code>U+2B37D</code></td>
 <td data-sort-value="xuan1">xuān
 </td></tr>
 <tr>
 <td>7831</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B4%8A&amp;action=edit&amp;redlink=1" class="new" title="𬴊 (없는 문서)"><span lang="zh">𬴊</span></a></td>
 <td data-sort-value="183562"><code>U+2CD0A</code></td>
 <td data-sort-value="lin2">lín
 </td></tr>
 <tr>
 <td>7841</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%9E%9F&amp;action=edit&amp;redlink=1" class="new" title="𬞟 (없는 문서)"><span lang="zh">𬞟</span></a></td>
 <td data-sort-value="182175"><code>U+2C79F</code></td>
 <td data-sort-value="pin2">pín
 </td></tr>
 <tr>
 <td>7851</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A5%95%A2" title="𥕢"><span lang="zh">𥕢</span></a></td>
 <td data-sort-value="152930"><code>U+25562</code></td>
 <td data-sort-value="cao2">cáo
 </td></tr>
 <tr>
 <td>7854</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9F%A6&amp;action=edit&amp;redlink=1" class="new" title="𫟦 (없는 문서)"><span lang="zh">𫟦</span></a></td>
 <td data-sort-value="178150"><code>U+2B7E6</code></td>
 <td data-sort-value="sui4">suì
 </td></tr>
 <tr>
 <td>7855</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%BA%88&amp;action=edit&amp;redlink=1" class="new" title="𬺈 (없는 문서)"><span lang="zh">𬺈</span></a></td>
 <td data-sort-value="183944"><code>U+2CE88</code></td>
 <td data-sort-value="yi3">yǐ
 </td></tr>
 <tr>
 <td>7856</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%A0%9C&amp;action=edit&amp;redlink=1" class="new" title="𫠜 (없는 문서)"><span lang="zh">𫠜</span></a></td>
 <td data-sort-value="178204"><code>U+2B81C</code></td>
 <td data-sort-value="ni2">ní
 </td></tr>
 <tr>
 <td>7870</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AA%A9%98&amp;action=edit&amp;redlink=1" class="new" title="𪩘 (없는 문서)"><span lang="zh">𪩘</span></a></td>
 <td data-sort-value="174680"><code>U+2AA58</code></td>
 <td data-sort-value="yan3">yǎn
 </td></tr>
 <tr>
 <td>7872</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%AC&amp;action=edit&amp;redlink=1" class="new" title="𬭬 (없는 문서)"><span lang="zh">𬭬</span></a></td>
 <td data-sort-value="183148"><code>U+2CB6C</code></td>
 <td data-sort-value="hui4">huì
 </td></tr>
 <tr>
 <td>7873</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%B1%91&amp;action=edit&amp;redlink=1" class="new" title="𨱑 (없는 문서)"><span lang="zh">𨱑</span></a></td>
 <td data-sort-value="166993"><code>U+28C51</code></td>
 <td data-sort-value="huang2">huáng
 </td></tr>
 <tr>
 <td>7874</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%AF&amp;action=edit&amp;redlink=1" class="new" title="𬭯 (없는 문서)"><span lang="zh">𬭯</span></a></td>
 <td data-sort-value="183151"><code>U+2CB6F</code></td>
 <td data-sort-value="pie3">piě
 </td></tr>
 <tr>
 <td>7890</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%97%B4&amp;action=edit&amp;redlink=1" class="new" title="𫗴 (없는 문서)"><span lang="zh">𫗴</span></a></td>
 <td data-sort-value="177652"><code>U+2B5F4</code></td>
 <td data-sort-value="zhan1">zhān
 </td></tr>
 <tr>
 <td>7894</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B8%A6&amp;action=edit&amp;redlink=1" class="new" title="𬸦 (없는 문서)"><span lang="zh">𬸦</span></a></td>
 <td data-sort-value="183846"><code>U+2CE26</code></td>
 <td data-sort-value="zhuo2">zhuó
 </td></tr>
 <tr>
 <td>7916</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%84%B7&amp;action=edit&amp;redlink=1" class="new" title="𫄷 (없는 문서)"><span lang="zh">𫄷</span></a></td>
 <td data-sort-value="176439"><code>U+2B137</code></td>
 <td data-sort-value="yi4">yì
 </td></tr>
 <tr>
 <td>7918</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A4%A9%BD&amp;action=edit&amp;redlink=1" class="new" title="𤩽 (없는 문서)"><span lang="zh">𤩽</span></a></td>
 <td data-sort-value="150141"><code>U+24A7D</code></td>
 <td data-sort-value="huan2">huán
 </td></tr>
 <tr>
 <td>7937</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%B3&amp;action=edit&amp;redlink=1" class="new" title="𬭳 (없는 문서)"><span lang="zh">𬭳</span></a></td>
 <td data-sort-value="183155"><code>U+2CB73</code></td>
 <td data-sort-value="xi3">xǐ
 </td></tr>
 <tr>
 <td>7939</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%B6&amp;action=edit&amp;redlink=1" class="new" title="𬭶 (없는 문서)"><span lang="zh">𬭶</span></a></td>
 <td data-sort-value="183158"><code>U+2CB76</code></td>
 <td data-sort-value="hei1">hēi
 </td></tr>
 <tr>
 <td>7940</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%94%8D&amp;action=edit&amp;redlink=1" class="new" title="𫔍 (없는 문서)"><span lang="zh">𫔍</span></a></td>
 <td data-sort-value="177421"><code>U+2B50D</code></td>
 <td data-sort-value="fan2">fán
 </td></tr>
 <tr>
 <td>7943</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="𬭸 (없는 문서)"><span lang="zh">𬭸</span></a></td>
 <td data-sort-value="183160"><code>U+2CB78</code></td>
 <td data-sort-value="lin2">lín
 </td></tr>
 <tr>
 <td>7944</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%B1%94&amp;action=edit&amp;redlink=1" class="new" title="𨱔 (없는 문서)"><span lang="zh">𨱔</span></a></td>
 <td data-sort-value="166996"><code>U+28C54</code></td>
 <td data-sort-value="zun1">zūn
 </td></tr>
 <tr>
 <td>7945</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%AD%BC&amp;action=edit&amp;redlink=1" class="new" title="𬭼 (없는 문서)"><span lang="zh">𬭼</span></a></td>
 <td data-sort-value="183164"><code>U+2CB7C</code></td>
 <td data-sort-value="sui4">suì
 </td></tr>
 <tr>
 <td>7946</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%94%8E&amp;action=edit&amp;redlink=1" class="new" title="𫔎 (없는 문서)"><span lang="zh">𫔎</span></a></td>
 <td data-sort-value="177422"><code>U+2B50E</code></td>
 <td data-sort-value="jue2">jué
 </td></tr>
 <tr>
 <td>7958</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B8%AA&amp;action=edit&amp;redlink=1" class="new" title="𬸪 (없는 문서)"><span lang="zh">𬸪</span></a></td>
 <td data-sort-value="183850"><code>U+2CE2A</code></td>
 <td data-sort-value="fan2">fán
 </td></tr>
 <tr>
 <td>7961</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%9F&amp;action=edit&amp;redlink=1" class="new" title="𬶟 (없는 문서)"><span lang="zh">𬶟</span></a></td>
 <td data-sort-value="183711"><code>U+2CD9F</code></td>
 <td data-sort-value="la4">là
 </td></tr>
 <tr>
 <td>7963</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%A0&amp;action=edit&amp;redlink=1" class="new" title="𬶠 (없는 문서)"><span lang="zh">𬶠</span></a></td>
 <td data-sort-value="183712"><code>U+2CDA0</code></td>
 <td data-sort-value="lian4">liàn
 </td></tr>
 <tr>
 <td>7974</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%A8&amp;action=edit&amp;redlink=1" class="new" title="𬶨 (없는 문서)"><span lang="zh">𬶨</span></a></td>
 <td data-sort-value="183720"><code>U+2CDA8</code></td>
 <td data-sort-value="ji4">jì
 </td></tr>
 <tr>
 <td>7979</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A6%88%A1&amp;action=edit&amp;redlink=1" class="new" title="𦈡 (없는 문서)"><span lang="zh">𦈡</span></a></td>
 <td data-sort-value="156193"><code>U+26221</code></td>
 <td data-sort-value="xu1">xū
 </td></tr>
 <tr>
 <td>7980</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%84%B8&amp;action=edit&amp;redlink=1" class="new" title="𫄸 (없는 문서)"><span lang="zh">𫄸</span></a></td>
 <td data-sort-value="176440"><code>U+2B138</code></td>
 <td data-sort-value="xun1">xūn
 </td></tr>
 <tr>
 <td>7987</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%9F%81&amp;action=edit&amp;redlink=1" class="new" title="𬟁 (없는 문서)"><span lang="zh">𬟁</span></a></td>
 <td data-sort-value="182209"><code>U+2C7C1</code></td>
 <td data-sort-value="yi4">yì
 </td></tr>
 <tr>
 <td>7996</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A5%96%A8" title="𥖨"><span lang="zh">𥖨</span></a></td>
 <td data-sort-value="153000"><code>U+255A8</code></td>
 <td data-sort-value="zao4">zào
 </td></tr>
 <tr>
 <td>8020</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A6%92%8D&amp;action=edit&amp;redlink=1" class="new" title="𦒍 (없는 문서)"><span lang="zh">𦒍</span></a></td>
 <td data-sort-value="156813"><code>U+2648D</code></td>
 <td data-sort-value="tong2">tóng
 </td></tr>
 <tr>
 <td>8030</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%99%8A&amp;action=edit&amp;redlink=1" class="new" title="𬙊 (없는 문서)"><span lang="zh">𬙊</span></a></td>
 <td data-sort-value="181834"><code>U+2C64A</code></td>
 <td data-sort-value="mo4">mò
 </td></tr>
 <tr>
 <td>8042</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%AD&amp;action=edit&amp;redlink=1" class="new" title="𬶭 (없는 문서)"><span lang="zh">𬶭</span></a></td>
 <td data-sort-value="183725"><code>U+2CDAD</code></td>
 <td data-sort-value="ji4">jì
 </td></tr>
 <tr>
 <td>8043</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A9%BE%8C&amp;action=edit&amp;redlink=1" class="new" title="𩾌 (없는 문서)"><span lang="zh">𩾌</span></a></td>
 <td data-sort-value="171916"><code>U+29F8C</code></td>
 <td data-sort-value="kang1">kāng
 </td></tr>
 <tr>
 <td>8057</td>
-<td><span lang="zh"></span></td>
+<td><a href="/wiki/%F0%A8%9F%A0" title="𨟠"><span lang="zh">𨟠</span></a></td>
 <td data-sort-value="165856"><code>U+287E0</code></td>
 <td data-sort-value="quan1">quān
 </td></tr>
 <tr>
 <td>8062</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%B6%AE&amp;action=edit&amp;redlink=1" class="new" title="𬶮 (없는 문서)"><span lang="zh">𬶮</span></a></td>
 <td data-sort-value="183726"><code>U+2CDAE</code></td>
 <td data-sort-value="xi3">xǐ
 </td></tr>
 <tr>
 <td>8063</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A8%AD%89&amp;action=edit&amp;redlink=1" class="new" title="𨭉 (없는 문서)"><span lang="zh">𨭉</span></a></td>
 <td data-sort-value="166729"><code>U+28B49</code></td>
 <td data-sort-value="ban1">bān
 </td></tr>
 <tr>
 <td>8073</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%99%8B&amp;action=edit&amp;redlink=1" class="new" title="𬙋 (없는 문서)"><span lang="zh">𬙋</span></a></td>
 <td data-sort-value="181835"><code>U+2C64B</code></td>
 <td data-sort-value="xiang1">xiāng
 </td></tr>
 <tr>
 <td>8075</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%A4%AB%89&amp;action=edit&amp;redlink=1" class="new" title="𤫉 (없는 문서)"><span lang="zh">𤫉</span></a></td>
 <td data-sort-value="150217"><code>U+24AC9</code></td>
 <td data-sort-value="xie4">xiè
 </td></tr>
 <tr>
 <td>8079</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AC%BA%93&amp;action=edit&amp;redlink=1" class="new" title="𬺓 (없는 문서)"><span lang="zh">𬺓</span></a></td>
 <td data-sort-value="183955"><code>U+2CE93</code></td>
 <td data-sort-value="chu3">chǔ
 </td></tr>
 <tr>
 <td>8100</td>
-<td><span lang="zh"></span></td>
+<td><a href="/index.php?title=%F0%AB%9A%AD&amp;action=edit&amp;redlink=1" class="new" title="𫚭 (없는 문서)"><span lang="zh">𫚭</span></a></td>
 <td data-sort-value="177837"><code>U+2B6AD</code></td>
 <td data-sort-value="lie4">liè
 </td></tr></tbody></table>
@@ -1191,6 +1191,6 @@
 <h2><span id=".E5.A4.96.E9.83.A8.28.EC.99.B8.EB.B6.80.29_.EB.A7.81.ED.81.AC"></span><span class="mw-headline" id="外部(외부)_링크"><ruby class="hanja grade62"><rb>外部</rb><rp>(</rp><rt>외부</rt><rp>)</rp></ruby> 링크</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%80%9A%E7%94%A8%E8%A6%8F%E7%AF%84%E6%BC%A2%E5%AD%97%E8%A1%A8&amp;action=edit&amp;section=3" title="부분 편집: 外部(외부) 링크">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a rel="nofollow" class="external text" href="http://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby> <ruby class="hanja grade50"><rb>原文</rb><rp>(</rp><rt>원문</rt><rp>)</rp></ruby> PDF</a></li>
 <li><a rel="nofollow" class="external text" href="https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby> 위키<ruby class="hanja grade32"><rb>文獻</rb><rp>(</rp><rt>문헌</rt><rp>)</rp></ruby></a></li>
-<li><a rel="nofollow" class="external text" href="https://en.wiktionary.org/wiki/Appendix:Table_of_General_Standard_Chinese_Characters"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby> + <ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby></a></li>
+<li><a rel="nofollow" class="external text" href="https://en.wiktionary.org/wiki/Appendix:Table_of_General_Standard_Chinese_Characters"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby> + <ruby class="hanja grade40"><rb>標準中國語</rb><rp>(</rp><rt>표준중국어</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>讀音</rb><rp>(</rp><rt>독음</rt><rp>)</rp></ruby></a></li>
 <li><a rel="nofollow" class="external text" href="https://en.wiktionary.org/wiki/Appendix:Mandarin_Pinyin/Table_of_General_Standard_Chinese_Characters"><ruby class="hanja grade40"><rb>通用規範漢字表</rb><rp>(</rp><rt>통용규범한자표</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>漢語拼音</rb><rp>(</rp><rt>한어병음</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>索引</rb><rp>(</rp><rt>색인</rt><rp>)</rp></ruby></a></li></ul>
 </div></body></html>
