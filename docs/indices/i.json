@@ -542,11 +542,6 @@
       "count": 2
     },
     {
-      "title": "日本語의 漢字",
-      "surrounding": "로마字(자) 入力(입력)으로 onaji를 치고 ... 分岐(분기)하였습니다 ↑ sci lang",
-      "count": 2
-    },
-    {
       "title": "月",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) gnioq8 (ȵioʔ¹²) ... 上海語(상해어) gnioq8 (ȵioʔ¹²) 蘇州語(소주어)",
       "count": 2
@@ -799,6 +794,11 @@
     {
       "title": "新臺幣",
       "surrounding": "表記(표기) New Taiwan dollar",
+      "count": 1
+    },
+    {
+      "title": "日本語의 漢字",
+      "surrounding": "分岐(분기)하였습니다 ↑ sci lang",
       "count": 1
     },
     {

@@ -377,11 +377,6 @@
       "count": 3
     },
     {
-      "title": "日本語의 漢字",
-      "surrounding": "로마字(자) 入力(입력)으로 onaji를 치고 ... sci lang japan AFAQ",
-      "count": 3
-    },
-    {
       "title": "月",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) gnioq8 (ȵioʔ¹²) ... 𡨸國語(자국어) : nguyệt ",
       "count": 3
@@ -509,6 +504,11 @@
     {
       "title": "文在寅",
       "surrounding": "英文(영문) 表記(표기) Moon Jae-in ... 表記(표기) Moon Jae-in 出生(출생)",
+      "count": 2
+    },
+    {
+      "title": "日本語의 漢字",
+      "surrounding": "↑ sci lang japan ... sci lang japan AFAQ",
       "count": 2
     },
     {

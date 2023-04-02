@@ -327,11 +327,6 @@
       "count": 3
     },
     {
-      "title": "日本語의 漢字",
-      "surrounding": "로마字(자) 入力(입력)으로 onaji를 치고 ... sci lang japan AFAQ",
-      "count": 3
-    },
-    {
       "title": "注文은 토끼입니까?",
       "surrounding": "the order a rabbit ... 2020年(년)10月(월)부터第(제)3期(기)가放送中(방송중)이다 2017年(년)에는劇場版(극장판)『注文(주문)은토끼입니까 ~Dear My",
       "count": 3
@@ -449,6 +444,11 @@
     {
       "title": "日本語 入力方式",
       "surrounding": "例(예)를 들어 'ka'를 入力(입력)하면 ... 'か'가 나오고 'sha'는 'しゃ'가",
+      "count": 2
+    },
+    {
+      "title": "日本語의 漢字",
+      "surrounding": "↑ sci lang japan ... sci lang japan AFAQ",
       "count": 2
     },
     {

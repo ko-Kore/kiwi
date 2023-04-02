@@ -52,11 +52,6 @@
       "count": 2
     },
     {
-      "title": "日本語의 漢字",
-      "surrounding": "로마字(자) 入力(입력)으로 onaji를 치고 ... sci lang japan AFAQ",
-      "count": 2
-    },
-    {
       "title": "漢語拼音",
       "surrounding": "北京 → Běijīng 使用(사용) ... ǐ ì j k",
       "count": 2
@@ -99,6 +94,11 @@
     {
       "title": "敎",
       "surrounding": "병음 : jiào 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "日本語의 漢字",
+      "surrounding": "sci lang japan AFAQ",
       "count": 1
     },
     {
