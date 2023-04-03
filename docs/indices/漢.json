@@ -967,6 +967,11 @@
       "count": 1
     },
     {
+      "title": "文",
+      "surrounding": "文法(문법) 論文(논문) 漢文(한문) 檄文(격문)",
+      "count": 1
+    },
+    {
       "title": "日文漢字",
       "surrounding": "넘겨줄 대상:日本語의 漢字 ",
       "count": 1
