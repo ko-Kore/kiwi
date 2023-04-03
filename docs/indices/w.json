@@ -67,6 +67,11 @@
       "count": 4
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... 이름인데 이는 wenyan-get 或(혹)은",
+      "count": 3
+    },
+    {
       "title": "王",
       "surrounding": "拼音(평음) : wáng 國語(국어) ... (ɦuɑ̃¹¹³) 蘇州語(소주어) waon2 (ɦuɑ̃²²³)",
       "count": 3
@@ -189,11 +194,6 @@
     {
       "title": "打字機",
       "surrounding": "언더우드社의 打字機 打字機(타자기)(Typewriter)는 字板(자판)을",
-      "count": 1
-    },
-    {
-      "title": "文言文編程語言",
-      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을",
       "count": 1
     },
     {

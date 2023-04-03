@@ -177,6 +177,11 @@
       "count": 6
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... 이름인데 이는 wenyan-get 或(혹)은",
+      "count": 6
+    },
+    {
       "title": "民",
       "surrounding": "병음 : mín 國語(국어) ... 𡨸國語(자국어) : dân ",
       "count": 6
@@ -294,11 +299,6 @@
     {
       "title": "巴里",
       "surrounding": "홈페이지 Fluctuat nec mergitur흔들릴지언정 ... département ↑ arrondissement ↑",
-      "count": 4
-    },
-    {
-      "title": "文言文編程語言",
-      "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... i++) { console log(\"問天地好在。\");",
       "count": 4
     },
     {
