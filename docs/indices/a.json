@@ -592,6 +592,11 @@
       "count": 2
     },
     {
+      "title": "𬜬",
+      "surrounding": "‘𬜬山’을 檢索(검색)하면 Manshan이 아니라 ... Manshan이 아니라 Qingshan으로 나오는데",
+      "count": 2
+    },
+    {
       "title": "0으로 나누기",
       "surrounding": "되므로 普通(보통) NaN이나 無限大(무한대)",
       "count": 1
