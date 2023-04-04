@@ -1,8 +1,10 @@
 {
   "title": "常用漢字",
   "namespace": 0,
-  "timestamp": 1680630535000,
-  "categories": [],
+  "timestamp": 1680643518000,
+  "categories": [
+    "漢字"
+  ],
   "members": [],
   "file": null
 }
