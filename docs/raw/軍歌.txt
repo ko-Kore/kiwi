@@ -1,36 +1,28 @@
-<html><head></head><body><div class="mw-parser-output"><h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><ruby class="hanja grade70"><rb>軍歌</rb><rp>(</rp><rt>군가</rt><rp>)</rp></ruby>란 <a href="/index.php?title=%E8%BB%8D%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="軍隊 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>軍隊</rb><rp>(</rp><rt>군대</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 만들어져 불려지는 노래를 말한다.
+<html><head></head><body><div class="mw-parser-output"><p><ruby class="hanja grade70"><rb>軍歌</rb><rp>(</rp><rt>군가</rt><rp>)</rp></ruby>란 <a href="/index.php?title=%E8%BB%8D%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="軍隊 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>軍隊</rb><rp>(</rp><rt>군대</rt><rp>)</rp></ruby></a>에 <ruby class="hanja grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 만들어져 불려지는 노래를 말한다.
 </p>
-<h2><span id="國家別(국가별)_軍歌(군가)"></span><span class="mw-headline" id=".E5.9C.8B.E5.AE.B6.E5.88.A5.28.EA.B5.AD.EA.B0.80.EB.B3.84.29_.E8.BB.8D.E6.AD.8C.28.EA.B5.B0.EA.B0.80.29"><ruby class="hanja grade60"><rb>國家別</rb><rp>(</rp><rt>국가별</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>軍歌</rb><rp>(</rp><rt>군가</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;section=2" title="부분 편집: 國家別(국가별) 軍歌(군가)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E5.9C.8B.E5.AE.B6.E5.88.A5.28.EA.B5.AD.EA.B0.80.EB.B3.84.29_.E8.BB.8D.E6.AD.8C.28.EA.B5.B0.EA.B0.80.29"></span><span class="mw-headline" id="國家別(국가별)_軍歌(군가)"><ruby class="hanja grade60"><rb>國家別</rb><rp>(</rp><rt>국가별</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>軍歌</rb><rp>(</rp><rt>군가</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;section=1" title="부분 편집: 國家別(국가별) 軍歌(군가)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><a href="/wiki/%E5%9C%8B%E5%AE%B6" title="國家"><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby></a></th>
-<th><a href="/index.php?title=%E6%9B%B2%E5%90%8D&amp;action=edit&amp;redlink=1" class="new" title="曲名 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>曲名</rb><rp>(</rp><rt>곡명</rt><rp>)</rp></ruby></a></th>
-<th><a href="/index.php?title=%E7%99%BC%E9%9F%B3&amp;action=edit&amp;redlink=1" class="new" title="發音 (없는 문서)"><ruby class="hanja grade62 unknown"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></a>/<a href="/index.php?title=%E9%A3%9C%E8%AD%AF&amp;action=edit&amp;redlink=1" class="new" title="飜譯 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>飜譯</rb><rp>(</rp><rt>번역</rt><rp>)</rp></ruby></a>
+<th><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja grade50"><rb>曲名</rb><rp>(</rp><rt>곡명</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <th><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>
 </th>
 <td><a href="/index.php?title=%E7%9C%9E%EC%A7%9C_%EC%82%AC%EB%82%98%EC%9D%B4&amp;action=edit&amp;redlink=1" class="new" title="眞짜 사나이 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>眞</rb><rp>(</rp><rt>진</rt><rp>)</rp></ruby>짜 사나이</a>
-</td>
-<td>-
 </td></tr>
 <tr>
 <th><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>
 </th>
-<td><a href="/index.php?title=%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E8%BB%8D%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="中國人民解放軍軍歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>中國人民解放軍軍歌</rb><rp>(</rp><rt>중국인민해방군군가</rt><rp>)</rp></ruby></a> (<ruby class="hanja grade62"><rb>正體</rb><rp>(</rp><rt>정체</rt><rp>)</rp></ruby>) <br> <ruby class="hanja grade0"><rb>中国人民解放军军歌</rb><rp>(</rp><rt>중국인민해방군군가</rt><rp>)</rp></ruby> (<ruby class="hanja grade40"><rb>簡體</rb><rp>(</rp><rt>간체</rt><rp>)</rp></ruby>)
-</td>
-<td>zhōng guó rén mín jiě fàng jūn jūn gē <br> 중국인민해방군가
+<td><a href="/index.php?title=%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E8%BB%8D%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="中國人民解放軍軍歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>中國人民解放軍軍歌</rb><rp>(</rp><rt>중국인민해방군군가</rt><rp>)</rp></ruby></a><br>(zhōng guó rén mín jiě fàng jūn jūn gē)
 </td></tr>
 <tr>
 <th><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>
 </th>
-<td><a href="/index.php?title=%E9%9A%8A%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="隊歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>隊歌</rb><rp>(</rp><rt>대가</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> &nbsp;
-</td>
-<td>-
+<td><a href="/index.php?title=%E9%9A%8A%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="隊歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>隊歌</rb><rp>(</rp><rt>대가</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr></tbody></table>
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"> <ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>에 <a href="/index.php?title=%E8%87%AA%E8%A1%9B%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="自衛隊 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>自衛隊</rb><rp>(</rp><rt>자위대</rt><rp>)</rp></ruby></a>는 <a class="mw-selflink selflink">軍歌</a>가 아닌 <a href="/index.php?title=%E9%9A%8A%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="隊歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>隊歌</rb><rp>(</rp><rt>대가</rt><rp>)</rp></ruby></a>라고 한다.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>에 <a href="/index.php?title=%E8%87%AA%E8%A1%9B%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="自衛隊 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>自衛隊</rb><rp>(</rp><rt>자위대</rt><rp>)</rp></ruby></a>는 <a class="mw-selflink selflink">軍歌</a>가 아닌 <a href="/index.php?title=%E9%9A%8A%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="隊歌 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>隊歌</rb><rp>(</rp><rt>대가</rt><rp>)</rp></ruby></a>라고 한다.</span>
 </li>
 </ol></div>
 </div></body></html>
