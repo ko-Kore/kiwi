@@ -133,7 +133,7 @@
     },
     {
       "title": "九",
-      "surrounding": "キュウ ク 훈독 :",
+      "surrounding": "キュウ ク 訓讀(훈독) :",
       "count": 1
     },
     {
@@ -184,6 +184,11 @@
     {
       "title": "回敎",
       "surrounding": "言行(언행)을 記錄(기록)한 하디스(聖訓(성훈))가 있다",
+      "count": 1
+    },
+    {
+      "title": "國",
+      "surrounding": "音讀(음독) : 訓讀(훈독) :",
       "count": 1
     },
     {
@@ -273,7 +278,7 @@
     },
     {
       "title": "校",
-      "surrounding": "コウ キョウ 훈독 :",
+      "surrounding": "コウ キョウ 訓讀(훈독) :",
       "count": 1
     },
     {

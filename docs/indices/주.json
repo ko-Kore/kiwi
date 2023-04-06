@@ -1552,6 +1552,11 @@
       "count": 1
     },
     {
+      "title": "國",
+      "surrounding": ": 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
       "title": "國文",
       "surrounding": "內容(내용)을 補充(보충)해 주세요 槪要(개요)[편집]",
       "count": 1
@@ -1643,7 +1648,7 @@
     },
     {
       "title": "敎",
-      "surrounding": "jiào 國語(국어) 주음 :",
+      "surrounding": "jiào 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
@@ -1763,7 +1768,7 @@
     },
     {
       "title": "校",
-      "surrounding": "jiào 國語(국어) 주음 :",
+      "surrounding": "jiào 國語(국어) 注音(주음) :",
       "count": 1
     },
     {

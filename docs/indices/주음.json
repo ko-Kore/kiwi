@@ -97,6 +97,11 @@
       "count": 1
     },
     {
+      "title": "國",
+      "surrounding": ": 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
       "title": "土",
       "surrounding": "tǔ 國語(국어) 주음 :",
       "count": 1
@@ -138,7 +143,7 @@
     },
     {
       "title": "敎",
-      "surrounding": "jiào 國語(국어) 주음 :",
+      "surrounding": "jiào 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
@@ -163,7 +168,7 @@
     },
     {
       "title": "校",
-      "surrounding": "jiào 國語(국어) 주음 :",
+      "surrounding": "jiào 國語(국어) 注音(주음) :",
       "count": 1
     },
     {

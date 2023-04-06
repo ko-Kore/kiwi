@@ -228,7 +228,7 @@
     },
     {
       "title": "敎",
-      "surrounding": "병음 : gaau1·3 越南語(월남어)[편집] ... 𡨸國語(자국어) : giáo ",
+      "surrounding": "拼音(병음) : gaau1·3 越南語(월남어)[편집] ... 𡨸國語(자국어) : giáo ",
       "count": 2
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "title": "校",
-      "surrounding": "병음 : gaau3 haau6 ... 𡨸國語(자국어) : đắng hiệu",
+      "surrounding": "拼音(병음) : gaau3 haau6 ... 𡨸國語(자국어) : đắng hiệu",
       "count": 2
     },
     {
@@ -399,6 +399,11 @@
     {
       "title": "嗧",
       "surrounding": "부피 單位(단위) ‘갤런(gallon)’을 ‘加侖’으로",
+      "count": 1
+    },
+    {
+      "title": "國",
+      "surrounding": "拼音(병음) : gwok3 越南語(월남어)[편집]",
       "count": 1
     },
     {
