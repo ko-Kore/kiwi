@@ -223,7 +223,7 @@
     },
     {
       "title": "木",
-      "surrounding": "나무 목 部首(부수) 木(목)",
+      "surrounding": "나무 목 部首(부수) 木",
       "count": 1
     },
     {
@@ -249,6 +249,11 @@
     {
       "title": "殉",
       "surrounding": "따라죽을 순 部首(부수) 歹(알)",
+      "count": 1
+    },
+    {
+      "title": "母",
+      "surrounding": "어미 모 部首(부수) 毋",
       "count": 1
     },
     {

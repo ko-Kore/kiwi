@@ -47,6 +47,11 @@
       "count": 1
     },
     {
+      "title": "木",
+      "surrounding": "注音(주음) : 粤語(월어) 拼音(병음)",
+      "count": 1
+    },
+    {
       "title": "東",
       "surrounding": ": ㄉㄨㄥ 粤語(월어) 拼音(병음)",
       "count": 1
@@ -54,6 +59,11 @@
     {
       "title": "校",
       "surrounding": ": ㄒㄧㄠˋ 粤語(월어) 拼音(병음)",
+      "count": 1
+    },
+    {
+      "title": "母",
+      "surrounding": "注音(주음) : 粤語(월어) 拼音(병음)",
       "count": 1
     },
     {

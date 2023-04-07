@@ -167,6 +167,11 @@
       "count": 1
     },
     {
+      "title": "木",
+      "surrounding": ": 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
       "title": "本",
       "surrounding": "běn 國語(국어) 주음 :",
       "count": 1
@@ -179,6 +184,11 @@
     {
       "title": "校",
       "surrounding": "jiào 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
+      "title": "母",
+      "surrounding": ": 國語(국어) 注音(주음) :",
       "count": 1
     },
     {

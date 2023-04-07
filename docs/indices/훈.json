@@ -272,6 +272,11 @@
       "count": 1
     },
     {
+      "title": "木",
+      "surrounding": "音讀(음독) : 訓讀(훈독) :",
+      "count": 1
+    },
+    {
       "title": "本",
       "surrounding": ": ホン 훈독 :",
       "count": 1
@@ -289,6 +294,11 @@
     {
       "title": "校",
       "surrounding": "コウ キョウ 訓讀(훈독) :",
+      "count": 1
+    },
+    {
+      "title": "母",
+      "surrounding": "音讀(음독) : 訓讀(훈독) :",
       "count": 1
     },
     {
