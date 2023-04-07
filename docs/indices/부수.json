@@ -263,7 +263,7 @@
     },
     {
       "title": "民",
-      "surrounding": "백성 민 部首(부수) 氏(씨)",
+      "surrounding": "百姓(백성) 민 部首(부수) 氏",
       "count": 1
     },
     {
@@ -314,6 +314,11 @@
     {
       "title": "產",
       "surrounding": "낳을 산 部首(부수) 生",
+      "count": 1
+    },
+    {
+      "title": "白",
+      "surrounding": "흰/아뢸 백 部首(부수) 白",
       "count": 1
     },
     {

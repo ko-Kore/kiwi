@@ -1088,7 +1088,7 @@
     },
     {
       "title": "民",
-      "surrounding": "mín 國語(국어) 주음 : ... min6 (min¹¹³) 蘇州語(소주어) min2",
+      "surrounding": "mín 國語(국어) 注音(주음) : ... min6 (min¹¹³) 蘇州語(소주어) min2",
       "count": 2
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "title": "門",
-      "surrounding": "mén 國語(국어) 주음 : ... men6 (mən¹¹³) 蘇州語(소주어) men2",
+      "surrounding": "mén 國語(국어) 注音(주음) : ... men6 (mən¹¹³) 蘇州語(소주어) men2",
       "count": 2
     },
     {
@@ -1894,6 +1894,11 @@
     {
       "title": "略字",
       "surrounding": "俗字(속자)를 말한다 主(주)로 非公式(비공식)으로",
+      "count": 1
+    },
+    {
+      "title": "白",
+      "surrounding": ": 國語(국어) 注音(주음) :",
       "count": 1
     },
     {

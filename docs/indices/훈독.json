@@ -178,7 +178,7 @@
     },
     {
       "title": "民",
-      "surrounding": ": ミン 훈독 :",
+      "surrounding": ": ミン 訓讀(훈독) :",
       "count": 1
     },
     {
@@ -217,6 +217,11 @@
       "count": 1
     },
     {
+      "title": "白",
+      "surrounding": "音讀(음독) : 訓讀(훈독) :",
+      "count": 1
+    },
+    {
       "title": "萬",
       "surrounding": ": マン 훈독 :",
       "count": 1
@@ -243,7 +248,7 @@
     },
     {
       "title": "門",
-      "surrounding": ": モン 훈독 :",
+      "surrounding": ": モン 訓讀(훈독) :",
       "count": 1
     },
     {

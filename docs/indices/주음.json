@@ -193,7 +193,7 @@
     },
     {
       "title": "民",
-      "surrounding": "mín 國語(국어) 주음 :",
+      "surrounding": "mín 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
@@ -232,6 +232,11 @@
       "count": 1
     },
     {
+      "title": "白",
+      "surrounding": ": 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
       "title": "萬",
       "surrounding": "wàn 國語(국어) 注音(주음) :",
       "count": 1
@@ -258,7 +263,7 @@
     },
     {
       "title": "門",
-      "surrounding": "mén 國語(국어) 주음 :",
+      "surrounding": "mén 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
