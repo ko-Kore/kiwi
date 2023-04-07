@@ -12,6 +12,11 @@
       "count": 1
     },
     {
+      "title": "六",
+      "surrounding": "ㄌㄧㄡˋ ㄌㄨˋ 粤語(월어) 拼音(병음)",
+      "count": 1
+    },
+    {
       "title": "南",
       "surrounding": "注音(주음) : 粤語(월어) 拼音(병음)",
       "count": 1
@@ -19,6 +24,11 @@
     {
       "title": "國",
       "surrounding": "拼音(병음) :kok 粤語(월어) 拼音(병음)",
+      "count": 1
+    },
+    {
+      "title": "大",
+      "surrounding": "ㄉㄞˋ ㄊㄞˋ 粤語(월어) 拼音(병음)",
       "count": 1
     },
     {
@@ -37,8 +47,18 @@
       "count": 1
     },
     {
+      "title": "東",
+      "surrounding": ": ㄉㄨㄥ 粤語(월어) 拼音(병음)",
+      "count": 1
+    },
+    {
       "title": "校",
       "surrounding": ": ㄒㄧㄠˋ 粤語(월어) 拼音(병음)",
+      "count": 1
+    },
+    {
+      "title": "萬",
+      "surrounding": ": ㄨㄢˋ 粤語(월어) 拼音(병음)",
       "count": 1
     },
     {

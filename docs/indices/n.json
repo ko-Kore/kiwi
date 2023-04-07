@@ -387,6 +387,11 @@
       "count": 3
     },
     {
+      "title": "東",
+      "surrounding": "병음 : dōng 國語(국어) ... 𡨸國語(자국어) : đông ",
+      "count": 3
+    },
+    {
       "title": "碧藍航路",
       "surrounding": " 碧藍航路(벽람항로)碧蓝航线(벽람항선)Azur Lane 開發(개발) ... 名稱(명칭) Azur Lane 流通(유통)",
       "count": 3
@@ -532,11 +537,6 @@
       "count": 2
     },
     {
-      "title": "東",
-      "surrounding": "병음 : dōng 國語(국어) ... 𡨸國語(자국어) : đông ",
-      "count": 2
-    },
-    {
       "title": "機械式 키보드",
       "surrounding": "該當(해당)된다 넌클릭[편집] Non-click 클릭과 ... 該當(해당)된다 리니어[편집] Linear 키를",
       "count": 2
@@ -574,6 +574,11 @@
     {
       "title": "艦隊컬렉션 ~칸코레~",
       "surrounding": "컬렉션 ~칸코레~艦隊(함대)これくしょん ~艦(함)これ~Combined Fleet ... Fleet Girls Collection 開發(개발)",
+      "count": 2
+    },
+    {
+      "title": "萬",
+      "surrounding": "拼音(병음) : wàn 國語(국어) ... 拼音(병음) : maan6 maak6",
       "count": 2
     },
     {
@@ -884,11 +889,6 @@
     {
       "title": "自由 소프트웨어 財團",
       "surrounding": "Free Software Foundation)은 自由(자유)",
-      "count": 1
-    },
-    {
-      "title": "萬",
-      "surrounding": "拼音(평음) : wàn 國語(국어)",
       "count": 1
     },
     {
