@@ -177,6 +177,11 @@
       "count": 1
     },
     {
+      "title": "南",
+      "surrounding": "音讀(음독) : 訓讀(훈독) :",
+      "count": 1
+    },
+    {
       "title": "四",
       "surrounding": ": シ 훈독 :",
       "count": 1
@@ -242,8 +247,13 @@
       "count": 1
     },
     {
+      "title": "年",
+      "surrounding": "音讀(음독) : 訓讀(훈독) :",
+      "count": 1
+    },
+    {
       "title": "敎",
-      "surrounding": ": キョウ 훈독 :",
+      "surrounding": ": キョウ 訓讀(훈독) :",
       "count": 1
     },
     {

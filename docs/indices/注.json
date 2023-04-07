@@ -102,6 +102,11 @@
       "count": 1
     },
     {
+      "title": "南",
+      "surrounding": ": 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
       "title": "國漢大百科:文書作成要請",
       "surrounding": "항목 - 轉注文字(전주문자) 假借文字(가차문자)",
       "count": 1
@@ -129,6 +134,11 @@
     {
       "title": "山",
       "surrounding": "shān 國語(국어) 注音(주음) :",
+      "count": 1
+    },
+    {
+      "title": "年",
+      "surrounding": ": 國語(국어) 注音(주음) :",
       "count": 1
     },
     {
