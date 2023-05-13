@@ -67,6 +67,11 @@
       "count": 2
     },
     {
+      "title": "JIS키보드",
+      "surrounding": " JIS키보드는 日本(일본)에서만들어져 主(주)로使用(사용)되는",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "漢字(한자)만을 爲(위)해 만들어진 것을",
       "count": 1
