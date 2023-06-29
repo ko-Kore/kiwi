@@ -47,6 +47,11 @@
       "count": 1
     },
     {
+      "title": "漢字直接入力",
+      "surrounding": "內外(내외)인 假名文字(가명문자)와는 다르게 最少(최소)",
+      "count": 1
+    },
+    {
       "title": "漢字組建",
       "surrounding": "zi tools와는 다르게 가로·세로配列(배열)이",
       "count": 1
