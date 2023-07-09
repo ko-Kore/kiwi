@@ -1,8 +1,10 @@
 {
   "title": "千代田區",
   "namespace": 0,
-  "timestamp": 1688852166000,
-  "categories": [],
+  "timestamp": 1688913677000,
+  "categories": [
+    "東京都"
+  ],
   "members": [],
   "file": null
 }
