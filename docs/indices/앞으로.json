@@ -40,6 +40,11 @@
       "title": "뻔할 뻔",
       "surrounding": "確認(확인)해보지 않아도 앞으로 일어날",
       "count": 1
+    },
+    {
+      "title": "삐딱하게",
+      "surrounding": "숨긴 채 앞으로 더",
+      "count": 1
     }
   ]
 }
