@@ -28,7 +28,7 @@
 <br>
 내 심심풀이 <ruby class="hanja grade80"><rb>火</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> 풀이 <ruby class="hanja grade52"><rb>相對</rb><rp>(</rp><rt>상대</rt><rp>)</rp></ruby>는 다른 <ruby class="hanja grade32"><rb>戀人</rb><rp>(</rp><rt>연인</rt><rp>)</rp></ruby>들
 <br>
-괜히 <ruby class="hanja grade42"><rb>是非</rb><rp>(</rp><rt>시비</rt><rp>)</rp></ruby> 걸어 동네 <ruby class="hanja grade60"><rb>洋</rb><rp>(</rp><rt>양</rt><rp>)</rp></ruby>아지처럼
+괜히 <ruby class="hanja grade42"><rb>是非</rb><rp>(</rp><rt>시비</rt><rp>)</rp></ruby> 걸어 동네 <ruby class="hanja grade60"><rb>洋</rb><rp>(</rp><rt>양</rt><rp>)</rp></ruby>아치처럼
 <br>
 가끔 난 삐딱하게 다리를 일부러 절어
 <br>
@@ -42,7 +42,7 @@
 <br>
 </p><p>너 하나 믿고 마냥 <ruby class="hanja grade52"><rb>幸福</rb><rp>(</rp><rt>행복</rt><rp>)</rp></ruby>했었던 내가
 <br>
-우습게 남겨져어
+우습게 남겨졌어
 <br>
 새끼손가락 걸고 <ruby class="hanja grade30"><rb>盟誓</rb><rp>(</rp><rt>맹세</rt><rp>)</rp></ruby>했었던 네가
 <br>
@@ -84,7 +84,7 @@
 <br>
 사랑하고픈데 <ruby class="hanja grade52"><rb>相對</rb><rp>(</rp><rt>상대</rt><rp>)</rp></ruby> 없고 뭘 어쩌라고
 <br>
-돌이 킬 수 없더라고
+돌이킬 수 없더라고
 <br>
 <br>
 너 하나 믿고 마냥 <ruby class="hanja grade52"><rb>幸福</rb><rp>(</rp><rt>행복</rt><rp>)</rp></ruby>했었던 내가
