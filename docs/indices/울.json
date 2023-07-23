@@ -222,6 +222,11 @@
       "count": 2
     },
     {
+      "title": "올핌푸스 펜F",
+      "surrounding": "위로 접히는 거울과 펜타프리즘 ... 위에서 本體(본체)가 기울거나( )",
+      "count": 2
+    },
+    {
       "title": "필름 (P-MODEL)",
       "surrounding": "어떡해 어떡해 거울을 바라봐 ... 보고 있어 거울을 바라봐",
       "count": 2
@@ -434,11 +439,6 @@
     {
       "title": "서울특별시",
       "surrounding": "넘겨줄 대상:서울特別市 ",
-      "count": 1
-    },
-    {
-      "title": "올핌푸스 펜F",
-      "surrounding": "위로 접히는 거울과 펜타프리즘",
       "count": 1
     }
   ]
