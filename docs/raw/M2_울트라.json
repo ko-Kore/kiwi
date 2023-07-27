@@ -1,8 +1,10 @@
 {
   "title": "M2 울트라",
   "namespace": 0,
-  "timestamp": 1687334993000,
-  "categories": [],
+  "timestamp": 1690446813000,
+  "categories": [
+    "애플"
+  ],
   "members": [],
   "file": null
 }
