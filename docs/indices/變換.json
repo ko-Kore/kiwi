@@ -127,6 +127,11 @@
       "count": 1
     },
     {
+      "title": "어셈블리語",
+      "surrounding": "오퍼레이터의 코드값으로 變換(변환)되고 레이블은",
+      "count": 1
+    },
+    {
       "title": "오픈TTD",
       "surrounding": "C言語(언어) 소스로 變換(변환)하고 GPL",
       "count": 1
