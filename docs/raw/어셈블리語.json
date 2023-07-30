@@ -1,8 +1,10 @@
 {
   "title": "어셈블리語",
   "namespace": 0,
-  "timestamp": 1690449450000,
-  "categories": [],
+  "timestamp": 1690743200000,
+  "categories": [
+    "프로그래밍 言語"
+  ],
   "members": [],
   "file": null
 }
