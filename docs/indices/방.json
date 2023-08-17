@@ -457,11 +457,6 @@
       "count": 3
     },
     {
-      "title": "Steins;Gate",
-      "surrounding": "- 空理(공리) 彷徨(방황)의 랑데부 ... 彷徨(방황)의 랑데부 (空理彷徨(공리방황)のランデヴー) Chapter",
-      "count": 2
-    },
-    {
       "title": "UTF-16",
       "surrounding": "유니코드에서 使用(사용)하는 인코딩方式(방식)의 하나 ... 붙었다 인코딩 方法(방법)[편집] 多國語基本平面(다국어기본평면)에",
       "count": 2
@@ -799,6 +794,11 @@
     {
       "title": "QWERTY",
       "surrounding": "놓는 等(등)의 方法(방법)으로 設計(설계)했다는",
+      "count": 1
+    },
+    {
+      "title": "Steins;Gate",
+      "surrounding": "- 空理(공리) 彷徨(방황)의 랑데부",
       "count": 1
     },
     {

@@ -107,11 +107,6 @@
       "count": 10
     },
     {
-      "title": "Steins;Gate",
-      "surrounding": "Steins;Gate 게임分類(분류) 想定科學(상정과학)ADV 機種(기종) ... 엔딩 - 因果律(인과율)의 멜트",
-      "count": 9
-    },
-    {
       "title": "日本",
       "surrounding": "두가지 存在(존재)하는데 이는‘にほん’과 ‘にっぽん’이다 ... 408弗(불)이다 또한 上述(상술)과같이 日本(일본)은",
       "count": 9
@@ -130,6 +125,11 @@
       "title": "애니메이션 밈",
       "surrounding": "밈일루미나티 밈이라던가 과 헷갈리는 ... 않으면 스톱모션 기법과 비슷한",
       "count": 9
+    },
+    {
+      "title": "Steins;Gate",
+      "surrounding": "Steins;Gate 게임分類(분류) 想定科學(상정과학)ADV 機種(기종) ... 엔딩 - 因果律(인과율)의 멜트",
+      "count": 8
     },
     {
       "title": "申세벌式",

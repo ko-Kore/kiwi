@@ -157,11 +157,6 @@
       "count": 3
     },
     {
-      "title": "Steins;Gate",
-      "surrounding": "04 - 夢幻(몽환)의 호메오스테이시스 ... 夢幻(몽환)의 호메오스테이시스 (夢幻(몽환)のホメオスタシス) Chapter",
-      "count": 2
-    },
-    {
       "title": "假名入力",
       "surrounding": "Win Alt 無変換(무변환) Space ... 無変換(무변환) Space 変換(변환) ひらがなカタカナローマ字(자)",
       "count": 2
@@ -329,6 +324,11 @@
     {
       "title": "CJK統合漢字",
       "surrounding": "이름이다 關聯文書(관련문서)[편집] CJK互換用漢字(호환용한자) ",
+      "count": 1
+    },
+    {
+      "title": "Steins;Gate",
+      "surrounding": "04 - 夢幻(몽환)의 恆常性(항상성)(호메오스테이시스)",
       "count": 1
     },
     {
