@@ -1,6 +1,14 @@
 <html><head></head><body><div class="mw-parser-output"><p><a href="/wiki/%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7" title="活版印刷"><ruby class="hanja grade32"><rb>活版印刷術</rb><rp>(</rp><rt>활판인쇄술</rt><rp>)</rp></ruby></a>에서 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>되는 <ruby class="hanja grade62"><rb>用語</rb><rp>(</rp><rt>용어</rt><rp>)</rp></ruby>들을 <ruby class="hanja grade40"><rb>整理</rb><rp>(</rp><rt>정리</rt><rp>)</rp></ruby>한다.
 </p>
-<h2><span id="活字(활자)"></span><span class="mw-headline" id=".E6.B4.BB.E5.AD.97.28.ED.99.9C.EC.9E.90.29"><ruby class="hanja grade70"><rb>活字</rb><rp>(</rp><rt>활자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=1" title="부분 편집: 活字(활자)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#活字(활자)"><span class="tocnumber">1</span> <span class="toctext">活字(활자)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#活版(활판)"><span class="tocnumber">2</span> <span class="toctext">活版(활판)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#道具(도구)"><span class="tocnumber">3</span> <span class="toctext">道具(도구)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#印刷機(인쇄기)"><span class="tocnumber">4</span> <span class="toctext">印刷機(인쇄기)</span></a></li>
+</ul>
+</div>
+<h2><span id=".E6.B4.BB.E5.AD.97.28.ED.99.9C.EC.9E.90.29"></span><span class="mw-headline" id="活字(활자)"><ruby class="hanja grade70"><rb>活字</rb><rp>(</rp><rt>활자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=1" title="부분 편집: 活字(활자)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
@@ -50,7 +58,27 @@
 <td>홈</td>
 <td>
 </td></tr></tbody></table>
-<h2><span id="道具(도구)"></span><span class="mw-headline" id=".E9.81.93.E5.85.B7.28.EB.8F.84.EA.B5.AC.29"><ruby class="hanja grade52"><rb>道具</rb><rp>(</rp><rt>도구</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=2" title="부분 편집: 道具(도구)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E6.B4.BB.E7.89.88.28.ED.99.9C.ED.8C.90.29"></span><span class="mw-headline" id="活版(활판)"><ruby class="hanja grade32"><rb>活版</rb><rp>(</rp><rt>활판</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=2" title="부분 편집: 活版(활판)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a></th>
+<th><ruby class="hanja grade42"><rb>備考</rb><rp>(</rp><rt>비고</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>Forme</td>
+<td></td>
+<td><ruby class="hanja grade32"><rb>版</rb><rp>(</rp><rt>판</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>Flong</td>
+<td><ruby class="hanja grade20"><rb>紙型</rb><rp>(</rp><rt>지형</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja grade20"><rb>紙型</rb><rp>(</rp><rt>지형</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr></tbody></table>
+<h2><span id=".E9.81.93.E5.85.B7.28.EB.8F.84.EA.B5.AC.29"></span><span class="mw-headline" id="道具(도구)"><ruby class="hanja grade52"><rb>道具</rb><rp>(</rp><rt>도구</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=3" title="부분 편집: 道具(도구)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
@@ -94,7 +122,7 @@
 <td>게라</td>
 <td>
 </td></tr></tbody></table>
-<h2><span id="印刷機(인쇄기)"></span><span class="mw-headline" id=".E5.8D.B0.E5.88.B7.E6.A9.9F.28.EC.9D.B8.EC.87.84.EA.B8.B0.29"><ruby class="hanja grade32"><rb>印刷機</rb><rp>(</rp><rt>인쇄기</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=3" title="부분 편집: 印刷機(인쇄기)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E5.8D.B0.E5.88.B7.E6.A9.9F.28.EC.9D.B8.EC.87.84.EA.B8.B0.29"></span><span class="mw-headline" id="印刷機(인쇄기)"><ruby class="hanja grade32"><rb>印刷機</rb><rp>(</rp><rt>인쇄기</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=4" title="부분 편집: 印刷機(인쇄기)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
