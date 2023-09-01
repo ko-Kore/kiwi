@@ -2103,7 +2103,7 @@
     },
     {
       "title": "歐羅巴",
-      "surrounding": "넘겨줄 대상:유럽 ",
+      "surrounding": "문화인 헬레니즘의 發祥地(발상지)이며 近東(근동)의",
       "count": 1
     },
     {
@@ -2962,6 +2962,11 @@
       "count": 1
     },
     {
+      "title": "아프리카",
+      "surrounding": "넘겨줄 대상:阿弗利加 ",
+      "count": 1
+    },
+    {
       "title": "알렉산더 大王",
       "surrounding": "넘겨줄 대상:알렉산드로스大王 ",
       "count": 1
@@ -3052,8 +3057,13 @@
       "count": 1
     },
     {
+      "title": "유라시아",
+      "surrounding": "넘겨줄 대상:歐亞 ",
+      "count": 1
+    },
+    {
       "title": "유럽",
-      "surrounding": "문화인 헬레니즘의 發祥地(발상지)이며 近東(근동)의",
+      "surrounding": "넘겨줄 대상:歐羅巴 ",
       "count": 1
     },
     {

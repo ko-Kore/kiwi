@@ -777,6 +777,11 @@
       "count": 1
     },
     {
+      "title": "歐羅巴",
+      "surrounding": "이 文書(문서)는 토막글입니다 이",
+      "count": 1
+    },
+    {
       "title": "正體",
       "surrounding": "正字(정자)입니다 바른 글씨 正體字(정체자)",
       "count": 1
@@ -1143,11 +1148,6 @@
     },
     {
       "title": "유닉스",
-      "surrounding": "이 文書(문서)는 토막글입니다 이",
-      "count": 1
-    },
-    {
-      "title": "유럽",
       "surrounding": "이 文書(문서)는 토막글입니다 이",
       "count": 1
     },
