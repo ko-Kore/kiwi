@@ -1,0 +1,82 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="2"><b><ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby></b>
+</th></tr>
+<tr>
+<th colspan="2">Roma
+</th></tr>
+<tr>
+<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</th></tr>
+<tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Insigne_Romanum_coronatum.svg" class="image"><img alt="Insigne Romanum coronatum.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-200px-Insigne_Romanum_coronatum.svg.png" decoding="async" width="200" height="296" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-300px-Insigne_Romanum_coronatum.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-400px-Insigne_Romanum_coronatum.svg.png 2x"></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Italy.svg" class="image"><img alt="Flag of Italy.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langko-25px-Flag_of_Italy.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langko-38px-Flag_of_Italy.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langko-50px-Flag_of_Italy.svg.png 2x"></a> <a href="/wiki/%E4%BC%8A%E5%A4%AA%E5%88%A9" title="伊太利"><ruby class="hanja grade12"><rb>伊太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>上位行政區域</rb><rp>(</rp><rt>상위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>라치오<ruby class="hanja grade52"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>下位行政區域</rb><rp>(</rp><rt>하위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>15<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%A1%9C%EB%B2%A0%EB%A5%B4%ED%86%A0_%EA%B5%AC%EC%95%8C%ED%8B%B0%EC%97%90%EB%A6%AC&amp;action=edit&amp;redlink=1" class="new" title="로베르토 구알티에리 (없는 문서)">로베르토 구알티에리</a>(<a href="/index.php?title=%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E4%BC%8A%E5%A4%AA%E5%88%A9)&amp;action=edit&amp;redlink=1" class="new" title="民主黨 (伊太利) (없는 문서)"><ruby class="hanja grade42 unknown"><rb>民主黨</rb><rp>(</rp><rt>민주당</rt><rp>)</rp></ruby></a>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>4,342,212<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>2,236<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>1,285km²
+</td></tr>
+<tr>
+<th><ruby class="hanja grade32"><rb>海拔</rb><rp>(</rp><rt>해발</rt><rp>)</rp></ruby>
+</th>
+<td>21m
+</td></tr>
+<tr>
+<td colspan="2"><a rel="nofollow" class="external text" href="https://www.comune.roma.it/">홈페이지</a>
+</td></tr></tbody></table>
+<blockquote>
+<p><b>Urbs Aeterna<br><ruby class="hanja grade32"><rb>不滅</rb><rp>(</rp><rt>불멸</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby></b>
+</p>
+</blockquote>
+<p><b><ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby></b>는 <a href="/wiki/%E4%BC%8A%E5%A4%AA%E5%88%A9" title="伊太利"><ruby class="hanja grade12"><rb>伊太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>입니다. 한때 <ruby class="hanja grade70"><rb>有名</rb><rp>(</rp><rt>유명</rt><rp>)</rp></ruby>한 <ruby class="hanja grade40"><rb>羅馬帝國</rb><rp>(</rp><rt>나마제국</rt><rp>)</rp></ruby>(그 이름은 이 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade60"><rb>由來</rb><rp>(</rp><rt>유래</rt><rp>)</rp></ruby>했다)의 <ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>였던 이 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby>는 <ruby class="hanja grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby>의 <ruby class="hanja grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby>쪽이 <ruby class="hanja grade20"><rb>野蠻族</rb><rp>(</rp><rt>야만족</rt><rp>)</rp></ruby>의 <ruby class="hanja grade40"><rb>侵略</rb><rp>(</rp><rt>침략</rt><rp>)</rp></ruby>으로 <ruby class="hanja grade32"><rb>陷落</rb><rp>(</rp><rt>함락</rt><rp>)</rp></ruby>된 <ruby class="hanja grade72"><rb>後</rb><rp>(</rp><rt>후</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>漸次</rb><rp>(</rp><rt>점차</rt><rp>)</rp></ruby> <a href="/index.php?title=%E6%95%8E%E7%9A%87&amp;action=edit&amp;redlink=1" class="new" title="敎皇 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>敎皇</rb><rp>(</rp><rt>교황</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade42"><rb>統制下</rb><rp>(</rp><rt>통제하</rt><rp>)</rp></ruby>에 들어가 <ruby class="hanja grade32"><rb>敎皇廳</rb><rp>(</rp><rt>교황청</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>가 되었고, 19<ruby class="hanja grade40"><rb>世紀</rb><rp>(</rp><rt>세기</rt><rp>)</rp></ruby>에는 새로 <ruby class="hanja grade30"><rb>誕生</rb><rp>(</rp><rt>탄생</rt><rp>)</rp></ruby>된 <ruby class="hanja grade12"><rb>伊太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>가 되어 오늘날까지 이어져 오고 있습니다.
+</p><p><ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby>는 <ruby class="hanja grade60"><rb>西洋</rb><rp>(</rp><rt>서양</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>文明</rb><rp>(</rp><rt>문명</rt><rp>)</rp></ruby>과 <ruby class="hanja grade42"><rb>基督敎</rb><rp>(</rp><rt>기독교</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby>의 <ruby class="hanja grade30"><rb>發祥地</rb><rp>(</rp><rt>발상지</rt><rp>)</rp></ruby>이자 <ruby class="hanja grade42"><rb>基督敎</rb><rp>(</rp><rt>기독교</rt><rp>)</rp></ruby> 가톨릭<ruby class="hanja grade62"><rb>敎會</rb><rp>(</rp><rt>교회</rt><rp>)</rp></ruby>의 <ruby class="hanja grade70"><rb>中心地</rb><rp>(</rp><rt>중심지</rt><rp>)</rp></ruby>로 널리 여겨지고 있다.
+</p><p><a href="/index.php?title=%EB%B0%94%ED%8B%B0%EC%B9%B8%E5%B8%82%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="바티칸市國 (없는 문서)">바티칸<ruby class="hanja grade72 unknown"><rb>市國</rb><rp>(</rp><rt>시국</rt><rp>)</rp></ruby></a>은 <ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby>의 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>境界</rb><rp>(</rp><rt>경계</rt><rp>)</rp></ruby> 안에 있는 <ruby class="hanja grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>로, <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby> 안에 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>가 있는 <ruby class="hanja grade40"><rb>現存</rb><rp>(</rp><rt>현존</rt><rp>)</rp></ruby>하는 <ruby class="hanja grade30"><rb>唯一</rb><rp>(</rp><rt>유일</rt><rp>)</rp></ruby>한 <ruby class="hanja grade60"><rb>事例</rb><rp>(</rp><rt>사례</rt><rp>)</rp></ruby>입니다.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">comune</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">regione</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">municcipio</span>
+</li>
+</ol></div>
+</div></body></html>
