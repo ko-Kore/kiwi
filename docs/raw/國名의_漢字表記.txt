@@ -2,17 +2,17 @@
 </p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#.EC.95.84.EC.8B.9C.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">1</span> <span class="toctext">아시아의 나라</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#.EC.95.84.ED.94.84.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">2</span> <span class="toctext">아프리카의 나라</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#.EC.9C.A0.EB.9F.BD.EC.9D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">3</span> <span class="toctext">유럽의 나라</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#.E5.8C.97.28.EB.B6.81.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">4</span> <span class="toctext">北(북)아메리카의 나라</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#.E5.8D.97.28.EB.82.A8.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">5</span> <span class="toctext">南(남)아메리카의 나라</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#.EC.98.A4.EC.84.B8.EC.95.84.EB.8B.88.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">6</span> <span class="toctext">오세아니아의 나라</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#.E6.AD.B7.E5.8F.B2.E4.B8.8A.28.EC.97.AD.EC.82.AC.EC.83.81.29_.E5.AD.98.E5.9C.A8.28.EC.A1.B4.EC.9E.AC.29.ED.96.88.EB.8D.98_.EB.82.98.EB.9D.BC"><span class="tocnumber">7</span> <span class="toctext">歷史上(역사상) 存在(존재)했던 나라</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#.E9.97.9C.E8.81.AF.E9.A0.85.E7.9B.AE.28.EA.B4.80.EB.A0.A8.ED.95.AD.EB.AA.A9.29"><span class="tocnumber">8</span> <span class="toctext">關聯項目(관련항목)</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#아시아의_나라"><span class="tocnumber">1</span> <span class="toctext">아시아의 나라</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#아프리카의_나라"><span class="tocnumber">2</span> <span class="toctext">아프리카의 나라</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#유럽의_나라"><span class="tocnumber">3</span> <span class="toctext">유럽의 나라</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#北(북)아메리카의_나라"><span class="tocnumber">4</span> <span class="toctext">北(북)아메리카의 나라</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#南(남)아메리카의_나라"><span class="tocnumber">5</span> <span class="toctext">南(남)아메리카의 나라</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#오세아니아의_나라"><span class="tocnumber">6</span> <span class="toctext">오세아니아의 나라</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#歷史上(역사상)_存在(존재)했던_나라"><span class="tocnumber">7</span> <span class="toctext">歷史上(역사상) 存在(존재)했던 나라</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#關聯項目(관련항목)"><span class="tocnumber">8</span> <span class="toctext">關聯項目(관련항목)</span></a></li>
 </ul>
 </div>
-<h2><span id="아시아의_나라"></span><span class="mw-headline" id=".EC.95.84.EC.8B.9C.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC">아시아의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=1" title="부분 편집: 아시아의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".EC.95.84.EC.8B.9C.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="아시아의_나라">아시아의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=1" title="부분 편집: 아시아의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -47,7 +47,7 @@
 <td><ruby class="hanja grade12"><rb>伊拉克</rb><rp>(</rp><rt>이랍극</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>伊拉久</rb><rp>(</rp><rt>이랍구</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%9D%B4%EB%9E%80&amp;action=edit&amp;redlink=1" class="new" title="이란 (없는 문서)">이란</a></td>
+<td><a href="/wiki/%EC%9D%B4%EB%9E%80" title="이란">이란</a></td>
 <td><ruby class="hanja grade12"><rb>伊蘭</rb><rp>(</rp><rt>이란</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>以蘭</rb><rp>(</rp><rt>이란</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>伊朗</rb><rp>(</rp><rt>이랑</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
@@ -179,7 +179,7 @@
 <td><ruby class="hanja grade12"><rb>文萊</rb><rp>(</rp><rt>문래</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EB%B2%A0%ED%8A%B8%EB%82%A8&amp;action=edit&amp;redlink=1" class="new" title="베트남 (없는 문서)">베트남</a></td>
+<td><a href="/wiki/%EB%B2%A0%ED%8A%B8%EB%82%A8" class="mw-redirect" title="베트남">베트남</a></td>
 <td><ruby class="hanja grade32"><rb>越南</rb><rp>(</rp><rt>월남</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
@@ -210,7 +210,7 @@
 <td><a href="/index.php?title=%EB%A0%88%EB%B0%94%EB%85%BC&amp;action=edit&amp;redlink=1" class="new" title="레바논 (없는 문서)">레바논</a></td>
 <td><ruby class="hanja grade0"><rb>黎巴嫩</rb><rp>(</rp><rt>여파눈</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="아프리카의_나라"></span><span class="mw-headline" id=".EC.95.84.ED.94.84.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC">아프리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=2" title="부분 편집: 아프리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".EC.95.84.ED.94.84.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="아프리카의_나라">아프리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=2" title="부분 편집: 아프리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -428,7 +428,7 @@
 <td><a href="/index.php?title=%EB%A0%88%EC%86%8C%ED%86%A0&amp;action=edit&amp;redlink=1" class="new" title="레소토 (없는 문서)">레소토</a></td>
 <td><ruby class="hanja grade0"><rb>莱索托</rb><rp>(</rp><rt>내색탁</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>礼素戸</rb><rp>(</rp><rt>예소호</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="유럽의_나라"></span><span class="mw-headline" id=".EC.9C.A0.EB.9F.BD.EC.9D.98_.EB.82.98.EB.9D.BC">유럽의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=3" title="부분 편집: 유럽의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".EC.9C.A0.EB.9F.BD.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="유럽의_나라">유럽의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=3" title="부분 편집: 유럽의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -455,11 +455,11 @@
 <td><ruby class="hanja grade50"><rb>英吉利</rb><rp>(</rp><rt>영길리</rt><rp>)</rp></ruby>, <ruby class="hanja grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>大不列頓</rb><rp>(</rp><rt>대부렬돈</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="이탈리아 (없는 문서)">이탈리아</a></td>
+<td><a href="/wiki/%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84" class="mw-redirect" title="이탈리아">이탈리아</a></td>
 <td><ruby class="hanja grade12"><rb>伊太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>伊太利亞</rb><rp>(</rp><rt>이태리아</rt><rp>)</rp></ruby>, <ruby class="hanja grade52"><rb>以太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98&amp;action=edit&amp;redlink=1" class="new" title="우크라이나 (없는 문서)">우크라이나</a></td>
+<td><a href="/wiki/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98" title="우크라이나">우크라이나</a></td>
 <td><ruby class="hanja grade32"><rb>烏克蘭</rb><rp>(</rp><rt>오극란</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
@@ -591,14 +591,14 @@
 <td><ruby class="hanja grade10"><rb>盧森堡</rb><rp>(</rp><rt>노삼보</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EB%A3%A8%EB%A7%88%EB%8B%88%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="루마니아 (없는 문서)">루마니아</a></td>
+<td><a href="/wiki/%EB%A3%A8%EB%A7%88%EB%8B%88%EC%95%84" title="루마니아">루마니아</a></td>
 <td><ruby class="hanja grade20"><rb>羅馬尼亞</rb><rp>(</rp><rt>나마니아</rt><rp>)</rp></ruby>, <ruby class="hanja grade20"><rb>羅馬尼</rb><rp>(</rp><rt>나마니</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EB%9F%AC%EC%8B%9C%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="러시아 (없는 문서)">러시아</a></td>
-<td><ruby class="hanja grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>, <ruby class="hanja grade30"><rb>露矢亞</rb><rp>(</rp><rt>노시아</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>露國</rb><rp>(</rp><rt>노국</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>魯西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>俄羅斯</rb><rp>(</rp><rt>아라사</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>俄國</rb><rp>(</rp><rt>아국</rt><rp>)</rp></ruby>
+<td><ruby class="hanja grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>, <ruby class="hanja grade30"><rb>露矢亞</rb><rp>(</rp><rt>노시아</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>露國</rb><rp>(</rp><rt>노국</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>魯西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>俄羅斯</rb><rp>(</rp><rt>아라사</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>俄國</rb><rp>(</rp><rt>아국</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>羅禪</rb><rp>(</rp><rt>나선</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="北(북)아메리카의_나라"></span><span class="mw-headline" id=".E5.8C.97.28.EB.B6.81.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"><ruby class="hanja grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>아메리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=4" title="부분 편집: 北(북)아메리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E5.8C.97.28.EB.B6.81.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="北(북)아메리카의_나라"><ruby class="hanja grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>아메리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=4" title="부분 편집: 北(북)아메리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -692,7 +692,7 @@
 <td><a href="/index.php?title=%EB%A9%95%EC%8B%9C%EC%BD%94&amp;action=edit&amp;redlink=1" class="new" title="멕시코 (없는 문서)">멕시코</a></td>
 <td><ruby class="hanja grade10"><rb>墨西哥</rb><rp>(</rp><rt>묵서가</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="南(남)아메리카의_나라"></span><span class="mw-headline" id=".E5.8D.97.28.EB.82.A8.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"><ruby class="hanja grade80"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>아메리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=5" title="부분 편집: 南(남)아메리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E5.8D.97.28.EB.82.A8.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="南(남)아메리카의_나라"><ruby class="hanja grade80"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>아메리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=5" title="부분 편집: 南(남)아메리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -731,7 +731,7 @@
 <td><ruby class="hanja grade10"><rb>巴拉圭</rb><rp>(</rp><rt>파랍규</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EB%B8%8C%EB%9D%BC%EC%A7%88&amp;action=edit&amp;redlink=1" class="new" title="브라질 (없는 문서)">브라질</a></td>
+<td><a href="/wiki/%EB%B8%8C%EB%9D%BC%EC%A7%88" title="브라질">브라질</a></td>
 <td><ruby class="hanja grade10"><rb>伯剌西爾</rb><rp>(</rp><rt>백랄서이</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>武良尻</rb><rp>(</rp><rt>무량고</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>巴西</rb><rp>(</rp><rt>파서</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>巴西國</rb><rp>(</rp><rt>파서국</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
@@ -746,7 +746,7 @@
 <td><a href="/index.php?title=%EB%B3%BC%EB%A6%AC%EB%B9%84%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="볼리비아 (없는 문서)">볼리비아</a></td>
 <td><ruby class="hanja grade30"><rb>暮國</rb><rp>(</rp><rt>모국</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>暮利比亜</rb><rp>(</rp><rt>모리비아</rt><rp>)</rp></ruby>, <ruby class="hanja grade42"><rb>保里備屋</rb><rp>(</rp><rt>보리비옥</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>玻里非</rb><rp>(</rp><rt>파리비</rt><rp>)</rp></ruby>, <ruby class="hanja grade0"><rb>玻利維亞</rb><rp>(</rp><rt>파리유아</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="오세아니아의_나라"></span><span class="mw-headline" id=".EC.98.A4.EC.84.B8.EC.95.84.EB.8B.88.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC">오세아니아의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=6" title="부분 편집: 오세아니아의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".EC.98.A4.EC.84.B8.EC.95.84.EB.8B.88.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="오세아니아의_나라">오세아니아의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=6" title="부분 편집: 오세아니아의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -808,7 +808,7 @@
 <td><a href="/index.php?title=%EB%AF%B8%ED%81%AC%EB%A1%9C%EB%84%A4%EC%8B%9C%EC%95%84%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="미크로네시아聯邦 (없는 문서)">미크로네시아<ruby class="hanja grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a></td>
 <td><ruby class="hanja grade20"><rb>密克羅尼西亞聯邦</rb><rp>(</rp><rt>밀극라니서아련방</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="歷史上(역사상)_存在(존재)했던_나라"></span><span class="mw-headline" id=".E6.AD.B7.E5.8F.B2.E4.B8.8A.28.EC.97.AD.EC.82.AC.EC.83.81.29_.E5.AD.98.E5.9C.A8.28.EC.A1.B4.EC.9E.AC.29.ED.96.88.EB.8D.98_.EB.82.98.EB.9D.BC"><ruby class="hanja grade52"><rb>歷史上</rb><rp>(</rp><rt>역사상</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>했던 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=7" title="부분 편집: 歷史上(역사상) 存在(존재)했던 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E6.AD.B7.E5.8F.B2.E4.B8.8A.28.EC.97.AD.EC.82.AC.EC.83.81.29_.E5.AD.98.E5.9C.A8.28.EC.A1.B4.EC.9E.AC.29.ED.96.88.EB.8D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="歷史上(역사상)_存在(존재)했던_나라"><ruby class="hanja grade52"><rb>歷史上</rb><rp>(</rp><rt>역사상</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>했던 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=7" title="부분 편집: 歷史上(역사상) 存在(존재)했던 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
@@ -816,7 +816,7 @@
 </th></tr>
 <tr>
 <td><a href="/index.php?title=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%E8%81%AF%E5%90%88%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="아메리카聯合國 (없는 문서)">아메리카<ruby class="hanja grade32 unknown"><rb>聯合國</rb><rp>(</rp><rt>연합국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade32"><rb>南部聯合</rb><rp>(</rp><rt>남부련합</rt><rp>)</rp></ruby>
+<td><ruby class="hanja grade32"><rb>南部聯合</rb><rp>(</rp><rt>남부연합</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EC%86%8C%EB%B9%84%EC%97%90%ED%8A%B8%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="소비에트聯邦 (없는 문서)">소비에트<ruby class="hanja grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a></td>
@@ -831,10 +831,14 @@
 <td><ruby class="hanja grade20"><rb>南斯拉夫</rb><rp>(</rp><rt>남사랍부</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
+<td><a href="/index.php?title=%ED%95%98%EC%99%80%EC%9D%B4%E7%8E%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="하와이王國 (없는 문서)">하와이<ruby class="hanja grade80 unknown"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a></td>
+<td><ruby class="hanja grade0"><rb>布哇</rb><rp>(</rp><rt>포와</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
 <td><a href="/index.php?title=%EB%A1%9C%EB%A7%88%E5%B8%9D%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="로마帝國 (없는 문서)">로마<ruby class="hanja grade40 unknown"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a></td>
 <td><ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
-<h2><span id="關聯項目(관련항목)"></span><span class="mw-headline" id=".E9.97.9C.E8.81.AF.E9.A0.85.E7.9B.AE.28.EA.B4.80.EB.A0.A8.ED.95.AD.EB.AA.A9.29"><ruby class="hanja grade32"><rb>關聯項目</rb><rp>(</rp><rt>관련항목</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=8" title="부분 편집: 關聯項目(관련항목)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E9.97.9C.E8.81.AF.E9.A0.85.E7.9B.AE.28.EA.B4.80.EB.A0.A8.ED.95.AD.EB.AA.A9.29"></span><span class="mw-headline" id="關聯項目(관련항목)"><ruby class="hanja grade32"><rb>關聯項目</rb><rp>(</rp><rt>관련항목</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=8" title="부분 편집: 關聯項目(관련항목)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/index.php?title=%E5%9C%8B%E5%90%8D&amp;action=edit&amp;redlink=1" class="new" title="國名 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E5%9C%8B%E8%99%9F&amp;action=edit&amp;redlink=1" class="new" title="國號 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>國號</rb><rp>(</rp><rt>국호</rt><rp>)</rp></ruby></a></li>
 <li><a href="/index.php?title=%E5%9C%8B%E5%AE%B6_%E7%9B%AE%E9%8C%84&amp;action=edit&amp;redlink=1" class="new" title="國家 目錄 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby> <ruby class="hanja grade42 unknown"><rb>目錄</rb><rp>(</rp><rt>목록</rt><rp>)</rp></ruby></a></li>
