@@ -1,0 +1,88 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2" style="padding: 10px;"><b>원신</b><br> <ruby class="hanja grade50"><rb>原神</rb><rp>(</rp><rt>원신</rt><rp>)</rp></ruby> <br> Genshin Impact
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Hq720.jpg" class="image"><img alt="Hq720.jpg" src="/images/thumb/3/38/Hq720.jpg/300px-Hq720.jpg" decoding="async" width="300" height="169" srcset="/images/thumb/3/38/Hq720.jpg/450px-Hq720.jpg 1.5x, /images/thumb/3/38/Hq720.jpg/600px-Hq720.jpg 2x"></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>開發</rb><rp>(</rp><rt>개발</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=HoYoverse&amp;action=edit&amp;redlink=1" class="new" title="HoYoverse (없는 문서)">HoYoverse</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>機種</rb><rp>(</rp><rt>기종</rt><rp>)</rp></ruby>
+</th>
+<td>* <a href="/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0" title="스마트폰">스마트폰</a> (<a href="/index.php?title=%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C&amp;action=edit&amp;redlink=1" class="new" title="안드로이드 (없는 문서)">안드로이드</a> / <a href="/wiki/IOS" title="IOS">iOS</a>) <br> * PC <br> * PS <br> * <a href="/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂"><ruby class="hanja grade52"><rb>任天堂</rb><rp>(</rp><rt>임천당</rt><rp>)</rp></ruby></a>스위치 예정
+</td></tr>
+<tr>
+<th><ruby class="hanja grade60"><rb>等級</rb><rp>(</rp><rt>등급</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%EC%9C%A0%EB%9F%BD" class="mw-redirect" title="유럽">유럽</a> - 12<a href="/index.php?title=%E6%AD%B2&amp;action=edit&amp;redlink=1" class="new" title="歲 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E4%BB%A5%E4%B8%8A&amp;action=edit&amp;redlink=1" class="new" title="以上 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby></a> <br> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a> - 15<ruby class="hanja grade52"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <br> <a href="/wiki/%E7%BE%8E%E5%9C%8B" class="mw-redirect" title="美國"><ruby class="hanja grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby></a> - 13<ruby class="hanja grade52"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>言語支援</rb><rp>(</rp><rt>언어지원</rt><rp>)</rp></ruby>
+</th>
+<td>보이스: <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>,<a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>,<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>,<a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a> <br> <ruby class="hanja grade32"><rb>字幕</rb><rp>(</rp><rt>자막</rt><rp>)</rp></ruby>:<a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>,<a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade62"><rb>正體</rb><rp>(</rp><rt>정체</rt><rp>)</rp></ruby>),<a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade40"><rb>簡體</rb><rp>(</rp><rt>간체</rt><rp>)</rp></ruby>),<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>,<a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>,<a href="/index.php?title=%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="인도네시아語 (없는 문서)">인도네시아<ruby class="hanja grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a><ruby class="hanja grade40"><rb>外多數國家言語支援</rb><rp>(</rp><rt>외다수국가언어지원</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>웹 사이트
+</th>
+<td><a rel="nofollow" class="external autonumber" href="https://genshin.hoyoverse.com/ko">[1]</a>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#槪要(개요)"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#地域(지역)"><span class="tocnumber">2</span> <span class="toctext">地域(지역)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#몬드"><span class="tocnumber">2.1</span> <span class="toctext">몬드</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#璃月(이월)"><span class="tocnumber">2.2</span> <span class="toctext">璃月(이월)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#稲妻(도처)"><span class="tocnumber">2.3</span> <span class="toctext">稲妻(도처)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#수메르"><span class="tocnumber">2.4</span> <span class="toctext">수메르</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#폰타인"><span class="tocnumber">2.5</span> <span class="toctext">폰타인</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#登場人物(등장인물)"><span class="tocnumber">3</span> <span class="toctext">登場人物(등장인물)</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#機能(기능)"><span class="tocnumber">4</span> <span class="toctext">機能(기능)</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#서비스"><span class="tocnumber">5</span> <span class="toctext">서비스</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#中國(중국)_서비스"><span class="tocnumber">5.1</span> <span class="toctext">中國(중국) 서비스</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#글로벌_서비스"><span class="tocnumber">5.2</span> <span class="toctext">글로벌 서비스</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"></span><span class="mw-headline" id="槪要(개요)"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a> <a href="/index.php?title=HoYoverse&amp;action=edit&amp;redlink=1" class="new" title="HoYoverse (없는 문서)">HoYoverse</a>에서 <a href="/index.php?title=%E9%96%8B%E7%99%BC&amp;action=edit&amp;redlink=1" class="new" title="開發 (없는 문서)"><ruby class="hanja grade60 unknown"><rb>開發</rb><rp>(</rp><rt>개발</rt><rp>)</rp></ruby></a>한 <a href="/index.php?title=RPG_%EA%B2%8C%EC%9E%84&amp;action=edit&amp;redlink=1" class="new" title="RPG 게임 (없는 문서)">RPG 게임</a>이다. 
+</p>
+<h2><span id=".E5.9C.B0.E5.9F.9F.28.EC.A7.80.EC.97.AD.29"></span><span class="mw-headline" id="地域(지역)"><ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=2" title="부분 편집: 地域(지역)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".EB.AA.AC.EB.93.9C"></span><span class="mw-headline" id="몬드">몬드</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=3" title="부분 편집: 몬드">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>와 <ruby class="hanja grade62"><rb>風</rb><rp>(</rp><rt>풍</rt><rp>)</rp></ruby>의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 모티브는 유럽이다.
+</p>
+<h3><span id=".E7.92.83.E6.9C.88.28.EC.9D.B4.EC.9B.94.29"></span><span class="mw-headline" id="璃月(이월)"><ruby class="hanja grade0"><rb>璃月</rb><rp>(</rp><rt>이월</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=4" title="부분 편집: 璃月(이월)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade32"><rb>契約</rb><rp>(</rp><rt>계약</rt><rp>)</rp></ruby>과 바위의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>다. 모티브는 <ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby>이다.
+</p>
+<h3><span id=".E7.A8.B2.E5.A6.BB.28.EB.8F.84.EC.B2.98.29"></span><span class="mw-headline" id="稲妻(도처)"><ruby class="hanja grade0"><rb>稲妻</rb><rp>(</rp><rt>도처</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=5" title="부분 편집: 稲妻(도처)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade60"><rb>永遠</rb><rp>(</rp><rt>영원</rt><rp>)</rp></ruby>과 번개의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>다. 모티브는 <ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>이다.
+</p>
+<h3><span id=".EC.88.98.EB.A9.94.EB.A5.B4"></span><span class="mw-headline" id="수메르">수메르</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=6" title="부분 편집: 수메르">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade32"><rb>智慧</rb><rp>(</rp><rt>지혜</rt><rp>)</rp></ruby>와 풀의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 
+</p>
+<h3><span id=".ED.8F.B0.ED.83.80.EC.9D.B8"></span><span class="mw-headline" id="폰타인">폰타인</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=7" title="부분 편집: 폰타인">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade42"><rb>正義</rb><rp>(</rp><rt>정의</rt><rp>)</rp></ruby>와 <ruby class="hanja grade80"><rb>水</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 
+</p>
+<h2><span id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"></span><span class="mw-headline" id="登場人物(등장인물)"><ruby class="hanja grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=8" title="부분 편집: 登場人物(등장인물)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E6.A9.9F.E8.83.BD.28.EA.B8.B0.EB.8A.A5.29"></span><span class="mw-headline" id="機能(기능)"><ruby class="hanja grade40"><rb>機能</rb><rp>(</rp><rt>기능</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=9" title="부분 편집: 機能(기능)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".EC.84.9C.EB.B9.84.EC.8A.A4"></span><span class="mw-headline" id="서비스">서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=10" title="부분 편집: 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E4.B8.AD.E5.9C.8B.28.EC.A4.91.EA.B5.AD.29_.EC.84.9C.EB.B9.84.EC.8A.A4"></span><span class="mw-headline" id="中國(중국)_서비스"><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby> 서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=11" title="부분 편집: 中國(중국) 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade72"><rb>中國內</rb><rp>(</rp><rt>중국내</rt><rp>)</rp></ruby>에서 서비스한다.
+</p>
+<h3><span id=".EA.B8.80.EB.A1.9C.EB.B2.8C_.EC.84.9C.EB.B9.84.EC.8A.A4"></span><span class="mw-headline" id="글로벌_서비스">글로벌 서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=12" title="부분 편집: 글로벌 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby>외에서 서비스 한다.
+아시아,유럽,아메리카,<a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a>/<a href="/index.php?title=%ED%99%8D%EC%BD%A9&amp;action=edit&amp;redlink=1" class="new" title="홍콩 (없는 문서)">홍콩</a>/<a href="/index.php?title=%EB%A7%88%EC%B9%B4%EC%98%A4&amp;action=edit&amp;redlink=1" class="new" title="마카오 (없는 문서)">마카오</a> 서버가 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>한다
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/index.php?title=%ED%94%8C%EB%A0%88%EC%9D%B4_%EC%8A%A4%ED%86%A0%EC%96%B4&amp;action=edit&amp;redlink=1" class="new" title="플레이 스토어 (없는 문서)">플레이 스토어</a> <ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby></span>
+</li>
+</ol></div>
+</div></body></html>
