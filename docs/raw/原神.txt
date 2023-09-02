@@ -37,7 +37,7 @@
 <ul>
 <li class="toclevel-2 tocsection-3"><a href="#몬드"><span class="tocnumber">2.1</span> <span class="toctext">몬드</span></a></li>
 <li class="toclevel-2 tocsection-4"><a href="#璃月(이월)"><span class="tocnumber">2.2</span> <span class="toctext">璃月(이월)</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#稲妻(도처)"><span class="tocnumber">2.3</span> <span class="toctext">稲妻(도처)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#稻妻(도처)"><span class="tocnumber">2.3</span> <span class="toctext">稻妻(도처)</span></a></li>
 <li class="toclevel-2 tocsection-6"><a href="#수메르"><span class="tocnumber">2.4</span> <span class="toctext">수메르</span></a></li>
 <li class="toclevel-2 tocsection-7"><a href="#폰타인"><span class="tocnumber">2.5</span> <span class="toctext">폰타인</span></a></li>
 </ul>
@@ -57,19 +57,19 @@
 </p>
 <h2><span id=".E5.9C.B0.E5.9F.9F.28.EC.A7.80.EC.97.AD.29"></span><span class="mw-headline" id="地域(지역)"><ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=2" title="부분 편집: 地域(지역)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h3><span id=".EB.AA.AC.EB.93.9C"></span><span class="mw-headline" id="몬드">몬드</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=3" title="부분 편집: 몬드">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><ruby class="hanja grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>와 <ruby class="hanja grade62"><rb>風</rb><rp>(</rp><rt>풍</rt><rp>)</rp></ruby>의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 모티브는 유럽이다.
+<p><ruby class="hanja grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>와 <ruby class="hanja grade62"><rb>風</rb><rp>(</rp><rt>풍</rt><rp>)</rp></ruby>의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 모티브는 <a href="/wiki/%EC%9C%A0%EB%9F%BD" class="mw-redirect" title="유럽">유럽</a>이다.
 </p>
 <h3><span id=".E7.92.83.E6.9C.88.28.EC.9D.B4.EC.9B.94.29"></span><span class="mw-headline" id="璃月(이월)"><ruby class="hanja grade0"><rb>璃月</rb><rp>(</rp><rt>이월</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=4" title="부분 편집: 璃月(이월)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><ruby class="hanja grade32"><rb>契約</rb><rp>(</rp><rt>계약</rt><rp>)</rp></ruby>과 바위의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>다. 모티브는 <ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby>이다.
+<p><ruby class="hanja grade32"><rb>契約</rb><rp>(</rp><rt>계약</rt><rp>)</rp></ruby>과 바위의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>다. 모티브는 <a href="/wiki/%E4%B8%AD%E5%9C%8B" title="中國"><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby></a>이다.
 </p>
-<h3><span id=".E7.A8.B2.E5.A6.BB.28.EB.8F.84.EC.B2.98.29"></span><span class="mw-headline" id="稲妻(도처)"><ruby class="hanja grade0"><rb>稲妻</rb><rp>(</rp><rt>도처</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=5" title="부분 편집: 稲妻(도처)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><ruby class="hanja grade60"><rb>永遠</rb><rp>(</rp><rt>영원</rt><rp>)</rp></ruby>과 번개의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>다. 모티브는 <ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>이다.
+<h3><span id=".E7.A8.BB.E5.A6.BB.28.EB.8F.84.EC.B2.98.29"></span><span class="mw-headline" id="稻妻(도처)"><ruby class="hanja grade30"><rb>稻妻</rb><rp>(</rp><rt>도처</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=5" title="부분 편집: 稻妻(도처)">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja grade60"><rb>永遠</rb><rp>(</rp><rt>영원</rt><rp>)</rp></ruby>과 번개의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>다. 모티브는 <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>이다.
 </p>
 <h3><span id=".EC.88.98.EB.A9.94.EB.A5.B4"></span><span class="mw-headline" id="수메르">수메르</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=6" title="부분 편집: 수메르">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <p><ruby class="hanja grade32"><rb>智慧</rb><rp>(</rp><rt>지혜</rt><rp>)</rp></ruby>와 풀의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 
 </p>
 <h3><span id=".ED.8F.B0.ED.83.80.EC.9D.B8"></span><span class="mw-headline" id="폰타인">폰타인</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=7" title="부분 편집: 폰타인">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><ruby class="hanja grade42"><rb>正義</rb><rp>(</rp><rt>정의</rt><rp>)</rp></ruby>와 <ruby class="hanja grade80"><rb>水</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다. 
+<p><ruby class="hanja grade42"><rb>正義</rb><rp>(</rp><rt>정의</rt><rp>)</rp></ruby>와 물의 <ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다.
 </p>
 <h2><span id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"></span><span class="mw-headline" id="登場人物(등장인물)"><ruby class="hanja grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=8" title="부분 편집: 登場人物(등장인물)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h2><span id=".E6.A9.9F.E8.83.BD.28.EA.B8.B0.EB.8A.A5.29"></span><span class="mw-headline" id="機能(기능)"><ruby class="hanja grade40"><rb>機能</rb><rp>(</rp><rt>기능</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=9" title="부분 편집: 機能(기능)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -78,9 +78,12 @@
 <p><ruby class="hanja grade72"><rb>中國內</rb><rp>(</rp><rt>중국내</rt><rp>)</rp></ruby>에서 서비스한다.
 </p>
 <h3><span id=".EA.B8.80.EB.A1.9C.EB.B2.8C_.EC.84.9C.EB.B9.84.EC.8A.A4"></span><span class="mw-headline" id="글로벌_서비스">글로벌 서비스</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8E%9F%E7%A5%9E&amp;action=edit&amp;section=12" title="부분 편집: 글로벌 서비스">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby>외에서 서비스 한다.
-아시아,유럽,아메리카,<a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a>/<a href="/index.php?title=%ED%99%8D%EC%BD%A9&amp;action=edit&amp;redlink=1" class="new" title="홍콩 (없는 문서)">홍콩</a>/<a href="/index.php?title=%EB%A7%88%EC%B9%B4%EC%98%A4&amp;action=edit&amp;redlink=1" class="new" title="마카오 (없는 문서)">마카오</a> 서버가 <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>한다
+<p><ruby class="hanja grade80"><rb>中國外</rb><rp>(</rp><rt>중국외</rt><rp>)</rp></ruby>에서는 다음<ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>들에서 서비스한다.
 </p>
+<ul><li><a href="/wiki/%E4%BA%9E%E7%B4%B0%E4%BA%9E" title="亞細亞"><ruby class="hanja grade32"><rb>亞細亞</rb><rp>(</rp><rt>아세아</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E6%AD%90%E6%B4%B2&amp;action=edit&amp;redlink=1" class="new" title="歐洲 (없는 문서)"><ruby class="hanja grade20 unknown"><rb>歐洲</rb><rp>(</rp><rt>구주</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E7%BE%8E%E6%B4%B2&amp;action=edit&amp;redlink=1" class="new" title="美洲 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>美洲</rb><rp>(</rp><rt>미주</rt><rp>)</rp></ruby></a></li>
+<li><a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a>/<a href="/index.php?title=%E9%A6%99%E6%B8%AF&amp;action=edit&amp;redlink=1" class="new" title="香港 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>香港</rb><rp>(</rp><rt>향항</rt><rp>)</rp></ruby></a>/<a href="/index.php?title=%E6%BE%B3%E9%96%80&amp;action=edit&amp;redlink=1" class="new" title="澳門 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>澳門</rb><rp>(</rp><rt>오문</rt><rp>)</rp></ruby></a></li></ul>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/index.php?title=%ED%94%8C%EB%A0%88%EC%9D%B4_%EC%8A%A4%ED%86%A0%EC%96%B4&amp;action=edit&amp;redlink=1" class="new" title="플레이 스토어 (없는 문서)">플레이 스토어</a> <ruby class="hanja grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby></span>
 </li>
