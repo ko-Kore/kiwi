@@ -267,6 +267,11 @@
       "count": 1
     },
     {
+      "title": "天主敎",
+      "surrounding": "넘겨줄 대상:가톨릭 ",
+      "count": 1
+    },
+    {
       "title": "字喃",
       "surrounding": "넘겨줄 대상:𡨸喃 ",
       "count": 1
@@ -889,6 +894,11 @@
     {
       "title": "에모지",
       "surrounding": "넘겨줄 대상:繪文字 ",
+      "count": 1
+    },
+    {
+      "title": "예수 그리스도",
+      "surrounding": "넘겨줄 대상:예수 ",
       "count": 1
     },
     {
