@@ -1,8 +1,10 @@
 {
   "title": "가톨릭",
   "namespace": 0,
-  "timestamp": 1693968238000,
-  "categories": [],
+  "timestamp": 1694374065000,
+  "categories": [
+    "基督敎"
+  ],
   "members": [],
   "file": null
 }
