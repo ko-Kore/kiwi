@@ -1,9 +1,9 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="float: right; text-align: center;">
 <tbody><tr>
-<th colspan="2" style="padding: 10px;"><b><ruby class="hanja grade30"><rb>波斯語</rb><rp>(</rp><rt>파사어</rt><rp>)</rp></ruby></b> <br> فارسی
+<th colspan="2" style="padding: 10px;"><b><ruby class="hanja grade30"><rb>波斯語</rb><rp>(</rp><rt>파사어</rt><rp>)</rp></ruby></b> <br> فارسی<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </th></tr>
 <tr>
-<td colspan="2" style="padding: 10px;"><br><a href="/wiki/%ED%8C%8C%EC%9D%BC:Farsi.svg" class="image"><img alt="Farsi.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/langko-100px-Farsi.svg.png" decoding="async" width="100" height="75" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/langko-150px-Farsi.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/langko-200px-Farsi.svg.png 2x"></a><br>
+<td colspan="2" style="padding: 10px;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Farsi.svg" class="image"><img alt="Farsi.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/langko-100px-Farsi.svg.png" decoding="async" width="100" height="75" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/langko-150px-Farsi.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Farsi.svg/langko-200px-Farsi.svg.png 2x"></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja grade60"><rb>使用國家</rb><rp>(</rp><rt>사용국가</rt><rp>)</rp></ruby>
@@ -24,4 +24,8 @@
 <p><b><ruby class="hanja grade30"><rb>波斯語</rb><rp>(</rp><rt>파사어</rt><rp>)</rp></ruby></b>는 이란을 <ruby class="hanja grade70"><rb>中心</rb><rp>(</rp><rt>중심</rt><rp>)</rp></ruby>으로 타지키스탄, 아프가니스탄, 바레인, 우즈베키스탄, 파키스탄, <ruby class="hanja grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>의 다게스탄<ruby class="hanja grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>을 비롯해 <ruby class="hanja grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>이란<ruby class="hanja grade20"><rb>文化圈</rb><rp>(</rp><rt>문화권</rt><rp>)</rp></ruby>에서 <ruby class="hanja grade30"><rb>波斯化</rb><rp>(</rp><rt>파사화</rt><rp>)</rp></ruby>된 <ruby class="hanja grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby>를 가진 다른 <ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>에서도 <ruby class="hanja grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>되는 <ruby class="hanja grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby>입니다.
 </p><p><a href="/wiki/%EC%95%84%EB%9E%8D%E8%AA%9E" title="아랍語">아랍<ruby class="hanja grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>와 더불어 <ruby class="hanja grade80"><rb>中東</rb><rp>(</rp><rt>중동</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>의 <ruby class="hanja grade52"><rb>主要</rb><rp>(</rp><rt>주요</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby>로 자리매김했다.
 </p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">로마<ruby class="hanja grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby> <ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>: Fārsī</span>
+</li>
+</ol></div>
 </div></body></html>
