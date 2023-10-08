@@ -1,0 +1,90 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="2"><b><ruby class="hanja grade50"><rb>千葉</rb><rp>(</rp><rt>천엽</rt><rp>)</rp></ruby></b>
+</th></tr>
+<tr>
+<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<td colspan="2"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_Chiba,_Chiba.svg" class="image"><img alt="Emblem of Chiba, Chiba.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Emblem_of_Chiba%2C_Chiba.svg/langko-200px-Emblem_of_Chiba%2C_Chiba.svg.png" decoding="async" width="200" height="210" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Emblem_of_Chiba%2C_Chiba.svg/langko-300px-Emblem_of_Chiba%2C_Chiba.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Emblem_of_Chiba%2C_Chiba.svg/langko-400px-Emblem_of_Chiba%2C_Chiba.svg.png 2x"></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan.svg" class="image"><img alt="Flag of Japan.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-25px-Flag_of_Japan.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-38px-Flag_of_Japan.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-50px-Flag_of_Japan.svg.png 2x"></a> <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%97%9C%E6%9D%B1%E5%9C%B0%E6%96%B9&amp;action=edit&amp;redlink=1" class="new" title="關東地方 (없는 문서)"><ruby class="hanja grade52 unknown"><rb>關東地方</rb><rp>(</rp><rt>관동지방</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>上位行政區域</rb><rp>(</rp><rt>상위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%8D%83%E8%91%89%E7%B8%A3" title="千葉縣"><ruby class="hanja grade30"><rb>千葉縣</rb><rp>(</rp><rt>천엽현</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>下位行政區域</rb><rp>(</rp><rt>하위행정구역</rt><rp>)</rp></ruby>
+</th>
+<td>6<ruby class="hanja grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>市廳</rb><rp>(</rp><rt>시청</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade50"><rb>千葉市</rb><rp>(</rp><rt>천엽시</rt><rp>)</rp></ruby><a href="/index.php?title=%E4%B8%AD%E5%A4%AE%E5%8D%80_(%E5%8D%83%E8%91%89%E5%B8%82)&amp;action=edit&amp;redlink=1" class="new" title="中央區 (千葉市) (없는 문서)"><ruby class="hanja grade32 unknown"><rb>中央區</rb><rp>(</rp><rt>중앙구</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%8D%83%E8%91%89%E6%B8%AF&amp;action=edit&amp;redlink=1" class="new" title="千葉港 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>千葉港</rb><rp>(</rp><rt>천엽항</rt><rp>)</rp></ruby></a>1<ruby class="hanja grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>1<ruby class="hanja grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%A5%9E%E8%B0%B7%E4%BF%8A%E4%B8%80&amp;action=edit&amp;redlink=1" class="new" title="神谷俊一 (없는 문서)"><ruby class="hanja grade30 unknown"><rb>神谷俊一</rb><rp>(</rp><rt>신곡준일</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade40"><rb>無所屬</rb><rp>(</rp><rt>무소속</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>979,142<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>3,603<ruby class="hanja grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>271.77km²
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja grade72"><rb>市木</rb><rp>(</rp><rt>시목</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%8A%90%ED%8B%B0%EB%82%98%EB%AC%B4&amp;action=edit&amp;redlink=1" class="new" title="느티나무 (없는 문서)">느티나무</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade70"><rb>市花</rb><rp>(</rp><rt>시화</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%93%AE%E8%8A%B1&amp;action=edit&amp;redlink=1" class="new" title="蓮花 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>蓮花</rb><rp>(</rp><rt>연화</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade42"><rb>市鳥</rb><rp>(</rp><rt>시조</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%87%A0%EC%A0%9C%EB%B9%84%EA%B0%88%EB%A7%A4%EA%B8%B0&amp;action=edit&amp;redlink=1" class="new" title="쇠제비갈매기 (없는 문서)">쇠제비갈매기</a>
+</td></tr>
+<tr>
+<td colspan="2"><a rel="nofollow" class="external text" href="https://www.city.chiba.jp">홈페이지</a>
+</td></tr></tbody></table>
+<p><b><ruby class="hanja grade50"><rb>千葉市</rb><rp>(</rp><rt>천엽시</rt><rp>)</rp></ruby></b>는 <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a> <ruby class="hanja grade30"><rb>千葉縣</rb><rp>(</rp><rt>천엽현</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>中央部</rb><rp>(</rp><rt>중앙부</rt><rp>)</rp></ruby>에 <ruby class="hanja grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>한 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby>이다. <ruby class="hanja grade30"><rb>千葉縣</rb><rp>(</rp><rt>천엽현</rt><rp>)</rp></ruby>의 <ruby class="hanja grade30"><rb>縣廳</rb><rp>(</rp><rt>현청</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>이자 <ruby class="hanja grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>가 가장 많은 <ruby class="hanja grade50"><rb>都市</rb><rp>(</rp><rt>도시</rt><rp>)</rp></ruby>이다.
+</p><p>1126<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>千葉氏</rb><rp>(</rp><rt>천엽씨</rt><rp>)</rp></ruby>의 <ruby class="hanja grade52"><rb>實質的</rb><rp>(</rp><rt>실질적</rt><rp>)</rp></ruby>인 <ruby class="hanja grade50"><rb>初代</rb><rp>(</rp><rt>초대</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>當主</rb><rp>(</rp><rt>당주</rt><rp>)</rp></ruby>인 <a href="/index.php?title=%E5%8D%83%E8%91%89%E5%B8%B8%E9%87%8D&amp;action=edit&amp;redlink=1" class="new" title="千葉常重 (없는 문서)"><ruby class="hanja grade42 unknown"><rb>千葉常重</rb><rp>(</rp><rt>천엽상중</rt><rp>)</rp></ruby></a>이 <ruby class="hanja grade10"><rb>猪鼻臺</rb><rp>(</rp><rt>저비대</rt><rp>)</rp></ruby>에 <ruby class="hanja grade32"><rb>居館</rb><rp>(</rp><rt>거관</rt><rp>)</rp></ruby>을 세우면서 <ruby class="hanja grade10"><rb>城下町</rb><rp>(</rp><rt>성하정</rt><rp>)</rp></ruby>(<ruby class="hanja grade30"><rb>城郭</rb><rp>(</rp><rt>성곽</rt><rp>)</rp></ruby>마을)로 <ruby class="hanja grade32"><rb>繁榮</rb><rp>(</rp><rt>번영</rt><rp>)</rp></ruby>했고, 그 <ruby class="hanja grade72"><rb>後</rb><rp>(</rp><rt>후</rt><rp>)</rp></ruby> <a href="/index.php?title=%E5%8D%83%E8%91%89%E5%A6%99%E8%A6%8B%E5%AE%AE&amp;action=edit&amp;redlink=1" class="new" title="千葉妙見宮 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>千葉妙見宮</rb><rp>(</rp><rt>천엽묘견궁</rt><rp>)</rp></ruby></a>의 <ruby class="hanja grade40"><rb>小規模</rb><rp>(</rp><rt>소규모</rt><rp>)</rp></ruby> <ruby class="hanja grade10"><rb>門前町</rb><rp>(</rp><rt>문전정</rt><rp>)</rp></ruby>로 <ruby class="hanja grade52"><rb>發展</rb><rp>(</rp><rt>발전</rt><rp>)</rp></ruby>했다.
+</p><p><ruby class="hanja grade60"><rb>近世</rb><rp>(</rp><rt>근세</rt><rp>)</rp></ruby>에는 <ruby class="hanja grade30"><rb>佐倉街道</rb><rp>(</rp><rt>좌창가도</rt><rp>)</rp></ruby>와 <ruby class="hanja grade32"><rb>東金御成街道</rb><rp>(</rp><rt>동김어성가도</rt><rp>)</rp></ruby>의 <ruby class="hanja grade10"><rb>驛站</rb><rp>(</rp><rt>역참</rt><rp>)</rp></ruby>마을로, <ruby class="hanja grade10"><rb>佐倉藩</rb><rp>(</rp><rt>좌창번</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>外港</rb><rp>(</rp><rt>외항</rt><rp>)</rp></ruby>이기도 했다. 1873<ruby class="hanja grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja grade30"><rb>千葉縣廳</rb><rp>(</rp><rt>천엽현청</rt><rp>)</rp></ruby>이 <ruby class="hanja grade10"><rb>千葉町</rb><rp>(</rp><rt>천엽정</rt><rp>)</rp></ruby>에 <ruby class="hanja grade42"><rb>設置</rb><rp>(</rp><rt>설치</rt><rp>)</rp></ruby>되면서 <ruby class="hanja grade30"><rb>千葉縣</rb><rp>(</rp><rt>천엽현</rt><rp>)</rp></ruby> <ruby class="hanja grade72"><rb>內</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby>의 <ruby class="hanja grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>, <ruby class="hanja grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>, <ruby class="hanja grade52"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby>의 <ruby class="hanja grade70"><rb>中心地</rb><rp>(</rp><rt>중심지</rt><rp>)</rp></ruby>이자 <ruby class="hanja grade60"><rb>交通</rb><rp>(</rp><rt>교통</rt><rp>)</rp></ruby>의 <ruby class="hanja grade32"><rb>要衝地</rb><rp>(</rp><rt>요충지</rt><rp>)</rp></ruby>로 <ruby class="hanja grade52"><rb>發展</rb><rp>(</rp><rt>발전</rt><rp>)</rp></ruby>했다.
+</p>
+</div></body></html>
