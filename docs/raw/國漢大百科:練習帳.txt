@@ -1,16 +1,16 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="text-align: center;">
 <tbody><tr>
-<th colspan="12"><a href="/wiki/%EC%84%B8%EB%B2%8C%E5%BC%8F" title="세벌式">세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a> <ruby class="hanja grade32"><rb>字版</rb><rp>(</rp><rt>자판</rt><rp>)</rp></ruby>의 <ruby class="hanja grade32"><rb>系譜</rb><rp>(</rp><rt>계보</rt><rp>)</rp></ruby>
+<th colspan="13"><a href="/wiki/%EC%84%B8%EB%B2%8C%E5%BC%8F" title="세벌式">세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a> <ruby class="hanja grade32"><rb>字版</rb><rp>(</rp><rt>자판</rt><rp>)</rp></ruby>의 <ruby class="hanja grade32"><rb>系譜</rb><rp>(</rp><rt>계보</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<th colspan="9">이어치기<ruby class="hanja grade40"><rb>系列</rb><rp>(</rp><rt>계열</rt><rp>)</rp></ruby>
+<th colspan="10">이어치기<ruby class="hanja grade40"><rb>系列</rb><rp>(</rp><rt>계열</rt><rp>)</rp></ruby>
 </th>
 <th colspan="3">모아치기<ruby class="hanja grade40"><rb>系列</rb><rp>(</rp><rt>계열</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <th colspan="5"><a href="/wiki/%E5%85%AC%EC%84%B8%EB%B2%8C%E5%BC%8F" class="mw-redirect" title="公세벌式"><ruby class="hanja grade62"><rb>公</rb><rp>(</rp><rt>공</rt><rp>)</rp></ruby>세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a>
 </th>
-<th rowspan="3" colspan="3"><a href="/wiki/%E7%94%B3%EC%84%B8%EB%B2%8C%E5%BC%8F" title="申세벌式"><ruby class="hanja grade42"><rb>申</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby>세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a>
+<th colspan="4"><a href="/wiki/%E7%94%B3%EC%84%B8%EB%B2%8C%E5%BC%8F" title="申세벌式"><ruby class="hanja grade42"><rb>申</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby>세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a>
 </th>
 <th rowspan="3"><a href="/wiki/%EB%91%90%EB%B2%8C%E5%BC%8F" title="두벌式">두벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a><ruby class="hanja grade32"><rb>基盤</rb><rp>(</rp><rt>기반</rt><rp>)</rp></ruby>
 </th>
@@ -26,6 +26,10 @@
 <th rowspan="2"><ruby class="hanja grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
 </th>
 <th colspan="2"><ruby class="hanja grade32"><rb>特殊</rb><rp>(</rp><rt>특수</rt><rp>)</rp></ruby>
+</th>
+<th colspan="3" rowspan="2"><a href="/wiki/%E5%85%AC%EC%84%B8%EB%B2%8C%E5%BC%8F" class="mw-redirect" title="公세벌式"><ruby class="hanja grade62"><rb>公</rb><rp>(</rp><rt>공</rt><rp>)</rp></ruby>세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a><ruby class="hanja grade32"><rb>基盤</rb><rp>(</rp><rt>기반</rt><rp>)</rp></ruby>
+</th>
+<th rowspan="2"><ruby class="hanja grade52"><rb>獨自</rb><rp>(</rp><rt>독자</rt><rp>)</rp></ruby>
 </th>
 <th rowspan="2"><ruby class="hanja grade72"><rb>安</rb><rp>(</rp><rt>안</rt><rp>)</rp></ruby>마태 세벌<ruby class="hanja grade60"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby>
 </th>
@@ -48,6 +52,8 @@
 <td rowspan="5"><a href="/index.php?title=%E5%AE%89%EC%A2%85%ED%98%81_%E7%B4%94%EC%95%84%EB%9E%98&amp;action=edit&amp;redlink=1" class="new" title="安종혁 純아래 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>安</rb><rp>(</rp><rt>안</rt><rp>)</rp></ruby>종혁 <ruby class="hanja grade42 unknown"><rb>純</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby>아래</a>
 </td>
 <td colspan="3"><a href="/index.php?title=%E5%8E%9F%E6%A1%88&amp;action=edit&amp;redlink=1" class="new" title="原案 (없는 문서)"><ruby class="hanja grade50 unknown"><rb>原案</rb><rp>(</rp><rt>원안</rt><rp>)</rp></ruby></a>
+</td>
+<td rowspan="5"><a href="/index.php?title=%EC%B0%B8%E7%94%B3%EC%84%B8%EB%B2%8C%E5%BC%8F&amp;action=edit&amp;redlink=1" class="new" title="참申세벌式 (없는 문서)">참<ruby class="hanja grade42 unknown"><rb>申</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby>세벌<ruby class="hanja grade60 unknown"><rb>式</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></a>
 </td>
 <td rowspan="5"><a href="/index.php?title=%E9%87%91%EA%B5%AD_38K&amp;action=edit&amp;redlink=1" class="new" title="金국 38K (없는 문서)"><ruby class="hanja grade80 unknown"><rb>金</rb><rp>(</rp><rt>김</rt><rp>)</rp></ruby>국 38K</a><br><a href="/index.php?title=3-18Na&amp;action=edit&amp;redlink=1" class="new" title="3-18Na (없는 문서)">3-18Na</a>
 </td>
@@ -79,6 +85,6 @@
 <tr>
 <td><a href="/index.php?title=3-2015&amp;action=edit&amp;redlink=1" class="new" title="3-2015 (없는 문서)">3-2015</a><br><a href="/index.php?title=3-2015P&amp;action=edit&amp;redlink=1" class="new" title="3-2015P (없는 문서)">3-2015P</a>
 </td>
-<td><a href="/index.php?title=3-P3&amp;action=edit&amp;redlink=1" class="new" title="3-P3 (없는 문서)">3-P3</a>
+<td><a href="/index.php?title=3-P2&amp;action=edit&amp;redlink=1" class="new" title="3-P2 (없는 문서)">3-P2</a><br><a href="/index.php?title=3-P3&amp;action=edit&amp;redlink=1" class="new" title="3-P3 (없는 문서)">3-P3</a>
 </td></tr></tbody></table>
 </div></body></html>
