@@ -1,8 +1,10 @@
 {
   "title": "오일러φ函數",
   "namespace": 0,
-  "timestamp": 1697435168000,
-  "categories": [],
+  "timestamp": 1697489776000,
+  "categories": [
+    "數論"
+  ],
   "members": [],
   "file": null
 }

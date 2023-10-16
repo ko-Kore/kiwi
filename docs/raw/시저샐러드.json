@@ -1,8 +1,12 @@
 {
   "title": "시저샐러드",
   "namespace": 0,
-  "timestamp": 1697465627000,
-  "categories": [],
+  "timestamp": 1697490146000,
+  "categories": [
+    "샐러드",
+    "美國料理",
+    "멕시코料理"
+  ],
   "members": [],
   "file": null
 }
