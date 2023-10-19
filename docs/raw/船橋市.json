@@ -1,8 +1,11 @@
 {
   "title": "船橋市",
   "namespace": 0,
-  "timestamp": 1697645124000,
-  "categories": [],
+  "timestamp": 1697683494000,
+  "categories": [
+    "船橋市",
+    "日本의 市町村"
+  ],
   "members": [],
   "file": null
 }
