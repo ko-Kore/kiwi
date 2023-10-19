@@ -15,7 +15,7 @@
 <h2><span id=".EC.95.84.EC.8B.9C.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="아시아의_나라">아시아의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=1" title="부분 편집: 아시아의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -115,24 +115,24 @@
 <td><ruby class="hanja grade32"><rb>泰</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>泰國</rb><rp>(</rp><rt>태국</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade80"><rb>韓國</rb><rp>(</rp><rt>한국</rt><rp>)</rp></ruby>, <ruby class="hanja grade80"><rb>南韓</rb><rp>(</rp><rt>남한</rt><rp>)</rp></ruby>
+<td><a href="/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD" class="mw-redirect" title="대한민국">대한민국</a></td>
+<td><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E9%9F%93%E5%9C%8B" title="韓國"><ruby class="hanja grade80"><rb>韓國</rb><rp>(</rp><rt>한국</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%8D%97%E9%9F%93&amp;action=edit&amp;redlink=1" class="new" title="南韓 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>南韓</rb><rp>(</rp><rt>남한</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%ED%83%80%EC%A7%80%ED%82%A4%EC%8A%A4%ED%83%84&amp;action=edit&amp;redlink=1" class="new" title="타지키스탄 (없는 문서)">타지키스탄</a></td>
 <td><ruby class="hanja grade10"><rb>塔吉克斯坦</rb><rp>(</rp><rt>탑길극사탄</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>汰爾奇斯坦</rb><rp>(</rp><rt>태이기사탄</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby>
+<td><a href="/wiki/%EC%A4%91%ED%99%94%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD" class="mw-redirect" title="중화인민공화국">중화인민공화국</a></td>
+<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E4%B8%AD%E5%9C%8B" title="中國"><ruby class="hanja grade80"><rb>中國</rb><rp>(</rp><rt>중국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%A4%91%ED%99%94%EB%AF%BC%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="중화민국 (없는 문서)">중화민국</a></td>
+<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E8%87%BA%E7%81%A3" class="mw-redirect" title="臺灣"><ruby class="hanja grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td><a href="/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="朝鮮民主主義人民共和國"><ruby class="hanja grade42"><rb>朝鮮民主主義人民共和國</rb><rp>(</rp><rt>조선민주주의인민공화국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%A1%B0%EC%84%A0%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="조선민주주의인민공화국 (없는 문서)">조선민주주의인민공화국</a></td>
+<td><a href="/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="朝鮮民主主義人民共和國"><ruby class="hanja grade42"><rb>朝鮮民主主義人民共和國</rb><rp>(</rp><rt>조선민주주의인민공화국</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E5%8C%97%E9%9F%93" title="北韓"><ruby class="hanja grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%ED%88%AC%EB%A5%B4%ED%81%AC%EB%A9%94%EB%8B%88%EC%8A%A4%ED%83%84&amp;action=edit&amp;redlink=1" class="new" title="투르크메니스탄 (없는 문서)">투르크메니스탄</a></td>
@@ -143,8 +143,8 @@
 <td><ruby class="hanja grade50"><rb>土耳古</rb><rp>(</rp><rt>토이고</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>土耳其</rb><rp>(</rp><rt>토이기</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%9D%BC%EB%B3%B8%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="일본국 (없는 문서)">일본</a></td>
-<td><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%9D%BC%EB%B3%B8&amp;action=edit&amp;redlink=1" class="new" title="일본 (없는 문서)">일본</a></td>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EB%84%A4%ED%8C%94&amp;action=edit&amp;redlink=1" class="new" title="네팔 (없는 문서)">네팔</a></td>
@@ -213,7 +213,7 @@
 <h2><span id=".EC.95.84.ED.94.84.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="아프리카의_나라">아프리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=2" title="부분 편집: 아프리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -281,12 +281,12 @@
 <td><ruby class="hanja grade20"><rb>科摩羅</rb><rp>(</rp><rt>과마라</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%BD%A9%EA%B3%A0%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="콩고共和國 (없는 문서)">콩고<ruby class="hanja grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade32"><rb>剛果共和國</rb><rp>(</rp><rt>강과공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>公額共和國</rb><rp>(</rp><rt>공액공화국</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%BD%A9%EA%B3%A0%EA%B3%B5%ED%99%94%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="콩고공화국 (없는 문서)">콩고공화국</a></td>
+<td>콩고<ruby class="hanja grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>剛果共和國</rb><rp>(</rp><rt>강과공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>公額共和國</rb><rp>(</rp><rt>공액공화국</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%BD%A9%EA%B3%A0%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="콩고民主共和國 (없는 문서)">콩고<ruby class="hanja grade62 unknown"><rb>民主共和國</rb><rp>(</rp><rt>민주공화국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade32"><rb>剛果民主共和國</rb><rp>(</rp><rt>강과민주공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>公額民主共和國</rb><rp>(</rp><rt>공액민주공화국</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%BD%A9%EA%B3%A0%EB%AF%BC%EC%A3%BC%EA%B3%B5%ED%99%94%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="콩고민주공화국 (없는 문서)">콩고민주공화국</a></td>
+<td>콩고<ruby class="hanja grade62"><rb>民主共和國</rb><rp>(</rp><rt>민주공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>剛果民主共和國</rb><rp>(</rp><rt>강과민주공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>公額民主共和國</rb><rp>(</rp><rt>공액민주공화국</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EC%83%81%ED%86%A0%EB%A9%94_%ED%94%84%EB%A6%B0%EC%8B%9C%ED%8E%98&amp;action=edit&amp;redlink=1" class="new" title="상토메 프린시페 (없는 문서)">상토메 프린시페</a></td>
@@ -341,8 +341,8 @@
 <td><ruby class="hanja grade42"><rb>在得</rb><rp>(</rp><rt>재득</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>茶都</rb><rp>(</rp><rt>다도</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%A4%91%EC%95%99%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4_%EA%B3%B5%ED%99%94%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="중앙아프리카 공화국 (없는 문서)">중앙아프리카 공화국</a></td>
-<td><ruby class="hanja grade20"><rb>中央阿弗利加</rb><rp>(</rp><rt>중앙아불리가</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%A4%91%EC%95%99%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%EA%B3%B5%ED%99%94%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="중앙아프리카공화국 (없는 문서)">중앙아프리카공화국</a></td>
+<td><ruby class="hanja grade32"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby>아프리카<ruby class="hanja grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade20"><rb>中央阿弗利加</rb><rp>(</rp><rt>중앙아불리가</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%ED%8A%80%EB%8B%88%EC%A7%80&amp;action=edit&amp;redlink=1" class="new" title="튀니지 (없는 문서)">튀니지</a></td>
@@ -393,8 +393,8 @@
 <td><ruby class="hanja grade32"><rb>麻里</rb><rp>(</rp><rt>마리</rt><rp>)</rp></ruby>, <ruby class="hanja grade50"><rb>馬里</rb><rp>(</rp><rt>마리</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%E5%8D%97%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="南아프리카共和國 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>아프리카<ruby class="hanja grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade42"><rb>南非</rb><rp>(</rp><rt>남비</rt><rp>)</rp></ruby>, <ruby class="hanja grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>南阿共</rb><rp>(</rp><rt>남아공</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EB%82%A8%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%EA%B3%B5%ED%99%94%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="남아프리카공화국 (없는 문서)">남아프리카공화국</a></td>
+<td><ruby class="hanja grade80"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>아프리카<ruby class="hanja grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>, <ruby class="hanja grade42"><rb>南非</rb><rp>(</rp><rt>남비</rt><rp>)</rp></ruby>, <ruby class="hanja grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>南阿共</rb><rp>(</rp><rt>남아공</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EB%AA%A8%EC%9E%A0%EB%B9%84%ED%81%AC&amp;action=edit&amp;redlink=1" class="new" title="모잠비크 (없는 문서)">모잠비크</a></td>
@@ -431,7 +431,7 @@
 <h2><span id=".EC.9C.A0.EB.9F.BD.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="유럽의_나라">유럽의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=3" title="부분 편집: 유럽의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -601,12 +601,12 @@
 <h2><span id=".E5.8C.97.28.EB.B6.81.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="北(북)아메리카의_나라"><ruby class="hanja grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>아메리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=4" title="부분 편집: 北(북)아메리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td><a href="/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%E5%90%88%E8%A1%86%E5%9C%8B" class="mw-redirect" title="아메리카合衆國">아메리카<ruby class="hanja grade42"><rb>合衆國</rb><rp>(</rp><rt>합중국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade60"><rb>米國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>, <ruby class="hanja grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>亞米利加</rb><rp>(</rp><rt>아미리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>亞墨利加</rb><rp>(</rp><rt>아묵리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>米利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>美利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>彌利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%ED%95%A9%EC%A4%91%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="아메리카합중국 (없는 문서)">아메리카합중국</a></td>
+<td>아메리카<ruby class="hanja grade42"><rb>合衆國</rb><rp>(</rp><rt>합중국</rt><rp>)</rp></ruby>, <ruby class="hanja grade60"><rb>米國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>, <ruby class="hanja grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>亞米利加</rb><rp>(</rp><rt>아미리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>亞墨利加</rb><rp>(</rp><rt>아묵리가</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>米利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>, <ruby class="hanja grade40"><rb>美利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>, <ruby class="hanja grade12"><rb>彌利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EC%95%A4%ED%8B%B0%EA%B0%80_%EB%B0%94%EB%B6%80%EB%8B%A4&amp;action=edit&amp;redlink=1" class="new" title="앤티가 바부다 (없는 문서)">앤티가 바부다</a></td>
@@ -695,7 +695,7 @@
 <h2><span id=".E5.8D.97.28.EB.82.A8.29.EC.95.84.EB.A9.94.EB.A6.AC.EC.B9.B4.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="南(남)아메리카의_나라"><ruby class="hanja grade80"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>아메리카의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=5" title="부분 편집: 南(남)아메리카의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -749,7 +749,7 @@
 <h2><span id=".EC.98.A4.EC.84.B8.EC.95.84.EB.8B.88.EC.95.84.EC.9D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="오세아니아의_나라">오세아니아의 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=6" title="부분 편집: 오세아니아의 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -761,8 +761,8 @@
 <td><ruby class="hanja grade10"><rb>基里巴斯</rb><rp>(</rp><rt>기리파사</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%86%94%EB%A1%9C%EB%AA%AC%E8%AB%B8%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="솔로몬諸島 (없는 문서)">솔로몬<ruby class="hanja grade32 unknown"><rb>諸島</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade32"><rb>所羅門諸島</rb><rp>(</rp><rt>소라문제도</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%86%94%EB%A1%9C%EB%AA%AC%EC%A0%9C%EB%8F%84&amp;action=edit&amp;redlink=1" class="new" title="솔로몬제도 (없는 문서)">솔로몬제도</a></td>
+<td>솔로몬<ruby class="hanja grade32"><rb>諸島</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby>, <ruby class="hanja grade32"><rb>所羅門諸島</rb><rp>(</rp><rt>소라문제도</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%ED%88%AC%EB%B0%9C%EB%A3%A8&amp;action=edit&amp;redlink=1" class="new" title="투발루 (없는 문서)">투발루</a></td>
@@ -801,8 +801,8 @@
 <td><ruby class="hanja grade0"><rb>斐濟</rb><rp>(</rp><rt>비제</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EB%A7%88%EC%85%9C%E8%AB%B8%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="마셜諸島 (없는 문서)">마셜<ruby class="hanja grade32 unknown"><rb>諸島</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade10"><rb>馬歇爾諸島</rb><rp>(</rp><rt>마헐이제도</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EB%A7%88%EC%85%9C%EC%A0%9C%EB%8F%84&amp;action=edit&amp;redlink=1" class="new" title="마셜제도 (없는 문서)">마셜제도</a></td>
+<td>마셜<ruby class="hanja grade32"><rb>諸島</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby>, <ruby class="hanja grade10"><rb>馬歇爾諸島</rb><rp>(</rp><rt>마헐이제도</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%EB%AF%B8%ED%81%AC%EB%A1%9C%EB%84%A4%EC%8B%9C%EC%95%84%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="미크로네시아聯邦 (없는 문서)">미크로네시아<ruby class="hanja grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a></td>
@@ -811,16 +811,16 @@
 <h2><span id=".E6.AD.B7.E5.8F.B2.E4.B8.8A.28.EC.97.AD.EC.82.AC.EC.83.81.29_.E5.AD.98.E5.9C.A8.28.EC.A1.B4.EC.9E.AC.29.ED.96.88.EB.8D.98_.EB.82.98.EB.9D.BC"></span><span class="mw-headline" id="歷史上(역사상)_存在(존재)했던_나라"><ruby class="hanja grade52"><rb>歷史上</rb><rp>(</rp><rt>역사상</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>存在</rb><rp>(</rp><rt>존재</rt><rp>)</rp></ruby>했던 나라</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=7" title="부분 편집: 歷史上(역사상) 存在(존재)했던 나라">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
-<th><ruby class="hanja grade72"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></th>
+<th>한글<ruby class="hanja grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby></th>
 <th><ruby class="hanja grade62"><rb>漢字表記</rb><rp>(</rp><rt>한자표기</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td><a href="/index.php?title=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%E8%81%AF%E5%90%88%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="아메리카聯合國 (없는 문서)">아메리카<ruby class="hanja grade32 unknown"><rb>聯合國</rb><rp>(</rp><rt>연합국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade32"><rb>南部聯合</rb><rp>(</rp><rt>남부연합</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EC%97%B0%ED%95%A9%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="아메리카연합국 (없는 문서)">아메리카연합국</a></td>
+<td><a href="/index.php?title=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%E8%81%AF%E5%90%88%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="아메리카聯合國 (없는 문서)">아메리카<ruby class="hanja grade32 unknown"><rb>聯合國</rb><rp>(</rp><rt>연합국</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade32"><rb>南部聯合</rb><rp>(</rp><rt>남부연합</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EC%86%8C%EB%B9%84%EC%97%90%ED%8A%B8%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="소비에트聯邦 (없는 문서)">소비에트<ruby class="hanja grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade32"><rb>蘇聯</rb><rp>(</rp><rt>소련</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EC%86%8C%EB%B9%84%EC%97%90%ED%8A%B8%EC%97%B0%EB%B0%A9&amp;action=edit&amp;redlink=1" class="new" title="소비에트연방 (없는 문서)">소비에트연방</a></td>
+<td><a href="/index.php?title=%EC%86%8C%EB%B9%84%EC%97%90%ED%8A%B8%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="소비에트聯邦 (없는 문서)">소비에트<ruby class="hanja grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade32"><rb>蘇聯</rb><rp>(</rp><rt>소련</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><a href="/index.php?title=%ED%8E%98%EB%A5%B4%EC%8B%9C%EC%95%84%E5%B8%9D%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="페르시아帝國 (없는 문서)">페르시아<ruby class="hanja grade40 unknown"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a></td>
@@ -831,12 +831,12 @@
 <td><ruby class="hanja grade20"><rb>南斯拉夫</rb><rp>(</rp><rt>남사랍부</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%ED%95%98%EC%99%80%EC%9D%B4%E7%8E%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="하와이王國 (없는 문서)">하와이<ruby class="hanja grade80 unknown"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade0"><rb>布哇</rb><rp>(</rp><rt>포와</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%ED%95%98%EC%99%80%EC%9D%B4%EC%A0%9C%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="하와이제국 (없는 문서)">하와이제국</a></td>
+<td><a href="/index.php?title=%ED%95%98%EC%99%80%EC%9D%B4%E7%8E%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="하와이王國 (없는 문서)">하와이<ruby class="hanja grade80 unknown"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a>, <ruby class="hanja grade0"><rb>布哇</rb><rp>(</rp><rt>포와</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%EB%A1%9C%EB%A7%88%E5%B8%9D%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="로마帝國 (없는 문서)">로마<ruby class="hanja grade40 unknown"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a></td>
-<td><ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%EB%A1%9C%EB%A7%88%EC%A0%9C%EA%B5%AD&amp;action=edit&amp;redlink=1" class="new" title="로마제국 (없는 문서)">로마제국</a></td>
+<td><a href="/index.php?title=%EB%A1%9C%EB%A7%88%E5%B8%9D%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="로마帝國 (없는 문서)">로마<ruby class="hanja grade40 unknown"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E7%BE%85%E9%A6%AC" title="羅馬"><ruby class="hanja grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
 <h2><span id=".E9.97.9C.E8.81.AF.E9.A0.85.E7.9B.AE.28.EA.B4.80.EB.A0.A8.ED.95.AD.EB.AA.A9.29"></span><span class="mw-headline" id="關聯項目(관련항목)"><ruby class="hanja grade32"><rb>關聯項目</rb><rp>(</rp><rt>관련항목</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%9C%8B%E5%90%8D%EC%9D%98_%E6%BC%A2%E5%AD%97%E8%A1%A8%E8%A8%98&amp;action=edit&amp;section=8" title="부분 편집: 關聯項目(관련항목)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/index.php?title=%E5%9C%8B%E5%90%8D&amp;action=edit&amp;redlink=1" class="new" title="國名 (없는 문서)"><ruby class="hanja grade72 unknown"><rb>國名</rb><rp>(</rp><rt>국명</rt><rp>)</rp></ruby></a></li>
