@@ -1,8 +1,11 @@
 {
   "title": "秋葉原驛",
   "namespace": 0,
-  "timestamp": 1697649416000,
-  "categories": [],
+  "timestamp": 1697684068000,
+  "categories": [
+    "秋葉原",
+    "日本의 鐵道驛"
+  ],
   "members": [],
   "file": null
 }
