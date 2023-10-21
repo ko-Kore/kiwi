@@ -12,25 +12,25 @@
 <th><ruby class="hanja grade52"><rb>廣東語</rb><rp>(</rp><rt>광동어</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<th>보다.
+<th>보다
 </th>
 <td><ruby class="hanja grade40"><rb>看</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja grade0"><rb>睇</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<th><ruby class="hanja grade50"><rb>無</rb><rp>(</rp><rt>무</rt><rp>)</rp></ruby>
+<th>없다
 </th>
 <td><ruby class="hanja grade32"><rb>沒有</rb><rp>(</rp><rt>몰유</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja grade0"><rb>冇</rb><rp>(</rp><rt>묘</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<th>엘레베이터
+<th>엘리베이터
 </th>
 <td><ruby class="hanja grade10"><rb>電梯</rb><rp>(</rp><rt>전제</rt><rp>)</rp></ruby></td>
 <td>𨋢
 </td></tr>
 <tr>
-<th>걱정마라.
+<th>걱정마라
 </th>
 <td><ruby class="hanja grade0"><rb>不要紧</rb><rp>(</rp><rt>부요긴</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja grade0"><rb>唔緊要</rb><rp>(</rp><rt>오긴요</rt><rp>)</rp></ruby>
