@@ -352,6 +352,11 @@
       "count": 1
     },
     {
+      "title": "한글",
+      "surrounding": "유니코드에 들어간것과같이 모든 字母(자모)를",
+      "count": 1
+    },
+    {
       "title": "한글專用",
       "surrounding": "취급[편집] 처음에는 모든 한자어를",
       "count": 1
