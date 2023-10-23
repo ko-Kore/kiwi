@@ -51,7 +51,7 @@
 <td>Shoulder</td>
 <td><ruby class="hanja grade30"><rb>肩</rb><rp>(</rp><rt>견</rt><rp>)</rp></ruby></td>
 <td>어깨</td>
-<td></td>
+<td><ruby class="hanja grade30"><rb>字肩</rb><rp>(</rp><rt>자견</rt><rp>)</rp></ruby></td>
 <td>그림의 1
 </td></tr>
 <tr>
