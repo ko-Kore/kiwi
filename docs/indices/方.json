@@ -547,6 +547,11 @@
       "count": 1
     },
     {
+      "title": "IME",
+      "surrounding": "넘겨줄 대상:入力方式 ",
+      "count": 1
+    },
+    {
       "title": "JIS키보드",
       "surrounding": "假名入力(가명입력) 日本語(일본어) 入力方式(입력방식) ",
       "count": 1
