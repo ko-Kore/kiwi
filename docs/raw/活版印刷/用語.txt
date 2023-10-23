@@ -10,6 +10,7 @@
 </ul>
 </div>
 <h2><span id=".E6.B4.BB.E5.AD.97.28.ED.99.9C.EC.9E.90.29"></span><span class="mw-headline" id="活字(활자)"><ruby class="hanja grade70"><rb>活字</rb><rp>(</rp><rt>활자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=1" title="부분 편집: 活字(활자)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Metal_type.svg" class="image"><img alt="Metal type.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Metal_type.svg/langko-300px-Metal_type.svg.png" decoding="async" width="300" height="345" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Metal_type.svg/langko-450px-Metal_type.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Metal_type.svg/langko-600px-Metal_type.svg.png 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Metal_type.svg" class="internal" title="實際 크기로"></a></div></div></div></div>
 <table class="wikitable">
 <tbody><tr>
 <th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
@@ -23,7 +24,7 @@
 <td><ruby class="hanja grade70"><rb>字面</rb><rp>(</rp><rt>자면</rt><rp>)</rp></ruby>(じづら)</td>
 <td><ruby class="hanja grade70"><rb>字面</rb><rp>(</rp><rt>자면</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja grade70"><rb>字面</rb><rp>(</rp><rt>자면</rt><rp>)</rp></ruby></td>
-<td>
+<td>그림의 a
 </td></tr>
 <tr>
 <td>Beard / Neck</td>
@@ -47,25 +48,32 @@
 <td>
 </td></tr>
 <tr>
+<td>Shoulder</td>
+<td><ruby class="hanja grade30"><rb>肩</rb><rp>(</rp><rt>견</rt><rp>)</rp></ruby></td>
+<td>어깨</td>
+<td></td>
+<td>그림의 1
+</td></tr>
+<tr>
 <td>Nick</td>
 <td>ネッキ</td>
 <td>닉</td>
 <td><ruby class="hanja grade10"><rb>槽</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby></td>
-<td>
-</td></tr>
-<tr>
-<td>Feet</td>
-<td><ruby class="hanja grade72"><rb>足</rb><rp>(</rp><rt>족</rt><rp>)</rp></ruby></td>
-<td>발</td>
-<td><ruby class="hanja grade0"><rb>字腳</rb><rp>(</rp><rt>자각</rt><rp>)</rp></ruby></td>
-<td>
+<td>그림의 2
 </td></tr>
 <tr>
 <td>Groove</td>
 <td><ruby class="hanja grade10"><rb>溝</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>(みぞ)</td>
 <td>홈</td>
 <td><ruby class="hanja grade10"><rb>字溝</rb><rp>(</rp><rt>자구</rt><rp>)</rp></ruby></td>
-<td>
+<td>그림의 3
+</td></tr>
+<tr>
+<td>Foot</td>
+<td><ruby class="hanja grade72"><rb>足</rb><rp>(</rp><rt>족</rt><rp>)</rp></ruby></td>
+<td>발</td>
+<td><ruby class="hanja grade0"><rb>字腳</rb><rp>(</rp><rt>자각</rt><rp>)</rp></ruby></td>
+<td>그림의 4
 </td></tr></tbody></table>
 <h2><span id=".E6.B4.BB.E7.89.88.28.ED.99.9C.ED.8C.90.29"></span><span class="mw-headline" id="活版(활판)"><ruby class="hanja grade32"><rb>活版</rb><rp>(</rp><rt>활판</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B4%BB%E7%89%88%E5%8D%B0%E5%88%B7/%E7%94%A8%E8%AA%9E&amp;action=edit&amp;section=2" title="부분 편집: 活版(활판)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
