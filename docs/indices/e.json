@@ -857,6 +857,11 @@
       "count": 1
     },
     {
+      "title": "表意文字補充平面",
+      "surrounding": "3番(번)(30000-3ffff) 4番(번)~13番(번)(40000-dffff) 14番(번)(e0000-effff) 15番(번)~16番(번)(f0000-10ffff)",
+      "count": 1
+    },
+    {
       "title": "討論:綠壩娘",
       "surrounding": "주시기 바랍니다 --EighteenChild (토론)",
       "count": 1
