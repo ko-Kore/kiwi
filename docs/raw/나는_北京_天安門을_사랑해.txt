@@ -14,20 +14,19 @@
 </th>
 <td><a href="/index.php?title=%E9%87%91%E6%9C%88%E8%8B%93&amp;action=edit&amp;redlink=1" class="new" title="金月苓 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>金月苓</rb><rp>(</rp><rt>김월령</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
-<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%82%98%EB%8A%94_%E5%8C%97%E4%BA%AC_%E5%A4%A9%E5%AE%89%E9%96%80%EC%9D%84_%EC%82%AC%EB%9E%91%ED%95%B4&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>에서 만든 <a href="/index.php?title=%E6%AF%9B%E6%BE%A4%E6%9D%B1&amp;action=edit&amp;redlink=1" class="new" title="毛澤東 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>毛澤東</rb><rp>(</rp><rt>모택동</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E8%AE%9A%E6%8F%9A&amp;action=edit&amp;redlink=1" class="new" title="讚揚 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>讚揚</rb><rp>(</rp><rt>찬양</rt><rp>)</rp></ruby></a><ruby class="hanja grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>이다.
 </p>
-<h2><span id="歌詞(가사)"></span><span class="mw-headline" id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"><ruby class="hanja grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%82%98%EB%8A%94_%E5%8C%97%E4%BA%AC_%E5%A4%A9%E5%AE%89%E9%96%80%EC%9D%84_%EC%82%AC%EB%9E%91%ED%95%B4&amp;action=edit&amp;section=2" title="부분 편집: 歌詞(가사)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><span class="noruby"><ruby class="hanja grade32"><rb>我愛北京天安門</rb><rp>(</rp><rt>아애북경천안문</rt><rp>)</rp></ruby></span> <br>
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%82%98%EB%8A%94_%E5%8C%97%E4%BA%AC_%E5%A4%A9%E5%AE%89%E9%96%80%EC%9D%84_%EC%82%AC%EB%9E%91%ED%95%B4&amp;action=edit&amp;section=1" title="부분 편집: 歌詞(가사)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>我愛北京天安門 <br>
 Wǒ ài Běijīng Tiān’ānmén <br>
 나는 <ruby class="hanja grade60"><rb>北京</rb><rp>(</rp><rt>북경</rt><rp>)</rp></ruby> <ruby class="hanja grade70"><rb>天安門</rb><rp>(</rp><rt>천안문</rt><rp>)</rp></ruby>을 사랑해
-</p><p><span class="noruby"><ruby class="hanja grade20"><rb>天安門上太陽升</rb><rp>(</rp><rt>천안문상태양승</rt><rp>)</rp></ruby></span> <br>
+</p><p>天安門上太陽升 <br>
 Tiān’ānmén shàng tàiyáng shēng <br>
 <ruby class="hanja grade70"><rb>天安門</rb><rp>(</rp><rt>천안문</rt><rp>)</rp></ruby> 위에 <ruby class="hanja grade60"><rb>太陽</rb><rp>(</rp><rt>태양</rt><rp>)</rp></ruby>이 뜨네
-</p><p><span class="noruby"><ruby class="hanja grade10"><rb>偉大領袖毛主席</rb><rp>(</rp><rt>위대령수모주석</rt><rp>)</rp></ruby></span> <br>
+</p><p>偉大領袖毛主席 <br>
 Wěidà lǐngxiù Máo zhǔxí <br>
 <ruby class="hanja grade52"><rb>偉大</rb><rp>(</rp><rt>위대</rt><rp>)</rp></ruby>한 <ruby class="hanja grade42"><rb>指導者</rb><rp>(</rp><rt>지도자</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>毛</rb><rp>(</rp><rt>모</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>主席</rb><rp>(</rp><rt>주석</rt><rp>)</rp></ruby>께서
-</p><p><span class="noruby"><ruby class="hanja grade0"><rb>指引我們向前進</rb><rp>(</rp><rt>지인아문향전진</rt><rp>)</rp></ruby></span> <br>
+</p><p>指引我們向前進 <br>
 Zhǐyǐn wǒmen xiàng qiánjìn <br>
 우리를 앞으로 이끄시네
 </p>
