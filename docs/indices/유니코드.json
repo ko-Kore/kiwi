@@ -52,6 +52,11 @@
       "count": 3
     },
     {
+      "title": "多國語基本平面",
+      "surrounding": " 유니코드 平面(평면) ... Multilingual Plane)은 유니코드의 U+0000부터",
+      "count": 2
+    },
+    {
       "title": "漢字模樣說明式",
       "surrounding": "Sequence IDS)은 유니코드에 登載(등재)되지 ... 것이 代表的(대표적)이다 유니코드에 올라간",
       "count": 2
@@ -104,11 +109,6 @@
     {
       "title": "國漢大百科:練習帳",
       "surrounding": " 유니코드 平面(평면)",
-      "count": 1
-    },
-    {
-      "title": "多國語基本平面",
-      "surrounding": "Multilingual Plane)은 유니코드의 U+0000부터",
       "count": 1
     },
     {

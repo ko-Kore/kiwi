@@ -477,6 +477,11 @@
       "count": 2
     },
     {
+      "title": "多國語基本平面",
+      "surrounding": "3番(번)(30000-3ffff) 4番(번)~13番(번)(40000-dffff) 14番(번)(e0000-effff) 15番(번)~16番(번)(f0000-10ffff) ... Basic Multilingual Plane)은 유니코드의",
+      "count": 2
+    },
+    {
       "title": "少女前線",
       "surrounding": "英文名稱(영문명칭)은 ‘Girls' Frontline’이며 日本(일본)에서는 ... 商標權(상표권)問題(문제)로 ‘ドールズフロントライン’(Dolls Frontline “人形前線(인형전선)”)이라는",
       "count": 2
@@ -719,11 +724,6 @@
     {
       "title": "國漢大百科토론:텔레그램 對話房",
       "surrounding": "(KST) 解決(해결)됐습니다~ --EighteenChild (토론)",
-      "count": 1
-    },
-    {
-      "title": "多國語基本平面",
-      "surrounding": "Basic Multilingual Plane)은 유니코드의",
       "count": 1
     },
     {

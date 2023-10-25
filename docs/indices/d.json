@@ -382,6 +382,11 @@
       "count": 1
     },
     {
+      "title": "多國語基本平面",
+      "surrounding": "2番(번)(20000-2ffff) 3番(번)(30000-3ffff) 4番(번)~13番(번)(40000-dffff) 14番(번)(e0000-effff)",
+      "count": 1
+    },
+    {
       "title": "心停止",
       "surrounding": "있다 英語(영어)로는 cardiac arrest[1]라",
       "count": 1
