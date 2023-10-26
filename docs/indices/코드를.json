@@ -60,6 +60,11 @@
       "title": "한글",
       "surrounding": "조합된 音節(음절)의 코드를 얻을",
       "count": 1
+    },
+    {
+      "title": "𡨸國語",
+      "surrounding": "VSCII같은 8비트 코드를 使用(사용)했다",
+      "count": 1
     }
   ]
 }
