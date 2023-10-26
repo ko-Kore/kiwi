@@ -517,6 +517,11 @@
       "count": 2
     },
     {
+      "title": "𡨸國語",
+      "surrounding": "q r s t ... 178字(자)이다 유니코드에는 Basic Latin",
+      "count": 2
+    },
+    {
       "title": "𬜬",
       "surrounding": "‘𬜬山’을 檢索(검색)하면 Manshan이 아니라 ... Manshan이 아니라 Qingshan으로 나오는데",
       "count": 2
@@ -944,11 +949,6 @@
     {
       "title": "파일:중국어 타자기- 한어병음.png",
       "surrounding": "라이선스[편집] 틀:PD-shape ",
-      "count": 1
-    },
-    {
-      "title": "𡨸國語",
-      "surrounding": "q r s t",
       "count": 1
     },
     {

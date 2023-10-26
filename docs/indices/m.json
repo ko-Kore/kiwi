@@ -617,6 +617,11 @@
       "count": 2
     },
     {
+      "title": "𡨸國語",
+      "surrounding": "k l m n ... Latin Latin-1 Supplement Latin",
+      "count": 2
+    },
+    {
       "title": "Clbuttic",
       "surrounding": "現象(현상)을 clbuttic mistake라고 부르기도",
       "count": 1
@@ -944,11 +949,6 @@
     {
       "title": "힌두敎",
       "surrounding": "인더스江(강)을 意味(의미)한다 힌두敎(교)(Hinduism)는 英語(영어)로",
-      "count": 1
-    },
-    {
-      "title": "𡨸國語",
-      "surrounding": "k l m n",
       "count": 1
     },
     {

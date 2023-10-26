@@ -437,6 +437,11 @@
       "count": 3
     },
     {
+      "title": "𡨸國語",
+      "surrounding": "d đ e è ... Supplement Latin Extended Additional",
+      "count": 3
+    },
+    {
       "title": "IBM 셀렉트릭",
       "surrounding": "셀렉트릭 打字機(타자기)(IBM Selectric Typewriter)는 ... 打字機(타자기)(IBM Selectric Typewriter)는 IBM이",
       "count": 2
@@ -1104,11 +1109,6 @@
     {
       "title": "힌두敎",
       "surrounding": "아리아人(인)의 信仰體系(신앙체계)에는 데바(deva)와 아수라(asura)의",
-      "count": 1
-    },
-    {
-      "title": "𡨸國語",
-      "surrounding": "d đ e è",
       "count": 1
     },
     {

@@ -157,6 +157,11 @@
       "count": 6
     },
     {
+      "title": "𡨸國語",
+      "surrounding": "Ỵ 小文字(소문자): a à ... Latin Extended Additional 領域(영역)에",
+      "count": 6
+    },
+    {
       "title": "2020年 美合衆國 大統領選擧",
       "surrounding": "2020 United States presidential ... 其他(기타) ↑ 英語(영어)로生日(생일)파티의「파티」와政黨兩方(정당량방)의意味(의미)를갖는「party」를利用(이용)한言語遊戱(언어유희) ",
       "count": 5
@@ -1189,11 +1194,6 @@
     {
       "title": "𡨸喃",
       "surrounding": "가장 많다 𠀧(ba): 三(삼)에서",
-      "count": 1
-    },
-    {
-      "title": "𡨸國語",
-      "surrounding": "Ỵ 小文字(소문자): a à",
       "count": 1
     }
   ]
