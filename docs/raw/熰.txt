@@ -1,0 +1,31 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;">熰
+</td></tr>
+<tr>
+<th colspan="4">통째로 구울 구
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td>火
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>15<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td>𬉼
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">-
+</td></tr></tbody></table>
+<p><a href="/wiki/%E5%BD%A2%E8%81%B2%E6%96%87%E5%AD%97" title="形聲文字"><ruby class="hanja grade42"><rb>形聲文字</rb><rp>(</rp><rt>형성문자</rt><rp>)</rp></ruby></a>이다. "통째로 굽다" 또는 "매우 덥다"를 <ruby class="hanja grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>하는 <ruby class="hanja grade20"><rb>僻字</rb><rp>(</rp><rt>벽자</rt><rp>)</rp></ruby>이다.
+</p>
+</div></body></html>
