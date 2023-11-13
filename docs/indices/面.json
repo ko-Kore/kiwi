@@ -347,6 +347,16 @@
       "count": 2
     },
     {
+      "title": "BMP (유니코드)",
+      "surrounding": "넘겨줄 대상:多國語基本平面 ",
+      "count": 1
+    },
+    {
+      "title": "SIP (유니코드)",
+      "surrounding": "넘겨줄 대상:表意文字補充平面 ",
+      "count": 1
+    },
+    {
       "title": "VA-11 HALL-A: 사이버펑크 바텐더 액션",
       "surrounding": "수 있는 場面(장면)이 많다",
       "count": 1

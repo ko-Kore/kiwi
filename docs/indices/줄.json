@@ -117,6 +117,11 @@
       "count": 1
     },
     {
+      "title": "BMP (유니코드)",
+      "surrounding": "넘겨줄 대상:多國語基本平面",
+      "count": 1
+    },
+    {
       "title": "CJK",
       "surrounding": "新聞等(신문등)에도 漢字(한자)를 줄여나가고 있다",
       "count": 1
@@ -164,6 +169,11 @@
     {
       "title": "PTSD",
       "surrounding": "넘겨줄 대상:外傷後",
+      "count": 1
+    },
+    {
+      "title": "SIP (유니코드)",
+      "surrounding": "넘겨줄 대상:表意文字補充平面",
       "count": 1
     },
     {

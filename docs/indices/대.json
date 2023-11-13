@@ -2217,6 +2217,11 @@
       "count": 1
     },
     {
+      "title": "BMP (유니코드)",
+      "surrounding": "넘겨줄 대상:多國語基本平面 ",
+      "count": 1
+    },
+    {
       "title": "Han3 ji7 tsoo1 kian3",
       "surrounding": "넘겨줄 대상:漢字組建 ",
       "count": 1
@@ -2259,6 +2264,11 @@
     {
       "title": "QWERTY",
       "surrounding": "配定(배정)된 알파벳을 順序(순서)대로 읽으면",
+      "count": 1
+    },
+    {
+      "title": "SIP (유니코드)",
+      "surrounding": "넘겨줄 대상:表意文字補充平面 ",
       "count": 1
     },
     {

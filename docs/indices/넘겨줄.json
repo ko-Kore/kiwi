@@ -17,6 +17,11 @@
       "count": 1
     },
     {
+      "title": "BMP (유니코드)",
+      "surrounding": "넘겨줄 대상:多國語基本平面",
+      "count": 1
+    },
+    {
       "title": "Han3 ji7 tsoo1 kian3",
       "surrounding": "넘겨줄 대상:漢字組建",
       "count": 1
@@ -49,6 +54,11 @@
     {
       "title": "PTSD",
       "surrounding": "넘겨줄 대상:外傷後",
+      "count": 1
+    },
+    {
+      "title": "SIP (유니코드)",
+      "surrounding": "넘겨줄 대상:表意文字補充平面",
       "count": 1
     },
     {
