@@ -1,0 +1,25 @@
+{
+  "word": "即",
+  "pages": [
+    {
+      "title": "日本의 人名用 漢字",
+      "surrounding": "贈 臓 即 束 ... 贈(贈) 臟(臓) 卽(即) 帶(帯)",
+      "count": 2
+    },
+    {
+      "title": "大韓民國의 人名用 漢字",
+      "surrounding": "즉 卽(즉) 卽(즉)(即(즉)) 즐",
+      "count": 1
+    },
+    {
+      "title": "韓國語의 漢字",
+      "surrounding": "鎮(진) 真(진) 即(즉) 甜(첨)",
+      "count": 1
+    },
+    {
+      "title": "유튜브",
+      "surrounding": "'튜브'라 부른다 即(즉) 'YouTube'라는",
+      "count": 1
+    }
+  ]
+}
