@@ -1,0 +1,31 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;">嬴
+</td></tr>
+<tr>
+<th colspan="4">찰 영
+</th></tr>
+<tr>
+<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td>女
+</td>
+<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>16<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td>
+<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">-
+</td></tr></tbody></table>
+<p>뜻을 나타내는 <a href="/wiki/%E5%A5%B3" title="女"><ruby class="hanja grade80"><rb>女</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby></a>와 <ruby class="hanja grade62"><rb>音</rb><rp>(</rp><rt>음</rt><rp>)</rp></ruby>을 나타내는 𦝠이 합쳐진 <a href="/wiki/%E5%BD%A2%E8%81%B2%E6%96%87%E5%AD%97" title="形聲文字"><ruby class="hanja grade42"><rb>形聲文字</rb><rp>(</rp><rt>형성문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade40"><rb>姓氏</rb><rp>(</rp><rt>성씨</rt><rp>)</rp></ruby>의 하나이다.
+</p>
+</div></body></html>
