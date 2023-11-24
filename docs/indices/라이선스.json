@@ -2,6 +2,11 @@
   "word": "라이선스",
   "pages": [
     {
+      "title": "國漢大百科:紹介",
+      "surrounding": "있습니다 나무위키와는 라이선스가 互換(호환)되지 ... 되면 CCL 라이선스에 따라",
+      "count": 2
+    },
+    {
       "title": "國漢大百科:編輯指針",
       "surrounding": "달아주시기 바랍니다 라이선스가 互換(호환)되는 ... 文書(문서)에 記入(기입)합니다 라이선스 非互換(비호환)",
       "count": 2
@@ -15,11 +20,6 @@
       "title": "파일:Wy-lang-logo.png",
       "surrounding": "[1] MIT 라이선스로 公開(공개)되어 ... 公開(공개)되어 있음 라이선스[편집] 틀:CopyrightedFreeUse",
       "count": 2
-    },
-    {
-      "title": "國漢大百科:紹介",
-      "surrounding": "되면 CCL 라이선스에 따라",
-      "count": 1
     },
     {
       "title": "討論:綠壩娘",
