@@ -47,6 +47,11 @@
       "count": 7
     },
     {
+      "title": "유니코드",
+      "surrounding": "유니코드 平面(평면) 0番(번)(0000-ffff) 1番(번)(10000-1ffff) ... 4番(번)~13番(번)(40000-dffff) 14番(번)(e0000-effff) 15番(번)~16番(번)(f0000-10ffff) 多國語基本平面(다국어기본평면)",
+      "count": 7
+    },
+    {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot ... essence of foreign carrot",
       "count": 6
