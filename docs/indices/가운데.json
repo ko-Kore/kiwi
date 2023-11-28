@@ -37,11 +37,6 @@
       "count": 1
     },
     {
-      "title": "打字機",
-      "surrounding": "F와 J를 가운데로부터 멀리",
-      "count": 1
-    },
-    {
       "title": "日本의 政黨",
       "surrounding": "卽(즉) “政治團體(정치단체) 가운데 所屬(소속)된",
       "count": 1
@@ -79,6 +74,11 @@
     {
       "title": "젤다의傳說",
       "surrounding": "없이 필드 한가운데에 떨어진다",
+      "count": 1
+    },
+    {
+      "title": "𡨸國語打字機",
+      "surrounding": "F와 J를 가운데로부터 멀리",
       "count": 1
     }
   ]

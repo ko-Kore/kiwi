@@ -12,11 +12,6 @@
       "count": 1
     },
     {
-      "title": "打字機",
-      "surrounding": "AĐERTY라는 配列(배열)이 쓰이게 되었다",
-      "count": 1
-    },
-    {
       "title": "歷史",
       "surrounding": "것이 널리 쓰이게 된",
       "count": 1
@@ -49,6 +44,11 @@
     {
       "title": "인터넷新造語",
       "surrounding": "一般(일반)넷上(상)에서도 널리 쓰이게 된",
+      "count": 1
+    },
+    {
+      "title": "𡨸國語打字機",
+      "surrounding": "AĐERTY라는 配列(배열)이 쓰이게 되었다",
       "count": 1
     }
   ]

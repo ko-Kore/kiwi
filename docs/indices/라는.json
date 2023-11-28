@@ -492,11 +492,6 @@
       "count": 1
     },
     {
-      "title": "打字機",
-      "surrounding": "AZERTY도 아닌 AĐERTY라는 配列(배열)이",
-      "count": 1
-    },
-    {
       "title": "拷問",
       "surrounding": "아니한다 外國(외국)에서도 人權侵害(인권침해)라는 理由(이유)",
       "count": 1
@@ -894,6 +889,11 @@
     {
       "title": "하나의 中國",
       "surrounding": "中華人民共和國(중화인민공화국)이 하나의 國家(국가)라는 主張(주장)이다",
+      "count": 1
+    },
+    {
+      "title": "𡨸國語打字機",
+      "surrounding": "AZERTY도 아닌 AĐERTY라는 配列(배열)이",
       "count": 1
     }
   ]
