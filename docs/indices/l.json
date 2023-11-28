@@ -88,7 +88,7 @@
     },
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "니코니코動畵(동화) Alice in ... 너는何故(하고)인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
+      "surrounding": "니코니코動畵(동화) 『Alice in ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
       "count": 7
     },
     {
@@ -187,11 +187,6 @@
       "count": 3
     },
     {
-      "title": "Orangestar",
-      "surrounding": "White Landscape Still-GATE Trash ... Fireworks 快晴(쾌청) Sunflower Henceforth",
-      "count": 3
-    },
-    {
       "title": "嗶哩嗶哩",
       "surrounding": "嗶哩嗶哩(필리필리)(簡體中文(간체중문): 哔哩哔哩(필리필리); bìlibìli)는 中華人民共和國(중화인민공화국)의 ... 하고 中國語(중국어)發音(발음)인 bìlibìli(비리비리) 그대로",
       "count": 3
@@ -229,6 +224,11 @@
     {
       "title": "아미語",
       "surrounding": " 아미語(어) Sowal no ... 使用(사용)하는 言語(언어)이다 판차語(어)(Sowal no",
+      "count": 3
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "White Landscape Still-GATE Trash ... Fireworks 快晴(쾌청) Sunflower Henceforth",
       "count": 3
     },
     {

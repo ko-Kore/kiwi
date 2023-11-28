@@ -127,11 +127,6 @@
       "count": 2
     },
     {
-      "title": "Orangestar",
-      "surrounding": "Trash Day 水星(수성) 샌달리프",
-      "count": 1
-    },
-    {
       "title": "世宗特別自治市",
       "surrounding": "交通體系(교통체계) 住宅建設(주택건설) 上水道施設(상수도시설) 等(등)에",
       "count": 1
@@ -364,6 +359,11 @@
     {
       "title": "애니메이션 밈",
       "surrounding": "宏壯(굉장)히 높은 水準(수준)의 映像物(영상물)들을",
+      "count": 1
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "Trash Day 水星(수성) 샌달리프",
       "count": 1
     },
     {

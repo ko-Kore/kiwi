@@ -227,11 +227,6 @@
       "count": 4
     },
     {
-      "title": "Orangestar",
-      "surrounding": "너의밤하늘哨戒班(초계반) Lingering Fireworks 快晴(쾌청) ... 快晴(쾌청) Sunflower Henceforth Nadir",
-      "count": 3
-    },
-    {
       "title": "中國語 入力方式",
       "surrounding": "方法(방법)이다 例示(예시)로 ‘zhong’ 이라고 ... 注音符號(주음부호)와 같이 보포모포(bopomofo)라고도 불린다",
       "count": 3
@@ -302,6 +297,11 @@
       "count": 3
     },
     {
+      "title": "오렌지스타",
+      "surrounding": "너의밤하늘哨戒班(초계반) Lingering Fireworks 快晴(쾌청) ... 快晴(쾌청) Sunflower Henceforth Nadir",
+      "count": 3
+    },
+    {
       "title": "유튜브",
       "surrounding": "使用者(사용자)를 가리키는 'You(당신)'와 美國英語(미국영어)에서 ... 부른다 即(즉) 'YouTube'라는 名稱(명칭)의",
       "count": 3
@@ -323,7 +323,7 @@
     },
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는何故(하고)인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
+      "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
       "count": 2
     },
     {

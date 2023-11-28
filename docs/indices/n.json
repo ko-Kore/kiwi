@@ -192,11 +192,6 @@
       "count": 6
     },
     {
-      "title": "Orangestar",
-      "surrounding": "Orangestar 別名蜜柑星(별명밀감성)P는 ... 快晴(쾌청) Sunflower Henceforth Nadir",
-      "count": 6
-    },
-    {
       "title": "倉頡輸入法",
       "surrounding": "왔으며 ‘輸入法(수입법)’은 'Input Method(入力方式(입력방식) ... [1] ↑ 'Input'은 韓國語(한국어)나",
       "count": 6
@@ -219,6 +214,11 @@
     {
       "title": "루마니아",
       "surrounding": " 羅馬尼(나마니) România 國旗(국기) ... 語塞(어색)해서였는지 1964年(년) “România”라는 單語(단어)에만",
+      "count": 6
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "Orangestar 別名蜜柑星(별명밀감성)P는 ... 快晴(쾌청) Sunflower Henceforth Nadir",
       "count": 6
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "니코니코動畵(동화) Alice in 冷凍庫는 ... 너는何故(하고)인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
+      "surrounding": "니코니코動畵(동화) 『Alice in 冷凍庫(냉동고)』는 ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
       "count": 3
     },
     {
@@ -984,11 +984,6 @@
     {
       "title": "自由 소프트웨어 財團",
       "surrounding": "Free Software Foundation)은 自由(자유)",
-      "count": 1
-    },
-    {
-      "title": "蜜柑星P",
-      "surrounding": "넘겨줄 대상:Orangestar ",
       "count": 1
     },
     {

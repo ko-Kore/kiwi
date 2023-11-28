@@ -3,7 +3,7 @@
   "pages": [
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "Alice in 冷凍庫는 2016年(년)2月(월)17日(일) ... 거칠어진밤 잘수없는레이니 自稱冷靜(자칭랭정)한世界(세계)와 side",
+      "surrounding": "『Alice in 冷凍庫(냉동고)』는 2016年(년)2月(월)17日(일) ... 거칠어진밤 잘수없는레이니 自稱冷靜(자칭랭정)한世界(세계)와 side",
       "count": 4
     },
     {
@@ -19,11 +19,6 @@
     {
       "title": "2022年 우크라이나-러시아 戰爭",
       "surrounding": "크림半島(반도) 合倂(합병) 第二次冷戰(제이차랭전) ",
-      "count": 1
-    },
-    {
-      "title": "Orangestar",
-      "surrounding": "Alice in 冷凍庫(냉동고) 싱크로나이저",
       "count": 1
     },
     {
@@ -109,6 +104,11 @@
     {
       "title": "어쩔티비",
       "surrounding": "티비 代身(대신)에 冷藏庫(냉장고) 淸掃機(청소기)",
+      "count": 1
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "Alice in 冷凍庫(냉동고) 싱크로나이저",
       "count": 1
     }
   ]

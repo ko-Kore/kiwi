@@ -902,11 +902,6 @@
       "count": 2
     },
     {
-      "title": "Orangestar",
-      "surrounding": "CITRUS 殘燈(잔등)꽃불 濫觴生命(남상생명) RIP ... 冷凍庫(냉동고) 싱크로나이저 心象蜃氣樓(심상신기루) 도는",
-      "count": 2
-    },
-    {
       "title": "QWERTY",
       "surrounding": "이름은 키보드 左側上段(좌측상단)부터 配定(배정)된 ... 모든 글字(자)가 最上段(최상단)에 配定(배정)되어",
       "count": 2
@@ -1332,6 +1327,11 @@
       "count": 2
     },
     {
+      "title": "오렌지스타",
+      "surrounding": "CITRUS 殘燈(잔등)꽃불 濫觴生命(남상생명) RIP ... 冷凍庫(냉동고) 싱크로나이저 心象蜃氣樓(심상신기루) 도는",
+      "count": 2
+    },
+    {
       "title": "우크라이나",
       "surrounding": "國旗(국기) 國章(국장) 國家象徵(국가상징) 國歌(국가) ... 露西亞人(노서아인)4 9% 其他(기타)/未詳(미상) 國敎(국교)",
       "count": 2
@@ -1539,6 +1539,11 @@
     {
       "title": "OpenTTD",
       "surrounding": "넘겨줄 대상:오픈TTD ",
+      "count": 1
+    },
+    {
+      "title": "Orangestar",
+      "surrounding": "넘겨줄 대상:오렌지스타 ",
       "count": 1
     },
     {
@@ -2133,7 +2138,7 @@
     },
     {
       "title": "手抓餅",
-      "surrounding": "넘겨줄 대상:手抓餠 ",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
       "count": 1
     },
     {
@@ -2239,6 +2244,11 @@
     {
       "title": "木",
       "surrounding": "模樣(모양)을 본뜬 象形文字(상형문자)이다 목차",
+      "count": 1
+    },
+    {
+      "title": "未完成P",
+      "surrounding": "넘겨줄 대상:오렌지스타 ",
       "count": 1
     },
     {
@@ -2663,7 +2673,7 @@
     },
     {
       "title": "蜜柑星P",
-      "surrounding": "넘겨줄 대상:Orangestar ",
+      "surrounding": "넘겨줄 대상:오렌지스타 ",
       "count": 1
     },
     {
@@ -3108,7 +3118,7 @@
     },
     {
       "title": "서우좌빙",
-      "surrounding": "넘겨줄 대상:手抓餠 ",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
       "count": 1
     },
     {
@@ -3368,7 +3378,7 @@
     },
     {
       "title": "충좌빙",
-      "surrounding": "넘겨줄 대상:蔥抓餅 ",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
       "count": 1
     },
     {

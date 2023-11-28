@@ -2262,6 +2262,11 @@
       "count": 1
     },
     {
+      "title": "Orangestar",
+      "surrounding": "넘겨줄 대상:오렌지스타 ",
+      "count": 1
+    },
+    {
       "title": "PTSD",
       "surrounding": "넘겨줄 대상:外傷後 스트레스",
       "count": 1
@@ -2818,7 +2823,7 @@
     },
     {
       "title": "手抓餅",
-      "surrounding": "넘겨줄 대상:手抓餠 ",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
       "count": 1
     },
     {
@@ -2919,6 +2924,11 @@
     {
       "title": "朝鮮民主主義人民共和國圓",
       "surrounding": "넘겨줄 대상:圓 (朝鮮民主主義人民共和國)",
+      "count": 1
+    },
+    {
+      "title": "未完成P",
+      "surrounding": "넘겨줄 대상:오렌지스타 ",
       "count": 1
     },
     {
@@ -3303,7 +3313,7 @@
     },
     {
       "title": "蜜柑星P",
-      "surrounding": "넘겨줄 대상:Orangestar ",
+      "surrounding": "넘겨줄 대상:오렌지스타 ",
       "count": 1
     },
     {
@@ -3768,7 +3778,7 @@
     },
     {
       "title": "서우좌빙",
-      "surrounding": "넘겨줄 대상:手抓餠 ",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
       "count": 1
     },
     {
@@ -4008,7 +4018,7 @@
     },
     {
       "title": "충좌빙",
-      "surrounding": "넘겨줄 대상:蔥抓餅 ",
+      "surrounding": "넘겨줄 대상:蔥抓餠 ",
       "count": 1
     },
     {

@@ -53,7 +53,7 @@
     },
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "니코니코動畵(동화) Alice in ... 아라이 A lie 너는누구？",
+      "surrounding": "니코니코動畵(동화) 『Alice in ... 아라이 A lie 너는누구？",
       "count": 3
     },
     {
@@ -110,11 +110,6 @@
       "title": "오네로리키메세쿠天皇",
       "surrounding": "에이라 이르마타르 유티라이넨(Elia Ilmatar ... ロリ(로리)는 ロリータ(로리이타 原語(원어)Lolita)의略語(략어)로서 幼女(유녀)를意味(의미)한다",
       "count": 2
-    },
-    {
-      "title": "Orangestar",
-      "surrounding": "最終戰爭(최종전쟁) 新世界(신세계)LIVE Alice in",
-      "count": 1
     },
     {
       "title": "VAIO",
@@ -209,6 +204,11 @@
     {
       "title": "안드로이드 運營體制",
       "surrounding": "얼라이언스(Open Handset Alliance; 開放(개방)",
+      "count": 1
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "最終戰爭(최종전쟁) 新世界(신세계)LIVE Alice in",
       "count": 1
     },
     {

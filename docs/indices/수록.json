@@ -47,11 +47,6 @@
       "count": 1
     },
     {
-      "title": "Orangestar",
-      "surrounding": "未完成(미완성) 에잇비츠 未收錄(미수록) OSC",
-      "count": 1
-    },
-    {
       "title": "UTF-16",
       "surrounding": "文字(문자)體系(체계)를 모두 收錄(수록)하기에는 택도",
       "count": 1
@@ -179,6 +174,11 @@
     {
       "title": "아이맥 (24型)",
       "surrounding": "얇아졌다 가운데로 갈수록 두꺼워지는",
+      "count": 1
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "未完成(미완성) 에잇비츠 未收錄(미수록) OSC",
       "count": 1
     },
     {

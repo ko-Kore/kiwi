@@ -12,11 +12,6 @@
       "count": 2
     },
     {
-      "title": "Orangestar",
-      "surrounding": "Lingering Fireworks 快晴(쾌청) Sunflower",
-      "count": 1
-    },
-    {
       "title": "大韓民國의 人名用 漢字",
       "surrounding": "靑(청) 淸(청) 晴(청) 請(청)",
       "count": 1
@@ -34,6 +29,11 @@
     {
       "title": "語文會 級數別 配定漢字 一覽",
       "surrounding": "添(첨) 妾(첩) 晴(청) 遞(체)",
+      "count": 1
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "Lingering Fireworks 快晴(쾌청) Sunflower",
       "count": 1
     }
   ]

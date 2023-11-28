@@ -73,12 +73,7 @@
     },
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는何故(하고)인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
-      "count": 2
-    },
-    {
-      "title": "Orangestar",
-      "surrounding": "RECORD 너의밤하늘哨戒班(초계반) Lingering Fireworks ... Fireworks 快晴(쾌청) Sunflower Henceforth",
+      "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
       "count": 2
     },
     {
@@ -139,6 +134,11 @@
     {
       "title": "세르비아",
       "surrounding": "말은 英語(영어) “Serbia”에서 由來(유래)하여 ... “Serbia”에서 由來(유래)하여 “Serbia”라는 이름은",
+      "count": 2
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "RECORD 너의밤하늘哨戒班(초계반) Lingering Fireworks ... Fireworks 快晴(쾌청) Sunflower Henceforth",
       "count": 2
     },
     {

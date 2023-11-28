@@ -103,17 +103,12 @@
     },
     {
       "title": "Alice in 冷凍庫",
-      "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는何故(하고)인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
+      "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
       "count": 2
     },
     {
       "title": "Foreign carrot regime",
       "surrounding": "外部(외부) 링크[편집] Language Log ... regime problem Japanese lost",
-      "count": 2
-    },
-    {
-      "title": "Orangestar",
-      "surrounding": "Orangestar 別名蜜柑星(별명밀감성)P는 ... RIP White Landscape Still-GATE",
       "count": 2
     },
     {
@@ -179,6 +174,11 @@
     {
       "title": "안드로이드 運營體制",
       "surrounding": "핸드셋 얼라이언스(Open Handset Alliance; ... 얼라이언스(Open Handset Alliance; 開放(개방)",
+      "count": 2
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "Orangestar 別名蜜柑星(별명밀감성)P는 ... RIP White Landscape Still-GATE",
       "count": 2
     },
     {
@@ -299,11 +299,6 @@
     {
       "title": "萬",
       "surrounding": "拼音(병음) : maan6 maak6",
-      "count": 1
-    },
-    {
-      "title": "蜜柑星P",
-      "surrounding": "넘겨줄 대상:Orangestar ",
       "count": 1
     },
     {

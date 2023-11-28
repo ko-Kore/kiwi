@@ -177,11 +177,6 @@
       "count": 4
     },
     {
-      "title": "Orangestar",
-      "surrounding": "Orangestar 別名蜜柑星(별명밀감성)P는 ... 너의밤하늘哨戒班(초계반) Lingering Fireworks 快晴(쾌청)",
-      "count": 4
-    },
-    {
       "title": "共産黨이 없으면 新中國도 없다.",
       "surrounding": ") 他改善了人民生活(타개선료인민생활)(Tā gǎishàn le ... ) 他实行了民主好处多(타실행료민주호처다)(Tā shíxíng le",
       "count": 4
@@ -199,6 +194,11 @@
     {
       "title": "마인크래프트",
       "surrounding": "GeForce 400 Series GeForce ... Windows 7 Windows 10",
+      "count": 4
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "Orangestar 別名蜜柑星(별명밀감성)P는 ... 너의밤하늘哨戒班(초계반) Lingering Fireworks 快晴(쾌청)",
       "count": 4
     },
     {
@@ -734,11 +734,6 @@
     {
       "title": "英國",
       "surrounding": "있었는데 바로 大英帝國(대영제국)(British Empire)이다",
-      "count": 1
-    },
-    {
-      "title": "蜜柑星P",
-      "surrounding": "넘겨줄 대상:Orangestar ",
       "count": 1
     },
     {

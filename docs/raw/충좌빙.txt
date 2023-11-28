@@ -1,2 +1,2 @@
-<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/index.php?title=%E8%94%A5%E6%8A%93%E9%A4%85&amp;redirect=no" class="mw-redirect" title="蔥抓餅">蔥抓餅</a></li></ul></div>
+<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 대상:</p><ul class="redirectText"><li><a href="/wiki/%E8%94%A5%E6%8A%93%E9%A4%A0" title="蔥抓餠">蔥抓餠</a></li></ul></div>
 </div></body></html>
