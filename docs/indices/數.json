@@ -442,6 +442,11 @@
       "count": 1
     },
     {
+      "title": "QWERTY",
+      "surrounding": "맨 위 數字列(숫자렬)이나 오른쪽",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "貯藏(저장)한다 다만 單位數(단위수)가 16비트인만큼",
       "count": 1

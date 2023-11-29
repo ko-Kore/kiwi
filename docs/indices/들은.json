@@ -67,6 +67,11 @@
       "count": 1
     },
     {
+      "title": "QWERTY",
+      "surrounding": "例(예) 이런 字板(자판)들은 英語(영어)에서",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "多國語基本平面(다국어기본평면)에 들어간 글字(자)들은 코드포인트",
       "count": 1

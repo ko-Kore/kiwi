@@ -87,6 +87,11 @@
       "count": 1
     },
     {
+      "title": "QWERTY",
+      "surrounding": "맨 위 數字列(숫자렬)이나 오른쪽",
+      "count": 1
+    },
+    {
       "title": "VAIO",
       "surrounding": "O字(자)는 各各(각각) 數字(숫자) 1과",
       "count": 1

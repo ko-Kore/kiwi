@@ -572,6 +572,11 @@
       "count": 2
     },
     {
+      "title": "QWERTY",
+      "surrounding": "있다 ‘TYPEWRITER’에 들어가는 모든 ... 例(예) 이런 字板(자판)들은 英語(영어)에서",
+      "count": 2
+    },
+    {
       "title": "VA-11 HALL-A: 사이버펑크 바텐더 액션",
       "surrounding": "造酒技能士(조주기능사)와 周邊(주변) 사람들의 이야기를 ... 다른 臺詞(대사)를 들을 수",
       "count": 2
@@ -924,11 +929,6 @@
     {
       "title": "ITX-마음",
       "surrounding": "導入(도입)한 다른 列車(열차)들인 ITX-새마을이나",
-      "count": 1
-    },
-    {
-      "title": "QWERTY",
-      "surrounding": "있다 ‘TYPEWRITER’에 들어가는 모든",
       "count": 1
     },
     {

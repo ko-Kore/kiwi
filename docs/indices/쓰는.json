@@ -47,6 +47,11 @@
       "count": 1
     },
     {
+      "title": "QWERTY",
+      "surrounding": "字板(자판)들은 英語(영어)에서 쓰는 로마字(자)",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "BMP에서 서러게이트雙(쌍)으로 쓰는 코드포인트",
       "count": 1

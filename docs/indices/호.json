@@ -837,6 +837,11 @@
       "count": 1
     },
     {
+      "title": "QWERTY",
+      "surrounding": "數字列(숫자렬)이나 오른쪽 記號(기호)키에 밀려나",
+      "count": 1
+    },
+    {
       "title": "〇",
       "surrounding": "아닌 'CJK 記號(기호) 및",
       "count": 1

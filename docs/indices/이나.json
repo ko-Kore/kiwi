@@ -202,6 +202,11 @@
       "count": 1
     },
     {
+      "title": "QWERTY",
+      "surrounding": "맨 위 數字列(숫자렬)이나 오른쪽",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "더 割當(할당)해서 甲骨文(갑골문)이나 金文(금문)",
       "count": 1

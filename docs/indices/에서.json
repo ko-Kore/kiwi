@@ -1052,6 +1052,11 @@
       "count": 2
     },
     {
+      "title": "QWERTY",
+      "surrounding": "QWERTY가 된다는 것에서 由來(유래)했다 ... 이런 字板(자판)들은 英語(영어)에서 쓰는",
+      "count": 2
+    },
+    {
       "title": "VA-11 HALL-A: 사이버펑크 바텐더 액션",
       "surrounding": "集團(집단) 스케반 게임스에서 開發(개발)하였다 ... 造酒技能士(조주기능사) 主人公(주인공)의 視點(시점)에서 칵테일을",
       "count": 2
@@ -1584,11 +1589,6 @@
     {
       "title": "P-MODEL",
       "surrounding": "歷史(역사)[편집] 히트曲(곡)[편집] 美術館(미술관)에서 만난",
-      "count": 1
-    },
-    {
-      "title": "QWERTY",
-      "surrounding": "QWERTY가 된다는 것에서 由來(유래)했다",
       "count": 1
     },
     {
