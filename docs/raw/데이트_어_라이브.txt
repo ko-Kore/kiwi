@@ -3,7 +3,7 @@
 <th colspan="2">デート・ア・ライブ
 </th></tr>
 <tr>
-<td colspan="2"><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Date_A_Live_anime_logo.svg.png" class="image"><img alt="Date A Live anime logo.svg.png" src="/images/thumb/5/5e/Date_A_Live_anime_logo.svg.png/300px-Date_A_Live_anime_logo.svg.png" decoding="async" width="300" height="67" class="thumbimage" srcset="/images/thumb/5/5e/Date_A_Live_anime_logo.svg.png/450px-Date_A_Live_anime_logo.svg.png 1.5x, /images/thumb/5/5e/Date_A_Live_anime_logo.svg.png/600px-Date_A_Live_anime_logo.svg.png 2x"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Date_A_Live_anime_logo.svg.png" class="internal" title="拡大"></a></div></div></div></div></div>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:File/Thumb"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Date_A_Live_anime_logo.svg.png" class="mw-file-description"><img src="/images/thumb/5/5e/Date_A_Live_anime_logo.svg.png/300px-Date_A_Live_anime_logo.svg.png" decoding="async" width="300" height="67" srcset="/images/thumb/5/5e/Date_A_Live_anime_logo.svg.png/450px-Date_A_Live_anime_logo.svg.png 1.5x, /images/thumb/5/5e/Date_A_Live_anime_logo.svg.png/600px-Date_A_Live_anime_logo.svg.png 2x"></a><figcaption></figcaption></figure>
 </td></tr>
 <tr>
 <th>장르
@@ -25,25 +25,24 @@
 </th>
 <td>22<a href="/index.php?title=%E5%88%B8&amp;action=edit&amp;redlink=1" class="new" title="券 (없는 문서)"><ruby class="hanja grade40 unknown"><rb>券</rb><rp>(</rp><rt>권</rt><rp>)</rp></ruby></a>(<ruby class="hanja grade50"><rb>完</rb><rp>(</rp><rt>완</rt><rp>)</rp></ruby>)
 </td></tr></tbody></table>
-<h2><span id="槪要(개요)"></span><span class="mw-headline" id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"><ruby class="hanja grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%8D%B0%EC%9D%B4%ED%8A%B8_%EC%96%B4_%EB%9D%BC%EC%9D%B4%EB%B8%8C&amp;action=edit&amp;section=1" title="부분 편집: 槪要(개요)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/wiki/%ED%8C%8C%EC%9D%BC:%EB%8D%B0%EC%96%B4%EB%9D%BC_%ED%91%9C%EC%A7%80.png" class="image"><img alt="데어라 표지.png" src="/images/1/1a/%EB%8D%B0%EC%96%B4%EB%9D%BC_%ED%91%9C%EC%A7%80.png" decoding="async" width="1920" height="1240"></a>
+<p><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%EB%8D%B0%EC%96%B4%EB%9D%BC_%ED%91%9C%EC%A7%80.png" class="mw-file-description"><img src="/images/1/1a/%EB%8D%B0%EC%96%B4%EB%9D%BC_%ED%91%9C%EC%A7%80.png" decoding="async" width="1920" height="1240"></a></span>
 데이트 어 라이브란 <ruby class="hanja grade10"><rb>橘</rb><rp>(</rp><rt>귤</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>公司</rb><rp>(</rp><rt>공사</rt><rp>)</rp></ruby>가 쓴 라이트노벨이다. <ruby class="hanja grade60"><rb>作畵</rb><rp>(</rp><rt>작화</rt><rp>)</rp></ruby>는 츠나코가 맡았다.
 </p>
-<h2><span id="登場人物(등장인물)"></span><span class="mw-headline" id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"><ruby class="hanja grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%8D%B0%EC%9D%B4%ED%8A%B8_%EC%96%B4_%EB%9D%BC%EC%9D%B4%EB%B8%8C&amp;action=edit&amp;section=2" title="부분 편집: 登場人物(등장인물)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"></span><span class="mw-headline" id="登場人物(등장인물)"><ruby class="hanja grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%8D%B0%EC%9D%B4%ED%8A%B8_%EC%96%B4_%EB%9D%BC%EC%9D%B4%EB%B8%8C&amp;action=edit&amp;section=1" title="부분 편집: 登場人物(등장인물)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><ruby class="hanja grade50"><rb>五河</rb><rp>(</rp><rt>오하</rt><rp>)</rp></ruby> <ruby class="hanja grade52"><rb>士道</rb><rp>(</rp><rt>사도</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade10"><rb>鳶一</rb><rp>(</rp><rt>연일</rt><rp>)</rp></ruby> <ruby class="hanja grade40"><rb>折紙</rb><rp>(</rp><rt>절지</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade32"><rb>夜刀神</rb><rp>(</rp><rt>야도신</rt><rp>)</rp></ruby> <ruby class="hanja grade42"><rb>十香</rb><rp>(</rp><rt>십향</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade0"><rb>四糸乃</rb><rp>(</rp><rt>사멱내</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade30"><rb>四絲乃</rb><rp>(</rp><rt>사사내</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade10"><rb>時崎</rb><rp>(</rp><rt>시기</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>狂三</rb><rp>(</rp><rt>광삼</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade50"><rb>五河</rb><rp>(</rp><rt>오하</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>琴里</rb><rp>(</rp><rt>금리</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade40"><rb>八舞</rb><rp>(</rp><rt>팔무</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>耶倶矢</rb><rp>(</rp><rt>야구시</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade40"><rb>八舞</rb><rp>(</rp><rt>팔무</rt><rp>)</rp></ruby> <ruby class="hanja grade20"><rb>夕弦</rb><rp>(</rp><rt>석현</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade10"><rb>誘宵</rb><rp>(</rp><rt>유소</rt><rp>)</rp></ruby> <ruby class="hanja grade60"><rb>美九</rb><rp>(</rp><rt>미구</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade50"><rb>七罪</rb><rp>(</rp><rt>칠죄</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade0"><rb>本条</rb><rp>(</rp><rt>본조</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>二亞</rb><rp>(</rp><rt>이아</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja grade40"><rb>本條</rb><rp>(</rp><rt>본조</rt><rp>)</rp></ruby> <ruby class="hanja grade32"><rb>二亞</rb><rp>(</rp><rt>이아</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade42"><rb>星宮</rb><rp>(</rp><rt>성궁</rt><rp>)</rp></ruby> <ruby class="hanja grade0"><rb>六喰</rb><rp>(</rp><rt>육식</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja grade52"><rb>村雨</rb><rp>(</rp><rt>촌우</rt><rp>)</rp></ruby> <ruby class="hanja grade50"><rb>令音</rb><rp>(</rp><rt>영음</rt><rp>)</rp></ruby></li></ul>
-<h2><span id="TV_애니메이션"></span><span class="mw-headline" id="TV_.EC.95.A0.EB.8B.88.EB.A9.94.EC.9D.B4.EC.85.98">TV 애니메이션</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%8D%B0%EC%9D%B4%ED%8A%B8_%EC%96%B4_%EB%9D%BC%EC%9D%B4%EB%B8%8C&amp;action=edit&amp;section=3" title="부분 편집: TV 애니메이션">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="TV_.EC.95.A0.EB.8B.88.EB.A9.94.EC.9D.B4.EC.85.98"></span><span class="mw-headline" id="TV_애니메이션">TV 애니메이션</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%8D%B0%EC%9D%B4%ED%8A%B8_%EC%96%B4_%EB%9D%BC%EC%9D%B4%EB%B8%8C&amp;action=edit&amp;section=2" title="부분 편집: TV 애니메이션">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="wikitable">
 <tbody><tr>
 <th></th>
