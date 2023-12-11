@@ -6,20 +6,20 @@
 <th colspan="4">클 대<br>클 태<br>클 다
 </th></tr>
 <tr>
-<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
 </th>
 <td>大
 </td>
-<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
 </th>
-<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>3<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+<td><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>3<ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
 </th>
 <td>-
 </td>
-<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
 </th>
 <td>-
 </td></tr>
@@ -27,16 +27,16 @@
 <td colspan="4" style="text-align: center;">
 <table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
 <tbody><tr>
-<td style="border: none; padding: 5px; border-radius: 0;"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="image"><img alt="語文會 로고.png" src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a>
+<td style="border: none; padding: 5px; border-radius: 0;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="mw-file-description"><img src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a></span>
 </td>
-<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>8<ruby class="hanja grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja api grade62"><rb>語文會</rb><rp>(</rp><rt>어문회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b>8<ruby class="hanja api grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby></b></span>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
-<p><a href="/wiki/%E5%B0%8F" title="小"><ruby class="hanja grade80"><rb>小</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby></a>의 반대 의미인 한자로, 서 있는 사람을 정면에서 본 모양을 그린 <a href="/wiki/%E8%B1%A1%E5%BD%A2%E6%96%87%E5%AD%97" title="象形文字"><ruby class="hanja grade40"><rb>象形文字</rb><rp>(</rp><rt>상형문자</rt><rp>)</rp></ruby></a>(상형문자)로 원래는 <a href="/index.php?title=%EC%82%AC%EB%9E%8C&amp;action=edit&amp;redlink=1" class="new" title="사람 (없는 문서)">사람</a>을 나타내는 글자였으나 나중에 <a href="/wiki/%E4%BA%BA" title="人"><ruby class="hanja grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a>과 구분되어 크다는 뜻으로 쓰이게 되었다.
+<p><a href="/wiki/%E5%B0%8F" title="小"><ruby class="hanja api grade80"><rb>小</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade62"><rb>反對</rb><rp>(</rp><rt>반대</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>인 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>로, 서 있는 사람을 <ruby class="hanja api grade70"><rb>正面</rb><rp>(</rp><rt>정면</rt><rp>)</rp></ruby>에서 본 <ruby class="hanja api grade40"><rb>模樣</rb><rp>(</rp><rt>모양</rt><rp>)</rp></ruby>을 그린 <a href="/wiki/%E8%B1%A1%E5%BD%A2%E6%96%87%E5%AD%97" title="象形文字"><ruby class="hanja api grade40"><rb>象形文字</rb><rp>(</rp><rt>상형문자</rt><rp>)</rp></ruby></a>로 <ruby class="hanja api grade50"><rb>原來</rb><rp>(</rp><rt>원래</rt><rp>)</rp></ruby>는 <a href="/index.php?title=%EC%82%AC%EB%9E%8C&amp;action=edit&amp;redlink=1" class="new" title="사람 (없는 문서)">사람</a>을 나타내는 글<ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>였으나 나중에 <a href="/wiki/%E4%BA%BA" title="人"><ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a>과 <ruby class="hanja api grade60"><rb>區分</rb><rp>(</rp><rt>구분</rt><rp>)</rp></ruby>되어 크다는 뜻으로 쓰이게 되었다.
 </p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">목차</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#용례"><span class="tocnumber">1</span> <span class="toctext">용례</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#用例(용례)"><span class="tocnumber">1</span> <span class="toctext">用例(용례)</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#日本語"><span class="tocnumber">2</span> <span class="toctext">日本語</span></a>
 <ul>
 <li class="toclevel-2 tocsection-3"><a href="#발음"><span class="tocnumber">2.1</span> <span class="toctext">발음</span></a></li>
@@ -55,28 +55,28 @@
 </li>
 </ul>
 </div>
-<h2><span id=".EC.9A.A9.EB.A1.80"></span><span class="mw-headline" id="용례">용례</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=1" title="부분 편집: 용례">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>아래 예시 말고도 명사 앞에 붙어 '위대하다'는 뜻을 나타낼 때도 있고, <a href="/index.php?title=%E5%A4%A7%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="大學 (없는 문서)"><ruby class="hanja grade80 unknown"><rb>大學</rb><rp>(</rp><rt>대학</rt><rp>)</rp></ruby></a>의 약어로 쓰일 때도 많다.
+<h2><span id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"></span><span class="mw-headline" id="用例(용례)"><ruby class="hanja api grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=1" title="부분 편집: 用例(용례)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>아래 <ruby class="hanja api grade50"><rb>例示</rb><rp>(</rp><rt>예시</rt><rp>)</rp></ruby> 말고도 <a href="/index.php?title=%E5%90%8D%E8%A9%9E&amp;action=edit&amp;redlink=1" class="new" title="名詞 (없는 문서)"><ruby class="hanja api grade32 unknown"><rb>名詞</rb><rp>(</rp><rt>명사</rt><rp>)</rp></ruby></a> 앞에 붙어 '<ruby class="hanja api grade52"><rb>偉大</rb><rp>(</rp><rt>위대</rt><rp>)</rp></ruby>하다'는 뜻을 나타낼 때도 있고, <a href="/index.php?title=%E5%A4%A7%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="大學 (없는 문서)"><ruby class="hanja api grade80 unknown"><rb>大學</rb><rp>(</rp><rt>대학</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade40"><rb>略語</rb><rp>(</rp><rt>약어</rt><rp>)</rp></ruby>로 쓰일 때도 많다.
 </p>
-<ul><li><ruby class="hanja grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja grade80"><rb>大學</rb><rp>(</rp><rt>대학</rt><rp>)</rp></ruby></li></ul>
+<ul><li><a href="/index.php?title=%E5%A4%A7%E7%B5%B1%E9%A0%98&amp;action=edit&amp;redlink=1" class="new" title="大統領 (없는 문서)"><ruby class="hanja api grade42 unknown"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%A4%A7%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="大學 (없는 문서)"><ruby class="hanja api grade80 unknown"><rb>大學</rb><rp>(</rp><rt>대학</rt><rp>)</rp></ruby></a></li></ul>
 <p><br>
 </p>
-<h2><span id=".E6.97.A5.E6.9C.AC.E8.AA.9E"></span><span class="mw-headline" id="日本語"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=2" title="부분 편집: 日本語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E6.97.A5.E6.9C.AC.E8.AA.9E"></span><span class="mw-headline" id="日本語"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=2" title="부분 편집: 日本語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h3><span id=".EB.B0.9C.EC.9D.8C"></span><span class="mw-headline" id="발음">발음</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=3" title="부분 편집: 발음">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
 <ul><li>음독&nbsp;: タイ, ダイ</li>
 <li>훈독&nbsp;: おお</li></ul>
 <p><br>
 </p>
-<h2><span id=".E4.B8.AD.E5.9C.8B.E8.AA.9E"></span><span class="mw-headline" id="中國語"><a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=4" title="부분 편집: 中國語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E4.B8.AD.E5.9C.8B.E8.AA.9E"></span><span class="mw-headline" id="中國語"><a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja api grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=4" title="부분 편집: 中國語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h3><span id=".EB.B0.9C.EC.9D.8C_2"></span><span class="mw-headline" id="발음_2">발음</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=5" title="부분 편집: 발음">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> 병음: dà, dài</li>
-<li><a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> 주음: ㄉㄚˋ, ㄉㄞˋ, ㄊㄞˋ</li>
-<li><a href="/index.php?title=%E7%B2%A4%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="粤語 (없는 문서)"><ruby class="hanja grade0 unknown"><rb>粤語</rb><rp>(</rp><rt>월어</rt><rp>)</rp></ruby></a> <ruby class="hanja grade0"><rb>拼音</rb><rp>(</rp><rt>병음</rt><rp>)</rp></ruby>&nbsp;: daai6, taai3</li></ul>
-<h2><span id=".E5.90.B3.E8.AA.9E"></span><span class="mw-headline" id="吳語"><a href="/wiki/%E5%90%B3%E8%AA%9E" title="吳語"><ruby class="hanja grade12"><rb>吳語</rb><rp>(</rp><rt>오어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=6" title="부분 편집: 吳語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/index.php?title=%E4%B8%8A%E6%B5%B7%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="上海語 (없는 문서)"><ruby class="hanja grade70 unknown"><rb>上海語</rb><rp>(</rp><rt>상해어</rt><rp>)</rp></ruby></a> du6 (<ruby class="hanja grade80"><rb>白</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby>, du¹¹³) da6 (dɑ̈¹¹³)</li>
-<li><a href="/index.php?title=%E8%98%87%E5%B7%9E%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="蘇州語 (없는 문서)"><ruby class="hanja grade32 unknown"><rb>蘇州語</rb><rp>(</rp><rt>소주어</rt><rp>)</rp></ruby></a> dou6 (<ruby class="hanja grade80"><rb>白</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby>, dəu²³¹) da6 (<ruby class="hanja grade70"><rb>文</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby>, da²³¹)</li></ul>
-<h2><span id=".E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"></span><span class="mw-headline" id="越南語(월남어)"><ruby class="hanja grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=7" title="부분 편집: 越南語(월남어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E6%99%AE%E9%80%9A%E8%A9%B1" title="普通話"><ruby class="hanja api grade40"><rb>普通話</rb><rp>(</rp><rt>보통화</rt><rp>)</rp></ruby></a> 병음: dà, dài</li>
+<li><a href="/wiki/%E5%9C%8B%E8%AA%9E" title="國語"><ruby class="hanja api grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a> 주음: ㄉㄚˋ, ㄉㄞˋ, ㄊㄞˋ</li>
+<li><a href="/index.php?title=%E7%B2%A4%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="粤語 (없는 문서)"><ruby class="hanja api grade0 unknown"><rb>粤語</rb><rp>(</rp><rt>월어</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade0"><rb>拼音</rb><rp>(</rp><rt>평음</rt><rp>)</rp></ruby>&nbsp;: daai6, taai3</li></ul>
+<h2><span id=".E5.90.B3.E8.AA.9E"></span><span class="mw-headline" id="吳語"><a href="/wiki/%E5%90%B3%E8%AA%9E" title="吳語"><ruby class="hanja api grade12"><rb>吳語</rb><rp>(</rp><rt>오어</rt><rp>)</rp></ruby></a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=6" title="부분 편집: 吳語">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%E4%B8%8A%E6%B5%B7%E8%AA%9E" title="上海語"><ruby class="hanja api grade70"><rb>上海語</rb><rp>(</rp><rt>상해어</rt><rp>)</rp></ruby></a> du6 (<ruby class="hanja api grade80"><rb>白</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby>, du¹¹³) da6 (dɑ̈¹¹³)</li>
+<li><a href="/index.php?title=%E8%98%87%E5%B7%9E%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="蘇州語 (없는 문서)"><ruby class="hanja api grade32 unknown"><rb>蘇州語</rb><rp>(</rp><rt>소주어</rt><rp>)</rp></ruby></a> dou6 (<ruby class="hanja api grade80"><rb>白</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby>, dəu²³¹) da6 (<ruby class="hanja api grade70"><rb>文</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby>, da²³¹)</li></ul>
+<h2><span id=".E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"></span><span class="mw-headline" id="越南語(월남어)"><ruby class="hanja api grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=7" title="부분 편집: 越南語(월남어)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h3><span id=".EB.B0.9C.EC.9D.8C_3"></span><span class="mw-headline" id="발음_3">발음</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7&amp;action=edit&amp;section=8" title="부분 편집: 발음">편집</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/%F0%A1%A8%B8%E5%9C%8B%E8%AA%9E" title="𡨸國語"><ruby class="hanja grade0"><rb>𡨸國語</rb><rp>(</rp><rt>자국어</rt><rp>)</rp></ruby></a>&nbsp;: đại</li></ul>
+<ul><li><a href="/wiki/%F0%A1%A8%B8%E5%9C%8B%E8%AA%9E" title="𡨸國語">𡨸<ruby class="hanja api grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby></a>&nbsp;: đại</li></ul>
 </div></body></html>
