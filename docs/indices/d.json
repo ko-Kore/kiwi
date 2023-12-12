@@ -457,6 +457,11 @@
       "count": 1
     },
     {
+      "title": "第三表意文字平面",
+      "surrounding": "2番(번)(20000-2ffff) 3番(번)(30000-3ffff) 4番(번)~13番(번)(40000-dffff) 14番(번)(e0000-effff)",
+      "count": 1
+    },
+    {
       "title": "自由 소프트웨어 財團",
       "surrounding": "Free Software Foundation)은 自由(자유)",
       "count": 1

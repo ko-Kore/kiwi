@@ -852,6 +852,11 @@
       "count": 1
     },
     {
+      "title": "第三表意文字平面",
+      "surrounding": "3番(번)(30000-3ffff) 4番(번)~13番(번)(40000-dffff) 14番(번)(e0000-effff) 15番(번)~16番(번)(f0000-10ffff)",
+      "count": 1
+    },
+    {
       "title": "紳士와 아가씨",
       "surrounding": "lady and gentleman 장르",
       "count": 1

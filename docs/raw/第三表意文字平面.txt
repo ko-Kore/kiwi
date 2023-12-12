@@ -1,0 +1,39 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<tbody><tr>
+<th colspan="7"><a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a> <ruby class="hanja api grade70"><rb>平面</rb><rp>(</rp><rt>평면</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th>0<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(0000-ffff)</th>
+<th>1<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(10000-1ffff)</th>
+<th>2<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(20000-2ffff)</th>
+<th>3<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(30000-3ffff)</th>
+<th>4<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>~13<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(40000-dffff)</th>
+<th>14<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(e0000-effff)</th>
+<th>15<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>~16<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><br>(f0000-10ffff)
+</th></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Unicode_BMP.png" class="mw-file-description"><img src="/images/3/3f/Unicode_BMP.png" decoding="async" width="500" height="500"></a></span></td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Unicode_SMP.png" class="mw-file-description"><img src="/images/0/0b/Unicode_SMP.png" decoding="async" width="500" height="500"></a></span></td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Unicode_SIP.png" class="mw-file-description"><img src="/images/d/da/Unicode_SIP.png" decoding="async" width="500" height="500"></a></span></td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Unicode_TIP.png" class="mw-file-description"><img src="/images/7/70/Unicode_TIP.png" decoding="async" width="500" height="500"></a></span></td>
+<td></td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Unicode_SSP.png" class="mw-file-description"><img src="/images/6/65/Unicode_SSP.png" decoding="async" width="500" height="500"></a></span></td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/%E5%A4%9A%E5%9C%8B%E8%AA%9E%E5%9F%BA%E6%9C%AC%E5%B9%B3%E9%9D%A2" title="多國語基本平面"><ruby class="hanja api grade52"><rb>多國語基本平面</rb><rp>(</rp><rt>다국어기본평면</rt><rp>)</rp></ruby></a></th>
+<th><a href="/index.php?title=%E5%A4%9A%E5%9C%8B%E8%AA%9E%E8%A3%9C%E5%85%85%E5%B9%B3%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="多國語補充平面 (없는 문서)"><ruby class="hanja api grade32 unknown"><rb>多國語補充平面</rb><rp>(</rp><rt>다국어보충평면</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E8%A3%9C%E5%85%85%E5%B9%B3%E9%9D%A2" title="表意文字補充平面"><ruby class="hanja api grade32"><rb>表意文字補充平面</rb><rp>(</rp><rt>표의문자보충평면</rt><rp>)</rp></ruby></a></th>
+<th><a class="mw-selflink selflink">第三表意文字平面</a></th>
+<th><ruby class="hanja api grade42"><rb>未指定</rb><rp>(</rp><rt>미지정</rt><rp>)</rp></ruby></th>
+<th><a href="/index.php?title=%E7%89%B9%E6%AE%8A%E7%9B%AE%E7%9A%84%E8%A3%9C%E5%85%85%E5%B9%B3%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="特殊目的補充平面 (없는 문서)"><ruby class="hanja api grade32 unknown"><rb>特殊目的補充平面</rb><rp>(</rp><rt>특수목적보충평면</rt><rp>)</rp></ruby></a></th>
+<th><a href="/index.php?title=%E4%BD%BF%E7%94%A8%E8%80%85%E5%AE%9A%E7%BE%A9%E5%B9%B3%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="使用者定義平面 (없는 문서)"><ruby class="hanja api grade42 unknown"><rb>使用者定義平面</rb><rp>(</rp><rt>사용자정의평면</rt><rp>)</rp></ruby></a>
+</th></tr></tbody></table>
+<p><b><ruby class="hanja api grade62"><rb>第三表意文字平面</rb><rp>(</rp><rt>제삼표의문자평면</rt><rp>)</rp></ruby></b>은 <a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a>의 <ruby class="hanja api grade60"><rb>第三番</rb><rp>(</rp><rt>제삼번</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>平面</rb><rp>(</rp><rt>평면</rt><rp>)</rp></ruby>이다. 코드포인트 U+30000부터 U+3ffff까지가 이 <ruby class="hanja api grade70"><rb>平面上</rb><rp>(</rp><rt>평면상</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade42"><rb>對應</rb><rp>(</rp><rt>대응</rt><rp>)</rp></ruby>된다.
+</p>
+<h2><span id=".E6.A7.8B.E6.88.90.28.EA.B5.AC.EC.84.B1.29"></span><span class="mw-headline" id="構成(구성)"><ruby class="hanja api grade40"><rb>構成</rb><rp>(</rp><rt>구성</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%AC%AC%E4%B8%89%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E5%B9%B3%E9%9D%A2&amp;action=edit&amp;section=1" title="부분 편집: 構成(구성)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=CJK%E7%B5%B1%E5%90%88%E6%BC%A2%E5%AD%97_%E6%93%B4%E5%BC%B5G&amp;action=edit&amp;redlink=1" class="new" title="CJK統合漢字 擴張G (없는 문서)">CJK<ruby class="hanja api grade42 unknown"><rb>統合漢字</rb><rp>(</rp><rt>통합한자</rt><rp>)</rp></ruby> <ruby class="hanja api grade30 unknown"><rb>擴張</rb><rp>(</rp><rt>확장</rt><rp>)</rp></ruby>G</a></li>
+<li><a href="/index.php?title=CJK%E7%B5%B1%E5%90%88%E6%BC%A2%E5%AD%97_%E6%93%B4%E5%BC%B5H&amp;action=edit&amp;redlink=1" class="new" title="CJK統合漢字 擴張H (없는 문서)">CJK<ruby class="hanja api grade42 unknown"><rb>統合漢字</rb><rp>(</rp><rt>통합한자</rt><rp>)</rp></ruby> <ruby class="hanja api grade30 unknown"><rb>擴張</rb><rp>(</rp><rt>확장</rt><rp>)</rp></ruby>H</a></li></ul>
+<h2><span id=".E9.97.9C.E8.81.AF.E6.96.87.E6.9B.B8.28.EA.B4.80.EB.A0.A8.EB.AC.B8.EC.84.9C.29"></span><span class="mw-headline" id="關聯文書(관련문서)"><ruby class="hanja api grade32"><rb>關聯文書</rb><rp>(</rp><rt>관련문서</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%AC%AC%E4%B8%89%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E5%B9%B3%E9%9D%A2&amp;action=edit&amp;section=2" title="부분 편집: 關聯文書(관련문서)">편집</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C" title="유니코드">유니코드</a></li></ul>
+</div></body></html>

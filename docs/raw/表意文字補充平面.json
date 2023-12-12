@@ -1,8 +1,11 @@
 {
   "title": "表意文字補充平面",
   "namespace": 0,
-  "timestamp": 1702293488000,
-  "categories": [],
+  "timestamp": 1702352381000,
+  "categories": [
+    "유니코드",
+    "漢字"
+  ],
   "members": [],
   "file": null
 }
