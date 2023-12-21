@@ -1,0 +1,264 @@
+<html><head></head><body><div class="mw-parser-output"><p><ruby class="hanja api grade32"><rb>五筆畫輸入法</rb><rp>(</rp><rt>오필화수입법</rt><rp>)</rp></ruby>은 컴퓨터나 모바일<ruby class="hanja api grade40"><rb>機器</rb><rp>(</rp><rt>기기</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>되는 <ruby class="hanja api grade52"><rb>相對的</rb><rp>(</rp><rt>상대적</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade40"><rb>簡單</rb><rp>(</rp><rt>간단</rt><rp>)</rp></ruby>한 <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E_%E5%85%A5%E5%8A%9B%E6%96%B9%E5%BC%8F" title="中國語 入力方式"><ruby class="hanja api grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>入力方式</rb><rp>(</rp><rt>입력방식</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja api grade62"><rb>漢字音</rb><rp>(</rp><rt>한자음</rt><rp>)</rp></ruby>이 아닌 <ruby class="hanja api grade52"><rb>筆順</rb><rp>(</rp><rt>필순</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade32"><rb>基盤</rb><rp>(</rp><rt>기반</rt><rp>)</rp></ruby>하여 <ruby class="hanja api grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>하기 때문에 <ruby class="hanja api grade52"><rb>事實上</rb><rp>(</rp><rt>사실상</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>入力方式</rb><rp>(</rp><rt>입력방식</rt><rp>)</rp></ruby>이라기 보다는 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>入力方式</rb><rp>(</rp><rt>입력방식</rt><rp>)</rp></ruby>으로 볼 수 있다. 5<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>에서 6<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>의 버튼을 <ruby class="hanja api grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하며, 모바일<ruby class="hanja api grade40"><rb>機器</rb><rp>(</rp><rt>기기</rt><rp>)</rp></ruby>에서는 <ruby class="hanja api grade70"><rb>數字</rb><rp>(</rp><rt>숫자</rt><rp>)</rp></ruby>키, 맥OS에서는 U·I·J·K·L 키를 <ruby class="hanja api grade62"><rb>利用</rb><rp>(</rp><rt>이용</rt><rp>)</rp></ruby>하여 입력한다. 
+</p><p><a href="/index.php?title=%E6%B0%B8%E5%AD%97%E5%85%AB%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="永字八法 (없는 문서)"><ruby class="hanja api grade52 unknown"><rb>永字八法</rb><rp>(</rp><rt>영자팔법</rt><rp>)</rp></ruby></a>와 <ruby class="hanja api grade30"><rb>類似</rb><rp>(</rp><rt>유사</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade40"><rb>分類體系</rb><rp>(</rp><rt>분류체계</rt><rp>)</rp></ruby>로, 다섯 <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>키 <a href="/wiki/%E4%B8%80" title="一"><ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E4%B8%A8&amp;action=edit&amp;redlink=1" class="new" title="丨 (없는 문서)"><ruby class="hanja api grade0 unknown"><rb>丨</rb><rp>(</rp><rt>곤</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E4%B8%BF&amp;action=edit&amp;redlink=1" class="new" title="丿 (없는 문서)"><ruby class="hanja api grade0 unknown"><rb>丿</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E4%B8%B6&amp;action=edit&amp;redlink=1" class="new" title="丶 (없는 문서)"><ruby class="hanja api grade0 unknown"><rb>丶</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E4%B9%99&amp;action=edit&amp;redlink=1" class="new" title="乙 (없는 문서)"><ruby class="hanja api grade32 unknown"><rb>乙</rb><rp>(</rp><rt>을</rt><rp>)</rp></ruby></a>만을 <ruby class="hanja api grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하여 모든 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>한다. 이 다섯 <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade40"><rb>別稱</rb><rp>(</rp><rt>별칭</rt><rp>)</rp></ruby>은 <a href="/index.php?title=%E6%A9%AB&amp;action=edit&amp;redlink=1" class="new" title="橫 (없는 문서)"><ruby class="hanja api grade32 unknown"><rb>橫</rb><rp>(</rp><rt>횡</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E7%AB%AA&amp;action=edit&amp;redlink=1" class="new" title="竪 (없는 문서)"><ruby class="hanja api grade10 unknown"><rb>竪</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E6%92%87&amp;action=edit&amp;redlink=1" class="new" title="撇 (없는 문서)"><ruby class="hanja api grade0 unknown"><rb>撇</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E6%8D%BA&amp;action=edit&amp;redlink=1" class="new" title="捺 (없는 문서)"><ruby class="hanja api grade10 unknown"><rb>捺</rb><rp>(</rp><rt>날</rt><rp>)</rp></ruby></a>·<a href="/index.php?title=%E6%8A%98&amp;action=edit&amp;redlink=1" class="new" title="折 (없는 문서)"><ruby class="hanja api grade40 unknown"><rb>折</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby></a>이라고도 불리며, 각 <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade52"><rb>以下</rb><rp>(</rp><rt>이하</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>句節</rb><rp>(</rp><rt>귀절</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade30"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>를 가진다.
+</p>
+<table class="wikitable">
+<caption><ruby class="hanja api grade52"><rb>基本表</rb><rp>(</rp><rt>기본표</rt><rp>)</rp></ruby>
+</caption>
+<tbody><tr>
+<td><ruby class="hanja api grade32"><rb>橫</rb><rp>(</rp><rt>횡</rt><rp>)</rp></ruby>(<ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>)</td>
+<td>가로<ruby class="hanja api grade60"><rb>方向</rb><rp>(</rp><rt>방향</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>, <ruby class="hanja api grade72"><rb>左</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade72"><rb>右</rb><rp>(</rp><rt>우</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade10"><rb>竪</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>丨</rb><rp>(</rp><rt>곤</rt><rp>)</rp></ruby>)</td>
+<td>세로<ruby class="hanja api grade60"><rb>方向</rb><rp>(</rp><rt>방향</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>, <ruby class="hanja api grade72"><rb>上</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade72"><rb>下</rb><rp>(</rp><rt>하</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade0"><rb>撇</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>丿</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby>)</td>
+<td><ruby class="hanja api grade60"><rb>對角方向</rb><rp>(</rp><rt>대각방향</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>, <ruby class="hanja api grade72"><rb>上</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade72"><rb>左下</rb><rp>(</rp><rt>좌하</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade10"><rb>捺</rb><rp>(</rp><rt>날</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>丶</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)</td>
+<td><ruby class="hanja api grade60"><rb>對角方向</rb><rp>(</rp><rt>대각방향</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>, <ruby class="hanja api grade72"><rb>左上</rb><rp>(</rp><rt>좌상</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade72"><rb>右下</rb><rp>(</rp><rt>우하</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade40"><rb>折</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby>(<ruby class="hanja api grade32"><rb>乙</rb><rp>(</rp><rt>을</rt><rp>)</rp></ruby>)</td>
+<td><ruby class="hanja api grade52"><rb>各種</rb><rp>(</rp><rt>각종</rt><rp>)</rp></ruby> 갈고리 <ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>, <ruby class="hanja api grade72"><rb>左上</rb><rp>(</rp><rt>좌상</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade72"><rb>右下</rb><rp>(</rp><rt>우하</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<table class="wikitable">
+<tbody><tr>
+<th><ruby class="hanja api grade60"><rb>例字</rb><rp>(</rp><rt>례자</rt><rp>)</rp></ruby>
+</th>
+<th>코드
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade70"><rb>口</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>丨乙一</rb><rp>(</rp><rt>곤을일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade60"><rb>合</rb><rp>(</rp><rt>합</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>丿丶一</rb><rp>(</rp><rt>별주일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>亼</rb><rp>(</rp><rt>집</rt><rp>)</rp></ruby>)<ruby class="hanja api grade0"><rb>丨乙一</rb><rp>(</rp><rt>곤을일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade70"><rb>口</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>丨乙一丨乙一一乙丿丶一</rb><rp>(</rp><rt>곤을일곤을일일을별주일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade72"><rb>漢</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>丶丶一</rb><rp>(</rp><rt>주주일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>氵</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>)<ruby class="hanja api grade0"><rb>一丨丨一</rb><rp>(</rp><rt>일곤곤일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>廿</rb><rp>(</rp><rt>입</rt><rp>)</rp></ruby>)<ruby class="hanja api grade0"><rb>丨乙一</rb><rp>(</rp><rt>곤을일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade70"><rb>口</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>)<ruby class="hanja api grade0"><rb>一一丿丶</rb><rp>(</rp><rt>일일별주</rt><rp>)</rp></ruby>(<ruby class="hanja api grade70"><rb>夫</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>一丿丶</rb><rp>(</rp><rt>일별주</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade70"><rb>百</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>一丿</rb><rp>(</rp><rt>일별</rt><rp>)</rp></ruby>(<ruby class="hanja api grade0"><rb>丆</rb><rp>(</rp><rt>면</rt><rp>)</rp></ruby>)<ruby class="hanja api grade0"><rb>丨乙一一</rb><rp>(</rp><rt>곤을일일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade62"><rb>科</rb><rp>(</rp><rt>과</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>丿一丨丿丶</rb><rp>(</rp><rt>별일곤별주</rt><rp>)</rp></ruby>(<ruby class="hanja api grade30"><rb>禾</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>)<ruby class="hanja api grade0"><rb>丶丶一丨</rb><rp>(</rp><rt>주주일곤</rt><rp>)</rp></ruby>(<ruby class="hanja api grade42"><rb>斗</rb><rp>(</rp><rt>두</rt><rp>)</rp></ruby>)
+</td></tr></tbody></table>
+<p><ruby class="hanja api grade32"><rb>五筆畫輸入法</rb><rp>(</rp><rt>오필화수입법</rt><rp>)</rp></ruby>은 가장 <ruby class="hanja api grade62"><rb>漢字音</rb><rp>(</rp><rt>한자음</rt><rp>)</rp></ruby>을 모를 때 가장 <ruby class="hanja api grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>하기 쉬운 <ruby class="hanja api grade52"><rb>方法</rb><rp>(</rp><rt>방법</rt><rp>)</rp></ruby>이지만, <ruby class="hanja api grade52"><rb>筆畵數</rb><rp>(</rp><rt>필획수</rt><rp>)</rp></ruby>가 너무 많거나, <ruby class="hanja api grade62"><rb>書體</rb><rp>(</rp><rt>서체</rt><rp>)</rp></ruby>마다 <ruby class="hanja api grade40"><rb>構成筆畵</rb><rp>(</rp><rt>구성필획</rt><rp>)</rp></ruby>이 다르거나, <ruby class="hanja api grade52"><rb>筆順</rb><rp>(</rp><rt>필순</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade42"><rb>正確</rb><rp>(</rp><rt>정확</rt><rp>)</rp></ruby>하게 <ruby class="hanja api grade70"><rb>入力</rb><rp>(</rp><rt>입력</rt><rp>)</rp></ruby>해야 하는 <ruby class="hanja api grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>限界</rb><rp>(</rp><rt>한계</rt><rp>)</rp></ruby>가 있다.
+</p>
+<table class="wikitable">
+<caption><ruby class="hanja api grade32"><rb>詳細表</rb><rp>(</rp><rt>상세표</rt><rp>)</rp></ruby>
+</caption>
+<tbody><tr>
+<th>코드</th>
+<th><ruby class="hanja api grade32"><rb>筆劃種類</rb><rp>(</rp><rt>필획종류</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja api grade52"><rb>筆畵</rb><rp>(</rp><rt>필획</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja api grade52"><rb>筆畵名</rb><rp>(</rp><rt>필획명</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th scope="row" rowspan="2" valign="top">1
+</th>
+<td rowspan="2" valign="top">가로, 올림
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_h.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cjk_m_str_h.svg/langko-30px-Cjk_m_str_h.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cjk_m_str_h.svg/langko-45px-Cjk_m_str_h.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cjk_m_str_h.svg/langko-60px-Cjk_m_str_h.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_sh.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cjk_m_str_sh.svg/langko-30px-Cjk_m_str_sh.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cjk_m_str_sh.svg/langko-45px-Cjk_m_str_sh.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cjk_m_str_sh.svg/langko-60px-Cjk_m_str_sh.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade32"><rb>橫</rb><rp>(</rp><rt>횡</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_u.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cjk_m_str_u.svg/langko-30px-Cjk_m_str_u.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cjk_m_str_u.svg/langko-45px-Cjk_m_str_u.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cjk_m_str_u.svg/langko-60px-Cjk_m_str_u.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade42"><rb>提</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th scope="row" rowspan="2" valign="top">2
+</th>
+<td rowspan="2" valign="top">세로
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_v.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cjk_m_str_v.svg/langko-30px-Cjk_m_str_v.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cjk_m_str_v.svg/langko-45px-Cjk_m_str_v.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cjk_m_str_v.svg/langko-60px-Cjk_m_str_v.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_sv.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cjk_m_str_sv.svg/langko-30px-Cjk_m_str_sv.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cjk_m_str_sv.svg/langko-45px-Cjk_m_str_sv.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cjk_m_str_sv.svg/langko-60px-Cjk_m_str_sv.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>竪</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cjk_m_str_vj.svg/langko-30px-Cjk_m_str_vj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cjk_m_str_vj.svg/langko-45px-Cjk_m_str_vj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cjk_m_str_vj.svg/langko-60px-Cjk_m_str_vj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>竪鈎</rb><rp>(</rp><rt>수구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th scope="row" valign="top">3
+</th>
+<td valign="top">왼쪽으로 내림
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_t.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cjk_m_str_t.svg/langko-30px-Cjk_m_str_t.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cjk_m_str_t.svg/langko-45px-Cjk_m_str_t.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cjk_m_str_t.svg/langko-60px-Cjk_m_str_t.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_wt.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cjk_m_str_wt.svg/langko-30px-Cjk_m_str_wt.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cjk_m_str_wt.svg/langko-45px-Cjk_m_str_wt.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cjk_m_str_wt.svg/langko-60px-Cjk_m_str_wt.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>撇</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th scope="row" rowspan="3" valign="top">4
+</th>
+<td rowspan="3" valign="top"><ruby class="hanja api grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>, 오른쪽으로 내림
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_d.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cjk_m_str_d.svg/langko-30px-Cjk_m_str_d.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cjk_m_str_d.svg/langko-45px-Cjk_m_str_d.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cjk_m_str_d.svg/langko-60px-Cjk_m_str_d.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_ld.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cjk_m_str_ld.svg/langko-30px-Cjk_m_str_ld.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cjk_m_str_ld.svg/langko-45px-Cjk_m_str_ld.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cjk_m_str_ld.svg/langko-60px-Cjk_m_str_ld.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_p.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cjk_m_str_p.svg/langko-30px-Cjk_m_str_p.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cjk_m_str_p.svg/langko-45px-Cjk_m_str_p.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cjk_m_str_p.svg/langko-60px-Cjk_m_str_p.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_fp.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cjk_m_str_fp.svg/langko-30px-Cjk_m_str_fp.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cjk_m_str_fp.svg/langko-45px-Cjk_m_str_fp.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cjk_m_str_fp.svg/langko-60px-Cjk_m_str_fp.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>捺</rb><rp>(</rp><rt>날</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_up.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cjk_m_str_up.svg/langko-30px-Cjk_m_str_up.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cjk_m_str_up.svg/langko-45px-Cjk_m_str_up.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cjk_m_str_up.svg/langko-60px-Cjk_m_str_up.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hp.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cjk_m_str_hp.svg/langko-30px-Cjk_m_str_hp.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cjk_m_str_hp.svg/langko-45px-Cjk_m_str_hp.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cjk_m_str_hp.svg/langko-60px-Cjk_m_str_hp.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>提捺</rb><rp>(</rp><rt>제날</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th scope="row" rowspan="25" valign="top">5
+</th>
+<td rowspan="25" valign="top">꺾음
+</td>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hv.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cjk_m_str_hv.svg/langko-30px-Cjk_m_str_hv.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cjk_m_str_hv.svg/langko-45px-Cjk_m_str_hv.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cjk_m_str_hv.svg/langko-60px-Cjk_m_str_hv.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade32"><rb>橫折</rb><rp>(</rp><rt>횡절</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_ht.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cjk_m_str_ht.svg/langko-30px-Cjk_m_str_ht.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cjk_m_str_ht.svg/langko-45px-Cjk_m_str_ht.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cjk_m_str_ht.svg/langko-60px-Cjk_m_str_ht.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫撇</rb><rp>(</rp><rt>횡별</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cjk_m_str_hj.svg/langko-30px-Cjk_m_str_hj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cjk_m_str_hj.svg/langko-45px-Cjk_m_str_hj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cjk_m_str_hj.svg/langko-60px-Cjk_m_str_hj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫鈎</rb><rp>(</rp><rt>횡구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vh.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cjk_m_str_vh.svg/langko-30px-Cjk_m_str_vh.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cjk_m_str_vh.svg/langko-45px-Cjk_m_str_vh.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cjk_m_str_vh.svg/langko-60px-Cjk_m_str_vh.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_svh.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cjk_m_str_svh.svg/langko-30px-Cjk_m_str_svh.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cjk_m_str_svh.svg/langko-45px-Cjk_m_str_svh.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cjk_m_str_svh.svg/langko-60px-Cjk_m_str_svh.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>竪折</rb><rp>(</rp><rt>수절</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_va.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cjk_m_str_va.svg/langko-30px-Cjk_m_str_va.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cjk_m_str_va.svg/langko-45px-Cjk_m_str_va.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cjk_m_str_va.svg/langko-60px-Cjk_m_str_va.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>竪彎</rb><rp>(</rp><rt>수만</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vu.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cjk_m_str_vu.svg/langko-30px-Cjk_m_str_vu.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cjk_m_str_vu.svg/langko-45px-Cjk_m_str_vu.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cjk_m_str_vu.svg/langko-60px-Cjk_m_str_vu.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>竪提</rb><rp>(</rp><rt>수제</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_th.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cjk_m_str_th.svg/langko-30px-Cjk_m_str_th.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cjk_m_str_th.svg/langko-45px-Cjk_m_str_th.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cjk_m_str_th.svg/langko-60px-Cjk_m_str_th.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_tu.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cjk_m_str_tu.svg/langko-30px-Cjk_m_str_tu.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cjk_m_str_tu.svg/langko-45px-Cjk_m_str_tu.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cjk_m_str_tu.svg/langko-60px-Cjk_m_str_tu.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>撇折</rb><rp>(</rp><rt>별절</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_td.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cjk_m_str_td.svg/langko-30px-Cjk_m_str_td.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cjk_m_str_td.svg/langko-45px-Cjk_m_str_td.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cjk_m_str_td.svg/langko-60px-Cjk_m_str_td.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>撇點</rb><rp>(</rp><rt>별점</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_tj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cjk_m_str_tj.svg/langko-30px-Cjk_m_str_tj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cjk_m_str_tj.svg/langko-45px-Cjk_m_str_tj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cjk_m_str_tj.svg/langko-60px-Cjk_m_str_tj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>撇鈎</rb><rp>(</rp><rt>별구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_cj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cjk_m_str_cj.svg/langko-30px-Cjk_m_str_cj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cjk_m_str_cj.svg/langko-45px-Cjk_m_str_cj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cjk_m_str_cj.svg/langko-60px-Cjk_m_str_cj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>彎鈎</rb><rp>(</rp><rt>만구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_pj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cjk_m_str_pj.svg/langko-30px-Cjk_m_str_pj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cjk_m_str_pj.svg/langko-45px-Cjk_m_str_pj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cjk_m_str_pj.svg/langko-60px-Cjk_m_str_pj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>斜鈎</rb><rp>(</rp><rt>사구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hvh.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cjk_m_str_hvh.svg/langko-30px-Cjk_m_str_hvh.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cjk_m_str_hvh.svg/langko-45px-Cjk_m_str_hvh.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cjk_m_str_hvh.svg/langko-60px-Cjk_m_str_hvh.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade32"><rb>橫折折</rb><rp>(</rp><rt>횡절절</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_ha.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cjk_m_str_ha.svg/langko-30px-Cjk_m_str_ha.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cjk_m_str_ha.svg/langko-45px-Cjk_m_str_ha.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cjk_m_str_ha.svg/langko-60px-Cjk_m_str_ha.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>橫折彎</rb><rp>(</rp><rt>횡절만</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hvu.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cjk_m_str_hvu.svg/langko-30px-Cjk_m_str_hvu.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cjk_m_str_hvu.svg/langko-45px-Cjk_m_str_hvu.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cjk_m_str_hvu.svg/langko-60px-Cjk_m_str_hvu.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade32"><rb>橫折提</rb><rp>(</rp><rt>횡절제</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hvj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cjk_m_str_hvj.svg/langko-30px-Cjk_m_str_hvj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cjk_m_str_hvj.svg/langko-45px-Cjk_m_str_hvj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cjk_m_str_hvj.svg/langko-60px-Cjk_m_str_hvj.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_utj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cjk_m_str_utj.svg/langko-30px-Cjk_m_str_utj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cjk_m_str_utj.svg/langko-45px-Cjk_m_str_utj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cjk_m_str_utj.svg/langko-60px-Cjk_m_str_utj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫折鈎</rb><rp>(</rp><rt>횡절구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hpj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cjk_m_str_hpj.svg/langko-30px-Cjk_m_str_hpj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cjk_m_str_hpj.svg/langko-45px-Cjk_m_str_hpj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cjk_m_str_hpj.svg/langko-60px-Cjk_m_str_hpj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫斜鈎</rb><rp>(</rp><rt>횡사구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vhv.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cjk_m_str_vhv.svg/langko-30px-Cjk_m_str_vhv.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cjk_m_str_vhv.svg/langko-45px-Cjk_m_str_vhv.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cjk_m_str_vhv.svg/langko-60px-Cjk_m_str_vhv.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade10"><rb>竪折折</rb><rp>(</rp><rt>수절절</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vht.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cjk_m_str_vht.svg/langko-30px-Cjk_m_str_vht.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cjk_m_str_vht.svg/langko-45px-Cjk_m_str_vht.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cjk_m_str_vht.svg/langko-60px-Cjk_m_str_vht.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_tht.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cjk_m_str_tht.svg/langko-30px-Cjk_m_str_tht.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cjk_m_str_tht.svg/langko-45px-Cjk_m_str_tht.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cjk_m_str_tht.svg/langko-60px-Cjk_m_str_tht.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>竪折撇</rb><rp>(</rp><rt>수절별</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vaj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cjk_m_str_vaj.svg/langko-30px-Cjk_m_str_vaj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cjk_m_str_vaj.svg/langko-45px-Cjk_m_str_vaj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cjk_m_str_vaj.svg/langko-60px-Cjk_m_str_vaj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>竪彎鈎</rb><rp>(</rp><rt>수만구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hvhv.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cjk_m_str_hvhv.svg/langko-30px-Cjk_m_str_hvhv.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cjk_m_str_hvhv.svg/langko-45px-Cjk_m_str_hvhv.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cjk_m_str_hvhv.svg/langko-60px-Cjk_m_str_hvhv.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade32"><rb>橫折折折</rb><rp>(</rp><rt>횡절절절</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_htht.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cjk_m_str_htht.svg/langko-30px-Cjk_m_str_htht.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cjk_m_str_htht.svg/langko-45px-Cjk_m_str_htht.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cjk_m_str_htht.svg/langko-60px-Cjk_m_str_htht.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫折折撇</rb><rp>(</rp><rt>횡절절별</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_htaj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cjk_m_str_htaj.svg/langko-30px-Cjk_m_str_htaj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cjk_m_str_htaj.svg/langko-45px-Cjk_m_str_htaj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cjk_m_str_htaj.svg/langko-60px-Cjk_m_str_htaj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫折彎鈎</rb><rp>(</rp><rt>횡절만구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_htcj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cjk_m_str_htcj.svg/langko-30px-Cjk_m_str_htcj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cjk_m_str_htcj.svg/langko-45px-Cjk_m_str_htcj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cjk_m_str_htcj.svg/langko-60px-Cjk_m_str_htcj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫撇彎鈎</rb><rp>(</rp><rt>횡별만구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_vhtj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cjk_m_str_vhtj.svg/langko-30px-Cjk_m_str_vhtj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cjk_m_str_vhtj.svg/langko-45px-Cjk_m_str_vhtj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cjk_m_str_vhtj.svg/langko-60px-Cjk_m_str_vhtj.svg.png 2x"></a></span> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_thtj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cjk_m_str_thtj.svg/langko-30px-Cjk_m_str_thtj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cjk_m_str_thtj.svg/langko-45px-Cjk_m_str_thtj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cjk_m_str_thtj.svg/langko-60px-Cjk_m_str_thtj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>竪折折鈎</rb><rp>(</rp><rt>수절절구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Cjk_m_str_hthtj.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cjk_m_str_hthtj.svg/langko-30px-Cjk_m_str_hthtj.svg.png" decoding="async" width="30" height="30" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cjk_m_str_hthtj.svg/langko-45px-Cjk_m_str_hthtj.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cjk_m_str_hthtj.svg/langko-60px-Cjk_m_str_hthtj.svg.png 2x"></a></span>
+</td>
+<td><ruby class="hanja api grade0"><rb>橫折折折鈎</rb><rp>(</rp><rt>횡절절절구</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+</div></body></html>
