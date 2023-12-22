@@ -1,8 +1,10 @@
 {
   "title": "五筆劃輸入法",
   "namespace": 0,
-  "timestamp": 1703223187000,
-  "categories": [],
+  "timestamp": 1703252577000,
+  "categories": [
+    "中國語 入力方式"
+  ],
   "members": [],
   "file": null
 }
