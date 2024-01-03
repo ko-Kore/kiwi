@@ -143,7 +143,7 @@
     },
     {
       "title": "文言文編程語言",
-      "surrounding": "例示(예시)[편집] 問天下好在(문천하호재)[편집] Hello World ... { console log(\"問天地好在。\"); }",
+      "surrounding": "例示(예시)[편집] 問天地好在(문천지호재)[편집] Hello World ... { console log(\"問天地好在。\"); }",
       "count": 5
     },
     {
