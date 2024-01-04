@@ -112,6 +112,11 @@
       "count": 6
     },
     {
+      "title": "文言文編程語言",
+      "surrounding": "例示(예시)[편집] 問天地好在(문천지호재)[편집] Hello World ... (온라인 IDE) Esolangs 紹介(소개)",
+      "count": 6
+    },
+    {
       "title": "구글 日本語入力",
       "surrounding": "變換性能(변환성능) 2 Mozc 3 ... 오픈소스化(화)한 프로젝트로 Mozc가 있다",
       "count": 6
@@ -139,11 +144,6 @@
     {
       "title": "使用者:洪民憙",
       "surrounding": "읽어주세요 웹사이트: hongminhee org ... @hongminhee 위키百科(백과): 사용자:Hongminhee 만든",
-      "count": 5
-    },
-    {
-      "title": "文言文編程語言",
-      "surrounding": "例示(예시)[편집] 問天地好在(문천지호재)[편집] Hello World ... { console log(\"問天地好在。\"); }",
       "count": 5
     },
     {
