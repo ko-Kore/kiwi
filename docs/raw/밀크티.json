@@ -1,8 +1,10 @@
 {
   "title": "밀크티",
   "namespace": 0,
-  "timestamp": 1705580061000,
-  "categories": [],
+  "timestamp": 1705651114000,
+  "categories": [
+    "飮料"
+  ],
   "members": [],
   "file": null
 }
