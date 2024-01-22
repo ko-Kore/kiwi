@@ -1,8 +1,10 @@
 {
   "title": "原神",
   "namespace": 0,
-  "timestamp": 1693644711000,
-  "categories": [],
+  "timestamp": 1705882460000,
+  "categories": [
+    "모바일 게임"
+  ],
   "members": [],
   "file": null
 }
