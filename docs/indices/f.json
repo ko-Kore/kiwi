@@ -82,6 +82,11 @@
       "count": 4
     },
     {
+      "title": "漢語拼音",
+      "surrounding": "ě è f g ... (risk one's life)이다 이",
+      "count": 3
+    },
+    {
       "title": "簡化字",
       "surrounding": "→ 郁(욱)(yù) 髮(발)(fà) 發(발)(fā) ... 發(발)(fā) → 发(발)(fā/fà) 草书体(초서체)",
       "count": 3
@@ -234,11 +239,6 @@
     {
       "title": "李承晩",
       "surrounding": "中立(중립)”(原題(원제):Neutrality as influenced by",
-      "count": 1
-    },
-    {
-      "title": "漢語拼音",
-      "surrounding": "ě è f g",
       "count": 1
     },
     {

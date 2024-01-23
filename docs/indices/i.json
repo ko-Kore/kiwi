@@ -237,6 +237,11 @@
       "count": 5
     },
     {
+      "title": "漢語拼音",
+      "surrounding": "北京 → Běijīng 使用(사용) ... (risk one's life)이다 이",
+      "count": 5
+    },
+    {
       "title": "獨逸",
       "surrounding": " 獨逸聯邦共和國(독일련방공화국) Bundesrepublik Deutschland ... 槪要(개요)[편집] 獨逸聯邦共和國(독일련방공화국)(獨(독): Bundesrepublik Deutschland)",
       "count": 5
@@ -639,11 +644,6 @@
     {
       "title": "漢字模樣說明式",
       "surrounding": "漢字模樣說明式(한자모양설명식)(Ideographic Description ... 漢字模樣說明式(한자모양설명식)(Ideographic Description Sequence",
-      "count": 2
-    },
-    {
-      "title": "漢語拼音",
-      "surrounding": "北京 → Běijīng 使用(사용) ... g h i ī",
       "count": 2
     },
     {

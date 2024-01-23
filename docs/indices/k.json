@@ -302,6 +302,11 @@
       "count": 2
     },
     {
+      "title": "漢語拼音",
+      "surrounding": "ì j k l ... '물리칠 병' (risk one's",
+      "count": 2
+    },
+    {
       "title": "濠洲",
       "surrounding": "7 692 024km² 內水面(내수면) ... 人口密度(인구밀도) 3 4名(명)/km² 公用語(공용어)",
       "count": 2
@@ -514,11 +519,6 @@
     {
       "title": "氣",
       "surrounding": "𡨸國語(자국어) : khí ",
-      "count": 1
-    },
-    {
-      "title": "漢語拼音",
-      "surrounding": "ì j k l",
       "count": 1
     },
     {

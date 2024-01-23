@@ -397,6 +397,11 @@
       "count": 3
     },
     {
+      "title": "漢語拼音",
+      "surrounding": "c d e ē ... (risk one's life)이다 이",
+      "count": 3
+    },
+    {
       "title": "濠洲",
       "surrounding": " 濠洲聯邦(호주련방) Commonwealth of ... 傳說(전설)의 大陸(대륙) Terra Australis",
       "count": 3
@@ -844,11 +849,6 @@
     {
       "title": "漢字路 한글·漢字 自動變換機",
       "surrounding": "該當(해당) 技術(기술)은 UTagger에 基盤(기반)한",
-      "count": 1
-    },
-    {
-      "title": "漢語拼音",
-      "surrounding": "c d e ē",
       "count": 1
     },
     {
