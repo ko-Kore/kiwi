@@ -1,8 +1,11 @@
 {
   "title": "폴리나 오시펜코",
   "namespace": 0,
-  "timestamp": 1705914602000,
-  "categories": [],
+  "timestamp": 1706178103000,
+  "categories": [
+    "飛行士",
+    "蘇聯英雄"
+  ],
   "members": [],
   "file": null
 }
