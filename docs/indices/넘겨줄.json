@@ -662,6 +662,11 @@
       "count": 1
     },
     {
+      "title": "韓國 (戰國時代)",
+      "surrounding": "넘겨줄 對象:韓나라",
+      "count": 1
+    },
+    {
       "title": "韓文漢字",
       "surrounding": "넘겨줄 대상:韓國語의",
       "count": 1
@@ -669,11 +674,6 @@
     {
       "title": "韓貨",
       "surrounding": "넘겨줄 대상:원",
-      "count": 1
-    },
-    {
-      "title": "韓나라",
-      "surrounding": "넘겨줄 對象:韓國",
       "count": 1
     },
     {
