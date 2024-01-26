@@ -1,0 +1,25 @@
+{
+  "word": "폴드",
+  "pages": [
+    {
+      "title": "갤럭시 Z 시리즈",
+      "surrounding": "一 Z 폴드 시리즈 ... 5 ↑ 폴드 시리즈에",
+      "count": 9
+    },
+    {
+      "title": "갤럭시 Z 플립 3",
+      "surrounding": "갤럭시 Z 폴드 3",
+      "count": 1
+    },
+    {
+      "title": "갤럭시 노트 시리즈",
+      "surrounding": "갤럭시 Z 폴드 3가",
+      "count": 1
+    },
+    {
+      "title": "인피니티 디스플레이",
+      "surrounding": "갤럭시 Z 폴드 3에서",
+      "count": 1
+    }
+  ]
+}

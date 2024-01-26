@@ -18,8 +18,8 @@
     },
     {
       "title": "갤럭시 Z 시리즈",
-      "surrounding": "槪要(개요)[편집] 갤럭시 Z ... 폴드 3 갤럭시 Z",
-      "count": 10
+      "surrounding": "갤럭시 Z ... 플립 4 갤럭시 Z",
+      "count": 15
     },
     {
       "title": "갤럭시 S10",
@@ -69,6 +69,11 @@
     {
       "title": "태블릿PC",
       "surrounding": " 三星(삼성) 갤럭시 탭",
+      "count": 1
+    },
+    {
+      "title": "폴더블 스마트폰",
+      "surrounding": "以後(이후)) 三(삼)星(성) 갤럭시 Z",
       "count": 1
     }
   ]
