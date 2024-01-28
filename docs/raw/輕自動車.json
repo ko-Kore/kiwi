@@ -1,8 +1,10 @@
 {
   "title": "輕自動車",
   "namespace": 0,
-  "timestamp": 1706480465000,
-  "categories": [],
+  "timestamp": 1706481007000,
+  "categories": [
+    "自動車"
+  ],
   "members": [],
   "file": null
 }
