@@ -2,6 +2,11 @@
   "word": "싱글",
   "pages": [
     {
+      "title": "인터체인지",
+      "surrounding": "四 四 싱글포인트 어반 ... 部分(부분)의 本文(본문)은 싱글포인트 인터체인지입니다",
+      "count": 3
+    },
+    {
       "title": "TORIKYU",
       "surrounding": "3 2 싱글 3 ... YOGP FBO 싱글[편집] Jangam",
       "count": 2
@@ -39,11 +44,6 @@
     {
       "title": "꽃에는 비를, 너에겐 노래를",
       "surrounding": "同名(동명)의 디지털 싱글 音盤(음반)에",
-      "count": 1
-    },
-    {
-      "title": "인터체인지",
-      "surrounding": "파클로 인터체인지 싱글포인트 어반",
       "count": 1
     }
   ]
