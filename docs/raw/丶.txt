@@ -1,0 +1,5 @@
+<html><head></head><body><div class="mw-parser-output"><p><b><ruby class="hanja api grade0"><rb>丶</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby></b>는 <ruby class="hanja api grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>이라는 <ruby class="hanja api grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>이다. <ruby class="hanja api grade42"><rb>說文解字</rb><rp>(</rp><rt>설문해자</rt><rp>)</rp></ruby>에 따르면 쉼표의 <ruby class="hanja api grade42"><rb>意味</rb><rp>(</rp><rt>의미</rt><rp>)</rp></ruby>로 쓰였다. 
+</p>
+<h2><span id=".EA.B0.99.EC.9D.B4.EB.B3.B4.EA.B8.B0"></span><span class="mw-headline" id="같이보기">같이보기</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%B8%B6&amp;action=edit&amp;section=1" title="部分 編輯: 같이보기">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%E3%80%81&amp;action=edit&amp;redlink=1" class="new" title="、 (없는 文書)">、</a></li></ul>
+</div></body></html>
