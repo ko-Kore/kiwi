@@ -1,8 +1,10 @@
 {
   "title": "支那",
   "namespace": 0,
-  "timestamp": 1706451953000,
-  "categories": [],
+  "timestamp": 1706883979000,
+  "categories": [
+    "中國"
+  ],
   "members": [],
   "file": null
 }

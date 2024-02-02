@@ -1,8 +1,10 @@
 {
   "title": "幹線道路",
   "namespace": 0,
-  "timestamp": 1706870762000,
-  "categories": [],
+  "timestamp": 1706883593000,
+  "categories": [
+    "道路"
+  ],
   "members": [],
   "file": null
 }
