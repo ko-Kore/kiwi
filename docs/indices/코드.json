@@ -232,11 +232,6 @@
       "count": 1
     },
     {
-      "title": "北韓",
-      "surrounding": "<愛國歌(애국가)>) 國家(국가) 코드: PRK",
-      "count": 1
-    },
-    {
       "title": "嗧",
       "surrounding": "讀音(독음): jiālún 유니코드: U+55E7",
       "count": 1
@@ -259,6 +254,11 @@
     {
       "title": "日本語",
       "surrounding": "平假名(평가명) 片假名(편가명) 言語(언어)코드 ISO",
+      "count": 1
+    },
+    {
+      "title": "朝鮮民主主義人民共和國",
+      "surrounding": "所(소)属(속)洲(주): 亞細亞(아세아) 國家(국가)코드: PRK",
       "count": 1
     },
     {
