@@ -1,8 +1,10 @@
 {
   "title": "憲法",
   "namespace": 0,
-  "timestamp": 1708423913000,
-  "categories": [],
+  "timestamp": 1708448932000,
+  "categories": [
+    "法"
+  ],
   "members": [],
   "file": null
 }
