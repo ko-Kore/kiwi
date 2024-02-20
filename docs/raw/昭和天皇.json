@@ -1,8 +1,10 @@
 {
   "title": "昭和天皇",
   "namespace": 0,
-  "timestamp": 1708430126000,
-  "categories": [],
+  "timestamp": 1708449856000,
+  "categories": [
+    "日本의 天皇"
+  ],
   "members": [],
   "file": null
 }
