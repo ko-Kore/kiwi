@@ -27,6 +27,16 @@
       "count": 2
     },
     {
+      "title": "6·25 戰爭",
+      "surrounding": "넘겨줄 對象：韓國戰爭 ",
+      "count": 1
+    },
+    {
+      "title": "UN",
+      "surrounding": "넘겨줄 對象：國際聯合 ",
+      "count": 1
+    },
+    {
       "title": "世宗特別自治市",
       "surrounding": "首都(수도) 移轉(이전) 對象地(대상지)로 大田(대전)",
       "count": 1
@@ -124,6 +134,11 @@
     {
       "title": "위키위키",
       "surrounding": "添附(첨부)하기 爲(위)해서는 [[對象]]과같이 大括弧(대괄호)로",
+      "count": 1
+    },
+    {
+      "title": "유엔",
+      "surrounding": "넘겨줄 對象：國際聯合 ",
       "count": 1
     }
   ]

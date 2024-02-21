@@ -2532,6 +2532,11 @@
       "count": 1
     },
     {
+      "title": "6·25 戰爭",
+      "surrounding": "넘겨줄 對象：韓國戰爭 ",
+      "count": 1
+    },
+    {
       "title": "BMP (유니코드)",
       "surrounding": "넘겨줄 대상:多國語基本平面 ",
       "count": 1
@@ -2549,6 +2554,11 @@
     {
       "title": "NTT 도코모",
       "surrounding": "完全(완전) 子會社(자회사)이다 韓國(한국) 通信社(통신사)",
+      "count": 1
+    },
+    {
+      "title": "UN",
+      "surrounding": "넘겨줄 對象：國際聯合 ",
       "count": 1
     },
     {
@@ -3324,6 +3334,11 @@
     {
       "title": "원",
       "surrounding": "넘겨줄 대상:원 (大韓民國) ",
+      "count": 1
+    },
+    {
+      "title": "유엔",
+      "surrounding": "넘겨줄 對象：國際聯合 ",
       "count": 1
     },
     {

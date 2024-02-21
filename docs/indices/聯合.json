@@ -97,6 +97,11 @@
       "count": 1
     },
     {
+      "title": "UN",
+      "surrounding": "넘겨줄 對象：國際聯合 ",
+      "count": 1
+    },
+    {
       "title": "三韓",
       "surrounding": "南部(남부)의 세 小國聯合(소국연합)(馬韓(마한) 辰韓(진한)",
       "count": 1
@@ -219,6 +224,11 @@
     {
       "title": "윈저家",
       "surrounding": "個(개)의 작은 自由聯合(자유연합) 쿡諸島(제도)와",
+      "count": 1
+    },
+    {
+      "title": "유엔",
+      "surrounding": "넘겨줄 對象：國際聯合 ",
       "count": 1
     }
   ]
