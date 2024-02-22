@@ -1,8 +1,10 @@
 {
   "title": "和製漢字",
   "namespace": 0,
-  "timestamp": 1708603159000,
-  "categories": [],
+  "timestamp": 1708622066000,
+  "categories": [
+    "漢字"
+  ],
   "members": [],
   "file": null
 }
