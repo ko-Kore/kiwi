@@ -1,8 +1,12 @@
 {
   "title": "靑少年利用不可",
   "namespace": 0,
-  "timestamp": 1708689188000,
-  "categories": [],
+  "timestamp": 1708720872000,
+  "categories": [
+    "放送",
+    "映像",
+    "게임"
+  ],
   "members": [],
   "file": null
 }
