@@ -1,0 +1,53 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th>천연*만화  <br> <ruby class="hanja api grade70"><rb>千</rb><rp>(</rp><rt>천</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>恋</rb><rp>(</rp><rt>련</rt><rp>)</rp></ruby>＊<ruby class="hanja api grade0"><rb>万</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>花</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>寫眞</rb><rp>(</rp><rt>사진</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Header_schinese.jpg" class="mw-file-description"><img src="/images/thumb/9/9a/Header_schinese.jpg/200px-Header_schinese.jpg" decoding="async" width="200" height="93" srcset="/images/thumb/9/9a/Header_schinese.jpg/300px-Header_schinese.jpg 1.5x, /images/thumb/9/9a/Header_schinese.jpg/400px-Header_schinese.jpg 2x"></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>製作</rb><rp>(</rp><rt>제작</rt><rp>)</rp></ruby>
+</th>
+<td>YUZU SOFT
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>作畵</rb><rp>(</rp><rt>작화</rt><rp>)</rp></ruby>
+</th>
+<td>こぶいち、むりりん、<ruby class="hanja api grade10"><rb>煎</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>路</rb><rp>(</rp><rt>로</rt><rp>)</rp></ruby>、こもわた<ruby class="hanja api grade30"><rb>遙</rb><rp>(</rp><rt>요</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>華</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>（SD<ruby class="hanja api grade50"><rb>原畵</rb><rp>(</rp><rt>원화</rt><rp>)</rp></ruby>）
+</td></tr>
+<tr>
+<th>시나리오
+</th>
+<td><ruby class="hanja api grade42"><rb>天宮</rb><rp>(</rp><rt>천궁</rt><rp>)</rp></ruby>りつ、<ruby class="hanja api grade0"><rb>籐</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>、<ruby class="hanja api grade0"><rb>瀬</rb><rp>(</rp><rt>뢰</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>尾</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>發賣</rb><rp>(</rp><rt>발매</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>期間</rb><rp>(</rp><rt>기간</rt><rp>)</rp></ruby>
+</th>
+<td>2016/07/29 <br> 스팀:2020/2/14 <br> 스위치: 2022/5/26
+</td></tr>
+<tr>
+<th>장르
+</th>
+<td>러브코미디
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>支援</rb><rp>(</rp><rt>지원</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>機種</rb><rp>(</rp><rt>기종</rt><rp>)</rp></ruby>
+</th>
+<td>PC <br> 닌텐도 스위치
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>支援</rb><rp>(</rp><rt>지원</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja api grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby>,<ruby class="hanja api grade32"><rb>繁</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby>), <a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th>게임<ruby class="hanja api grade72"><rb>物</rb><rp>(</rp><rt>물</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>等級</rb><rp>(</rp><rt>등급</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=18%E6%AD%B2%E6%9C%AA%E6%BB%BF%E7%99%BC%E8%B3%A3%E7%A6%81%E6%AD%A2&amp;action=edit&amp;redlink=1" class="new" title="18歲未滿發賣禁止(없는　文書）">18<ruby class="hanja api grade52 unknown"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>未滿</rb><rp>(</rp><rt>미만</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>發賣禁止</rb><rp>(</rp><rt>발매금지</rt><rp>)</rp></ruby></a> <br> 닌텐도<ruby class="hanja api grade32"><rb>版</rb><rp>(</rp><rt>판</rt><rp>)</rp></ruby>:16<ruby class="hanja api grade52"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利用</rb><rp>(</rp><rt>이용</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>可</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby>
+</td></tr>
+</tbody></table>
+</div></body></html>
