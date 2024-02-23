@@ -1,8 +1,11 @@
 {
   "title": "게임보이",
   "namespace": 0,
-  "timestamp": 1708667081000,
-  "categories": [],
+  "timestamp": 1708668611000,
+  "categories": [
+    "게임機",
+    "任天堂"
+  ],
   "members": [],
   "file": null
 }
