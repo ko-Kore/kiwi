@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
 <tbody><tr>
-<th colspan="5"><span class="tp_link">{{{<ruby class="hanja api grade60"><rb>題目</rb><rp>(</rp><rt>제목</rt><rp>)</rp></ruby>}}}</span>
+<th colspan="5" style="background: red; color: white;"><span class="tp_link"><a href="/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="朝鮮民主主義人民共和國"><ruby class="hanja api grade42"><rb>朝鮮民主主義人民共和國</rb><rp>(</rp><rt>조선민주주의인민공화국</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E6%9C%80%E9%AB%98%E6%8C%87%E5%B0%8E%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="最高指導者(없는　文書）"><ruby class="hanja api grade50 unknown"><rb>最高</rb><rp>(</rp><rt>최고</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>指導者</rb><rp>(</rp><rt>지도자</rt><rp>)</rp></ruby></a></span>
 </th></tr>
 <tr>
 <td><a href="/wiki/%E9%87%91%E6%97%A5%E6%88%90" title="金日成"><ruby class="hanja api grade80"><rb>金日</rb><rp>(</rp><rt>금일</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>成</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby></a>
