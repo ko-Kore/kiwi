@@ -162,6 +162,11 @@
       "count": 1
     },
     {
+      "title": "오픈TTD",
+      "surrounding": "都市(도시) 中(중)에서 둘以上(이상) 道路(도로)로",
+      "count": 1
+    },
+    {
       "title": "올림푸스 펜EE",
       "surrounding": "렌즈 周圍(주위)에 둘러진 도넛型(형)의",
       "count": 1
