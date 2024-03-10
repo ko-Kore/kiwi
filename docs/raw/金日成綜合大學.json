@@ -1,8 +1,10 @@
 {
   "title": "金日成綜合大學",
   "namespace": 0,
-  "timestamp": 1710086001000,
-  "categories": [],
+  "timestamp": 1710086147000,
+  "categories": [
+    "朝鮮民主主義人民共和國"
+  ],
   "members": [],
   "file": null
 }

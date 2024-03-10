@@ -11,7 +11,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade52"><rb>性質</rb><rp>(</rp><rt>성질</rt><rp>)</rp></ruby></td>
-<td><a href="/index.php?title=%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%B8&amp;action=edit&amp;redlink=1" class="new" title="公立大學(없는　文書）"><ruby class="hanja api grade62 unknown"><rb>公立大學</rb><rp>(</rp><rt>공립대학</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%B8" title="公立大學"><ruby class="hanja api grade62"><rb>公立大學</rb><rp>(</rp><rt>공립대학</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade40"><rb>主管</rb><rp>(</rp><rt>주관</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部門</rb><rp>(</rp><rt>부문</rt><rp>)</rp></ruby></td>
