@@ -69,4 +69,35 @@
 <td><ruby class="hanja api grade20"><rb>艦隊</rb><rp>(</rp><rt>함대</rt><rp>)</rp></ruby></td>
 <td>2<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
+<table class="wikitable">
+<caption><ruby class="hanja api grade72"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>武備</rb><rp>(</rp><rt>무비</rt><rp>)</rp></ruby>(<ruby class="hanja api grade20"><rb>艦</rb><rp>(</rp><rt>함</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>隻</rb><rp>(</rp><rt>척</rt><rp>)</rp></ruby>)
+</caption>
+<tbody><tr>
+<td><ruby class="hanja api grade20"><rb>潛艦</rb><rp>(</rp><rt>잠함</rt><rp>)</rp></ruby></td>
+<td>92<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade62"><rb>半</rb><rp>(</rp><rt>반</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>潛艦</rb><rp>(</rp><rt>잠함</rt><rp>)</rp></ruby></td>
+<td>18<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade20"><rb>護衛艦</rb><rp>(</rp><rt>호위함</rt><rp>)</rp></ruby></td>
+<td>7<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>(<ruby class="hanja api grade20"><rb>輕型</rb><rp>(</rp><rt>경형</rt><rp>)</rp></ruby> 3<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td>미사일<ruby class="hanja api grade50"><rb>船</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby></td>
+<td>43<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>魚雷</rb><rp>(</rp><rt>어뢰</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>船</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby></td>
+<td>103<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>掃</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>雷</rb><rp>(</rp><rt>뢰</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>船</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby></td>
+<td>33<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>船</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby></td>
+<td>7<ruby class="hanja api grade30"><rb>只</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
 </div></body></html>
