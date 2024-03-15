@@ -1,8 +1,10 @@
 {
   "title": "MG42機關銃",
   "namespace": 0,
-  "timestamp": 1710496778000,
-  "categories": [],
+  "timestamp": 1710524526000,
+  "categories": [
+    "機關銃"
+  ],
   "members": [],
   "file": null
 }
