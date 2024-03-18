@@ -1,8 +1,10 @@
 {
   "title": "國漢大百科:練習帳",
   "namespace": 4,
-  "timestamp": 1710790272000,
-  "categories": [],
+  "timestamp": 1710790802000,
+  "categories": [
+    "한글"
+  ],
   "members": [],
   "file": null
 }
