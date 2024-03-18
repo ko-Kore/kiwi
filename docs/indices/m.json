@@ -157,6 +157,11 @@
       "count": 5
     },
     {
+      "title": "구글 日本語入力",
+      "surrounding": "變換(변환)性能(성능) 二 mozc 三 ... 오픈소스化(화)한 프로젝트로 mozc가 있다",
+      "count": 5
+    },
+    {
       "title": "램프",
       "surrounding": "(英語: Directional ramp) 右回轉(우회전)하기 ... (英語: Semi-directional ramp) 左回轉(좌회전)하기",
       "count": 5
@@ -949,11 +954,6 @@
     {
       "title": "갈맷길",
       "surrounding": "全體(전체) 278 8km의 길이",
-      "count": 1
-    },
-    {
-      "title": "구글 日本語入力",
-      "surrounding": "안드로이드 윈도우 macOS를 支援(지원)한다",
       "count": 1
     },
     {
