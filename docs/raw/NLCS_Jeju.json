@@ -1,8 +1,11 @@
 {
   "title": "NLCS Jeju",
   "namespace": 0,
-  "timestamp": 1711424143000,
-  "categories": [],
+  "timestamp": 1711472869000,
+  "categories": [
+    "學校",
+    "濟州特別自治道"
+  ],
   "members": [],
   "file": null
 }
