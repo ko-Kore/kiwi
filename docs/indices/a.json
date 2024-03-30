@@ -682,6 +682,11 @@
       "count": 2
     },
     {
+      "title": "게임보이",
+      "surrounding": "A B Start Select ... 뱅크 컨트롤러(Memory Bank Controller)",
+      "count": 2
+    },
+    {
       "title": "고양이",
       "surrounding": "學名(학명): Felis catus Linnaeus ... Felis catus Linnaeus 1758",
       "count": 2
@@ -1159,11 +1164,6 @@
     {
       "title": "갤럭시 S10e",
       "surrounding": "알파벳 'e'는 essential을 意味(의미)한다고",
-      "count": 1
-    },
-    {
-      "title": "게임보이",
-      "surrounding": "A B Start Select",
       "count": 1
     },
     {

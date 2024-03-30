@@ -417,6 +417,11 @@
       "count": 2
     },
     {
+      "title": "게임보이",
+      "surrounding": "B Start Select 버튼이 ... 컨트롤러(Memory Bank Controller) ",
+      "count": 2
+    },
+    {
       "title": "로마字",
       "surrounding": "또는 라틴文字(문자)(英語: latin script)는 ... 쓰이기도 한다 Hangul(한글)이나 Nippon(日本語(일본어):日本(일본))이",
       "count": 2
@@ -694,11 +699,6 @@
     {
       "title": "갤럭시 S10e",
       "surrounding": "알파벳 'e'는 essential을 意味(의미)한다고",
-      "count": 1
-    },
-    {
-      "title": "게임보이",
-      "surrounding": "B Start Select 버튼이",
       "count": 1
     },
     {

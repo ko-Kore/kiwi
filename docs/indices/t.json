@@ -357,6 +357,11 @@
       "count": 3
     },
     {
+      "title": "게임보이",
+      "surrounding": "A B Start Select ... 컨트롤러(Memory Bank Controller) ",
+      "count": 3
+    },
+    {
       "title": "램프",
       "surrounding": "直接(직접)式(식)램프 (英語: Directional ramp) ... 半(반)直接(직접)式(식)램프 (英語: Semi-directional ramp)",
       "count": 3
@@ -604,11 +609,6 @@
     {
       "title": "鿬",
       "surrounding": "117番(번) 元素(원소) 테네신(tennessine)을 나타내는 ... 標準中國語(표준중국어) 讀音(독음): tián 유니코드:",
-      "count": 2
-    },
-    {
-      "title": "게임보이",
-      "surrounding": "A B Start Select ... B Start Select 버튼이",
       "count": 2
     },
     {

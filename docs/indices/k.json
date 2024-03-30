@@ -622,6 +622,11 @@
       "count": 1
     },
     {
+      "title": "게임보이",
+      "surrounding": "뱅크 컨트롤러(Memory Bank Controller)",
+      "count": 1
+    },
+    {
       "title": "나무위키",
       "surrounding": "나무위키 Namu Wiki 言語(언어)",
       "count": 1
