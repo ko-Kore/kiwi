@@ -23,7 +23,7 @@
 <tr>
 <th><ruby class="hanja api grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby>
 </th>
-<td>
+<td>없음
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade32"><rb>署名</rb><rp>(</rp><rt>서명</rt><rp>)</rp></ruby>
