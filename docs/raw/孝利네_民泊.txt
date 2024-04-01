@@ -1,0 +1,43 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>孝</rb><rp>(</rp><rt>효</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby>네 <ruby class="hanja api grade30"><rb>民泊</rb><rp>(</rp><rt>민박</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;">
+</td></tr>
+<tr>
+<th>장르
+</th>
+<td><a href="/index.php?title=%E7%9C%9E%E5%AF%A6&amp;action=edit&amp;redlink=1" class="new" title="眞實(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>眞實</rb><rp>(</rp><rt>진실</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>監督</rb><rp>(</rp><rt>감독</rt><rp>)</rp></ruby>
+</th>
+<td>윤승원
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>脚本</rb><rp>(</rp><rt>각본</rt><rp>)</rp></ruby>
+</th>
+<td>윤신혜,이경희, 박진경, 김혜민, 김지연, 백윤경, 전진화, 장유미
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>演出者</rb><rp>(</rp><rt>연출자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%9D%8E%E5%AD%9D%E5%88%A9&amp;action=edit&amp;redlink=1" class="new" title="李孝利(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>孝</rb><rp>(</rp><rt>효</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby></a>
+<p><a href="/index.php?title=%E6%9D%8E%E5%B0%99%E9%A0%86&amp;action=edit&amp;redlink=1" class="new" title="李尙順(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>尙</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade80"><rb>外</rb><rp>(</rp><rt>외</rt><rp>)</rp></ruby>
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a> <a href="/index.php?title=JTBC&amp;action=edit&amp;redlink=1" class="new" title="JTBC(없는　文書）">JTBC</a> 2017<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>25<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> ~ 9<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>24<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> (1<ruby class="hanja api grade50"><rb>期</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>)
+<p>2018<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>2<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> ~ 5<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>20<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> (2<ruby class="hanja api grade50"><rb>期</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>)(<ruby class="hanja api grade52"><rb>每週</rb><rp>(</rp><rt>매주</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>日曜日</rb><rp>(</rp><rt>일요일</rt><rp>)</rp></ruby> 21:00 ~ 22:50)
+</p>
+</td></tr>
+</tbody></table>
+<p>《<b><ruby class="hanja api grade72"><rb>孝</rb><rp>(</rp><rt>효</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby>네 <ruby class="hanja api grade30"><rb>民泊</rb><rp>(</rp><rt>민박</rt><rp>)</rp></ruby></b>》은 <a href="/index.php?title=2017%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2017年(없는　文書）">2017<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>에 <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a> <a href="/index.php?title=JTBC&amp;action=edit&amp;redlink=1" class="new" title="JTBC(없는　文書）">JTBC</a>로 <ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby>의 <a href="/index.php?title=%E7%9C%9E%E5%AF%A6&amp;action=edit&amp;redlink=1" class="new" title="眞實(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>眞實</rb><rp>(</rp><rt>진실</rt><rp>)</rp></ruby></a> 프로그램이다.
+</p>
+<h2><span id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"></span><span class="mw-headline" id="登場人物(등장인물)"><ruby class="hanja api grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%AD%9D%E5%88%A9%EB%84%A4_%E6%B0%91%E6%B3%8A&amp;action=edit&amp;section=1" title="部分　編輯：登場人物(등장인물)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%E6%9D%8E%E5%AD%9D%E5%88%A9&amp;action=edit&amp;redlink=1" class="new" title="李孝利(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>孝</rb><rp>(</rp><rt>효</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E6%9D%8E%E5%B0%99%E9%A0%86&amp;action=edit&amp;redlink=1" class="new" title="李尙順(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>尙</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby></a></li></ul>
+</div></body></html>
