@@ -1,0 +1,44 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">무브 투 헤븐: 나는 <ruby class="hanja api grade40"><rb>遺品</rb><rp>(</rp><rt>유품</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>整理</rb><rp>(</rp><rt>정리</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>師</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>입니다
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;">
+</td></tr>
+<tr>
+<th>장르
+</th>
+<td><a href="/index.php?title=%EB%93%9C%EB%9D%BC%EB%A7%88&amp;action=edit&amp;redlink=1" class="new" title="드라마(없는　文書）">드라마</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>演出</rb><rp>(</rp><rt>연출</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%87%91%E6%99%9F%E6%B5%A9&amp;action=edit&amp;redlink=1" class="new" title="金晟浩(없는　文書）"><ruby class="hanja api grade80 unknown"><rb>金</rb><rp>(</rp><rt>금</rt><rp>)</rp></ruby><ruby class="hanja api grade12 unknown"><rb>晟</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>浩</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>脚本</rb><rp>(</rp><rt>각본</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade12"><rb>尹</rb><rp>(</rp><rt>윤</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>池</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>蓮</rb><rp>(</rp><rt>련</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>演出者</rb><rp>(</rp><rt>연출자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%9D%8E%E5%B8%9D%E5%8B%B3&amp;action=edit&amp;redlink=1" class="new" title="李帝勳(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>帝</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>勳</rb><rp>(</rp><rt>훈</rt><rp>)</rp></ruby></a>
+<p><a href="/index.php?title=%E9%99%B3%E4%BF%8A%E7%BF%94&amp;action=edit&amp;redlink=1" class="new" title="陳俊翔(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>陳</rb><rp>(</rp><rt>진</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>俊</rb><rp>(</rp><rt>준</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>翔</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby></a>
+</p><p><a href="/index.php?title=%E6%B4%AA%E6%89%BF%E5%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="洪承希(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>洪</rb><rp>(</rp><rt>홍</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>承</rb><rp>(</rp><rt>승</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>希</rb><rp>(</rp><rt>희</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade80"><rb>外</rb><rp>(</rp><rt>외</rt><rp>)</rp></ruby>
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%85%A8%E4%B8%96%E7%95%8C&amp;action=edit&amp;redlink=1" class="new" title="全世界(없는　文書）"><ruby class="hanja api grade62 unknown"><rb>全世界</rb><rp>(</rp><rt>전세계</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="넷플릭스(없는　文書）">넷플릭스</a> 2021<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>5<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>14<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+</tbody></table>
+<p>《<b>무브 투 헤븐: 나는 <ruby class="hanja api grade40"><rb>遺品</rb><rp>(</rp><rt>유품</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>整理</rb><rp>(</rp><rt>정리</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>師</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>입니다</b>》는 <a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>에 <a href="/index.php?title=%E5%85%A8%E4%B8%96%E7%95%8C&amp;action=edit&amp;redlink=1" class="new" title="全世界(없는　文書）"><ruby class="hanja api grade62 unknown"><rb>全世界</rb><rp>(</rp><rt>전세계</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="넷플릭스(없는　文書）">넷플릭스</a>로 <ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>製作</rb><rp>(</rp><rt>제작</rt><rp>)</rp></ruby>의 <a href="/index.php?title=%E6%94%BE%E9%80%81%E5%8A%87&amp;action=edit&amp;redlink=1" class="new" title="放送劇(없는　文書）"><ruby class="hanja api grade40 unknown"><rb>放送劇</rb><rp>(</rp><rt>방송극</rt><rp>)</rp></ruby></a>이다.
+</p>
+<h2><span id=".EC.A4.84.EA.B1.B0.EB.A6.AC"></span><span class="mw-headline" id="줄거리">줄거리</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%AC%B4%EB%B8%8C_%ED%88%AC_%ED%97%A4%EB%B8%90:_%EB%82%98%EB%8A%94_%E9%81%BA%E5%93%81%E6%95%B4%E7%90%86%E5%B8%AB%EC%9E%85%EB%8B%88%EB%8B%A4&amp;action=edit&amp;section=1" title="部分　編輯：줄거리">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.28.EB.93.B1.EC.9E.A5.EC.9D.B8.EB.AC.BC.29"></span><span class="mw-headline" id="登場人物(등장인물)"><ruby class="hanja api grade70"><rb>登場人物</rb><rp>(</rp><rt>등장인물</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%AC%B4%EB%B8%8C_%ED%88%AC_%ED%97%A4%EB%B8%90:_%EB%82%98%EB%8A%94_%E9%81%BA%E5%93%81%E6%95%B4%E7%90%86%E5%B8%AB%EC%9E%85%EB%8B%88%EB%8B%A4&amp;action=edit&amp;section=2" title="部分　編輯：登場人物(등장인물)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/index.php?title=%E6%9D%8E%E5%B8%9D%E5%8B%B3&amp;action=edit&amp;redlink=1" class="new" title="李帝勳(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>帝</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>勳</rb><rp>(</rp><rt>훈</rt><rp>)</rp></ruby></a>: <ruby class="hanja api grade12"><rb>曺</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>尙</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>久</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>役</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></li>
+<li><a href="/index.php?title=%E9%99%B3%E4%BF%8A%E7%BF%94&amp;action=edit&amp;redlink=1" class="new" title="陳俊翔(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>陳</rb><rp>(</rp><rt>진</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>俊</rb><rp>(</rp><rt>준</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>翔</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby></a>: <ruby class="hanja api grade80"><rb>韓</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby>그루 <ruby class="hanja api grade32"><rb>役</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></li>
+<li><a href="/index.php?title=%E6%B4%AA%E6%89%BF%E5%B8%8C&amp;action=edit&amp;redlink=1" class="new" title="洪承希(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>洪</rb><rp>(</rp><rt>홍</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>承</rb><rp>(</rp><rt>승</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>希</rb><rp>(</rp><rt>희</rt><rp>)</rp></ruby></a>: <ruby class="hanja api grade12"><rb>尹</rb><rp>(</rp><rt>윤</rt><rp>)</rp></ruby>나무 <ruby class="hanja api grade32"><rb>役</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></li></ul>
+</div></body></html>
