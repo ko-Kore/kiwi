@@ -20,7 +20,7 @@
 </p>
 </td></tr>
 <tr>
-<th><ruby class="hanja api grade0"><rb>腳</rb><rp>(</rp><rt>각</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade32"><rb>脚本</rb><rp>(</rp><rt>각본</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=%E5%85%AB%E6%B4%A5%E5%BC%98%E5%B9%B8&amp;action=edit&amp;redlink=1" class="new" title="八津弘幸(없는　文書）"><ruby class="hanja api grade80 unknown"><rb>八</rb><rp>(</rp><rt>팔</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>津</rb><rp>(</rp><rt>진</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>弘</rb><rp>(</rp><rt>홍</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>幸</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby></a>
 <p><ruby class="hanja api grade30"><rb>丑</rb><rp>(</rp><rt>축</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>尾</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>健</rb><rp>(</rp><rt>건</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>郞</rb><rp>(</rp><rt>랑</rt><rp>)</rp></ruby>
