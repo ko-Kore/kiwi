@@ -16,9 +16,9 @@
 <td>윤혜진, 이준범
 </td></tr>
 <tr>
-<th><ruby class="hanja api grade32"><rb>脚本</rb><rp>(</rp><rt>각본</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade42"><rb>製作</rb><rp>(</rp><rt>제작</rt><rp>)</rp></ruby>
 </th>
-<td>윤신혜,이경희, 박진경, 김혜민, 김지연, 백윤경, 전진화, 장유미
+<td>MBC <ruby class="hanja api grade42"><rb>藝能</rb><rp>(</rp><rt>예능</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>本部</rb><rp>(</rp><rt>본부</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade42"><rb>進行者</rb><rp>(</rp><rt>진행자</rt><rp>)</rp></ruby>
