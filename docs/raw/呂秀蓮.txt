@@ -1,0 +1,35 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade12"><rb>呂</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>秀</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>蓮</rb><rp>(</rp><rt>련</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Annette_Lu_at_Sigur_Center_for_Asian_Studies_2013.png" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Annette_Lu_at_Sigur_Center_for_Asian_Studies_2013.png/200px-Annette_Lu_at_Sigur_Center_for_Asian_Studies_2013.png" decoding="async" width="200" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/0/0c/Annette_Lu_at_Sigur_Center_for_Asian_Studies_2013.png 1.5x"></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1944<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-25px-Flag_of_Japan.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-38px-Flag_of_Japan.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-50px-Flag_of_Japan.svg.png 2x"></a></span><a href="/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B" class="mw-redirect" title="大日本帝國"><ruby class="hanja api grade80"><rb>大日</rb><rp>(</rp><rt>대일</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a><ruby class="hanja api grade20"><rb>臺灣</rb><rp>(</rp><rt>대만</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>新</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>竹</rb><rp>(</rp><rt>죽</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>桃園</rb><rp>(</rp><rt>도원</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>郡</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>桃園</rb><rp>(</rp><rt>도원</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>街</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>政黨</rb><rp>(</rp><rt>정당</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%B0%91%E4%B8%BB%E9%80%B2%E6%AD%A5%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="民主進步黨(없는　文書）"><ruby class="hanja api grade70 unknown"><rb>民主</rb><rp>(</rp><rt>민주</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>進步黨</rb><rp>(</rp><rt>진보당</rt><rp>)</rp></ruby></a><br><a href="/index.php?title=%E5%96%9C%E6%A8%82%E5%B3%B6%E8%81%AF%E7%9B%9F&amp;action=edit&amp;redlink=1" class="new" title="喜樂島聯盟(없는　文書）"><ruby class="hanja api grade40 unknown"><rb>喜樂</rb><rp>(</rp><rt>희락</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>島</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>聯盟</rb><rp>(</rp><rt>연맹</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>父母</rb><rp>(</rp><rt>부모</rt><rp>)</rp></ruby>
+</th>
+<td>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade40"><rb>朱</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>俶</rb><rp>(</rp><rt>숙</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>賢</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>署名</rb><rp>(</rp><rt>서명</rt><rp>)</rp></ruby>
+</th>
+<td>
+</td></tr></tbody></table>
+<p><b><ruby class="hanja api grade12"><rb>呂</rb><rp>(</rp><rt>려</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>秀</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>蓮</rb><rp>(</rp><rt>련</rt><rp>)</rp></ruby></b>(<a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja api grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>: 뤼슈롄, 1944<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> - )은 <a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja api grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E6%94%BF%E6%B2%BB%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="政治人(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>政治人</rb><rp>(</rp><rt>정치인</rt><rp>)</rp></ruby></a>이다. <a href="/index.php?title=%E6%B0%91%E4%B8%BB%E9%80%B2%E6%AD%A5%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="民主進步黨(없는　文書）"><ruby class="hanja api grade70 unknown"><rb>民主</rb><rp>(</rp><rt>민주</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>進步黨</rb><rp>(</rp><rt>진보당</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>10, 11<ruby class="hanja api grade62"><rb>代</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby> <a href="/index.php?title=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%89%AF%E7%B8%BD%E7%B5%B1&amp;action=edit&amp;redlink=1" class="new" title="中華民國副總統(없는　文書）"><ruby class="hanja api grade40 unknown"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>副</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>總統</rb><rp>(</rp><rt>총통</rt><rp>)</rp></ruby></a>이다.
+</p>
+</div></body></html>
