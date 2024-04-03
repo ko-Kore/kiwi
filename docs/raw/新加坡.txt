@@ -61,7 +61,7 @@
 <tr>
 <th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
 </th>
-<td>JST (UTC +8)
+<td>SST (UTC +8)
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
@@ -102,22 +102,22 @@
 <tr>
 <th><ruby class="hanja api grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
 </th>
-<td>$4<ruby class="hanja api grade32"><rb>兆</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby>9106<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby> 7,577.26&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+<td>$7577<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th>1<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>當</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
 </th>
-<td>$39,048 133,894&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+<td>$133,894&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
 </th>
-<td>$5<ruby class="hanja api grade32"><rb>兆</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby>2361<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby> 5,155.48&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+<td>$5155<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th>1<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>當</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
 </th>
-<td>$41,636 91,100&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
+<td>$91,100&nbsp;(<a href="/index.php?title=2023%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2023年(없는　文書）">2023<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
