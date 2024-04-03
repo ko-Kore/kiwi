@@ -37,7 +37,7 @@
 <li><ruby class="hanja api grade40"><rb>龍</rb><rp>(</rp><rt>용</rt><rp>)</rp></ruby>의 눈물</li>
 <li><ruby class="hanja api grade80"><rb>王</rb><rp>(</rp><rt>왕</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade32"><rb>妃</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby></li></ul>
 <h3><span id="2000.E5.B9.B4.E4.BB.A3.28.EC.97.B0.EB.8C.80.29"></span><span class="mw-headline" id="2000年代(연대)">2000<ruby class="hanja api grade62"><rb>年代</rb><rp>(</rp><rt>연대</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=KBS_%E5%A4%A7%E6%B2%B3%EB%93%9C%EB%9D%BC%EB%A7%88&amp;action=edit&amp;section=5" title="部分　編輯：2000年代(연대)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><ruby class="hanja api grade60"><rb>太祖王</rb><rp>(</rp><rt>태조왕</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>建</rb><rp>(</rp><rt>건</rt><rp>)</rp></ruby></li>
+<ul><li><ruby class="hanja api grade60"><rb>太祖</rb><rp>(</rp><rt>태조</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>王建</rb><rp>(</rp><rt>왕건</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja api grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby>의 아침</li>
 <li><ruby class="hanja api grade42"><rb>武人</rb><rp>(</rp><rt>무인</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>時代</rb><rp>(</rp><rt>시대</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja api grade32"><rb>不滅</rb><rp>(</rp><rt>불멸</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade12"><rb>李舜臣</rb><rp>(</rp><rt>이순신</rt><rp>)</rp></ruby></li>
