@@ -1042,6 +1042,11 @@
       "count": 1
     },
     {
+      "title": "韓㐎打字機",
+      "surrounding": "보여 一名(일명) ‘빨래줄 글꼴’이라",
+      "count": 1
+    },
+    {
       "title": "韓國",
       "surrounding": "흔히 大韓民國(대한민국)을 줄여서 韓國(한국)이라고",
       "count": 1
@@ -1589,6 +1594,11 @@
     {
       "title": "한글",
       "surrounding": "넘겨줄 對象：韓㐎",
+      "count": 1
+    },
+    {
+      "title": "한글專用",
+      "surrounding": "넘겨줄 對象：韓㐎專用",
       "count": 1
     },
     {
