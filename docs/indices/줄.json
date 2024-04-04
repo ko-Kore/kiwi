@@ -302,6 +302,11 @@
       "count": 1
     },
     {
+      "title": "分類:한글",
+      "surrounding": "넘겨줄 對象：分類:韓㐎",
+      "count": 1
+    },
+    {
       "title": "副次文化",
       "surrounding": "넘겨줄 대상:下位文化",
       "count": 1
@@ -773,7 +778,12 @@
     },
     {
       "title": "現代朝鮮글 11172字",
-      "surrounding": "줂 줃 줄 줅",
+      "surrounding": "넘겨줄 對象：現代朝鮮㐎",
+      "count": 1
+    },
+    {
+      "title": "現代한글 11172字",
+      "surrounding": "넘겨줄 對象：現代韓㐎",
       "count": 1
     },
     {
@@ -1577,8 +1587,13 @@
       "count": 1
     },
     {
+      "title": "한글",
+      "surrounding": "넘겨줄 對象：韓㐎",
+      "count": 1
+    },
+    {
       "title": "한글打字機",
-      "surrounding": "보여 一名(일명) ‘빨래줄 글꼴’이라",
+      "surrounding": "넘겨줄 對象：韓㐎打字機",
       "count": 1
     },
     {

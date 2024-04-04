@@ -12,13 +12,38 @@
       "count": 1
     },
     {
+      "title": "分類:한글",
+      "surrounding": "넘겨줄 對象：分類:韓㐎 ",
+      "count": 1
+    },
+    {
       "title": "國漢大百科:練習帳",
       "surrounding": "이 있으며 韓(한)㐎(글)과 같이",
       "count": 1
     },
     {
-      "title": "한글",
+      "title": "現代朝鮮글 11172字",
+      "surrounding": "넘겨줄 對象：現代朝鮮㐎 11172字",
+      "count": 1
+    },
+    {
+      "title": "現代한글 11172字",
+      "surrounding": "넘겨줄 對象：現代韓㐎 11172字",
+      "count": 1
+    },
+    {
+      "title": "韓㐎",
       "surrounding": "이 있으며 韓(한)㐎(글)과 같이",
+      "count": 1
+    },
+    {
+      "title": "한글",
+      "surrounding": "넘겨줄 對象：韓㐎 ",
+      "count": 1
+    },
+    {
+      "title": "한글打字機",
+      "surrounding": "넘겨줄 對象：韓㐎打字機 ",
       "count": 1
     }
   ]
