@@ -392,6 +392,11 @@
       "count": 1
     },
     {
+      "title": "朝鮮㐎",
+      "surrounding": "넘겨줄 對象：韓㐎",
+      "count": 1
+    },
+    {
       "title": "朝鮮民主主義人民共和國圓",
       "surrounding": "넘겨줄 대상:圓",
       "count": 1
@@ -1119,6 +1124,11 @@
     {
       "title": "일본어",
       "surrounding": "넘겨줄 대상:日本語",
+      "count": 1
+    },
+    {
+      "title": "조선글",
+      "surrounding": "넘겨줄 對象：韓㐎",
       "count": 1
     },
     {
