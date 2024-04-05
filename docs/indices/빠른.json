@@ -50,6 +50,11 @@
       "title": "高速鐵道",
       "surrounding": "旣存(기존)의 것보다 빠른 鐵道(철도)車輛(차량)과",
       "count": 1
+    },
+    {
+      "title": "게임보이",
+      "surrounding": "컬러에서 나온 빠른 CPU와",
+      "count": 1
     }
   ]
 }

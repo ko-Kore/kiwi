@@ -42,6 +42,11 @@
       "count": 1
     },
     {
+      "title": "게임보이",
+      "surrounding": "使用(사용)할 수 없지만 使用(사용)中(중)인",
+      "count": 1
+    },
+    {
       "title": "어쩔티비",
       "surrounding": "알려진 바는 없지만 '어쩌라고'",
       "count": 1
