@@ -117,6 +117,11 @@
       "count": 1
     },
     {
+      "title": "昭南",
+      "surrounding": "넘겨줄 對象：新加坡 ",
+      "count": 1
+    },
+    {
       "title": "朝鮮㐎",
       "surrounding": "넘겨줄 對象：韓㐎 ",
       "count": 1
@@ -129,6 +134,11 @@
     {
       "title": "東獨",
       "surrounding": "넘겨줄 對象:獨逸民主共和國 ",
+      "count": 1
+    },
+    {
+      "title": "東아시아文化圈",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
       "count": 1
     },
     {
@@ -202,8 +212,18 @@
       "count": 1
     },
     {
+      "title": "기무라 타쿠야",
+      "surrounding": "넘겨줄 對象：기무라 다쿠야",
+      "count": 1
+    },
+    {
       "title": "라틴文字",
       "surrounding": "넘겨줄 對象:로마字 ",
+      "count": 1
+    },
+    {
+      "title": "런던",
+      "surrounding": "넘겨줄 對象：倫敦 ",
       "count": 1
     },
     {
@@ -234,6 +254,11 @@
     {
       "title": "조선민주주의인민공화국",
       "surrounding": "넘겨줄 對象：朝鮮民主主義人民共和國 ",
+      "count": 1
+    },
+    {
+      "title": "중화민국",
+      "surrounding": "넘겨줄 對象：中華民國 ",
       "count": 1
     },
     {
