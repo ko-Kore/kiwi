@@ -1,0 +1,36 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>皇帝</rb><rp>(</rp><rt>황제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;">
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-25px-Flag_of_Japan.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-38px-Flag_of_Japan.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-50px-Flag_of_Japan.svg.png 2x"></a></span><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>職業</rb><rp>(</rp><rt>직업</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%81%B2%E5%84%AA&amp;action=edit&amp;redlink=1" class="new" title="聲優(없는　文書）"><ruby class="hanja api grade40 unknown"><rb>聲優</rb><rp>(</rp><rt>성우</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>社</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby>
+</th>
+<td>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>宗敎</rb><rp>(</rp><rt>종교</rt><rp>)</rp></ruby>
+</th>
+<td>
+</td></tr></tbody></table>
+<p><b><ruby class="hanja api grade32"><rb>皇帝</rb><rp>(</rp><rt>황제</rt><rp>)</rp></ruby></b>(<span style="font-size: smaller;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>: </span><span lang="ja">皇 帝</span> <small>스메라기 미카도</small>)는 <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>의 <a href="/index.php?title=%E8%81%B2%E5%84%AA&amp;action=edit&amp;redlink=1" class="new" title="聲優(없는　文書）"><ruby class="hanja api grade40 unknown"><rb>聲優</rb><rp>(</rp><rt>성우</rt><rp>)</rp></ruby></a>로, <ruby class="hanja api grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade62"><rb>成人</rb><rp>(</rp><rt>성인</rt><rp>)</rp></ruby> 게임에 목소리를 내고 있다.
+</p>
+<h2><span id=".E7.94.9F.E6.B6.AF.28.EC.83.9D.EC.95.A0.29"></span><span class="mw-headline" id="生涯(생애)"><ruby class="hanja api grade30"><rb>生涯</rb><rp>(</rp><rt>생애</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E7%9A%87%E5%B8%9D_(%E8%81%B2%E5%84%AA)&amp;action=edit&amp;section=1" title="部分　編輯：生涯(생애)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+</div></body></html>
