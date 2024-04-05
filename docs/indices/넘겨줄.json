@@ -1037,6 +1037,11 @@
       "count": 1
     },
     {
+      "title": "싱가포르",
+      "surrounding": "넘겨줄 對象：新加坡",
+      "count": 1
+    },
+    {
       "title": "아랍어",
       "surrounding": "넘겨줄 대상:아랍語",
       "count": 1
@@ -1159,6 +1164,11 @@
     {
       "title": "일본어",
       "surrounding": "넘겨줄 대상:日本語",
+      "count": 1
+    },
+    {
+      "title": "잉글랜드",
+      "surrounding": "넘겨줄 對象：英國",
       "count": 1
     },
     {
