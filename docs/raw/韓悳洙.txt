@@ -1,0 +1,62 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade80"><rb>韓</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>悳</rb><rp>(</rp><rt>덕</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>洙</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Han_Duck-soo_2022.jpg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Han_Duck-soo_2022.jpg/208px-Han_Duck-soo_2022.jpg" decoding="async" width="208" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Han_Duck-soo_2022.jpg/312px-Han_Duck-soo_2022.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Han_Duck-soo_2022.jpg/416px-Han_Duck-soo_2022.jpg 2x"></a></span>
+</td></tr>
+<tr>
+<th colspan="2"><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_South_Korea.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-kore-25px-Flag_of_South_Korea.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-kore-38px-Flag_of_South_Korea.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-kore-50px-Flag_of_South_Korea.svg.png 2x"></a></span> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>38,48<ruby class="hanja api grade62"><rb>代</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>國務總理</rb><rp>(</rp><rt>국무총리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>任期</rb><rp>(</rp><rt>임기</rt><rp>)</rp></ruby>
+</th>
+<td>2022<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>5<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>21<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>-<br>2007<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>—2008<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>2<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>29<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><br>2006<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>16<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>—2006<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>19<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>身上</rb><rp>(</rp><rt>신상</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>英文</rb><rp>(</rp><rt>영문</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>
+</th>
+<td>Han Duck-soo
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1949<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>18<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_South_Korea_(1949%E2%80%931984).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/langko-kore-25px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/langko-kore-38px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/langko-kore-50px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png 2x"></a></span> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%85%A8%E5%8C%97%E7%89%B9%E5%88%A5%E8%87%AA%E6%B2%BB%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="全北特別自治道(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>全羅北道</rb><rp>(</rp><rt>전라북도</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%85%A8%E5%B7%9E%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="全州市(없는　文書）"><ruby class="hanja api grade52 unknown"><rb>全州</rb><rp>(</rp><rt>전주</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>府</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>國籍</rb><rp>(</rp><rt>국적</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>本貫</rb><rp>(</rp><rt>본관</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade52"><rb>淸州</rb><rp>(</rp><rt>청주</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>韓</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>氏</rb><rp>(</rp><rt>씨</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>父母</rb><rp>(</rp><rt>부모</rt><rp>)</rp></ruby>
+</th>
+<td>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade12"><rb>崔</rb><rp>(</rp><rt>최</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>雅</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>英</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>宗敎</rb><rp>(</rp><rt>종교</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade42"><rb>無宗敎</rb><rp>(</rp><rt>무종교</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>署名</rb><rp>(</rp><rt>서명</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Han_Duck-soo_signature.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Han_Duck-soo_signature.svg/langko-kore-128px-Han_Duck-soo_signature.svg.png" decoding="async" width="128" height="33" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Han_Duck-soo_signature.svg/langko-kore-192px-Han_Duck-soo_signature.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Han_Duck-soo_signature.svg/langko-kore-256px-Han_Duck-soo_signature.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+<p><b><ruby class="hanja api grade80"><rb>韓</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>悳</rb><rp>(</rp><rt>덕</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>洙</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby></b>는 <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>38,48<ruby class="hanja api grade62"><rb>代</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>國務總理</rb><rp>(</rp><rt>국무총리</rt><rp>)</rp></ruby>이다.
+</p>
+<h2><span id=".E7.94.9F.E6.B6.AF.28.EC.83.9D.EC.95.A0.29"></span><span class="mw-headline" id="生涯(생애)"><ruby class="hanja api grade30"><rb>生涯</rb><rp>(</rp><rt>생애</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%9F%93%E6%82%B3%E6%B4%99&amp;action=edit&amp;section=1" title="部分　編輯：生涯(생애)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+</div></body></html>
