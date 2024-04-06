@@ -922,6 +922,16 @@
       "count": 1
     },
     {
+      "title": "塳文化東亞",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
+      "count": 1
+    },
+    {
+      "title": "塳文化𡨸漢",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
+      "count": 1
+    },
+    {
       "title": "外",
       "surrounding": "劃數(획수) 總(총)5劃(획) 簡化字(간화자) -",
       "count": 1
@@ -1089,6 +1099,11 @@
     {
       "title": "東",
       "surrounding": "劃數(획수) 總(총)8劃(획) 簡化字(간화자) 东(동)",
+      "count": 1
+    },
+    {
+      "title": "東亜文化圈",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
       "count": 1
     },
     {

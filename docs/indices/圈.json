@@ -227,6 +227,16 @@
       "count": 1
     },
     {
+      "title": "塳文化東亞",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
+      "count": 1
+    },
+    {
+      "title": "塳文化𡨸漢",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
+      "count": 1
+    },
+    {
       "title": "大東亞共榮權",
       "surrounding": "넘겨줄 對象：大東亞共榮圈 ",
       "count": 1
@@ -269,6 +279,11 @@
     {
       "title": "日本의 人名用 漢字",
       "surrounding": "劍(剣) 險(険) 圈(圏) 檢(検)",
+      "count": 1
+    },
+    {
+      "title": "東亜文化圈",
+      "surrounding": "넘겨줄 對象：漢字文化圈 ",
       "count": 1
     },
     {

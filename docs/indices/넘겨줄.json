@@ -262,6 +262,16 @@
       "count": 1
     },
     {
+      "title": "塳文化東亞",
+      "surrounding": "넘겨줄 對象：漢字文化圈",
+      "count": 1
+    },
+    {
+      "title": "塳文化𡨸漢",
+      "surrounding": "넘겨줄 對象：漢字文化圈",
+      "count": 1
+    },
+    {
       "title": "大日本帝國",
       "surrounding": "넘겨줄 대상:日本帝國",
       "count": 1
@@ -424,6 +434,11 @@
     {
       "title": "李氏",
       "surrounding": "넘겨줄 대상:李",
+      "count": 1
+    },
+    {
+      "title": "東亜文化圈",
+      "surrounding": "넘겨줄 對象：漢字文化圈",
       "count": 1
     },
     {
