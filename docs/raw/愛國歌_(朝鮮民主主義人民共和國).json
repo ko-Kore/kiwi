@@ -1,8 +1,10 @@
 {
   "title": "愛國歌 (朝鮮民主主義人民共和國)",
   "namespace": 0,
-  "timestamp": 1712472909000,
-  "categories": [],
+  "timestamp": 1712472970000,
+  "categories": [
+    "朝鮮民主主義人民共和國"
+  ],
   "members": [],
   "file": null
 }
