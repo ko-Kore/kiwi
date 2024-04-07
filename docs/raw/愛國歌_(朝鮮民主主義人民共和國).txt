@@ -6,7 +6,7 @@
 </p><p>아침은 빛나라 이 <ruby class="hanja api grade72"><rb>江山</rb><rp>(</rp><rt>강산</rt><rp>)</rp></ruby>
 </p><p><ruby class="hanja api grade60"><rb>銀金</rb><rp>(</rp><rt>은금</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade40"><rb>資源</rb><rp>(</rp><rt>자원</rt><rp>)</rp></ruby>도 가득한
 </p><p><s><ruby class="hanja api grade70"><rb>三千里</rb><rp>(</rp><rt>삼천리</rt><rp>)</rp></ruby> 아름다운 내 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby></s>(<b>이 <ruby class="hanja api grade72"><rb>世上</rb><rp>(</rp><rt>세상</rt><rp>)</rp></ruby> 아름다운 내 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby></b>)
-<ruby class="hanja api grade62"><rb>半萬年</rb><rp>(</rp><rt>반만년</rt><rp>)</rp></ruby> 오랜 <ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby>에
+</p><p><ruby class="hanja api grade62"><rb>半萬年</rb><rp>(</rp><rt>반만년</rt><rp>)</rp></ruby> 오랜 <ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby>에
 </p><p><ruby class="hanja api grade12"><rb>燦爛</rb><rp>(</rp><rt>찬란</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade52"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby>로 자라난
 </p><p>슬기론 <ruby class="hanja api grade80"><rb>人民</rb><rp>(</rp><rt>인민</rt><rp>)</rp></ruby>의 이 <ruby class="hanja api grade42"><rb>榮光</rb><rp>(</rp><rt>영광</rt><rp>)</rp></ruby>
 </p><p>몸과 맘 다 바쳐 이 <ruby class="hanja api grade52"><rb>朝鮮</rb><rp>(</rp><rt>조선</rt><rp>)</rp></ruby>
