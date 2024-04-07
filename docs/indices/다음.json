@@ -410,6 +410,11 @@
       "title": "한어",
       "surrounding": "한어는 다음을 가리킨다",
       "count": 1
+    },
+    {
+      "title": "황제",
+      "surrounding": "황제는 다음을 가리킨다",
+      "count": 1
     }
   ]
 }
