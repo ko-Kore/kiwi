@@ -1,8 +1,10 @@
 {
   "title": "韓國文化放送株式會社",
   "namespace": 0,
-  "timestamp": 1712474040000,
-  "categories": [],
+  "timestamp": 1712633583000,
+  "categories": [
+    "大韓民國의 放送"
+  ],
   "members": [],
   "file": null
 }

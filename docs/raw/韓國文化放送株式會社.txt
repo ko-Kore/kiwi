@@ -1,4 +1,4 @@
-<html><head></head><body><div class="mw-parser-output"><table>
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <caption><ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>介</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>
 </caption>
 <tbody><tr>
@@ -15,7 +15,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade40"><rb>經營</rb><rp>(</rp><rt>경영</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>範圍</rb><rp>(</rp><rt>범위</rt><rp>)</rp></ruby></td>
-<td><a href="/index.php?title=%ED%85%94%EB%A0%88%EB%B9%84&amp;action=edit&amp;redlink=1" class="new" title="텔레비(없는　文書）">텔레비</a><ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84&amp;action=edit&amp;redlink=1" class="new" title="텔레비전(없는　文書）">텔레비전</a><ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade20"><rb>類型</rb><rp>(</rp><rt>유형</rt><rp>)</rp></ruby></td>
