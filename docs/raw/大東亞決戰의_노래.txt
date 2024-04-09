@@ -1,4 +1,19 @@
 <html><head></head><body><div class="mw-parser-output"><p>&lt;<ruby class="hanja api grade80"><rb>大東</rb><rp>(</rp><rt>대동</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>決戰</rb><rp>(</rp><rt>결전</rt><rp>)</rp></ruby>의 노래(<span style="font-size: smaller;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>: </span><span lang="ja"><ruby><rb>大東亞決戰之歌</rb><rp>(</rp><rt>だいとうあけつせんのうた</rt><rp>)</rp></ruby></span>)&gt;는 <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade42"><rb>經典</rb><rp>(</rp><rt>경전</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>歌謠</rb><rp>(</rp><rt>가요</rt><rp>)</rp></ruby>.
 </p>
 <h2><span id=".E4.BD.9C.E8.80.85.28.EC.9E.91.EC.9E.90.29"></span><span class="mw-headline" id="作者(작자)"><ruby class="hanja api grade60"><rb>作者</rb><rp>(</rp><rt>작자</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E6%9D%B1%E4%BA%9E%E6%B1%BA%E6%88%B0%EC%9D%98_%EB%85%B8%EB%9E%98&amp;action=edit&amp;section=1" title="部分　編輯：作者(작자)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<td><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade12"><rb>伊</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>豊</rb><rp>(</rp><rt>풍</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>(<ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>&lt;<a href="/index.php?title=%E6%AF%8F%E6%97%A5%E6%96%B0%E8%81%9E&amp;action=edit&amp;redlink=1" class="new" title="每日新聞(없는　文書）"><ruby class="hanja api grade62 unknown"><rb>每日新聞</rb><rp>(</rp><rt>매일신문</rt><rp>)</rp></ruby></a>&gt;<ruby class="hanja api grade32"><rb>征</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>集</rb><rp>(</rp><rt>집</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade50"><rb>選定</rb><rp>(</rp><rt>선정</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></td>
+<td><a href="/index.php?title=%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B%E6%B5%B7%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="大日本帝國海軍(없는　文書）"><ruby class="hanja api grade80 unknown"><rb>大日</rb><rp>(</rp><rt>대일</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E8%BB%8D%E6%A8%82%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="軍樂隊(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>軍樂隊</rb><rp>(</rp><rt>군악대</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade50"><rb>發賣</rb><rp>(</rp><rt>발매</rt><rp>)</rp></ruby></td>
+<td><a href="/index.php?title=1941%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1941年(없는　文書）">1941<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>(<a href="/index.php?title=%E6%98%AD%E5%92%8C&amp;action=edit&amp;redlink=1" class="new" title="昭和(없는　文書）"><ruby class="hanja api grade30 unknown"><rb>昭和</rb><rp>(</rp><rt>소화</rt><rp>)</rp></ruby></a><ruby class="hanja api grade80"><rb>十六</rb><rp>(</rp><rt>십육</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)
+</td></tr></tbody></table>
 </div></body></html>
