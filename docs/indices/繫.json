@@ -52,6 +52,11 @@
       "count": 1
     },
     {
+      "title": "臺北捷運",
+      "surrounding": "連繫路線 包含",
+      "count": 1
+    },
+    {
       "title": "語文會 級數別 配定漢字 一覽",
       "surrounding": "庚(경) 竟(경) 繫(계) 癸(계)",
       "count": 1
@@ -63,7 +68,7 @@
     },
     {
       "title": "釜山都市鐵道",
-      "surrounding": " 連繫路線 包含",
+      "surrounding": "連繫路線 包含",
       "count": 1
     },
     {
