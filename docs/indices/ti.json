@@ -3,22 +3,92 @@
   "pages": [
     {
       "title": "小苹果",
-      "surrounding": "今天是个伟大日子(금천시개위대일자) jin tian shi ... 春天又来到了花开满山坡(춘천우래도료화개만산파) chun tian you",
+      "surrounding": "今天(금천)是(시)个(개)伟(위)大日(대일)子(자) jin tian shi ... 春天(춘천)又(우)来(래)到(도)了(료)花(화)开(개)满(만)山(산)坡(파) chun tian you",
       "count": 16
     },
     {
+      "title": "越南社會主義共和國憲法正文",
+      "surrounding": "dân ta tiến hành ... chủ và tiến bộ",
+      "count": 13
+    },
+    {
+      "title": "Steins;Gate",
+      "surrounding": "360Windows XP/Vista/7/7 x64PlayStation 3PlayStation ... PlayStation 4PlayStation 3PlayStation VitaWindows",
+      "count": 12
+    },
+    {
+      "title": "TORIKYU",
+      "surrounding": "収錄曲(수록곡) bbd badinternational kithune ... 싱글[편집] Jangam Station -",
+      "count": 12
+    },
+    {
+      "title": "主祈禱文",
+      "surrounding": "主祈禱文(주기도문)(希(희):Κυριακή προσευχή 羅(나):Oratio Dominica或(혹)은Pater ... not into temptation But",
+      "count": 11
+    },
+    {
+      "title": "레제프 타이이프 에르도안",
+      "surrounding": "이맘해팁學校(학교)(İstanbul İmam Hatip Okulu ... 빌랄 에르도안 (Necmettin Bilal",
+      "count": 8
+    },
+    {
+      "title": "星條旗 (國歌)",
+      "surrounding": "the bombs bursting in ... us a nation Then",
+      "count": 6
+    },
+    {
+      "title": "獨逸民主共和國",
+      "surrounding": "\"勞農(노농) 社會主義(사회주의) 國家(국가)\"(sozialistischen Staat ... 獨逸民主共和國(독일민주공화국)의 正規軍(정규군)은 國家(국가)人民軍(인민군)(Nationale Volksarmee)으로",
+      "count": 6
+    },
+    {
       "title": "美合衆國",
-      "surrounding": "薔薇(장미)(rose)이다 標語(표어)[편집] 美合衆國(미합중국)의標語(표어)(national motto)는 ... ↑ 原文(원문):The Stile of",
-      "count": 7
+      "surrounding": "薔薇(장미)이다 標語(표어)[編輯] 美合衆國(미합중국)의標語(표어)(national motto)는 ... ↑ 原文(원문):The Stile of",
+      "count": 6
     },
     {
       "title": "2020年 美合衆國 大統領選擧",
-      "surrounding": "United States presidential election ... States presidential election)는2020年(년)11月(월)3日(일)에實施(실시)된美合衆國(미합중국)의大統領(대통령)及(급)副統領(부통령)을選出(선출)하는選擧(선거)이다 民主黨(민주당)의조",
+      "surrounding": "United States presidential election ... States presidential election)는 2020年(년)",
+      "count": 4
+    },
+    {
+      "title": "Clbuttic",
+      "surrounding": "clbuttic은 점잖은( ... 링크[편집] The Clbuttic Mistake",
+      "count": 4
+    },
+    {
+      "title": "韓國停戰協定",
+      "surrounding": "朝文(조문) United Nations Command ... Athanase George Politis 룩셈부르크:",
+      "count": 4
+    },
+    {
+      "title": "인터체인지",
+      "surrounding": "(英語: Grade separation) 交叉路(교차로) ... 두 槪念(개념)을 Junction 對(대)",
+      "count": 4
+    },
+    {
+      "title": "𡨸國語",
+      "surrounding": "유니코드에는 Basic Latin Latin-1 ... Latin Extended Additional 領域(영역)에",
       "count": 4
     },
     {
       "title": "醋酸",
-      "surrounding": "弱酸性(약산성)을지니는 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은 ... ↑ 이 名稱(명칭)의\"acetic\"은 食醋(식초)를意味(의미)하는",
+      "surrounding": "카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학연합))의命名法(명명법)에따른 系統名(계통명)(systematic name)은 ... ↑ 이 名稱(명칭)의“acetic”은 食醋(식초)를意味(의미)하는",
+      "count": 3
+    },
+    {
+      "title": "나치獨逸의 노래",
+      "surrounding": "Rotfront und Reaktion erschossen ... Philipps)와 크리스티안 예리히(Christian Jährig)가",
+      "count": 3
+    },
+    {
+      "title": "램프",
+      "surrounding": "直接(직접)式(식)램프 (英語: Directional ramp) ... 半(반)直接(직접)式(식)램프 (英語: Semi-directional ramp)",
+      "count": 3
+    },
+    {
+      "title": "망고",
+      "surrounding": "indica)나 말망고(M foetida) 사이판망고(M ... '란세티야(Lancetilla)' 온두라스 '센세이션(Sensation)' 美國(미국)",
       "count": 3
     },
     {
@@ -27,8 +97,23 @@
       "count": 2
     },
     {
+      "title": "吳廷琰",
+      "surrounding": "↑ 佛(불): Jean-Baptiste 越(월): ... 越(월): Gioan Baotixita 洗禮者(세례자)요한에서",
+      "count": 2
+    },
+    {
       "title": "美國달러",
       "surrounding": "밥티스트 샬보노(Jean Baptiste Charbonneau) ... 紙幣(지폐)가있어야한다며 擁護(옹호)하는反面(반면) 政治的正當性(정치적정당성)(Political Correctness)에",
+      "count": 2
+    },
+    {
+      "title": "雙拼",
+      "surrounding": "있는데 中國語(중국어) phonotactics上(상) 出現(출현) ... e ren tie yiuuai",
+      "count": 2
+    },
+    {
+      "title": "韓國文化放送株式會社",
+      "surrounding": "簡(간)寫(사) MBC(Munhwa Broadcasting Corporation) ... MBC(Munhwa Broadcasting Corporation) 創設(창설)時間(시간)",
       "count": 2
     },
     {
@@ -37,18 +122,63 @@
       "count": 2
     },
     {
-      "title": "Orangestar",
-      "surrounding": "White Landscape Still-GATE Trash",
+      "title": "벡스코",
+      "surrounding": "槪要(개요)[편집] 벡스코(Busan Exhibition & ... Exhibition & COnvention Center:",
+      "count": 2
+    },
+    {
+      "title": "애니메이션 밈",
+      "surrounding": "槪要(개요)[편집] 애니메이션 밈(Animation meme)이란 ... 밈(meme)과 애니메이션 밈(Animation meme)은",
+      "count": 2
+    },
+    {
+      "title": "오일러φ函數",
+      "surrounding": "프리드리히 가우스이며 1801年(년)의著書(저서)Disquisitiones Arithmeticae（算術硏究(산술연구)）에登場(등장)한다。 ... 가우스이며 1801年(년)의著書(저서)Disquisitiones Arithmeticae（算術硏究(산술연구)）에登場(등장)한다。 素數(소수)p에對(대)하여k를任意(임의)의自然數(자연수)라하면、pk以下(이하)의p의倍數(배수)는正確(정확)히pk-1個(개)있으니、φ(pk)=pk-pk-1=pk(1-1/p)가成立(성립)한다。또한φ函數(함수)의乘法的性質(승법적성질)로써任意(임의)의自然數(자연수)에對(대)하여그값이計算可能(계산가능)하다。",
+      "count": 2
+    },
+    {
+      "title": "오픈TTD",
+      "surrounding": "Another Cargo Destinations)라는 패치도 ... 만들어버리면 原來(원래)의 豫測(예측)可能(가능)한(deterministic) 시뮬레이션이",
+      "count": 2
+    },
+    {
+      "title": "Foreign carrot regime",
+      "surrounding": "sight of \"nation\" -",
       "count": 1
     },
     {
-      "title": "先",
-      "surrounding": "𡨸國語(자국어) : tiên ",
+      "title": "俗라틴語",
+      "surrounding": "俗(속)라틴語(어)(라틴語: Latina vulgata)",
       "count": 1
     },
     {
-      "title": "小",
-      "surrounding": "𡨸國語(자국어) : tiểu ",
+      "title": "國漢大百科討論:縱書化計劃",
+      "surrounding": "縱書(종서)에서는 text-align: justify하는 式(식)으로",
+      "count": 1
+    },
+    {
+      "title": "外傷後 스트레스 障礙",
+      "surrounding": "外傷後(외상후) 스트레스 障礙(장애)(Post-traumatic stress",
+      "count": 1
+    },
+    {
+      "title": "多國語基本平面",
+      "surrounding": "多國語基本平面(다국어기본평면)(英語: Basic Multilingual Plane)은",
+      "count": 1
+    },
+    {
+      "title": "崇高한 오스만國",
+      "surrounding": "該當(해당)하는 “Osmanlı Devleti”의 表記(표기)를",
+      "count": 1
+    },
+    {
+      "title": "平面交叉",
+      "surrounding": "平面交叉(평면교차)(英語: At-grade junction)는 두",
+      "count": 1
+    },
+    {
+      "title": "廣東語",
+      "surrounding": "엘리베이터 電梯 dian4ti1 𨋢",
       "count": 1
     },
     {
@@ -57,8 +187,43 @@
       "count": 1
     },
     {
+      "title": "憲法",
+      "surrounding": "憲法(헌법)(英語: constitution)은 國家(국가)의",
+      "count": 1
+    },
+    {
+      "title": "散彈銃",
+      "surrounding": "火器(화기)이다 粘土射擊(점토사격)(clay-pigeon shooting)과 狩獵(수렵)",
+      "count": 1
+    },
+    {
+      "title": "漢字模樣說明式",
+      "surrounding": "漢字模樣說明式(한자모양설명식)(Ideographic Description Sequence",
+      "count": 1
+    },
+    {
+      "title": "甲骨文字",
+      "surrounding": "解釋(해석) https://mouchengzhai tistory com/68",
+      "count": 1
+    },
+    {
+      "title": "硫黄島의 星條旗",
+      "surrounding": "Jima Isle Resting 'neath",
+      "count": 1
+    },
+    {
       "title": "空賣渡",
       "surrounding": "空賣渡(공매도)(英(영): short selling/shorting)은 없는것(空(공))을",
+      "count": 1
+    },
+    {
+      "title": "立體交叉",
+      "surrounding": "立體交叉(입체교차)(英語: Grade separation)는 道路(도로)나",
+      "count": 1
+    },
+    {
+      "title": "自由 소프트웨어 財團",
+      "surrounding": "Free Software Foundation)은 自由(자유)",
       "count": 1
     },
     {
@@ -67,18 +232,33 @@
       "count": 1
     },
     {
+      "title": "英國",
+      "surrounding": "있었는데 바로 大英帝國(대영제국)(British Empire)이다",
+      "count": 1
+    },
+    {
+      "title": "葡萄",
+      "surrounding": "또는 孛(패)桃(도)는 葡萄(포도)屬(속)(Vitis) 植物(식물)의",
+      "count": 1
+    },
+    {
       "title": "蟻酸",
       "surrounding": "第一簡單(제일간단)한 카르본酸(산)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은",
       "count": 1
     },
     {
-      "title": "越南語",
-      "surrounding": "越南語 㗂越(생월) tiếng Việt",
+      "title": "酪酸",
+      "surrounding": "酪酸(낙산)은 直鎖(직쇄)카르본酸(산)의一種(일종)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은",
       "count": 1
     },
     {
-      "title": "酪酸",
-      "surrounding": "酪酸(낙산)은 直鎖(직쇄)카르본酸(산)의一種(일종)이다 IUPAC(國際純正(국제순정)・應用化學聯合(응용화학련합))의命名法(명명법)에따른系統名(계통명)(systematic name)은",
+      "title": "鿬",
+      "surrounding": "標準中國語(표준중국어) 讀音(독음): tián 유니코드:",
+      "count": 1
+    },
+    {
+      "title": "가톨릭",
+      "surrounding": "羅(나): fratres seiuncti 英(영):",
       "count": 1
     },
     {
@@ -92,8 +272,53 @@
       "count": 1
     },
     {
-      "title": "애니메이션 밈",
-      "surrounding": "槪要(개요)[편집] 애니메이션 밈(Animation meme)이란",
+      "title": "라틴語",
+      "surrounding": "라틴語(어)(라틴語: Lingua Latina)는 印歐語族(인구어족)",
+      "count": 1
+    },
+    {
+      "title": "로마字",
+      "surrounding": "또는 라틴文字(문자)(英語: latin script)는",
+      "count": 1
+    },
+    {
+      "title": "미라큘러스: 레이디버그와 블랙캣",
+      "surrounding": "메소드 애니메이션(Method Animation) 日本(일본)의",
+      "count": 1
+    },
+    {
+      "title": "브라질",
+      "surrounding": "聯邦共和國(연방공화국)(포르투갈語: República Federativa do",
+      "count": 1
+    },
+    {
+      "title": "스위스鐵道時計",
+      "surrounding": "Hilfiker)가設計(설계)하고 스위스聯邦鐵道(연방철도)의驛舍內時計(역사내시계)로써供用(공용)한時計(시계)이다。生産會社(생산회사)는 Mobatime。 機能的(기능적)인特徵(특징)으로써、秒針(초침)이",
+      "count": 1
+    },
+    {
+      "title": "안드로이드 運營體制",
+      "surrounding": "運營體制(운영체제)(英(영): Android Operating System)는",
+      "count": 1
+    },
+    {
+      "title": "오네로리키메세쿠天皇",
+      "surrounding": "유티라이넨(Elia Ilmatar Juutilainen)과相當(상당)히類似(유사)하다 西紀(서기)2021年(년)(皇紀(황기)2618年(년))2月(월)14日(일)에",
+      "count": 1
+    },
+    {
+      "title": "오렌지스타",
+      "surrounding": "White Landscape Still-GATE Trash",
+      "count": 1
+    },
+    {
+      "title": "칼스주니어",
+      "surrounding": "아나하임에本社(본사)가竣工(준공)되고、1979年(년)에는 첫州外店鋪(주외점포)인、라스베가스店(점)이開業(개업)하였다。1988年(년)에는 카처家(가)가內部者去來(내부자거래)의容疑(용의)로、美國證券去來委員會(미국증권거래위원회)（Securities and",
+      "count": 1
+    },
+    {
+      "title": "파일:Representative prog.jpeg",
+      "surrounding": "파일의 설명[편집] representative prog",
       "count": 1
     }
   ]
