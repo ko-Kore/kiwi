@@ -49,10 +49,10 @@
 </p><p>革新之機到ぬと
 </p><p>吹くや日本之夕嵐
 </p><p>8.
-</p><p>嗚呼裏触し天地の
-</p><p>迷ひ之道を人は行く
-</p><p>栄華を詡塵之世に
-</p><p>誰が高楼之眺めぞや
+</p><p><ruby><rb>嗚呼</rb><rp>(</rp><rt>あゝ</rt><rp>)</rp></ruby><ruby><rb>裏觸</rb><rp>(</rp><rt>うらふれ</rt><rp>)</rp></ruby>し<ruby><rb>天地</rb><rp>(</rp><rt>てんち</rt><rp>)</rp></ruby>の
+</p><p><ruby><rb>迷</rb><rp>(</rp><rt>まよひ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>道</rb><rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を<ruby><rb>人</rb><rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby><rb>行</rb><rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>く
+</p><p><ruby><rb>榮華</rb><rp>(</rp><rt>ゑいぐあ</rt><rp>)</rp></ruby>を<ruby><rb>詡</rb><rp>(</rp><rt>ほこる</rt><rp>)</rp></ruby><ruby><rb>塵</rb><rp>(</rp><rt>ちり</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>世に
+</p><p><ruby><rb>誰</rb><rp>(</rp><rt>た</rt><rp>)</rp></ruby>が<ruby><rb>高樓</rb><rp>(</rp><rt>こうろう</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>眺</rb><rp>(</rp><rt>なが</rt><rp>)</rp></ruby>めぞや
 </p><p>9.
 </p><p>功名何か夢之跡
 </p><p>消えざる者は唯誠
@@ -62,7 +62,7 @@
 </p><p>辞めよ離騒之一悲曲
 </p><p>悲歌慷慨之日は去ぬ
 </p><p>我等之剣今超そは
-</p><p>廓清之血に踊る哉！
+</p><p>廓清之血に踊る哉
 </p>
 <h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29.28.E9.9F.93.E5.9C.8B.E8.AA.9E.28.ED.95.9C.EA.B5.AD.EC.96.B4.29.2F.E5.9C.8B.E6.BC.A2.28.EA.B5.AD.ED.95.9C.29.E6.B7.B7.28.ED.98.BC.29.E6.9B.B8.28.EC.84.9C.29.29"></span><span class="mw-headline" id="歌詞(가사)(韓國語(한국어)/國漢(국한)混(혼)書(서))"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby>(<ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby>/<ruby class="hanja api grade72"><rb>國漢</rb><rp>(</rp><rt>국한</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>混</rb><rp>(</rp><rt>혼</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>書</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%9D%91%E5%B9%B4%E6%97%A5%E6%9C%AC%EC%9D%98_%E6%AD%8C&amp;action=edit&amp;section=3" title="部分　編輯：歌詞(가사)(韓國語(한국어)/國漢(국한)混(혼)書(서))">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><ruby class="hanja api grade10"><rb>汨</rb><rp>(</rp><rt>골</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>羅</rb><rp>(</rp><rt>라</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby>은 물이 어지럽고 구름이 <ruby class="hanja api grade10"><rb>巫山</rb><rp>(</rp><rt>무산</rt><rp>)</rp></ruby>아를 맰다.
