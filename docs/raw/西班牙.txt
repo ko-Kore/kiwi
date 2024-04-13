@@ -3,6 +3,9 @@
 <th colspan="2"><ruby class="hanja api grade32"><rb>西班牙</rb><rp>(</rp><rt>서반아</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
+<th colspan="2">Reino de España
+</th></tr>
+<tr>
 <td colspan="2" style="padding: 0;">
 <table style="width: 100%;">
 <tbody><tr>
