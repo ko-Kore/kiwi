@@ -87,11 +87,6 @@
       "count": 4
     },
     {
-      "title": "西班牙",
-      "surrounding": "國章(국장) 파일:Coat of arms ... svg 파일:Kingdom of Spain",
-      "count": 4
-    },
-    {
       "title": "漢語拼音",
       "surrounding": "ě è f g ... (risk one's life)이다 이",
       "count": 3
@@ -164,6 +159,11 @@
     {
       "title": "英國",
       "surrounding": "United Kingdom of Great ... United Kingdom of Great",
+      "count": 2
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "紋章(문장) 파일:Sign of the ... svg 파일:Kingdom of Spain",
       "count": 2
     },
     {
