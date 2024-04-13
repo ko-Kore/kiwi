@@ -8,7 +8,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade70"><rb>外文</rb><rp>(</rp><rt>외문</rt><rp>)</rp></ruby></td>
-<td><span style="font-size: smaller;">[[|]]: </span><span lang="jp"><ruby><rb>大政翼贊會</rb><rp>(</rp><rt>だいせいよくさんゑ</rt><rp>)</rp></ruby></span>
+<td><span style="font-size: smaller;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>: </span><span lang="ja"><ruby><rb>大政翼贊會</rb><rp>(</rp><rt>だいせいよくさんゑ</rt><rp>)</rp></ruby></span>
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade42"><rb>創設</rb><rp>(</rp><rt>창설</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby></td>
