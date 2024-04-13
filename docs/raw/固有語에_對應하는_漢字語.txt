@@ -168,5 +168,145 @@
 <td><ruby class="hanja api grade32"><rb>夢</rb><rp>(</rp><rt>몽</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>囈</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby></td>
 <td>
 </td></tr>
+<tr>
+<td>숫구멍</td>
+<td><ruby class="hanja api grade0"><rb>囟</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>門</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>비탈길</td>
+<td><ruby class="hanja api grade0"><rb>坂路</rb><rp>(</rp><rt>판로</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>물레</td>
+<td><ruby class="hanja api grade0"><rb>坏</rb><rp>(</rp><rt>배</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>車</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade10"><rb>陶瓷器</rb><rp>(</rp><rt>도자기</rt><rp>)</rp></ruby>를 만들 때 <ruby class="hanja api grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade42"><rb>器具</rb><rp>(</rp><rt>기구</rt><rp>)</rp></ruby>.
+</td></tr>
+<tr>
+<td>도가니</td>
+<td><ruby class="hanja api grade0"><rb>坩</rb><rp>(</rp><rt>감</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>堝</rb><rp>(</rp><rt>과</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>갯논</td>
+<td><ruby class="hanja api grade0"><rb>坰畓</rb><rp>(</rp><rt>경답</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>못자리</td>
+<td><ruby class="hanja api grade20"><rb>苗垈</rb><rp>(</rp><rt>묘대</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>귀지</td>
+<td><ruby class="hanja api grade10"><rb>耳垢</rb><rp>(</rp><rt>이구</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>귀지</td>
+<td><ruby class="hanja api grade0"><rb>耵</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>聹</rb><rp>(</rp><rt>녕</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>귀지</td>
+<td><ruby class="hanja api grade32"><rb>耳塞</rb><rp>(</rp><rt>이색</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>바깥담</td>
+<td><ruby class="hanja api grade80"><rb>外</rb><rp>(</rp><rt>외</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>垣</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>담쟁이</td>
+<td><ruby class="hanja api grade0"><rb>垣衣</rb><rp>(</rp><rt>원의</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>울타리</td>
+<td><ruby class="hanja api grade0"><rb>垣墻</rb><rp>(</rp><rt>원장</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>울타리</td>
+<td><ruby class="hanja api grade0"><rb>垣</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>牆</rb><rp>(</rp><rt>장</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>울타리</td>
+<td><ruby class="hanja api grade0"><rb>樊籬</rb><rp>(</rp><rt>번리</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>울타리</td>
+<td><ruby class="hanja api grade10"><rb>藩</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>籬</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>깃그물</td>
+<td><ruby class="hanja api grade10"><rb>袖</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>垣</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>개밋둑</td>
+<td><ruby class="hanja api grade0"><rb>蟻</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>垤</rb><rp>(</rp><rt>질</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>나루터</td>
+<td><ruby class="hanja api grade50"><rb>船</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>埠</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>나루터</td>
+<td><ruby class="hanja api grade32"><rb>渡船場</rb><rp>(</rp><rt>도선장</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>나루터</td>
+<td><ruby class="hanja api grade20"><rb>津河</rb><rp>(</rp><rt>진하</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>무넘기</td>
+<td><ruby class="hanja api grade30"><rb>越流堤</rb><rp>(</rp><rt>월류제</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>돈</td>
+<td><ruby class="hanja api grade32"><rb>阿</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>堵</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>돈</td>
+<td><ruby class="hanja api grade10"><rb>阿堵物</rb><rp>(</rp><rt>아도물</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>무덤</td>
+<td><ruby class="hanja api grade0"><rb>墳塋</rb><rp>(</rp><rt>분영</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>무덤</td>
+<td><ruby class="hanja api grade40"><rb>墓地</rb><rp>(</rp><rt>묘지</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>무덤</td>
+<td><ruby class="hanja api grade30"><rb>墳墓</rb><rp>(</rp><rt>분묘</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>때죽나무</td>
+<td><ruby class="hanja api grade0"><rb>齊墩果</rb><rp>(</rp><rt>제돈과</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>술집</td>
+<td><ruby class="hanja api grade0"><rb>壚</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>邸</rb><rp>(</rp><rt>저</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
 </tbody></table>
 </div></body></html>
