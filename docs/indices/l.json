@@ -338,7 +338,7 @@
     },
     {
       "title": "伯林",
-      "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[1] ... 聯邦州(연방주)이다 ↑ Bundesland ↑",
+      "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[一(일)] ... 都(도)伯林(백림) ↑ Bundesland ↑",
       "count": 2
     },
     {
@@ -349,6 +349,11 @@
     {
       "title": "俗라틴語",
       "surrounding": "俗(속)라틴語(어)(라틴語: Latina vulgata) 또는 ... 라틴語(어)(라틴語: Sermo vulgaris)는 文語(문어)의",
+      "count": 2
+    },
+    {
+      "title": "倫敦",
+      "surrounding": "London 首都(수도)[一(일)] 파일:Flag of ... 都(도)伯林(백림) ↑ capital city",
       "count": 2
     },
     {
@@ -579,11 +584,6 @@
     {
       "title": "使用者:洪民憙",
       "surrounding": "eu 깃허브: @dahlia 트위터:",
-      "count": 1
-    },
-    {
-      "title": "倫敦",
-      "surrounding": "技能(기능)했다 ↑ capital city",
       "count": 1
     },
     {

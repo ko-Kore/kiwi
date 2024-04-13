@@ -158,7 +158,7 @@
     },
     {
       "title": "伯林",
-      "surrounding": "聯邦州(연방주)이다 ↑ Bundesland ↑ ... Rathaus ↑ Ostniederdeutsch ",
+      "surrounding": "都(도)伯林(백림) ↑ Bundesland ↑ ... Rathaus ↑ Ostniederdeutsch ",
       "count": 5
     },
     {
@@ -714,6 +714,11 @@
     {
       "title": "保登心愛",
       "surrounding": "사는마을에轉住(전주)해 喫茶店(끽다점)Rabbit House에下宿中(하숙중) 또",
+      "count": 1
+    },
+    {
+      "title": "倫敦",
+      "surrounding": "of London svg 行政(행정)",
       "count": 1
     },
     {

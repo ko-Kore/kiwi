@@ -57,6 +57,11 @@
       "count": 4
     },
     {
+      "title": "倫敦",
+      "surrounding": " 倫敦(윤돈) London 首都(수도)[一(일)] ... ↑ borough and city",
+      "count": 3
+    },
+    {
       "title": "回轉交叉路",
       "surrounding": "通行方式圖 回轉(회전)交叉路(교차로)(英語: Roundabout) 또는 ... 信號化(신호화)回轉(회전)交叉路(교차로)(英國英語: Signalised roundabouts)는 優先權(우선권)이",
       "count": 3
@@ -69,11 +74,6 @@
     {
       "title": "Alice in 冷凍庫",
       "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
-      "count": 2
-    },
-    {
-      "title": "倫敦",
-      "surrounding": " 倫敦(윤돈) London 首都(수도)[一(일)] ... ↑ borough and city",
       "count": 2
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "title": "伯林",
-      "surrounding": "聯邦州(연방주)이다 ↑ Bundesland ↑",
+      "surrounding": "都(도)伯林(백림) ↑ Bundesland ↑",
       "count": 1
     },
     {

@@ -488,7 +488,12 @@
     },
     {
       "title": "伯林",
-      "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[1] ... Rathaus ↑ Ostniederdeutsch ",
+      "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[一(일)] ... Rathaus ↑ Ostniederdeutsch ",
+      "count": 3
+    },
+    {
+      "title": "倫敦",
+      "surrounding": " 倫敦(윤돈) London 首都(수도)[一(일)] ... ↑ borough and city",
       "count": 3
     },
     {
@@ -669,11 +674,6 @@
     {
       "title": "使用者:ItMarki",
       "surrounding": "(英語(영어): toki pona) 옵젝트 ... for Dream Island 系列(계열)",
-      "count": 2
-    },
-    {
-      "title": "倫敦",
-      "surrounding": " 倫敦(윤돈) London 首都(수도)[一(일)] ... ↑ borough and city",
       "count": 2
     },
     {

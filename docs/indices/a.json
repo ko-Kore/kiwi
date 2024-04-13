@@ -337,6 +337,11 @@
       "count": 4
     },
     {
+      "title": "倫敦",
+      "surrounding": "London 首都(수도)[一(일)] 파일:Flag of ... ↑ borough and city",
+      "count": 4
+    },
+    {
       "title": "假名入力",
       "surrounding": "ゑへ ー Backspace Tab ... Alt 無変換(무변환) Space 変換(변환)",
       "count": 4
@@ -428,17 +433,12 @@
     },
     {
       "title": "伯林",
-      "surrounding": "聯邦州(연방주)이다 ↑ Bundesland ↑ ... ↑ Rotes Rathaus ↑",
+      "surrounding": "都(도)伯林(백림) ↑ Bundesland ↑ ... ↑ Rotes Rathaus ↑",
       "count": 3
     },
     {
       "title": "俗라틴語",
       "surrounding": "俗(속)라틴語(어)(라틴語: Latina vulgata) ... 라틴語(어)(라틴語: Sermo vulgaris)는 文語(문어)의",
-      "count": 3
-    },
-    {
-      "title": "倫敦",
-      "surrounding": "技能(기능)했다 ↑ capital city ... ↑ borough and city",
       "count": 3
     },
     {
