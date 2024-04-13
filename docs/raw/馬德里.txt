@@ -6,10 +6,10 @@
 <th colspan="2">Madrid
 </th></tr>
 <tr>
-<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[<ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>]</a></sup>
+<th colspan="2" style="background: #CDDEFF;"><a href="/wiki/%E5%B8%82" title="市"><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
 </th></tr>
 <tr>
-<td colspan="2"><span typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Emblem_of_Madrid.svg" class="new" title="파일:Emblem of Madrid.svg"><span class="mw-broken-media" data-width="200">파일:Emblem of Madrid.svg</span></a></span>
+<td colspan="2"><span typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Insigne_Madrid.svg" class="new" title="파일:Insigne Madrid.svg"><span class="mw-broken-media" data-width="200">파일:Insigne Madrid.svg</span></a></span>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
@@ -22,17 +22,17 @@
 <tr>
 <th><ruby class="hanja api grade50"><rb>上位</rb><rp>(</rp><rt>상위</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
 </th>
-<td><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>德</rb><rp>(</rp><rt>덕</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>里</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>自治區</rb><rp>(</rp><rt>자치구</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[<ruby class="hanja api grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>]</a></sup>
+<td><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>德</rb><rp>(</rp><rt>덕</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>里</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>自治區</rb><rp>(</rp><rt>자치구</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade50"><rb>下位</rb><rp>(</rp><rt>하위</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
 </th>
-<td>헤타페, 알칼라<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[<ruby class="hanja api grade80"><rb>三</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby>]</a></sup>
+<td>헤타페, 알칼라
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade72"><rb>市長</rb><rp>(</rp><rt>시장</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%EB%A1%9C%EB%B2%A0%EB%A5%B4%ED%86%A0_%EA%B5%AC%EC%95%8C%ED%8B%B0%EC%97%90%EB%A6%AC&amp;action=edit&amp;redlink=1" class="new" title="로베르토 구알티에리(없는　文書）">로베르토 구알티에리</a>(<a href="/index.php?title=%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E4%BC%8A%E5%A4%AA%E5%88%A9)&amp;action=edit&amp;redlink=1" class="new" title="民主黨 (伊太利)(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>民主黨</rb><rp>(</rp><rt>민주당</rt><rp>)</rp></ruby></a>)
+<td><a href="/index.php?title=%EC%A1%B0%EC%8A%A4_%EB%A3%A8%EC%9D%B4%EC%8A%A4_%EB%A7%90%ED%8A%B8%EB%84%A4%EC%8A%A4-%EC%95%8C%EB%A9%94%EB%8B%A4&amp;action=edit&amp;redlink=1" class="new" title="조스 루이스 말트네스-알메다(없는　文書）">조스 루이스 말트네스-알메다</a>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
@@ -62,12 +62,4 @@
 <p><b>La Puerta de Europa<br><ruby class="hanja api grade10"><rb>歐羅巴</rb><rp>(</rp><rt>구라파</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade80"><rb>門</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby></b>
 </p>
 </blockquote>
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">comune</span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">regione</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">municcipio</span>
-</li>
-</ol></div>
 </div></body></html>

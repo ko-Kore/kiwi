@@ -582,11 +582,6 @@
       "count": 3
     },
     {
-      "title": "馬德里",
-      "surrounding": "門(문) ↑ comune ↑ ... regione ↑ municcipio ",
-      "count": 3
-    },
-    {
       "title": "게임보이",
       "surrounding": "켤때마다 任天(임천)堂(당)의 ‘Nintendo®’ 로고가 ... 컨트롤러(Memory Bank Controller) ",
       "count": 3
@@ -1354,6 +1349,11 @@
     {
       "title": "音樂箱子",
       "surrounding": "使用(사용)하는 圓筒(원통) 音樂箱子(음악상자)(cylinder music",
+      "count": 1
+    },
+    {
+      "title": "馬德里",
+      "surrounding": "Madrid 市(시) 파일:Insigne Madrid",
       "count": 1
     },
     {
