@@ -1,0 +1,102 @@
+<html><head></head><body><div class="mw-parser-output"><p>이 <ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade50"><rb>固有語</rb><rp>(</rp><rt>고유어</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade42"><rb>對應</rb><rp>(</rp><rt>대응</rt><rp>)</rp></ruby>하는 두 글<ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70"><rb>漢字語</rb><rp>(</rp><rt>한자어</rt><rp>)</rp></ruby>를 다룹니다.
+</p>
+<table class="wikitable sortable">
+<caption><ruby class="hanja api grade50"><rb>固有語</rb><rp>(</rp><rt>고유어</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>漢字語</rb><rp>(</rp><rt>한자어</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>對應</rb><rp>(</rp><rt>대응</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>表</rb><rp>(</rp><rt>표</rt><rp>)</rp></ruby>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade50"><rb>固有語</rb><rp>(</rp><rt>고유어</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja api grade70"><rb>漢字語</rb><rp>(</rp><rt>한자어</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja api grade42"><rb>備考</rb><rp>(</rp><rt>비고</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>텁석부리</td>
+<td><ruby class="hanja api grade0"><rb>䯱</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>䰄</rb><rp>(</rp><rt>새</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>골마지</td>
+<td><ruby class="hanja api grade10"><rb>醱</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>䤍</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>맑은대쑥</td>
+<td><ruby class="hanja api grade0"><rb>菴</rb><rp>(</rp><rt>암</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>䕡</rb><rp>(</rp><rt>려</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>바퀴벌레</td>
+<td><ruby class="hanja api grade0"><rb>䗅</rb><rp>(</rp><rt>장</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>蜋</rb><rp>(</rp><rt>랑</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>바퀴벌레</td>
+<td><ruby class="hanja api grade42"><rb>香</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>娘子</rb><rp>(</rp><rt>낭자</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>바퀴벌레</td>
+<td><ruby class="hanja api grade10"><rb>蜚</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>蠊</rb><rp>(</rp><rt>렴</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>그리마</td>
+<td><ruby class="hanja api grade0"><rb>䖡</rb><rp>(</rp><rt>육</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>蚭</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>그리마</td>
+<td><ruby class="hanja api grade0"><rb>蚰</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>蜒</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>바구미</td>
+<td><ruby class="hanja api grade60"><rb>強</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>䖹</rb><rp>(</rp><rt>양</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>오금</td>
+<td><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>䐐</rb><rp>(</rp><rt>추</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>쌀바구미</td>
+<td><ruby class="hanja api grade0"><rb>蛄</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>䗐</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>기미</td>
+<td><ruby class="hanja api grade0"><rb>䵟</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby>𪒟</td>
+<td>얼굴에 끼는 거뭇한 얼룩<ruby class="hanja api grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>.
+</td></tr>
+<tr>
+<td>마른기침</td>
+<td><ruby class="hanja api grade0"><rb>乾嗽</rb><rp>(</rp><rt>건수</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>딸꾹질</td>
+<td><ruby class="hanja api grade0"><rb>呃</rb><rp>(</rp><rt>애</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>逆</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>딸꾹질</td>
+<td><ruby class="hanja api grade0"><rb>噦</rb><rp>(</rp><rt>홰</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>嘔</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>고지새</td>
+<td><ruby class="hanja api grade0"><rb>蠟嘴</rb><rp>(</rp><rt>납취</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade42"><rb>密話</rb><rp>(</rp><rt>밀화</rt><rp>)</rp></ruby>부리.
+</td></tr>
+<tr>
+<td>고지새</td>
+<td><ruby class="hanja api grade0"><rb>蠟嘴</rb><rp>(</rp><rt>납취</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>雀</rb><rp>(</rp><rt>작</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade42"><rb>密話</rb><rp>(</rp><rt>밀화</rt><rp>)</rp></ruby>부리.
+</td></tr>
+<tr>
+<td>고지새</td>
+<td><ruby class="hanja api grade0"><rb>蠟嘴</rb><rp>(</rp><rt>납취</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>鳥</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade42"><rb>密話</rb><rp>(</rp><rt>밀화</rt><rp>)</rp></ruby>부리.
+</td></tr>
+</tbody></table>
+</div></body></html>
