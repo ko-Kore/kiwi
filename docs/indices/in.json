@@ -53,7 +53,7 @@
     },
     {
       "title": "英國",
-      "surrounding": "北(북)아일랜드聯合(연합)王國(왕국)[一(일)] United Kingdom of ... 또는 簡單(간단)히 Britain이라고도 합니다",
+      "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[一(일)] United Kingdom of ... 또는 簡單(간단)히 Britain이라고도 합니다",
       "count": 7
     },
     {
@@ -414,6 +414,11 @@
     {
       "title": "花園明朝",
       "surrounding": "花園明朝(화원명조)(はなぞのみんちょう Hanazono Mincho)는 明朝體(명조체)",
+      "count": 1
+    },
+    {
+      "title": "英蘭",
+      "surrounding": " 英蘭(영란)王國(왕국) Kingdom of",
       "count": 1
     },
     {
