@@ -308,5 +308,150 @@
 <td><ruby class="hanja api grade0"><rb>壚</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>邸</rb><rp>(</rp><rt>저</rt><rp>)</rp></ruby></td>
 <td>
 </td></tr>
+<tr>
+<td>꽃샘추위</td>
+<td><ruby class="hanja api grade0"><rb>花妬娟</rb><rp>(</rp><rt>화투연</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>강샘</td>
+<td><ruby class="hanja api grade10"><rb>嫉</rb><rp>(</rp><rt>질</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>妒</rb><rp>(</rp><rt>투</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>강샘</td>
+<td><ruby class="hanja api grade10"><rb>嫉妬</rb><rp>(</rp><rt>질투</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>강샘</td>
+<td><ruby class="hanja api grade10"><rb>娼</rb><rp>(</rp><rt>창</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>嫉</rb><rp>(</rp><rt>질</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>강샘</td>
+<td><ruby class="hanja api grade10"><rb>妬忌</rb><rp>(</rp><rt>투기</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>누님</td>
+<td><ruby class="hanja api grade0"><rb>姐姐</rb><rp>(</rp><rt>저저</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>아가씨</td>
+<td><ruby class="hanja api grade0"><rb>小姐</rb><rp>(</rp><rt>소저</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>할미꽃</td>
+<td><ruby class="hanja api grade32"><rb>老姑草</rb><rp>(</rp><rt>노고초</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>민누에</td>
+<td><ruby class="hanja api grade20"><rb>姬蠶</rb><rp>(</rp><rt>희잠</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade42"><rb>副室</rb><rp>(</rp><rt>부실</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade42"><rb>小星</rb><rp>(</rp><rt>소성</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade42"><rb>外婦</rb><rp>(</rp><rt>외부</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade32"><rb>外妻</rb><rp>(</rp><rt>외처</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade0"><rb>仍妻</rb><rp>(</rp><rt>잉처</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade30"><rb>妾婦</rb><rp>(</rp><rt>첩부</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade30"><rb>妾室</rb><rp>(</rp><rt>첩실</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade32"><rb>側女</rb><rp>(</rp><rt>측녀</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>작은마누라</td>
+<td><ruby class="hanja api grade20"><rb>姬妾</rb><rp>(</rp><rt>희첩</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>암무당</td>
+<td><ruby class="hanja api grade10"><rb>巫女</rb><rp>(</rp><rt>무녀</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>암무당</td>
+<td><ruby class="hanja api grade10"><rb>女巫</rb><rp>(</rp><rt>여무</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>암무당</td>
+<td><ruby class="hanja api grade10"><rb>師婆</rb><rp>(</rp><rt>사파</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>어이며느리</td>
+<td><ruby class="hanja api grade32"><rb>姑</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>媳</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>며느리</td>
+<td><ruby class="hanja api grade0"><rb>媳</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>婦</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>며느리</td>
+<td><ruby class="hanja api grade42"><rb>息</rb><rp>(</rp><rt>식</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>婦</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>며느리</td>
+<td><ruby class="hanja api grade42"><rb>子婦</rb><rp>(</rp><rt>자부</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>젖어머니</td>
+<td><ruby class="hanja api grade40"><rb>乳母</rb><rp>(</rp><rt>유모</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>젖어머니</td>
+<td><ruby class="hanja api grade32"><rb>阿母</rb><rp>(</rp><rt>아모</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>젖어머니</td>
+<td><ruby class="hanja api grade32"><rb>阿之</rb><rp>(</rp><rt>아지</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>젖어머니</td>
+<td><ruby class="hanja api grade40"><rb>乳</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>媼</rb><rp>(</rp><rt>온</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
 </tbody></table>
 </div></body></html>
