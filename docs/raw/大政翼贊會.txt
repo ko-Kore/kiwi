@@ -1,4 +1,4 @@
-<html><head></head><body><div class="mw-parser-output"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=The_Sign_of_the_Daisei_Yokusan_Kai.svg" class="new" title="파일:The Sign of the Daisei Yokusan Kai.svg"><span class="mw-broken-media" data-width="180">파일:The Sign of the Daisei Yokusan Kai.svg</span></a><figcaption></figcaption></figure>
+<html><head></head><body><div class="mw-parser-output"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_the_Taisei_Yokusan_Kai" class="new" title="파일:Coat of arms of the Taisei Yokusan Kai"><span class="mw-broken-media" data-width="180">파일:Coat of arms of the Taisei Yokusan Kai</span></a><figcaption></figcaption></figure>
 <table class="wikitable">
 <caption><ruby class="hanja api grade20"><rb>紹介</rb><rp>(</rp><rt>소개</rt><rp>)</rp></ruby>
 </caption>
