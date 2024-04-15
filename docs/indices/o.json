@@ -117,11 +117,6 @@
       "count": 11
     },
     {
-      "title": "瑞西",
-      "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération suisse/Confederazione ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
-      "count": 9
-    },
-    {
       "title": "英國",
       "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[一(일)] United Kingdom of ... 따서 United Kingdom 頭文字(두문자)로는",
       "count": 9
@@ -150,6 +145,11 @@
       "title": "韓國語의 漢字",
       "surrounding": "-{便紙(편지)}- 편지 (pyeonji) 草紙(초지) ... -{囚徒(수도)}- 수도 (sudo) 側房(측방)",
       "count": 8
+    },
+    {
+      "title": "瑞西",
+      "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération suisse/Confederazione ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
+      "count": 7
     },
     {
       "title": "인터체인지",

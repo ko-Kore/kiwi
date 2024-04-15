@@ -112,11 +112,6 @@
       "count": 9
     },
     {
-      "title": "瑞西",
-      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
-      "count": 8
-    },
-    {
       "title": "利物浦",
       "surrounding": " 利(리)物(물)浦(포) Liverpool 市(시) ... High Street Liverpool L2",
       "count": 7
@@ -144,6 +139,11 @@
     {
       "title": "獨逸國",
       "surrounding": "1943年(년)6月(월)24日(일) 首相府長官(수상부장관)(Chef der Reichskanzlei) ... 비스마르크가 普魯西王國(보로서왕국)의 領國宰相(영국재상)(Staatskanzler)가 되었다",
+      "count": 6
+    },
+    {
+      "title": "瑞西",
+      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
       "count": 6
     },
     {
@@ -547,11 +547,6 @@
       "count": 2
     },
     {
-      "title": "墺地利",
-      "surrounding": "墺地利(오지리)共和國(공화국) Republik Österreich 國旗(국기) ... Recht und Freiheit (統一(통일)과",
-      "count": 2
-    },
-    {
       "title": "巴西羅挪",
       "surrounding": " 巴西(파서)羅(라)挪(나) Barcelona/Azulgrana 市(시) ... Jaume 1 Barcelona 市長(시장)",
       "count": 2
@@ -797,6 +792,11 @@
       "count": 1
     },
     {
+      "title": "伊比利亞半島",
+      "surrounding": "伊(이)比(비)利(리)亞(아)半島(반도)(스페인語: Ibérian(이빨리안) Peninsula(펫닝숙락))는",
+      "count": 1
+    },
+    {
       "title": "使用者:洪民憙",
       "surrounding": "웹사이트: hongminhee org (英文(영문))",
       "count": 1
@@ -829,6 +829,11 @@
     {
       "title": "國際蹴球聯盟蹴球大會",
       "surrounding": "(英語: FIFA(휘화) World(월드) Cup(컵))은",
+      "count": 1
+    },
+    {
+      "title": "墺地利",
+      "surrounding": "墺地利(오지리)共和國(공화국) Republik Österreich 國旗(국기)",
       "count": 1
     },
     {

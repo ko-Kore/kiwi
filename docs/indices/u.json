@@ -137,11 +137,6 @@
       "count": 5
     },
     {
-      "title": "墺地利",
-      "surrounding": " 墺地利(오지리)共和國(공화국) Republik Österreich ... und Recht und Freiheit",
-      "count": 5
-    },
-    {
       "title": "廣東語",
       "surrounding": "없다 沒有 mei2you3 冇 ... shi4 han2 guo2 ren2",
       "count": 5
@@ -254,6 +249,11 @@
     {
       "title": "國名의 漢字 略稱",
       "surrounding": "俄羅斯(아라사) 拼音(평음): éluósī)의 첫글자를 ... 罗马(라마) 拼音(평음): Luómǎ의 첫글자를",
+      "count": 3
+    },
+    {
+      "title": "墺地利",
+      "surrounding": " 墺地利(오지리)共和國(공화국) Republik Österreich ... uns mit geschlungen Hände",
       "count": 3
     },
     {
@@ -579,6 +579,11 @@
     {
       "title": "伊太利",
       "surrounding": " 伊太利(이태리) Repubblica Italiana",
+      "count": 1
+    },
+    {
+      "title": "伊比利亞半島",
+      "surrounding": "伊(이)比(비)利(리)亞(아)半島(반도)(스페인語: Ibérian(이빨리안) Peninsula(펫닝숙락))는 比利牛斯半島南西(남서)쪽에",
       "count": 1
     },
     {

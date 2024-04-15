@@ -453,5 +453,35 @@
 <td><ruby class="hanja api grade40"><rb>乳</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>媼</rb><rp>(</rp><rt>온</rt><rp>)</rp></ruby></td>
 <td>
 </td></tr>
+<tr>
+<td>난봉쟁이</td>
+<td><ruby class="hanja api grade0"><rb>嫖</rb><rp>(</rp><rt>표</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>客</rb><rp>(</rp><rt>객</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>딸</td>
+<td><ruby class="hanja api grade10"><rb>阿嬌</rb><rp>(</rp><rt>아교</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>고욤</td>
+<td><ruby class="hanja api grade50"><rb>牛</rb><rp>(</rp><rt>우</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>嬭</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>柹</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>고욤</td>
+<td><ruby class="hanja api grade0"><rb>桾</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>櫏</rb><rp>(</rp><rt>천</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>子</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>고욤</td>
+<td><ruby class="hanja api grade80"><rb>小</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>柹</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>고욤</td>
+<td><ruby class="hanja api grade40"><rb>紅</rb><rp>(</rp><rt>홍</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>梬</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>棗</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
 </tbody></table>
 </div></body></html>
