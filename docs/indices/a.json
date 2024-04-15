@@ -282,6 +282,11 @@
       "count": 5
     },
     {
+      "title": "巴西羅挪",
+      "surrounding": " 巴西(파서)羅(라)挪(나) Barcelona/Azulgrana 市(시) ... Jaume 1 Barcelona 市長(시장)",
+      "count": 5
+    },
+    {
       "title": "巴里",
       "surrounding": " 巴(파)里(리) Paris 市(시)[一(일)] ... ville de Paris ",
       "count": 5
@@ -544,6 +549,11 @@
     {
       "title": "葡萄牙",
       "surrounding": " 葡萄牙(포도아)共和國(공화국) República Portuguesa ... Portuguese Republic (orthographic projection)",
+      "count": 3
+    },
+    {
+      "title": "蘇格蘭",
+      "surrounding": "Kingdom of Scotland/Rìoghachd na ... Scotland/Rìoghachd na h-Alba 國旗(국기)",
       "count": 3
     },
     {
