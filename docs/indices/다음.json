@@ -432,6 +432,11 @@
       "count": 1
     },
     {
+      "title": "팔도",
+      "surrounding": "팔도는 다음을 가리킨다",
+      "count": 1
+    },
+    {
       "title": "필름",
       "surrounding": "가리키는 英語(영어)單語(단어)이며 다음 의미로",
       "count": 1
@@ -444,6 +449,11 @@
     {
       "title": "한어",
       "surrounding": "한어는 다음을 가리킨다",
+      "count": 1
+    },
+    {
+      "title": "황문수",
+      "surrounding": "다른 뜻은 다음과 같다",
       "count": 1
     },
     {
