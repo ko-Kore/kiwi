@@ -11,7 +11,7 @@
 </td>
 <th>→
 </th>
-<td><a href="/index.php?title=%EC%84%B8%EB%A6%AC%EC%97%90_C&amp;action=edit&amp;redlink=1" class="new" title="세리에 C(없는　文書）">세리에 C</a>
+<td><a href="/index.php?title=%EC%84%B8%EB%A6%AC%EC%97%90_C%E7%94%B2&amp;action=edit&amp;redlink=1" class="new" title="세리에 C甲(없는　文書）">세리에 C<ruby class="hanja api grade40 unknown"><rb>甲</rb><rp>(</rp><rt>갑</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko-Kore" dir="ltr"><h2 id="mw-toc-heading">目次</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
