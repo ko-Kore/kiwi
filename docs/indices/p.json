@@ -87,6 +87,11 @@
       "count": 5
     },
     {
+      "title": "廣東語",
+      "surrounding": "韻尾(운미)가 不(불)破(파)音(음)/k/ /p/ /t/로 ... dian4ti1 𨋢 lip1 걱정마라",
+      "count": 5
+    },
+    {
       "title": "粵語諺文",
       "surrounding": "波(파) 보 p 婆(파) ... 英(영)* 엫 ip 葉(엽)*",
       "count": 5
@@ -419,11 +424,6 @@
     {
       "title": "巴里",
       "surrounding": "commune ↑ département ↑",
-      "count": 1
-    },
-    {
-      "title": "廣東語",
-      "surrounding": "dian4ti1 𨋢 lip1 걱정마라",
       "count": 1
     },
     {
