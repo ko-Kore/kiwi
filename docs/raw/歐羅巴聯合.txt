@@ -1,4 +1,6 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<html><head></head><body><div class="mw-parser-output"><p><a href="/index.php?title=%ED%8B%80:%E6%AD%90%E7%BE%85%E5%B7%B4_%E8%81%AF%E5%90%88%E5%8F%B2&amp;action=edit&amp;redlink=1" class="new" title="틀:歐羅巴 聯合史(없는　文書）">틀:<ruby class="hanja api grade10 unknown"><rb>歐羅巴</rb><rp>(</rp><rt>구라파</rt><rp>)</rp></ruby> <ruby class="hanja api grade32 unknown"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>史</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></a>
+</p>
+<table class="wikitable infobox">
 <tbody><tr>
 <th colspan="2"><ruby class="hanja api grade10"><rb>歐羅巴</rb><rp>(</rp><rt>구라파</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby>
 </th></tr>
@@ -16,7 +18,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Europe.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/langko-kore-240px-Flag_of_Europe.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/langko-kore-360px-Flag_of_Europe.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/langko-kore-480px-Flag_of_Europe.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_European_Union.svg" class="new" title="파일:Coat of arms of European Union.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of European Union.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Europe.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Europe.svg/langko-kore-133px-Coat_of_arms_of_Europe.svg.png" decoding="async" width="133" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Europe.svg/langko-kore-200px-Coat_of_arms_of_Europe.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Europe.svg/langko-kore-266px-Coat_of_arms_of_Europe.svg.png 2x"></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

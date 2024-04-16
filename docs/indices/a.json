@@ -422,11 +422,6 @@
       "count": 4
     },
     {
-      "title": "歐羅巴聯合",
-      "surrounding": "Europäische Union/Union Européenne/European Union ... arms of European Union",
-      "count": 4
-    },
-    {
       "title": "眼科",
       "surrounding": "주세요 眼科(안과)(英語(영어): ophthalmology)는 눈의 ... 눈을 뜻하는 ‘ophthalmos’와 知性(지성)을",
       "count": 4
@@ -1189,6 +1184,11 @@
     {
       "title": "歐亞",
       "surrounding": "歐亞(구아)(유라시아 Eurasia)는 亞細亞(아세아)와",
+      "count": 1
+    },
+    {
+      "title": "歐羅巴聯合",
+      "surrounding": "Europäische Union/Union Européenne/European Union",
       "count": 1
     },
     {

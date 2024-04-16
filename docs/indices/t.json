@@ -627,11 +627,6 @@
       "count": 2
     },
     {
-      "title": "歐羅巴聯合",
-      "surrounding": "國旗(국기) 國章(국장) 파일:Coat of ... 國歌(국가) Ode to Joy",
-      "count": 2
-    },
-    {
       "title": "活版印刷",
       "surrounding": "名稱(명칭)[편집] 英語(영어)로는 ‘letterpress’라고 하며 ... 印刷(인쇄)하든 다 ‘letterpress’라 한다",
       "count": 2
@@ -1034,6 +1029,11 @@
     {
       "title": "標準中國語",
       "surrounding": "다르다 中華人民共和國(중화인민공화국)에서는 普通話(보통화)(Pǔtōnghuà) 中華民國(중화민국)에서는",
+      "count": 1
+    },
+    {
+      "title": "歐羅巴聯合",
+      "surrounding": "國歌(국가) Ode to Joy",
       "count": 1
     },
     {
