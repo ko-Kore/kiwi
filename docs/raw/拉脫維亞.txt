@@ -1,0 +1,110 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade20"><rb>拉脫維亞</rb><rp>(</rp><rt>납탈유아</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Latvijas Republika
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Latvia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langko-kore-320px-Flag_of_Latvia.svg.png" decoding="async" width="320" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langko-kore-480px-Flag_of_Latvia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langko-kore-640px-Flag_of_Latvia.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Latvia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_Latvia.svg/langko-kore-201px-Coat_of_arms_of_Latvia.svg.png" decoding="async" width="201" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_Latvia.svg/langko-kore-302px-Coat_of_arms_of_Latvia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_Latvia.svg/langko-kore-403px-Coat_of_arms_of_Latvia.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td>Dievs, svēti Latviju
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade32"><rb>亞麻</rb><rp>(</rp><rt>아마</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%87%8C%E5%8A%A0&amp;action=edit&amp;redlink=1" class="new" title="里加(없는　文書）"><ruby class="hanja api grade70 unknown"><rb>里</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>加</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>總理</rb><rp>(</rp><rt>총리</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%95%8C%EB%A0%89%EC%82%B0%EB%93%9C%EB%A5%B4_%EA%B7%B8%EB%A0%88%EA%B3%A0%EB%A6%AC%EC%98%88%EB%B9%84%EC%B9%98_%EB%A3%A8%EC%B9%B4%EC%85%B4%EC%BD%94&amp;action=edit&amp;redlink=1" class="new" title="알렉산드르 그레고리예비치 루카셴코(없는　文書）">알렉산드르 그레고리예비치 루카셴코</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>64,589km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>內水面</rb><rp>(</rp><rt>내수면</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>比率</rb><rp>(</rp><rt>비율</rt><rp>)</rp></ruby>
+</th>
+<td>1.5%
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC+2
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>1,876,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>30.3<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="拉脫維亞語(없는　文書）"><ruby class="hanja api grade20 unknown"><rb>拉脫維亞</rb><rp>(</rp><rt>납탈유아</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%A4%A9%E4%B8%BB%E6%95%8E" class="mw-redirect" title="天主敎"><ruby class="hanja api grade70"><rb>天主敎</rb><rp>(</rp><rt>천주교</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E8%B7%AF%E5%BE%B7%E5%AE%97&amp;action=edit&amp;redlink=1" class="new" title="路德宗(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>路</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>德宗</rb><rp>(</rp><rt>덕종</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade52"><rb>事實上</rb><rp>(</rp><rt>사실상</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%9C%A0%EB%A1%9C&amp;action=edit&amp;redlink=1" class="new" title="유로(없는　文書）"><ruby class="hanja api grade20 unknown"><rb>歐洲</rb><rp>(</rp><rt>구주</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></a>(EU)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td>11<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 18<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+371
+</td></tr></tbody></table>
+</div></body></html>
