@@ -543,7 +543,7 @@
 <td><ruby class="hanja api grade10"><rb>勃牙利</rb><rp>(</rp><rt>발아리</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><a href="/index.php?title=%E5%88%A5%E6%8B%89%E9%9C%B2%E8%A5%BF%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="別拉露西亞(없는　文書）">벨로루시</a></td>
+<td><a href="/wiki/%E5%88%A5%E6%8B%89%E9%9C%B2%E8%A5%BF%E4%BA%9E" title="別拉露西亞">벨로루시</a></td>
 <td><ruby class="hanja api grade32"><rb>白露西亞</rb><rp>(</rp><rt>백노서아</rt><rp>)</rp></ruby>, <ruby class="hanja api grade32"><rb>白露</rb><rp>(</rp><rt>백로</rt><rp>)</rp></ruby>, <ruby class="hanja api grade32"><rb>西露西亞</rb><rp>(</rp><rt>서노서아</rt><rp>)</rp></ruby>, <ruby class="hanja api grade60"><rb>別</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>拉</rb><rp>(</rp><rt>랍</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
