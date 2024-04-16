@@ -1,0 +1,112 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Российская Федерация
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Russia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-240px-Flag_of_Russia.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-360px-Flag_of_Russia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-480px-Flag_of_Russia.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Russia.svg" class="new" title="파일:Coat of arms of Russia.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Russia.svg</span></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%84%9B%E5%9C%8B%E6%AD%8C(%E9%9C%B2%E8%A5%BF%E4%BA%9E)&amp;action=edit&amp;redlink=1" class="new" title="愛國歌(露西亞)(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>愛國歌</rb><rp>(</rp><rt>애국가</rt><rp>)</rp></ruby></a>(1991-2000)
+<p><a href="/index.php?title=%E9%9C%B2%E8%A5%BF%E4%BA%9E,_%EC%9A%B0%EB%A6%AC_%E8%81%96%E7%A5%9E%EC%9D%98_%E7%A5%96%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="露西亞, 우리 聖神의 祖國(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby>, 우리 <ruby class="hanja api grade42 unknown"><rb>聖神</rb><rp>(</rp><rt>성신</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70 unknown"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby></a>(2000-<ruby class="hanja api grade62"><rb>今</rb><rp>(</rp><rt>금</rt><rp>)</rp></ruby>)
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%90%91%E6%97%A5%E8%91%B5&amp;action=edit&amp;redlink=1" class="new" title="向日葵(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>向日</rb><rp>(</rp><rt>향일</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>葵</rb><rp>(</rp><rt>규</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%8E%AB%E6%96%AF%E7%A7%91" class="mw-redirect" title="莫斯科"><ruby class="hanja api grade30"><rb>莫斯科</rb><rp>(</rp><rt>막사과</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%B8%94%EB%9D%BC%EB%94%94%EB%AF%B8%EB%A5%B4_%EB%B8%94%EB%9D%BC%EB%94%94%EB%AF%B8%EB%A1%9C%EB%B9%84%EC%B9%98_%ED%91%B8%ED%8B%B4&amp;action=edit&amp;redlink=1" class="new" title="블라디미르 블라디미로비치 푸틴(없는　文書）">블라디미르 블라디미로비치 푸틴</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>17,098,200km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>內水面</rb><rp>(</rp><rt>내수면</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>比率</rb><rp>(</rp><rt>비율</rt><rp>)</rp></ruby>
+</th>
+<td>13%
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC+3(<a href="/wiki/%E8%8E%AB%E6%96%AF%E7%A7%91" class="mw-redirect" title="莫斯科"><ruby class="hanja api grade30"><rb>莫斯科</rb><rp>(</rp><rt>막사과</rt><rp>)</rp></ruby></a>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>146,000,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>8.8<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%9F%AC%EC%8B%9C%EC%95%84%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="러시아語(없는　文書）">러시아<ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%9D%B1%E6%AD%A3%E6%95%8E&amp;action=edit&amp;redlink=1" class="new" title="東正敎(없는　文書）"><ruby class="hanja api grade80 unknown"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>正敎</rb><rp>(</rp><rt>정교</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%9B%A7%E5%B8%83&amp;action=edit&amp;redlink=1" class="new" title="盧布(없는　文書）"><ruby class="hanja api grade12 unknown"><rb>盧</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>布</rb><rp>(</rp><rt>포</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td>1990<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 12<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+7
+</td></tr></tbody></table>
+</div></body></html>
