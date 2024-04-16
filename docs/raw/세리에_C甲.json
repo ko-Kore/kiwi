@@ -1,8 +1,10 @@
 {
   "title": "세리에 C甲",
   "namespace": 0,
-  "timestamp": 1713276468000,
-  "categories": [],
+  "timestamp": 1713283272000,
+  "categories": [
+    "蹴球리그"
+  ],
   "members": [],
   "file": null
 }

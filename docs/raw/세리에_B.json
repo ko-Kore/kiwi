@@ -1,8 +1,10 @@
 {
   "title": "세리에 B",
   "namespace": 0,
-  "timestamp": 1713276535000,
-  "categories": [],
+  "timestamp": 1713283256000,
+  "categories": [
+    "蹴球리그"
+  ],
   "members": [],
   "file": null
 }

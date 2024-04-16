@@ -1,8 +1,10 @@
 {
   "title": "獨逸蹴球乙級리그",
   "namespace": 0,
-  "timestamp": 1713265372000,
-  "categories": [],
+  "timestamp": 1713283328000,
+  "categories": [
+    "蹴球리그"
+  ],
   "members": [],
   "file": null
 }

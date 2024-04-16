@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
 <tbody><tr>
-<th colspan="5" style="background: yellow; color: black;"><span class="tp_link"><a href="/wiki/%E7%8D%A8%E9%80%B8" title="獨逸"><ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby></a> 프로 <ruby class="hanja api grade20"><rb>蹴球</rb><rp>(</rp><rt>축구</rt><rp>)</rp></ruby>리그</span>
+<th colspan="5" style="background: yellow; color: brown;"><span class="tp_link"><a href="/wiki/%E7%8D%A8%E9%80%B8" title="獨逸"><ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby></a> 프로 <ruby class="hanja api grade20"><rb>蹴球</rb><rp>(</rp><rt>축구</rt><rp>)</rp></ruby>리그</span>
 </th></tr>
 <tr>
 <td><a href="/wiki/%E7%8D%A8%E9%80%B8%E8%B9%B4%E7%90%83%E4%B9%99%E7%B4%9A%EB%A6%AC%EA%B7%B8" title="獨逸蹴球乙級리그"><ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>蹴球</rb><rp>(</rp><rt>축구</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>乙</rb><rp>(</rp><rt>을</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>級</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby>리그</a>
