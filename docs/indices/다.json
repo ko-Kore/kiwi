@@ -4737,6 +4737,11 @@
       "count": 2
     },
     {
+      "title": "ㅗ",
+      "surrounding": "母音(모음) 中(중) 다섯 番(번)째 ... 다섯 番(번)째 㐎(글)字(자)이다 ",
+      "count": 2
+    },
+    {
       "title": "ㅽ",
       "surrounding": "쓰는 한글 子音(자음)이다 더 ... 버전으로는 ꥵ이 있다 ",
       "count": 2
@@ -5534,6 +5539,46 @@
     {
       "title": "ㅏ",
       "surrounding": "첫 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅑ",
+      "surrounding": "둘 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅓ",
+      "surrounding": "셋 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅕ",
+      "surrounding": "넷 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅛ",
+      "surrounding": "여섯 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅜ",
+      "surrounding": "일곰 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅠ",
+      "surrounding": "여덟 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅡ",
+      "surrounding": "아홉 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅣ",
+      "surrounding": "열 番(번)째 㐎(글)字(자)이다 ",
       "count": 1
     },
     {
