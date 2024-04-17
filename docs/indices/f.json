@@ -127,11 +127,6 @@
       "count": 3
     },
     {
-      "title": "英蘭",
-      "surrounding": "英蘭(영란)王國(왕국) Kingdom of England ... of arms of England",
-      "count": 3
-    },
-    {
       "title": "蟻酸",
       "surrounding": "메탄酸(산)(methanoic acid)이며 通用英稱(통용영칭)은formic acid이다[1] ... 名稱(명칭)의\"formic\"은 개미를意味(의미)하는 라틴語(어)\"formica\"에由來(유래)하며 韓國語(한국어)의\"蟻酸(의산)\"과相通(상통)한다",
       "count": 3
@@ -374,6 +369,11 @@
     {
       "title": "臺灣積體電路製造",
       "surrounding": "Taiwan Semiconductor Manufacturing Company",
+      "count": 1
+    },
+    {
+      "title": "英蘭",
+      "surrounding": "英蘭(영란)王國(왕국) Kingdom of England",
       "count": 1
     },
     {

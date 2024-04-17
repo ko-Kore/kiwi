@@ -32,11 +32,6 @@
       "count": 3
     },
     {
-      "title": "英蘭",
-      "surrounding": "英蘭(영란)王國(왕국) Kingdom of England ... of arms of England",
-      "count": 3
-    },
-    {
       "title": "Foreign carrot regime",
       "surrounding": "lost sight of \"nation\" ... the essence of foreign",
       "count": 2
@@ -124,6 +119,11 @@
     {
       "title": "自由 소프트웨어 財團",
       "surrounding": "財團(재단)(英語(영어): Free Software Foundation)은",
+      "count": 1
+    },
+    {
+      "title": "英蘭",
+      "surrounding": "英蘭(영란)王國(왕국) Kingdom of England",
       "count": 1
     },
     {
