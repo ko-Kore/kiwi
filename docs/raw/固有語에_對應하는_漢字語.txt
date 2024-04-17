@@ -713,5 +713,115 @@
 <td><ruby class="hanja api grade10"><rb>贅言</rb><rp>(</rp><rt>췌언</rt><rp>)</rp></ruby></td>
 <td>
 </td></tr>
+<tr>
+<td>원추리</td>
+<td><ruby class="hanja api grade30"><rb>鹿</rb><rp>(</rp><rt>녹</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>葱</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>원추리</td>
+<td><ruby class="hanja api grade30"><rb>忘憂草</rb><rp>(</rp><rt>망우초</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>원추리</td>
+<td><ruby class="hanja api grade30"><rb>宜男草</rb><rp>(</rp><rt>의남초</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>원추리</td>
+<td><ruby class="hanja api grade0"><rb>萱草</rb><rp>(</rp><rt>훤초</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>밤샘</td>
+<td><ruby class="hanja api grade0"><rb>逹</rb><rp>(</rp><rt>달</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>宵</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>밤샘</td>
+<td><ruby class="hanja api grade30"><rb>竟夜</rb><rp>(</rp><rt>경야</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>밤샘</td>
+<td><ruby class="hanja api grade10"><rb>達曙</rb><rp>(</rp><rt>달서</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>밤샘</td>
+<td><ruby class="hanja api grade42"><rb>達夜</rb><rp>(</rp><rt>달야</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>밤샘</td>
+<td><ruby class="hanja api grade30"><rb>罔夜</rb><rp>(</rp><rt>망야</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>그윽함</td>
+<td><ruby class="hanja api grade32"><rb>幽寂</rb><rp>(</rp><rt>유적</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>좀도둑</td>
+<td><ruby class="hanja api grade0"><rb>蟻寇</rb><rp>(</rp><rt>의구</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>좀도둑</td>
+<td><ruby class="hanja api grade10"><rb>鼠竊</rb><rp>(</rp><rt>서절</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>좀도둑</td>
+<td><ruby class="hanja api grade40"><rb>小盜</rb><rp>(</rp><rt>소도</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>좀도둑</td>
+<td><ruby class="hanja api grade80"><rb>小</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>毛</rb><rp>(</rp><rt>모</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>賊</rb><rp>(</rp><rt>적</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>좀도둑</td>
+<td><ruby class="hanja api grade40"><rb>小賊</rb><rp>(</rp><rt>소적</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>낮잠</td>
+<td><ruby class="hanja api grade10"><rb>假寐</rb><rp>(</rp><rt>가매</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>낮잠</td>
+<td><ruby class="hanja api grade30"><rb>午睡</rb><rp>(</rp><rt>오수</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>낮잠</td>
+<td><ruby class="hanja api grade40"><rb>午寢</rb><rp>(</rp><rt>오침</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>낮잠</td>
+<td><ruby class="hanja api grade40"><rb>晝寢</rb><rp>(</rp><rt>주침</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>자리보기</td>
+<td><ruby class="hanja api grade40"><rb>覽寢</rb><rp>(</rp><rt>남침</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>울짱</td>
+<td><ruby class="hanja api grade10"><rb>木寨</rb><rp>(</rp><rt>목채</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>울짱</td>
+<td><ruby class="hanja api grade10"><rb>木柵</rb><rp>(</rp><rt>목책</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
 </tbody></table>
 </div></body></html>
