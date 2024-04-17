@@ -192,11 +192,6 @@
       "count": 4
     },
     {
-      "title": "西班牙",
-      "surrounding": "西班牙(서반아)王國(왕국) Reino de España ... 西班牙(서반아)王國(왕국)(西班牙語(서반아어): Reino de España)은",
-      "count": 4
-    },
-    {
       "title": "倫敦",
       "surrounding": " 倫敦(윤돈) London 首都(수도)[一(일)] ... ↑ borough and city",
       "count": 3
@@ -219,6 +214,11 @@
     {
       "title": "英蘭",
       "surrounding": " 英蘭(영란)王國(왕국) Kingdom of ... 英蘭(영란)(英語: : England 웨일스語:",
+      "count": 3
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "西班牙(서반아)王國(왕국) Reino de España ... 西班牙(서반아)王國(왕국)(西班牙語(서반아어): Reino de España)은",
       "count": 3
     },
     {

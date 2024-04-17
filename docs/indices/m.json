@@ -177,11 +177,6 @@
       "count": 5
     },
     {
-      "title": "西班牙",
-      "surrounding": "Coat of Arms of ... 人口密度(인구밀도) 93 7名(명)/km² 公用語(공용어)",
-      "count": 5
-    },
-    {
       "title": "구글 日本語入力",
       "surrounding": "變換(변환)性能(성능) 二 mozc 三 ... 오픈소스化(화)한 프로젝트로 mozc가 있다",
       "count": 5
@@ -254,6 +249,11 @@
     {
       "title": "維納",
       "surrounding": "人口密度(인구밀도) 21 000名(명)/km² 地理(지리) ... 都(도)伯林(백림) ↑ commune ",
+      "count": 4
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "Coat of Arms of ... 人口密度(인구밀도) 93 7名(명)/km² 公用語(공용어)",
       "count": 4
     },
     {
