@@ -1,8 +1,10 @@
 {
   "title": "巴華里明興蹴球俱樂部",
   "namespace": 0,
-  "timestamp": 1713293888000,
-  "categories": [],
+  "timestamp": 1713333245000,
+  "categories": [
+    "獨逸蹴球甲級리그"
+  ],
   "members": [],
   "file": null
 }
