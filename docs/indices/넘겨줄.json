@@ -177,6 +177,11 @@
       "count": 1
     },
     {
+      "title": "分類:우크라이나",
+      "surrounding": "넘겨줄 對象:分類:烏克蘭",
+      "count": 1
+    },
+    {
       "title": "分類:유럽",
       "surrounding": "넘겨줄 대상:分類:歐羅巴",
       "count": 1
@@ -584,11 +589,6 @@
     {
       "title": "漫畵映畵 밈",
       "surrounding": "넘겨줄 대상:애니메이션",
-      "count": 1
-    },
-    {
-      "title": "烏克蘭",
-      "surrounding": "넘겨줄 대상:우크라이나",
       "count": 1
     },
     {
@@ -1082,6 +1082,11 @@
       "count": 1
     },
     {
+      "title": "세르비아",
+      "surrounding": "넘겨줄 對象:塞耳維",
+      "count": 1
+    },
+    {
       "title": "세벌식 最終",
       "surrounding": "넘겨줄 대상:公炳禹세벌式",
       "count": 1
@@ -1159,6 +1164,11 @@
     {
       "title": "오스만帝國",
       "surrounding": "넘겨줄 대상:崇高한",
+      "count": 1
+    },
+    {
+      "title": "우크라이나",
+      "surrounding": "넘겨줄 對象:烏克蘭",
       "count": 1
     },
     {
