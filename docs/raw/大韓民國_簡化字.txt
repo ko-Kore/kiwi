@@ -38,6 +38,10 @@
 <td><ruby class="hanja api grade0"><rb>学</rb><rp>(</rp><rt>학</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
+<td><ruby class="hanja api grade50"><rb>擧</rb><rp>(</rp><rt>거</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>挙</rb><rp>(</rp><rt>거</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
 <td><ruby class="hanja api grade60"><rb>畵</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade0"><rb>画</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>
 </td></tr>
@@ -84,5 +88,43 @@
 <tr>
 <td><ruby class="hanja api grade60"><rb>禮</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade0"><rb>礼</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby>
-</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>譯</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>訳</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>亜</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade10"><rb>啞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>唖</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade62"><rb>發</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby>/<ruby class="hanja api grade10"><rb>撥</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>発</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby>(<ruby class="hanja api grade62"><rb>字體</rb><rp>(</rp><rt>자체</rt><rp>)</rp></ruby> <ruby class="hanja api grade20"><rb>合倂</rb><rp>(</rp><rt>합병</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>廢</rb><rp>(</rp><rt>폐</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>廃</rb><rp>(</rp><rt>폐</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade10"><rb>潑</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>溌</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>総</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>囯</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[<ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>]</a></sup>
+</td></tr></tbody></table><p><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[<ruby class="hanja api grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>]</a></sup>
+</p><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>도 이 <ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade32"><rb>維持</rb><rp>(</rp><rt>유지</rt><rp>)</rp></ruby>합니다, <ruby class="hanja api grade42"><rb>作爲</rb><rp>(</rp><rt>작위</rt><rp>)</rp></ruby> "<ruby class="hanja api grade0"><rb>国</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>"의 <ruby class="hanja api grade0"><rb>异</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade62"><rb>一部</rb><rp>(</rp><rt>일부</rt><rp>)</rp></ruby> 글리프는 <ruby class="hanja api grade42"><rb>單純化</rb><rp>(</rp><rt>단순화</rt><rp>)</rp></ruby>된 <a href="/wiki/%E7%AE%80%E5%8C%96%E5%AD%97" class="mw-redirect" title="简化字"><ruby class="hanja api grade0"><rb>简</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></a>와 <ruby class="hanja api grade70"><rb>同一</rb><rp>(</rp><rt>동일</rt><rp>)</rp></ruby>합니다</span>
+</li>
+</ol></div>
 </div></body></html>
