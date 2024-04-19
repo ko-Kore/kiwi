@@ -412,11 +412,6 @@
       "count": 3
     },
     {
-      "title": "鐵道唱歌 (東海道篇)",
-      "surrounding": "赤(적)(あか)き鳥(조)(とり)居(거)(ゐ)の神(신)(かみ)さびて 立(립)(た)つは伏(복)(ふし)見(견)(み)の稻(도)(いな)荷(하)(り)山(산)(やま) </noruby> 京都驛(경도역)到着(도착)[編輯] ... m wikisource org/wiki/%E9%89%84%E9%81%93%E5%94%B1%E6%AD%8C/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%AF%87 ",
-      "count": 3
-    },
-    {
       "title": "韓國高速鐵道",
       "surrounding": "沿革(연혁) 槪要(개요)[편집] KTX(Korean Train ... KTX(Korean Train eXpress 韓國高速鐵道(한국고속철도))는",
       "count": 3
@@ -673,6 +668,11 @@
     },
     {
       "title": "鐵道唱歌(東海道篇)",
+      "surrounding": "https://ja m wikisource org/wiki/%E9%89%84%E9%81%93%E5%94%B1%E6%AD%8C/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%AF%87 ... m wikisource org/wiki/%E9%89%84%E9%81%93%E5%94%B1%E6%AD%8C/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%AF%87 ",
+      "count": 2
+    },
+    {
+      "title": "鐵道唱歌 (東海道篇)",
       "surrounding": "https://ja m wikisource org/wiki/%E9%89%84%E9%81%93%E5%94%B1%E6%AD%8C/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%AF%87 ... m wikisource org/wiki/%E9%89%84%E9%81%93%E5%94%B1%E6%AD%8C/%E6%9D%B1%E6%B5%B7%E9%81%93%E7%AF%87 ",
       "count": 2
     },
