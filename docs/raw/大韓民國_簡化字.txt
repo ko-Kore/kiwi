@@ -52,7 +52,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade62"><rb>樂</rb><rp>(</rp><rt>낙</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade0"><rb>楽</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby>(<ruby class="hanja api grade50"><rb>初</rb><rp>(</rp><rt>초</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>“<ruby class="hanja api grade0"><rb>乐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby>”)
+<td><ruby class="hanja api grade0"><rb>楽</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade42"><rb>鄕</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby></td>
@@ -120,7 +120,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade0"><rb>囯</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<td><ruby class="hanja api grade0"><rb>囯</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby></td>
@@ -137,7 +137,7 @@
 <tr>
 <td><ruby class="hanja api grade72"><rb>漢</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade72"><rb>漢</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby>
-</td></tr></tbody></table><p><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</td></tr></tbody></table><p><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 </p><h3><span id=".E4.BA.8C.28.EC.9D.B4.29:.E9.9F.93.E4.B8.AD.28.ED.95.9C.EC.A4.91.29_.E7.B5.B1.E4.B8.80.28.ED.86.B5.EC.9D.BC.29_.E7.B0.A1.28.EA.B0.84.29.E5.8C.96.28.ED.99.94.29_.E8.BE.A6.28.ED.8C.90.29.E6.B3.95.28.EB.B2.95.29"></span><span class="mw-headline" id="二(이):韓中(한중)_統一(통일)_簡(간)化(화)_辦(판)法(법)"><ruby class="hanja api grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>:<ruby class="hanja api grade80"><rb>韓中</rb><rp>(</rp><rt>한중</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>統一</rb><rp>(</rp><rt>통일</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> <ruby class="hanja api grade10"><rb>辦</rb><rp>(</rp><rt>판</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>法</rb><rp>(</rp><rt>법</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B_%E7%B0%A1%E5%8C%96%E5%AD%97&amp;action=edit&amp;section=6" title="部分 編輯: 二(이):韓中(한중) 統一(통일) 簡(간)化(화) 辦(판)法(법)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
 <caption>
@@ -160,7 +160,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade52"><rb>觀</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade0"><rb>覌</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<td><ruby class="hanja api grade0"><rb>覌</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade52"><rb>雲</rb><rp>(</rp><rt>운</rt><rp>)</rp></ruby></td>
@@ -175,11 +175,13 @@
 <td><ruby class="hanja api grade0"><rb>闲</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>도 이 <ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade32"><rb>維持</rb><rp>(</rp><rt>유지</rt><rp>)</rp></ruby>합니다, <ruby class="hanja api grade42"><rb>作爲</rb><rp>(</rp><rt>작위</rt><rp>)</rp></ruby> "<ruby class="hanja api grade0"><rb>国</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>"의 <ruby class="hanja api grade0"><rb>异</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade50"><rb>初</rb><rp>(</rp><rt>초</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>"<ruby class="hanja api grade0"><rb>乐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby>"</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade62"><rb>一部</rb><rp>(</rp><rt>일부</rt><rp>)</rp></ruby> 글리프는 <ruby class="hanja api grade42"><rb>單純化</rb><rp>(</rp><rt>단순화</rt><rp>)</rp></ruby>된 <a href="/wiki/%E7%AE%80%E5%8C%96%E5%AD%97" class="mw-redirect" title="简化字"><ruby class="hanja api grade0"><rb>简</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></a>와 <ruby class="hanja api grade70"><rb>同一</rb><rp>(</rp><rt>동일</rt><rp>)</rp></ruby>합니다</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>도 이 <ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade32"><rb>維持</rb><rp>(</rp><rt>유지</rt><rp>)</rp></ruby>합니다, <ruby class="hanja api grade42"><rb>作爲</rb><rp>(</rp><rt>작위</rt><rp>)</rp></ruby> "<ruby class="hanja api grade0"><rb>国</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>"의 <ruby class="hanja api grade0"><rb>异</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">"<ruby class="hanja api grade0"><rb>观</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby>"의 <ruby class="hanja api grade40"><rb>異體</rb><rp>(</rp><rt>이체</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><ruby class="hanja api grade62"><rb>一部</rb><rp>(</rp><rt>일부</rt><rp>)</rp></ruby> 글리프는 <ruby class="hanja api grade42"><rb>單純化</rb><rp>(</rp><rt>단순화</rt><rp>)</rp></ruby>된 <a href="/wiki/%E7%AE%80%E5%8C%96%E5%AD%97" class="mw-redirect" title="简化字"><ruby class="hanja api grade0"><rb>简</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></a>와 <ruby class="hanja api grade70"><rb>同一</rb><rp>(</rp><rt>동일</rt><rp>)</rp></ruby>합니다</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">"<ruby class="hanja api grade0"><rb>观</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby>"의 <ruby class="hanja api grade40"><rb>異體</rb><rp>(</rp><rt>이체</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby></span>
 </li>
 </ol></div>
 </div></body></html>
