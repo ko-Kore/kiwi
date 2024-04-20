@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <tbody><tr>
-<th colspan="2"><ruby class="hanja api grade80"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby>길원숭이의 <ruby class="hanja api grade80"><rb>一生</rb><rp>(</rp><rt>일생</rt><rp>)</rp></ruby><br><span lang="zh">山道猴子的一生</span>
+<th colspan="2"><ruby class="hanja api grade80"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby>길원숭이의 <ruby class="hanja api grade80"><rb>一生</rb><rp>(</rp><rt>일생</rt><rp>)</rp></ruby><br><span lang="zh">山道猴子的一生</span>(산도후자적일생)
 </th></tr>
 <tr>
 <td colspan="2" style="text-align: center;">
