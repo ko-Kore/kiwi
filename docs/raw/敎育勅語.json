@@ -1,8 +1,10 @@
 {
   "title": "敎育勅語",
   "namespace": 0,
-  "timestamp": 1713638131000,
-  "categories": [],
+  "timestamp": 1713638790000,
+  "categories": [
+    "漢文"
+  ],
   "members": [],
   "file": null
 }
