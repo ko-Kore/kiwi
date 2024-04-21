@@ -1028,5 +1028,30 @@
 <td><ruby class="hanja api grade42"><rb>草背</rb><rp>(</rp><rt>초배</rt><rp>)</rp></ruby></td>
 <td>
 </td></tr>
+<tr>
+<td>나랏돈</td>
+<td><ruby class="hanja api grade0"><rb>帑幣</rb><rp>(</rp><rt>탕폐</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>나랏돈</td>
+<td><ruby class="hanja api grade40"><rb>國庫金</rb><rp>(</rp><rt>국고금</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>목걸이</td>
+<td><ruby class="hanja api grade52"><rb>首</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>帕</rb><rp>(</rp><rt>말</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>빗솔</td>
+<td><ruby class="hanja api grade10"><rb>梳</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>帚</rb><rp>(</rp><rt>추</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
+<tr>
+<td>주걱</td>
+<td><ruby class="hanja api grade32"><rb>飯</rb><rp>(</rp><rt>반</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>帚</rb><rp>(</rp><rt>추</rt><rp>)</rp></ruby></td>
+<td>
+</td></tr>
 </tbody></table>
 </div></body></html>
