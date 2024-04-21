@@ -1,0 +1,35 @@
+{
+  "word": "war",
+  "pages": [
+    {
+      "title": "聯合艦隊解散之辭",
+      "surrounding": ") “The war of ... in the war must",
+      "count": 9
+    },
+    {
+      "title": "自由 소프트웨어",
+      "surrounding": "소프트웨어[1](英語(영어): free software 또는 ... 〈Selling Free Software〉 (英語(영어))",
+      "count": 5
+    },
+    {
+      "title": "星條旗 (國歌)",
+      "surrounding": "havoc of war and ... and the war’s desolation",
+      "count": 2
+    },
+    {
+      "title": "QWERTY",
+      "surrounding": "많다 甚至於(심지어) ‘stewardess’같은 一部(일부)",
+      "count": 1
+    },
+    {
+      "title": "自由 소프트웨어 財團",
+      "surrounding": "財團(재단)(英語(영어): Free Software Foundation)은",
+      "count": 1
+    },
+    {
+      "title": "망고",
+      "surrounding": "알려져 있다 '에드워드(Edward)' 美國(미국)",
+      "count": 1
+    }
+  ]
+}

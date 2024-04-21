@@ -20,6 +20,11 @@
       "title": "星條旗 (國歌)",
       "surrounding": "say can you see",
       "count": 1
+    },
+    {
+      "title": "聯合艦隊解散之辭",
+      "surrounding": "said: “Tighten your helmet",
+      "count": 1
     }
   ]
 }
