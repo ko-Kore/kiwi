@@ -1,10 +1,14 @@
 {
   "title": "分類:日本漢文",
   "namespace": 14,
-  "timestamp": 1713659522000,
-  "categories": [],
+  "timestamp": 1713676616000,
+  "categories": [
+    "漢文"
+  ],
   "members": [
-    "敎育勅語"
+    "敎育勅語",
+    "聯合艦隊解散之辭",
+    "終戰詔書"
   ],
   "file": null
 }
