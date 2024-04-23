@@ -4972,6 +4972,11 @@
       "count": 2
     },
     {
+      "title": "ㄸ",
+      "surrounding": "어울러 쓴 것이다 初聲(초성)과 ... 終聲(종성)에 모두 쓰인다 ",
+      "count": 2
+    },
+    {
       "title": "ㅁ",
       "surrounding": "子音(자음) 中(중) 다섯 번째 ... 다섯 번째 㐎(글)字(자)이다 ",
       "count": 2
@@ -5747,6 +5752,16 @@
       "count": 1
     },
     {
+      "title": "ㄵ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㄶ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
       "title": "ㄷ",
       "surrounding": "세 番(번)째 㐎(글)字(자)이다 ",
       "count": 1
@@ -5754,6 +5769,21 @@
     {
       "title": "ㄹ",
       "surrounding": "中(중) 넷째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㄺ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㄻ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㄼ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
       "count": 1
     },
     {
