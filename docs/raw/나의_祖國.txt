@@ -1,0 +1,35 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<td><ruby class="hanja api grade62"><rb>作</rb><rp>(</rp><rt>작</rt><rp>)</rp></ruby></td>
+<td>1976<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></td>
+<td><a href="/wiki/%E6%9C%B4%E6%AD%A3%E7%86%99" title="朴正熙"><ruby class="hanja api grade0"><rb>朴正熙</rb><rp>(</rp><rt>박정희</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></td>
+<td><a href="/wiki/%E6%9C%B4%E6%AD%A3%E7%86%99" title="朴正熙"><ruby class="hanja api grade0"><rb>朴正熙</rb><rp>(</rp><rt>박정희</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<p>나의 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>는 <a href="/wiki/%E6%9C%B4%E6%AD%A3%E7%86%99" title="朴正熙"><ruby class="hanja api grade0"><rb>朴正熙</rb><rp>(</rp><rt>박정희</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade72"><rb>前</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>이 1976<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade32"><rb>作詞</rb><rp>(</rp><rt>작사</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade50"><rb>作曲</rb><rp>(</rp><rt>작곡</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade50"><rb>健全</rb><rp>(</rp><rt>건전</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>歌謠</rb><rp>(</rp><rt>가요</rt><rp>)</rp></ruby>.
+</p>
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EB%82%98%EC%9D%98_%E7%A5%96%E5%9C%8B&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1.
+</p><p><ruby class="hanja api grade60"><rb>白頭山</rb><rp>(</rp><rt>백두산</rt><rp>)</rp></ruby>의 푸른 <ruby class="hanja api grade50"><rb>定期</rb><rp>(</rp><rt>정기</rt><rp>)</rp></ruby> 이 땅을 <ruby class="hanja api grade42"><rb>守護</rb><rp>(</rp><rt>수호</rt><rp>)</rp></ruby>하고
+</p><p><ruby class="hanja api grade10"><rb>漢拏山</rb><rp>(</rp><rt>한라산</rt><rp>)</rp></ruby>의 높은 <ruby class="hanja api grade40"><rb>氣象</rb><rp>(</rp><rt>기상</rt><rp>)</rp></ruby> 이 겨레 지켜왔네
+</p><p><ruby class="hanja api grade40"><rb>無窮花</rb><rp>(</rp><rt>무궁화</rt><rp>)</rp></ruby>꽃 피고 져도 <ruby class="hanja api grade32"><rb>悠久</rb><rp>(</rp><rt>유구</rt><rp>)</rp></ruby>한 우리 <ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby>
+</p><p>굳세게도 살아 왔네 슬기로운 우리 겨레
+</p><p>2.
+</p><p><ruby class="hanja api grade10"><rb>玲瓏</rb><rp>(</rp><rt>영롱</rt><rp>)</rp></ruby>한 아침해가 <a href="/index.php?title=%E6%9D%B1%E6%B5%B7&amp;action=edit&amp;redlink=1" class="new" title="東海 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>東海</rb><rp>(</rp><rt>동해</rt><rp>)</rp></ruby></a>에 떠오르면
+</p><p>우람할 손 <ruby class="hanja api grade10"><rb>錦繡江山</rb><rp>(</rp><rt>금수강산</rt><rp>)</rp></ruby> 여기는 나의 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>
+</p><p><ruby class="hanja api grade70"><rb>祖上</rb><rp>(</rp><rt>조상</rt><rp>)</rp></ruby>들의 피땀 어린 빛나는 <ruby class="hanja api grade40"><rb>文化遺産</rb><rp>(</rp><rt>문화유산</rt><rp>)</rp></ruby>
+</p><p>우리모두 <ruby class="hanja api grade42"><rb>精誠</rb><rp>(</rp><rt>정성</rt><rp>)</rp></ruby> 다해 길이길이 <ruby class="hanja api grade42"><rb>保全</rb><rp>(</rp><rt>보전</rt><rp>)</rp></ruby>하세
+</p><p>3.
+</p><p><ruby class="hanja api grade80"><rb>三國</rb><rp>(</rp><rt>삼국</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>統一</rb><rp>(</rp><rt>통일</rt><rp>)</rp></ruby> 이룩한 <ruby class="hanja api grade32"><rb>花郞</rb><rp>(</rp><rt>화랑</rt><rp>)</rp></ruby>의 옛<ruby class="hanja api grade42"><rb>精神</rb><rp>(</rp><rt>정신</rt><rp>)</rp></ruby>을
+</p><p>오늘에 이어받아 새마을 <ruby class="hanja api grade42"><rb>精神</rb><rp>(</rp><rt>정신</rt><rp>)</rp></ruby>으로
+</p><p><ruby class="hanja api grade42"><rb>榮光</rb><rp>(</rp><rt>영광</rt><rp>)</rp></ruby>된 새 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>의 새 <ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>創造</rb><rp>(</rp><rt>창조</rt><rp>)</rp></ruby>하여
+</p><p><ruby class="hanja api grade60"><rb>永遠</rb><rp>(</rp><rt>영원</rt><rp>)</rp></ruby>토록 <ruby class="hanja api grade60"><rb>後孫</rb><rp>(</rp><rt>후손</rt><rp>)</rp></ruby>에게 <ruby class="hanja api grade40"><rb>遺産</rb><rp>(</rp><rt>유산</rt><rp>)</rp></ruby>으로 물려주세
+</p>
+</div></body></html>
