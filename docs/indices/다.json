@@ -3747,6 +3747,11 @@
       "count": 4
     },
     {
+      "title": "明治二十七年九月扈車駕赴廣島恭賦",
+      "surrounding": "여행할 때 바다에서 일출 ... 같은 중요한 전환점이었다 ",
+      "count": 4
+    },
+    {
       "title": "普通話",
       "surrounding": "이 文書(문서)는 토막글입니다 이 ... 가리키는 말이다 다른 標準中國語(표준중국어)와의",
       "count": 4
@@ -5807,13 +5812,33 @@
       "count": 1
     },
     {
+      "title": "ㅀ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
       "title": "ㅂ",
       "surrounding": "여섯 번째 㐎(글)字(자)이다 ",
       "count": 1
     },
     {
+      "title": "ㅃ",
+      "surrounding": "어울러 쓴 것이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅄ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
       "title": "ㅅ",
       "surrounding": "일곱 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅆ",
+      "surrounding": "어울러 쓴 것이다 ",
       "count": 1
     },
     {
@@ -5824,6 +5849,11 @@
     {
       "title": "ㅈ",
       "surrounding": "아홉 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅉ",
+      "surrounding": "어울러 쓴 것이다 ",
       "count": 1
     },
     {

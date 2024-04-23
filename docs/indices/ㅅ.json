@@ -52,8 +52,18 @@
       "count": 1
     },
     {
+      "title": "ㅄ",
+      "surrounding": "낱자의 ㅂ과 ㅅ을 겹쳐",
+      "count": 1
+    },
+    {
       "title": "ㅅ",
       "surrounding": "ㅅ(標準語(표준어): 시옷(時衣(시의))",
+      "count": 1
+    },
+    {
+      "title": "ㅆ",
+      "surrounding": "韓(한)㐎(글) 낱자의 ㅅ을 어울러",
       "count": 1
     },
     {

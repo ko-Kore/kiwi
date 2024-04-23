@@ -1,0 +1,3 @@
+<html><head></head><body><div class="mw-parser-output"><p><b>ㅆ</b>(<ruby class="hanja api grade40"><rb>標準語</rb><rp>(</rp><rt>표준어</rt><rp>)</rp></ruby>: <ruby class="hanja api grade32"><rb>雙</rb><rp>(</rp><rt>쌍</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>時衣</rb><rp>(</rp><rt>시의</rt><rp>)</rp></ruby>, <ruby class="hanja api grade52"><rb>文化語</rb><rp>(</rp><rt>문화어</rt><rp>)</rp></ruby>: 된시읏)은 <a href="/wiki/%E9%9F%93%E3%90%8E" title="韓㐎"><ruby class="hanja api grade80"><rb>韓</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>㐎</rb><rp>(</rp><rt>글</rt><rp>)</rp></ruby></a> 낱자의 <a href="/wiki/%E3%85%85" title="ㅅ">ㅅ</a>을 어울러 쓴 것이다.
+</p>
+</div></body></html>

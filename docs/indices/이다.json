@@ -2277,6 +2277,11 @@
       "count": 1
     },
     {
+      "title": "ㅀ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
       "title": "ㅁ",
       "surrounding": "다섯 번째 㐎(글)字(자)이다 ",
       "count": 1
@@ -2287,8 +2292,23 @@
       "count": 1
     },
     {
+      "title": "ㅃ",
+      "surrounding": "어울러 쓴 것이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅄ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
       "title": "ㅅ",
       "surrounding": "일곱 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅆ",
+      "surrounding": "어울러 쓴 것이다 ",
       "count": 1
     },
     {
@@ -2299,6 +2319,11 @@
     {
       "title": "ㅈ",
       "surrounding": "아홉 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅉ",
+      "surrounding": "어울러 쓴 것이다 ",
       "count": 1
     },
     {
