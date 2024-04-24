@@ -1,0 +1,19 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
+<tbody><tr>
+<th colspan="5"><span class="tp_link"><ruby class="hanja api grade60"><rb>年度</rb><rp>(</rp><rt>연도</rt><rp>)</rp></ruby></span>
+</th></tr>
+<tr>
+<td><a href="/wiki/2023%E5%B9%B4" title="2023年">2023<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+</td>
+<th>→
+</th>
+<td><a class="mw-selflink selflink">2024年</a>
+</td>
+<th>→
+</th>
+<td><a href="/index.php?title=2025%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2025年 (없는 文書)">2025<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<p><ruby class="hanja api grade40"><rb>西紀</rb><rp>(</rp><rt>서기</rt><rp>)</rp></ruby>2023<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>은 <a href="/index.php?title=%E7%99%B8%E5%8D%AF%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="癸卯年 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>癸卯</rb><rp>(</rp><rt>계묘</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>에서 <a href="/index.php?title=%E7%94%B2%E8%BE%B0%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="甲辰年 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>甲辰</rb><rp>(</rp><rt>갑진</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>에 <ruby class="hanja api grade30"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby>되는 <ruby class="hanja api grade60"><rb>年度</rb><rp>(</rp><rt>연도</rt><rp>)</rp></ruby>이다.
+</p>
+<h2><span id=".E4.BA.8B.E4.BB.B6.28.EC.82.AC.EA.B1.B4.29"></span><span class="mw-headline" id="事件(사건)"><ruby class="hanja api grade50"><rb>事件</rb><rp>(</rp><rt>사건</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2024%E5%B9%B4&amp;action=edit&amp;section=1" title="部分 編輯: 事件(사건)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+</div></body></html>
