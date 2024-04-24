@@ -1822,6 +1822,11 @@
       "count": 2
     },
     {
+      "title": "KTX-이음",
+      "surrounding": "推測(추측)이 많이 오갔으나 그 ... 그 後(후)에 나온 列車(열차)가",
+      "count": 2
+    },
+    {
       "title": "QWERTY",
       "surrounding": "맨 위 數字列(숫자렬)이나 오른쪽 ... 오른쪽 記號(기호)키에 밀려나 配置(배치)된다는",
       "count": 2
@@ -2654,11 +2659,6 @@
     {
       "title": "ITX-마음",
       "surrounding": "다른 列車(열차)들인 ITX-새마을이나 KTX-이음같이",
-      "count": 1
-    },
-    {
-      "title": "KTX-이음",
-      "surrounding": "브랜드라는 錯覺(착각)이 있었으나 EMU-320이",
       "count": 1
     },
     {
