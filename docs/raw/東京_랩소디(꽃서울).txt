@@ -1,0 +1,39 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<caption><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby> 랩소디
+</caption>
+<tbody><tr>
+<td><b><ruby class="hanja api grade62"><rb>作</rb><rp>(</rp><rt>작</rt><rp>)</rp></ruby></b></td>
+<td>1936<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><b><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></b></td>
+<td><ruby class="hanja api grade80"><rb>門</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>田</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>豊</rb><rp>(</rp><rt>풍</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><b><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></b></td>
+<td><a href="/index.php?title=%E5%8F%A4%E8%B3%80%E6%94%BF%E7%94%B7&amp;action=edit&amp;redlink=1" class="new" title="古賀政男 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>古</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>賀</rb><rp>(</rp><rt>하</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>政</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>男</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td><b><ruby><rb>唄</rb><rp>(</rp><rt>노래</rt><rp>)</rp></ruby></b></td>
+<td><a href="/index.php?title=%E8%97%A4%E5%B1%B1%E4%B8%80%E9%83%9E&amp;action=edit&amp;redlink=1" class="new" title="藤山一郞 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>郞</rb><rp>(</rp><rt>랑</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<table class="wikitable">
+<caption>꽃서울
+</caption>
+<tbody><tr>
+<td><b><ruby class="hanja api grade62"><rb>作</rb><rp>(</rp><rt>작</rt><rp>)</rp></ruby></b></td>
+<td>1938<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><b><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></b></td>
+<td><ruby class="hanja api grade60"><rb>朴英</rb><rp>(</rp><rt>박영</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>鎬</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><b><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></b></td>
+<td><a href="/index.php?title=%E5%8F%A4%E8%B3%80%E6%94%BF%E7%94%B7&amp;action=edit&amp;redlink=1" class="new" title="古賀政男 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>古</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>賀</rb><rp>(</rp><rt>하</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>政</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>男</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td><b><ruby><rb>唄</rb><rp>(</rp><rt>노래</rt><rp>)</rp></ruby></b></td>
+<td><ruby class="hanja api grade72"><rb>金海</rb><rp>(</rp><rt>김해</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>松</rb><rp>(</rp><rt>송</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+</div></body></html>
