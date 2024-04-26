@@ -3882,6 +3882,26 @@
       "count": 1
     },
     {
+      "title": "ㅝ",
+      "surrounding": "하나로 ㅜ와 ㅓ가 합쳐진",
+      "count": 1
+    },
+    {
+      "title": "ㅞ",
+      "surrounding": "ㅜ와 ㅓ와 ㅣ가 합쳐진",
+      "count": 1
+    },
+    {
+      "title": "ㅟ",
+      "surrounding": "하나로 ㅜ와 ㅣ가 합쳐진",
+      "count": 1
+    },
+    {
+      "title": "ㅢ",
+      "surrounding": "하나로 ㅡ와 ㅣ가 합쳐진",
+      "count": 1
+    },
+    {
       "title": "一",
       "surrounding": "一(일)의 필순 가장 기초적인",
       "count": 1

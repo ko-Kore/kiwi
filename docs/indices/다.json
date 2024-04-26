@@ -6202,6 +6202,21 @@
       "count": 1
     },
     {
+      "title": "ㅝ",
+      "surrounding": "ㅓ가 합쳐진 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅞ",
+      "surrounding": "ㅣ가 합쳐진 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅟ",
+      "surrounding": "ㅣ가 합쳐진 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
       "title": "ㅠ",
       "surrounding": "여덟 番(번)째 㐎(글)字(자)이다 ",
       "count": 1
@@ -6209,6 +6224,11 @@
     {
       "title": "ㅡ",
       "surrounding": "아홉 番(번)째 㐎(글)字(자)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ㅢ",
+      "surrounding": "ㅣ가 합쳐진 㐎(글)字(자)이다 ",
       "count": 1
     },
     {
@@ -6244,6 +6264,16 @@
     {
       "title": "ㅷ",
       "surrounding": "글字(자)로 壓縮(압축)한 것이다 이런",
+      "count": 1
+    },
+    {
+      "title": "ㅿ",
+      "surrounding": "標記(표기)하는 데에 쓰였다 ",
+      "count": 1
+    },
+    {
+      "title": "ㆁ",
+      "surrounding": "表記法(표기법)에는 쓰이지 않는다 ",
       "count": 1
     },
     {
