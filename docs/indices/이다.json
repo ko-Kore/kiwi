@@ -2232,6 +2232,11 @@
       "count": 1
     },
     {
+      "title": "ᇺ",
+      "surrounding": "겹쳐 놓은 겹받침이다 ",
+      "count": 1
+    },
+    {
       "title": "ㄱ",
       "surrounding": "첫 番(번)째 㐎(글)字(자)이다 ",
       "count": 1
@@ -2519,6 +2524,11 @@
     {
       "title": "ㅽ",
       "surrounding": "쓰는 한글 子音(자음)이다 더",
+      "count": 1
+    },
+    {
+      "title": "ㆍ",
+      "surrounding": "母音(모음) 中(중) 하나이다 오늘날",
       "count": 1
     },
     {
