@@ -1,0 +1,110 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">La Repubblica di San Marino
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_San_Marino.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/langko-kore-213px-Flag_of_San_Marino.svg.png" decoding="async" width="213" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/langko-kore-320px-Flag_of_San_Marino.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/langko-kore-427px-Flag_of_San_Marino.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_San_Marino.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_San_Marino.svg/langko-kore-133px-Coat_of_arms_of_San_Marino.svg.png" decoding="async" width="133" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_San_Marino.svg/langko-kore-200px-Coat_of_arms_of_San_Marino.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_San_Marino.svg/langko-kore-267px-Coat_of_arms_of_San_Marino.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a class="mw-selflink selflink">聖馬利諾</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>執政官</rb><rp>(</rp><rt>집정관</rt><rp>)</rp></ruby>
+</th>
+<td>Filippo Tamagnini, Gaetano Troina
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>61.2km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC +2
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>33,628<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>565.6<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E4%BC%8A%E5%A4%AA%E5%88%A9%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="伊太利語 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>伊太利語</rb><rp>(</rp><rt>이태리어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用</rb><rp>(</rp><rt>공용</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%8B%89%E4%B8%81%E6%96%87%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="拉丁文字 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>拉丁</rb><rp>(</rp><rt>납정</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td>9<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+378
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko-Kore" dir="ltr"><h2 id="mw-toc-heading">目次</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#槪述(개술)"><span class="tocnumber">1</span> <span class="toctext">槪述(개술)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#歷史(역사)"><span class="tocnumber">2</span> <span class="toctext">歷史(역사)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#政治(정치)"><span class="tocnumber">3</span> <span class="toctext">政治(정치)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#體制(체제)"><span class="tocnumber">3.1</span> <span class="toctext">體制(체제)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#憲法(헌법)"><span class="tocnumber">4</span> <span class="toctext">憲法(헌법)</span></a></li>
+</ul>
+</div>
+<h2><span id=".E6.A7.AA.E8.BF.B0.28.EA.B0.9C.EC.88.A0.29"></span><span class="mw-headline" id="槪述(개술)"><ruby class="hanja api grade32"><rb>槪述</rb><rp>(</rp><rt>개술</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%81%96%E9%A6%AC%E5%88%A9%E8%AB%BE&amp;action=edit&amp;section=1" title="部分 編輯: 槪述(개술)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E4%BC%8A%E5%A4%AA%E5%88%A9" title="伊太利"><ruby class="hanja api grade12"><rb>伊太利</rb><rp>(</rp><rt>이태리</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade50"><rb>領土</rb><rp>(</rp><rt>영토</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>한 '<ruby class="hanja api grade80"><rb>國中</rb><rp>(</rp><rt>국중</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>'은 <ruby class="hanja api grade70"><rb>山地</rb><rp>(</rp><rt>산지</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>丘陵地</rb><rp>(</rp><rt>구릉지</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>形</rb><rp>(</rp><rt>형</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>爲主</rb><rp>(</rp><rt>위주</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade32"><rb>最高峯</rb><rp>(</rp><rt>최고봉</rt><rp>)</rp></ruby>인 티타노<ruby class="hanja api grade80"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade32"><rb>海拔</rb><rp>(</rp><rt>해발</rt><rp>)</rp></ruby> 755.24m이다. <ruby class="hanja api grade32"><rb>亞熱帶</rb><rp>(</rp><rt>아열대</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>地中海</rb><rp>(</rp><rt>지중해</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>氣候</rb><rp>(</rp><rt>기후</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>한다. <ruby class="hanja api grade40"><rb>年平均</rb><rp>(</rp><rt>연평균</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>氣溫</rb><rp>(</rp><rt>기온</rt><rp>)</rp></ruby>은 16℃ 겨울 <ruby class="hanja api grade42"><rb>最低</rb><rp>(</rp><rt>최저</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>氣溫</rb><rp>(</rp><rt>기온</rt><rp>)</rp></ruby> -2℃ 여름 <ruby class="hanja api grade50"><rb>最高</rb><rp>(</rp><rt>최고</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>氣溫</rb><rp>(</rp><rt>기온</rt><rp>)</rp></ruby> 30℃입니다. <ruby class="hanja api grade40"><rb>年平均</rb><rp>(</rp><rt>연평균</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>降水量</rb><rp>(</rp><rt>강수량</rt><rp>)</rp></ruby>은 880<ruby class="hanja api grade0"><rb>粍</rb><rp>(</rp><rt>모</rt><rp>)</rp></ruby>입니다.
+</p>
+<h2><span id=".E6.AD.B7.E5.8F.B2.28.EC.97.AD.EC.82.AC.29"></span><span class="mw-headline" id="歷史(역사)"><ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%81%96%E9%A6%AC%E5%88%A9%E8%AB%BE&amp;action=edit&amp;section=2" title="部分 編輯: 歷史(역사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja api grade52"><rb>傳說</rb><rp>(</rp><rt>전설</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>하면 <ruby class="hanja api grade62"><rb>書記</rb><rp>(</rp><rt>서기</rt><rp>)</rp></ruby> 301<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>에 마리노라는 <ruby class="hanja api grade42"><rb>基督敎人</rb><rp>(</rp><rt>기독교인</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade42"><rb>羅馬</rb><rp>(</rp><rt>나마</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>皇帝</rb><rp>(</rp><rt>황제</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade32"><rb>迫害</rb><rp>(</rp><rt>박해</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade40"><rb>避</rb><rp>(</rp><rt>피</rt><rp>)</rp></ruby>해 tidano <ruby class="hanja api grade80"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>頂上</rb><rp>(</rp><rt>정상</rt><rp>)</rp></ruby>에 숨었다고 한다. <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70"><rb>地名</rb><rp>(</rp><rt>지명</rt><rp>)</rp></ruby>은 여기서 <ruby class="hanja api grade60"><rb>由來</rb><rp>(</rp><rt>유래</rt><rp>)</rp></ruby>되었다. 처음에 <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade60"><rb>族長</rb><rp>(</rp><rt>족장</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>管理</rb><rp>(</rp><rt>관리</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>施行</rb><rp>(</rp><rt>시행</rt><rp>)</rp></ruby>하였고 1243<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>에 두 <ruby class="hanja api grade32"><rb>執政官</rb><rp>(</rp><rt>집정관</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade32"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby>하여 <ruby class="hanja api grade42"><rb>統治</rb><rp>(</rp><rt>통치</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade42"><rb>制度</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>確立</rb><rp>(</rp><rt>확립</rt><rp>)</rp></ruby>하여 오늘날 <ruby class="hanja api grade62"><rb>世界</rb><rp>(</rp><rt>세계</rt><rp>)</rp></ruby>에서 가장 오래된 <ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>이 되었다. 두 <ruby class="hanja api grade42"><rb>次例</rb><rp>(</rp><rt>차례</rt><rp>)</rp></ruby>의 <a href="/index.php?title=%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0&amp;action=edit&amp;redlink=1" class="new" title="世界大戰 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>世界大戰</rb><rp>(</rp><rt>세계대전</rt><rp>)</rp></ruby></a> 동안 <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade32"><rb>恒常</rb><rp>(</rp><rt>항상</rt><rp>)</rp></ruby> <ruby class="hanja api grade72"><rb>中立</rb><rp>(</rp><rt>중립</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>維持</rb><rp>(</rp><rt>유지</rt><rp>)</rp></ruby>했다. <ruby class="hanja api grade72"><rb>前後</rb><rp>(</rp><rt>전후</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>가 <ruby class="hanja api grade52"><rb>安定的</rb><rp>(</rp><rt>안정적</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade52"><rb>發展</rb><rp>(</rp><rt>발전</rt><rp>)</rp></ruby>하여 <a href="/index.php?title=%E5%9C%8B%E8%81%AF&amp;action=edit&amp;redlink=1" class="new" title="國聯 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>國聯</rb><rp>(</rp><rt>국련</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>重要</rb><rp>(</rp><rt>중요</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade40"><rb>國際機構</rb><rp>(</rp><rt>국제기구</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade50"><rb>加入</rb><rp>(</rp><rt>가입</rt><rp>)</rp></ruby>하였다.
+</p>
+<h2><span id=".E6.94.BF.E6.B2.BB.28.EC.A0.95.EC.B9.98.29"></span><span class="mw-headline" id="政治(정치)"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%81%96%E9%A6%AC%E5%88%A9%E8%AB%BE&amp;action=edit&amp;section=3" title="部分 編輯: 政治(정치)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E9.AB.94.E5.88.B6.28.EC.B2.B4.EC.A0.9C.29"></span><span class="mw-headline" id="體制(체제)"><ruby class="hanja api grade42"><rb>體制</rb><rp>(</rp><rt>체제</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%81%96%E9%A6%AC%E5%88%A9%E8%AB%BE&amp;action=edit&amp;section=4" title="部分 編輯: 體制(체제)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1906<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>부터 <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade60"><rb>族長</rb><rp>(</rp><rt>족장</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>會議</rb><rp>(</rp><rt>회의</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>制度</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby>를 끝내고 <ruby class="hanja api grade42"><rb>多黨制</rb><rp>(</rp><rt>다당제</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>民主主義</rb><rp>(</rp><rt>민주주의</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>實施</rb><rp>(</rp><rt>실시</rt><rp>)</rp></ruby>하였다.
+</p><p><ruby class="hanja api grade42"><rb>議會</rb><rp>(</rp><rt>의회</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>一院制</rb><rp>(</rp><rt>일원제</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>採用</rb><rp>(</rp><rt>채용</rt><rp>)</rp></ruby>하였다.
+</p>
+<h2><span id=".E6.86.B2.E6.B3.95.28.ED.97.8C.EB.B2.95.29"></span><span class="mw-headline" id="憲法(헌법)"><ruby class="hanja api grade40"><rb>憲法</rb><rp>(</rp><rt>헌법</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%81%96%E9%A6%AC%E5%88%A9%E8%AB%BE&amp;action=edit&amp;section=5" title="部分 編輯: 憲法(헌법)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade42"><rb>眞正</rb><rp>(</rp><rt>진정</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade40"><rb>憲法</rb><rp>(</rp><rt>헌법</rt><rp>)</rp></ruby>이 없고, 1974<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 7<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 8<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade52"><rb>通過</rb><rp>(</rp><rt>통과</rt><rp>)</rp></ruby>된 <ruby class="hanja api grade42"><rb>法律</rb><rp>(</rp><rt>법률</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby> '<ruby class="hanja api grade42"><rb>市民權</rb><rp>(</rp><rt>시민권</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>基本</rb><rp>(</rp><rt>기본</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>制度</rb><rp>(</rp><rt>제도</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>原則</rb><rp>(</rp><rt>원칙</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>宣言</rb><rp>(</rp><rt>선언</rt><rp>)</rp></ruby>'은 <ruby class="hanja api grade40"><rb>憲法</rb><rp>(</rp><rt>헌법</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>義務</rb><rp>(</rp><rt>의무</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade60"><rb>行使</rb><rp>(</rp><rt>행사</rt><rp>)</rp></ruby>하며, 이 <ruby class="hanja api grade52"><rb>法</rb><rp>(</rp><rt>법</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade60"><rb>古代</rb><rp>(</rp><rt>고대</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>慣習法</rb><rp>(</rp><rt>관습법</rt><rp>)</rp></ruby>, 1600<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade52"><rb>通過</rb><rp>(</rp><rt>통과</rt><rp>)</rp></ruby>된 <ruby class="hanja api grade42"><rb>聖</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>諾</rb><rp>(</rp><rt>락</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>法令</rb><rp>(</rp><rt>법령</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade60"><rb>由來</rb><rp>(</rp><rt>유래</rt><rp>)</rp></ruby>하여 2002<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 2<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 26<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade50"><rb>改正</rb><rp>(</rp><rt>개정</rt><rp>)</rp></ruby>되었다.
+</p>
+</div></body></html>
