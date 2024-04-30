@@ -22,8 +22,18 @@
       "count": 1
     },
     {
+      "title": "硼",
+      "surrounding": "矽(석) 磷(인) 硫(유) 氯(녹)",
+      "count": 1
+    },
+    {
       "title": "語文會 級數別 配定漢字 一覽",
       "surrounding": "療(요) 遼(요) 硫(유) 謬(유)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "矽(석) 磷(인) 硫(유) 氯(녹)",
       "count": 1
     }
   ]

@@ -1,0 +1,35 @@
+{
+  "word": "元素",
+  "pages": [
+    {
+      "title": "倉頡輸入法",
+      "surrounding": "-- ABCDEFG 五元素(오원소)에 해와",
+      "count": 1
+    },
+    {
+      "title": "形聲文字",
+      "surrounding": "中國(중국)에서 만들어진 元素(원소)를 나타내는",
+      "count": 1
+    },
+    {
+      "title": "硼",
+      "surrounding": "非(비) 金屬(금속) 元素(원소) 1",
+      "count": 1
+    },
+    {
+      "title": "鿫",
+      "surrounding": "中國語(중국어)에서 118番(번) 元素(원소) 오가네손(oganesson)을",
+      "count": 1
+    },
+    {
+      "title": "鿬",
+      "surrounding": "中國語(중국어)에서 117番(번) 元素(원소) 테네신(tennessine)을",
+      "count": 1
+    },
+    {
+      "title": "𬬻",
+      "surrounding": "中國語(중국어)에서 104番(번) 元素(원소) 러더포듐(rutherfordium)을",
+      "count": 1
+    }
+  ]
+}

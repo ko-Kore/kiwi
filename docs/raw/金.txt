@@ -78,4 +78,324 @@
 <h2><span id=".E8.B6.8A.E5.8D.97.E8.AA.9E.28.EC.9B.94.EB.82.A8.EC.96.B4.29"></span><span class="mw-headline" id="越南語(월남어)"><ruby class="hanja api grade32"><rb>越南語</rb><rp>(</rp><rt>월남어</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%87%91&amp;action=edit&amp;section=6" title="部分 編輯: 越南語(월남어)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <h3><span id=".E7.99.BC.E9.9F.B3.28.EB.B0.9C.EC.9D.8C.29_3"></span><span class="mw-headline" id="發音(발음)_3"><ruby class="hanja api grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%87%91&amp;action=edit&amp;section=7" title="部分 編輯: 發音(발음)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
 <ul><li><ruby class="hanja api grade0"><rb>𡨸</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>國語</rb><rp>(</rp><rt>국어</rt><rp>)</rp></ruby>&nbsp;: kim</li></ul>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th>
+</th>
+<th>1
+</th>
+<th>2
+</th>
+<th>3
+</th>
+<th>4
+</th>
+<th>5
+</th>
+<th>6
+</th>
+<th>7
+</th>
+<th>8
+</th>
+<th>9
+</th>
+<th>10
+</th>
+<th>11
+</th>
+<th>12
+</th>
+<th>13
+</th>
+<th>14
+</th>
+<th>15
+</th>
+<th>16
+</th>
+<th>17
+</th>
+<th>18
+</th></tr>
+<tr>
+<th>1
+</th>
+<td><a href="/index.php?title=%E6%B0%AB&amp;action=edit&amp;redlink=1" class="new" title="氫 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>氫</rb><rp>(</rp><rt>경</rt><rp>)</rp></ruby></a>
+</td>
+<td colspan="16">
+</td>
+<td><a href="/index.php?title=%E6%B0%A6&amp;action=edit&amp;redlink=1" class="new" title="氦 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>氦</rb><rp>(</rp><rt>해</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td><ruby class="hanja api grade0"><rb>鋰</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈹</rb><rp>(</rp><rt>피</rt><rp>)</rp></ruby>
+</td>
+<td colspan="10">
+</td>
+<td><a href="/wiki/%E7%A1%BC" title="硼"><ruby class="hanja api grade10"><rb>硼</rb><rp>(</rp><rt>붕</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E7%A2%B3&amp;action=edit&amp;redlink=1" class="new" title="碳 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>碳</rb><rp>(</rp><rt>탄</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>氮</rb><rp>(</rp><rt>담</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E6%B0%A7&amp;action=edit&amp;redlink=1" class="new" title="氧 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>氧</rb><rp>(</rp><rt>양</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>氟</rb><rp>(</rp><rt>불</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>氖</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td><ruby class="hanja api grade0"><rb>鈉</rb><rp>(</rp><rt>납</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎂</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby>
+</td>
+<td colspan="10">
+</td>
+<td><ruby class="hanja api grade0"><rb>鋁</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>矽</rb><rp>(</rp><rt>석</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E7%A3%B7&amp;action=edit&amp;redlink=1" class="new" title="磷 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>磷</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E7%A1%AB&amp;action=edit&amp;redlink=1" class="new" title="硫 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>硫</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>氯</rb><rp>(</rp><rt>녹</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>氬</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>4
+</th>
+<td><a href="/index.php?title=%E9%89%80&amp;action=edit&amp;redlink=1" class="new" title="鉀 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>鉀</rb><rp>(</rp><rt>갑</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E9%88%A3&amp;action=edit&amp;redlink=1" class="new" title="鈣 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>鈣</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈧</rb><rp>(</rp><rt>항</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈦</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釩</rb><rp>(</rp><rt>범</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉻</rb><rp>(</rp><rt>낙</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E9%8C%B3&amp;action=edit&amp;redlink=1" class="new" title="錳 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>錳</rb><rp>(</rp><rt>맹</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E9%90%B5&amp;action=edit&amp;redlink=1" class="new" title="鐵 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>鐵</rb><rp>(</rp><rt>철</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈷</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎳</rb><rp>(</rp><rt>얼</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E9%8A%85&amp;action=edit&amp;redlink=1" class="new" title="銅 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>銅</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋅</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎵</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鍺</rb><rp>(</rp><rt>타</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E7%A0%B7&amp;action=edit&amp;redlink=1" class="new" title="砷 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>砷</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>硒</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>溴</rb><rp>(</rp><rt>추</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>氪</rb><rp>(</rp><rt>극</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>5
+</th>
+<td><ruby class="hanja api grade0"><rb>銣</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鍶</rb><rp>(</rp><rt>송</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釔</rb><rp>(</rp><rt>을</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋯</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈮</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉬</rb><rp>(</rp><rt>목</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎝</rb><rp>(</rp><rt>삽</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釕</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>銠</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈀</rb><rp>(</rp><rt>파</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E9%8A%80&amp;action=edit&amp;redlink=1" class="new" title="銀 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎘</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>銦</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E9%8C%AB&amp;action=edit&amp;redlink=1" class="new" title="錫 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>錫</rb><rp>(</rp><rt>석</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>銻</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>碲</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>碘</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>氙</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>6
+</th>
+<td><ruby class="hanja api grade0"><rb>銫</rb><rp>(</rp><rt>색</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋇</rb><rp>(</rp><rt>패</rt><rp>)</rp></ruby>
+</td>
+<td>*
+</td>
+<td><ruby class="hanja api grade0"><rb>鉿</rb><rp>(</rp><rt>협</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉭</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎢</rb><rp>(</rp><rt>오</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>錸</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋨</rb><rp>(</rp><rt>철</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>銥</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉑</rb><rp>(</rp><rt>박</rt><rp>)</rp></ruby>
+</td>
+<td><a class="mw-selflink selflink">金</a>
+</td>
+<td><ruby class="hanja api grade0"><rb>汞</rb><rp>(</rp><rt>홍</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉈</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E9%89%9B&amp;action=edit&amp;redlink=1" class="new" title="鉛 (없는 文書)"><ruby class="hanja api grade40 unknown"><rb>鉛</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby></a>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉍</rb><rp>(</rp><rt>필</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釙</rb><rp>(</rp><rt>박</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>砈</rb><rp>(</rp><rt>나</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>氡</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>7
+</th>
+<td><ruby class="hanja api grade0"><rb>鍅</rb><rp>(</rp><rt>법</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鐳</rb><rp>(</rp><rt>뇌</rt><rp>)</rp></ruby>
+</td>
+<td>**
+</td>
+<td><ruby class="hanja api grade0"><rb>鑪</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby>
+</td>
+<td>𨧀
+</td>
+<td>𨭎
+</td>
+<td>𨨏
+</td>
+<td>𨭆
+</td>
+<td><ruby class="hanja api grade0"><rb>䥑</rb><rp>(</rp><rt>맘</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鐽</rb><rp>(</rp><rt>달</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>錀</rb><rp>(</rp><rt>윤</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎶</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉨</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈇</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鏌</rb><rp>(</rp><rt>막</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉝</rb><rp>(</rp><rt>입</rt><rp>)</rp></ruby>
+</td>
+<td>鿬
+</td>
+<td>鿫
+</td></tr>
+<tr>
+<td colspan="19">
+</td></tr>
+<tr>
+<td colspan="3">
+</td>
+<td>*
+</td>
+<td><ruby class="hanja api grade0"><rb>鑭</rb><rp>(</rp><rt>난</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈰</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鐠</rb><rp>(</rp><rt>보</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釹</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉕</rb><rp>(</rp><rt>파</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釤</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>銪</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釓</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋱</rb><rp>(</rp><rt>특</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鏑</rb><rp>(</rp><rt>적</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈥</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉺</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>銩</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鐿</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鎦</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td colspan="3">
+</td>
+<td>**
+</td>
+<td><ruby class="hanja api grade0"><rb>錒</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>釷</rb><rp>(</rp><rt>토</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鏷</rb><rp>(</rp><rt>박</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈾</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>錼</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鈽</rb><rp>(</rp><rt>포</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋂</rb><rp>(</rp><rt>매</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鋦</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉳</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鉲</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鑀</rb><rp>(</rp><rt>애</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鐨</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鍆</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鍩</rb><rp>(</rp><rt>첨</rt><rp>)</rp></ruby>
+</td>
+<td><ruby class="hanja api grade0"><rb>鐒</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
 </div></body></html>
