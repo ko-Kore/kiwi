@@ -16,5 +16,17 @@
 <th><ruby class="hanja api grade42"><rb>職業</rb><rp>(</rp><rt>직업</rt><rp>)</rp></ruby>
 </th>
 <td>UP<ruby class="hanja api grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>(<a href="/index.php?title=%EB%B8%94%EB%A1%9C%EA%B1%B0&amp;action=edit&amp;redlink=1" class="new" title="블로거 (없는 文書)">블로거</a>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>主要</rb><rp>(</rp><rt>주요</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>榮譽</rb><rp>(</rp><rt>영예</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%97%B6%E5%93%A9%E5%97%B6%E5%93%A9" title="嗶哩嗶哩"><ruby class="hanja api grade0"><rb>嗶</rb><rp>(</rp><rt>필</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>哩</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>嗶</rb><rp>(</rp><rt>필</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>哩</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby></a> <ruby><rb>年度百大</rb><rp>(</rp><rt>연도백대</rt><rp>)</rp></ruby><ruby><rb>UP</rb><rp>(</rp><rt>아푹</rt><rp>)</rp></ruby><ruby><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby> <b>4<ruby class="hanja api grade42"><rb>回</rb><rp>(</rp><rt>회</rt><rp>)</rp></ruby></b>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>追隨</rb><rp>(</rp><rt>추수</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>者</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
+</th>
+<td>802<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>餘</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
+<p><a class="mw-selflink selflink">小約翰可汗</a>어 <a href="/wiki/%E5%97%B6%E5%93%A9%E5%97%B6%E5%93%A9" title="嗶哩嗶哩"><ruby class="hanja api grade0"><rb>嗶</rb><rp>(</rp><rt>필</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>哩</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>嗶</rb><rp>(</rp><rt>필</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>哩</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby></a> 유명 역사 비디오 <a href="/index.php?title=%EB%B8%94%EB%A1%9C%EA%B1%B0&amp;action=edit&amp;redlink=1" class="new" title="블로거 (없는 文書)">블로거</a> 개인 오피니언 리더.
+</p>
 </div></body></html>
