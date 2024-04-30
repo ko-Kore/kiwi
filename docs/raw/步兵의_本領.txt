@@ -33,14 +33,14 @@
 </p><p><br>
 2.
 </p><p><ruby><rb>尺餘</rb><rp>(</rp><rt>しやくよ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>銃</rb><rp>(</rp><rt>つゝ</rt><rp>)</rp></ruby>は武器竝ず　<ruby><rb>寸餘</rb><rp>(</rp><rt>すんよ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>劍</rb><rp>(</rp><rt>けん</rt><rp>)</rp></ruby><ruby><rb>何</rb><rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かせん　
-</p><p>知らずや<ruby><rb>此</rb><rp>(</rp><rt>ここ</rt><rp>)</rp></ruby>に二千年　鍛へ鍛へし<ruby><rb>大和魂</rb><rp>(</rp><rt>やまとだま</rt><rp>)</rp></ruby>
+</p><p>知らずや<ruby><rb>此</rb><rp>(</rp><rt>ここ</rt><rp>)</rp></ruby>に<ruby><rb>二千年</rb><rp>(</rp><rt>にせんねん</rt><rp>)</rp></ruby>　鍛へ鍛へし<ruby><rb>大和魂</rb><rp>(</rp><rt>やまとだま</rt><rp>)</rp></ruby>
 </p><p><br>
 3.
 </p><p><ruby><rb>軍旗</rb><rp>(</rp><rt>ぐんき</rt><rp>)</rp></ruby><ruby><rb>守</rb><rp>(</rp><rt>まもる</rt><rp>)</rp></ruby><ruby><rb>武士</rb><rp>(</rp><rt>ものゝふ</rt><rp>)</rp></ruby>は　<ruby><rb>總</rb><rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>て<ruby><rb>其</rb><rp>(</rp><rt>その</rt><rp>)</rp></ruby><ruby><rb>數</rb><rp>(</rp><rt>すう</rt><rp>)</rp></ruby><ruby><rb>二十萬</rb><rp>(</rp><rt>にじふまん</rt><rp>)</rp></ruby>
 </p><p><ruby><rb>八十餘ヶ所</rb><rp>(</rp><rt>はちじふよがしよ</rt><rp>)</rp></ruby>に<ruby><rb>屯</rb><rp>(</rp><rt>たむろ</rt><rp>)</rp></ruby>して　<ruby><rb>武裝</rb><rp>(</rp><rt>ぶそう</rt><rp>)</rp></ruby>は<ruby><rb>解</rb><rp>(</rp><rt>と</rt><rp>)</rp></ruby>かじ<ruby><rb>夢</rb><rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>にだも
 </p><p><br>
 4.
-</p><p><ruby><rb>千里東西</rb><rp>(</rp><rt>せんりとうざい</rt><rp>)</rp></ruby>波越へて　我に仇なす國あらば　
+</p><p><ruby><rb>千里東西</rb><rp>(</rp><rt>せんりとうざい</rt><rp>)</rp></ruby><ruby><rb>波</rb><rp>(</rp><rt>なみ</rt><rp>)</rp></ruby><ruby><rb>越</rb><rp>(</rp><rt>こ</rt><rp>)</rp></ruby>へて　我に仇なす國あらば　
 </p><p><ruby><rb>港</rb><rp>(</rp><rt>みなと</rt><rp>)</rp></ruby>を出てん<ruby><rb>輸送船</rb><rp>(</rp><rt>ゆそうせん</rt><rp>)</rp></ruby>　暫し守れや海の人
 </p><p><br>
 5.
@@ -49,23 +49,23 @@
 </p><p><br>
 6.
 </p><p><ruby><rb>亞耳伯士</rb><rp>(</rp><rt>アルプス</rt><rp>)</rp></ruby><ruby><rb>山</rb><rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を踏破せし　<ruby><rb>歷史</rb><rp>(</rp><rt>れきし</rt><rp>)</rp></ruby>は古く<ruby><rb>雪白</rb><rp>(</rp><rt>ゆきしろ</rt><rp>)</rp></ruby>し　
-</p><p><ruby><rb>奉天</rb><rp>(</rp><rt>ホウテン</rt><rp>)</rp></ruby>戰の活動は　<ruby><rb>日本</rb><rp>(</rp><rt>につぽん</rt><rp>)</rp></ruby><ruby><rb>步兵</rb><rp>(</rp><rt>ほへい</rt><rp>)</rp></ruby>の華と知れ
+</p><p><ruby><rb>奉天</rb><rp>(</rp><rt>ホウテン</rt><rp>)</rp></ruby><ruby><rb>戰</rb><rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>の<ruby><rb>働</rb><rp>(</rp><rt>はたらき</rt><rp>)</rp></ruby>は　<ruby><rb>日本</rb><rp>(</rp><rt>につぽん</rt><rp>)</rp></ruby><ruby><rb>步兵</rb><rp>(</rp><rt>ほへい</rt><rp>)</rp></ruby>の<ruby><rb>華</rb><rp>(</rp><rt>はな</rt><rp>)</rp></ruby>と<ruby><rb>知</rb><rp>(</rp><rt>し</rt><rp>)</rp></ruby>れ
 </p><p><br>
 7.
-</p><p><ruby><rb>攜帶口糧</rb><rp>(</rp><rt>けいたいこうりやう</rt><rp>)</rp></ruby>在るならば　遠く離れて<ruby><rb>三日四日</rb><rp>(</rp><rt>みかよつか</rt><rp>)</rp></ruby>
+</p><p><ruby><rb>攜帶口糧</rb><rp>(</rp><rt>けいたいこうりやう</rt><rp>)</rp></ruby><ruby><rb>在</rb><rp>(</rp><rt>あ</rt><rp>)</rp></ruby>るならば　<ruby><rb>徒步</rb><rp>(</rp><rt>とほ</rt><rp>)</rp></ruby>く<ruby><rb>離</rb><rp>(</rp><rt>はなれ</rt><rp>)</rp></ruby>て<ruby><rb>三日四日</rb><rp>(</rp><rt>みかよつか</rt><rp>)</rp></ruby>
 </p><p><ruby><rb>曠野千里</rb><rp>(</rp><rt>くわうやせんり</rt><rp>)</rp></ruby>に<ruby><rb>渡</rb><rp>(</rp><rt>わたる</rt><rp>)</rp></ruby><ruby><rb>共</rb><rp>(</rp><rt>とも</rt><rp>)</rp></ruby>　<ruby><rb>散兵線</rb><rp>(</rp><rt>さんへいせん</rt><rp>)</rp></ruby>に<ruby><rb>秩序</rb><rp>(</rp><rt>ちつじよ</rt><rp>)</rp></ruby><ruby><rb>存</rb><rp>(</rp><rt>あり</rt><rp>)</rp></ruby>
 </p><p><br>
 6.
-</p><p>退く<ruby><rb>理</rb><rp>(</rp><rt>ことは</rt><rp>)</rp></ruby>我知らず　見よや步兵の操典を　
-</p><p>步兵の戰は射擊にて　敵を<ruby><rb>怯</rb><rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ませ其隙に
+</p><p>退く<ruby><rb>理</rb><rp>(</rp><rt>ことは</rt><rp>)</rp></ruby><ruby><rb>我知</rb><rp>(</rp><rt>われし</rt><rp>)</rp></ruby>らず　<ruby><rb>見</rb><rp>(</rp><rt>み</rt><rp>)</rp></ruby>よや<ruby><rb>步兵</rb><rp>(</rp><rt>ほへい</rt><rp>)</rp></ruby>の<ruby><rb>操典</rb><rp>(</rp><rt>さうてん</rt><rp>)</rp></ruby>を　
+</p><p><ruby><rb>步兵</rb><rp>(</rp><rt>ほへい</rt><rp>)</rp></ruby>の<ruby><rb>戰</rb><rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>は射擊にて　敵を<ruby><rb>怯</rb><rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ませ其隙に
 </p><p><br>
 7.
 </p><p><ruby><rb>前進前進又前進</rb><rp>(</rp><rt>ぜんしんぜんしんまたぜんしん</rt><rp>)</rp></ruby>　<ruby><rb>肉彈</rb><rp>(</rp><rt>にくだん</rt><rp>)</rp></ruby>と<ruby><rb>獨</rb><rp>(</rp><rt>どく</rt><rp>)</rp></ruby><ruby><rb>所</rb><rp>(</rp><rt>ところ</rt><rp>)</rp></ruby><ruby><rb>迄</rb><rp>(</rp><rt>まで</rt><rp>)</rp></ruby>　
-</p><p>我が一軍の勝敗は　突擊最後の數分時
+</p><p><ruby><rb>我</rb><rp>(</rp><rt>わが</rt><rp>)</rp></ruby><ruby><rb>一軍いちぐん</rb><rp>(</rp><rt></rt><rp>)</rp></ruby>の<ruby><rb>勝敗</rb><rp>(</rp><rt>しようはい</rt><rp>)</rp></ruby>は　<ruby><rb>突擊最後</rb><rp>(</rp><rt>とつかんさいご</rt><rp>)</rp></ruby>の<ruby><rb>數分時</rb><rp>(</rp><rt>すうふんじ</rt><rp>)</rp></ruby>
 </p><p><br>
 8.
-</p><p>步兵の本領茲に在　<ruby><rb>嗚呼勇</rb><rp>(</rp><rt>あゝいさま</rt><rp>)</rp></ruby>しの我兵科　
-</p><p><ruby><rb>會心</rb><rp>(</rp><rt>ゐしん</rt><rp>)</rp></ruby>の友よ然らばいざ　共に励まん我任務
+</p><p><ruby><rb>步兵</rb><rp>(</rp><rt>ほへい</rt><rp>)</rp></ruby>の<ruby><rb>本領</rb><rp>(</rp><rt>ほうりやう</rt><rp>)</rp></ruby><ruby><rb>茲</rb><rp>(</rp><rt>こゝ</rt><rp>)</rp></ruby>に<ruby><rb>在</rb><rp>(</rp><rt>あり</rt><rp>)</rp></ruby>　<ruby><rb>嗚呼勇</rb><rp>(</rp><rt>あゝいさま</rt><rp>)</rp></ruby>しの<ruby><rb>我</rb><rp>(</rp><rt>わが</rt><rp>)</rp></ruby><ruby><rb>兵科</rb><rp>(</rp><rt>へいか</rt><rp>)</rp></ruby>　
+</p><p><ruby><rb>會心</rb><rp>(</rp><rt>ゑしん</rt><rp>)</rp></ruby>の<ruby><rb>友</rb><rp>(</rp><rt>とも</rt><rp>)</rp></ruby>よ<ruby><rb>然</rb><rp>(</rp><rt>さ</rt><rp>)</rp></ruby>らばいざ　<ruby><rb>共</rb><rp>(</rp><rt>とも</rt><rp>)</rp></ruby>に<ruby><rb>勵</rb><rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>まん<ruby><rb>我</rb><rp>(</rp><rt>わが</rt><rp>)</rp></ruby><ruby><rb>任務</rb><rp>(</rp><rt>じんむ</rt><rp>)</rp></ruby>
 </p>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade50"><rb>原曲</rb><rp>(</rp><rt>원곡</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby> &lt;<ruby class="hanja api grade80"><rb>小</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>楠</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>公</rb><rp>(</rp><rt>공</rt><rp>)</rp></ruby>&gt;</span>
