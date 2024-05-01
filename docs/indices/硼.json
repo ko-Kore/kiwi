@@ -20,6 +20,11 @@
       "title": "金",
       "surrounding": "鋰(이) 鈹(피) 硼(붕) 碳(탄)",
       "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "鋰(이) 鈹(피) 硼(붕) 碳(탄)",
+      "count": 1
     }
   ]
 }
