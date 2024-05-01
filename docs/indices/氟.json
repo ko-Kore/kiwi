@@ -1,0 +1,30 @@
+{
+  "word": "氟",
+  "pages": [
+    {
+      "title": "形聲文字",
+      "surrounding": "元素(원소)를 나타내는 글字(자)들(氟(불)[4] 鈦(태)[5]",
+      "count": 1
+    },
+    {
+      "title": "硼",
+      "surrounding": "氮(담) 氧(양) 氟(불) 氖(내)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "氮(담) 氧(양) 氟(불) 氖(내)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "氮(담) 氧(양) 氟(불) 氖(내)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "氮(담) 氧(양) 氟(불) 氖(내)",
+      "count": 1
+    }
+  ]
+}

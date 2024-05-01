@@ -17,11 +17,11 @@
 <tr>
 <th><ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
 </th>
-<td>-
+<td><ruby class="hanja api grade0"><rb>铁</rb><rp>(</rp><rt>철</rt><rp>)</rp></ruby>
 </td>
 <th><ruby class="hanja api grade62"><rb>新字</rb><rp>(</rp><rt>신자</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby>
 </th>
-<td>-
+<td><ruby class="hanja api grade0"><rb>鉄</rb><rp>(</rp><rt>철</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <td colspan="4" style="text-align: center;">-
@@ -187,7 +187,7 @@
 </td>
 <td><ruby class="hanja api grade0"><rb>鈀</rb><rp>(</rp><rt>파</rt><rp>)</rp></ruby>
 </td>
-<td><a href="/index.php?title=%E9%8A%80&amp;action=edit&amp;redlink=1" class="new" title="銀 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E9%8A%80" title="銀"><ruby class="hanja api grade60"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby></a>
 </td>
 <td><ruby class="hanja api grade0"><rb>鎘</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby>
 </td>

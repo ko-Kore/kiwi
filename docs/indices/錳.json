@@ -1,0 +1,30 @@
+{
+  "word": "錳",
+  "pages": [
+    {
+      "title": "利比亞",
+      "surrounding": "噸(톤)) 鉀(칼륨) 錳(망간) 燐酸鹽(인산염)",
+      "count": 1
+    },
+    {
+      "title": "硼",
+      "surrounding": "釩(범) 鉻(낙) 錳(맹) 鐵(철)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "釩(범) 鉻(낙) 錳(맹) 鐵(철)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "釩(범) 鉻(낙) 錳(맹) 鐵(철)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "釩(범) 鉻(낙) 錳(맹) 鐵",
+      "count": 1
+    }
+  ]
+}
