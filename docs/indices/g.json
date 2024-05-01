@@ -127,6 +127,11 @@
       "count": 6
     },
     {
+      "title": "瑞典",
+      "surrounding": " 瑞典(서전)王國(왕국) kungarike Sverige ... se 總理(총리)辦公(판공)室(실):http://www regeringen se",
+      "count": 6
+    },
+    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "Wǒ ài Běijīng Tiān’ānmén ... Zhǐyǐn wǒmen xiàng qiánjìn",
       "count": 6
@@ -279,11 +284,6 @@
     {
       "title": "東",
       "surrounding": "병음 : dōng 國語(국어) ... 𡨸國語(자국어) : đông ",
-      "count": 3
-    },
-    {
-      "title": "瑞典",
-      "surrounding": " 瑞典(서전)王國(왕국) kungarike Sverige ... 國歌(국가) Du gamla du",
       "count": 3
     },
     {
