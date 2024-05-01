@@ -277,6 +277,11 @@
       "count": 1
     },
     {
+      "title": "中國大陸",
+      "surrounding": "넘겨줄 對象:中華人民共和國",
+      "count": 1
+    },
+    {
       "title": "今上天皇",
       "surrounding": "넘겨줄 對象：德仁",
       "count": 1
@@ -504,6 +509,11 @@
     {
       "title": "塳文化𡨸漢",
       "surrounding": "넘겨줄 對象：漢字文化圈",
+      "count": 1
+    },
+    {
+      "title": "外蒙古",
+      "surrounding": "넘겨줄 對象:蒙古",
       "count": 1
     },
     {
