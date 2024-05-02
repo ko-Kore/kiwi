@@ -1247,6 +1247,11 @@
       "count": 1
     },
     {
+      "title": "겨울 戰爭",
+      "surrounding": "넘겨줄 對象:第一次",
+      "count": 1
+    },
+    {
       "title": "고치우사",
       "surrounding": "넘겨줄 대상:注文은",
       "count": 1
@@ -1592,6 +1597,11 @@
       "count": 1
     },
     {
+      "title": "오스만 帝國",
+      "surrounding": "넘겨줄 對象:崇高한",
+      "count": 1
+    },
+    {
       "title": "오스만帝國",
       "surrounding": "넘겨줄 대상:崇高한",
       "count": 1
@@ -1769,6 +1779,11 @@
     {
       "title": "프랑스",
       "surrounding": "넘겨줄 대상:佛蘭西",
+      "count": 1
+    },
+    {
+      "title": "핀란드",
+      "surrounding": "넘겨줄 對象:芬蘭",
       "count": 1
     },
     {
