@@ -347,11 +347,6 @@
       "count": 4
     },
     {
-      "title": "西班牙",
-      "surrounding": "標語(표어) Plus ultra(超越(초월)極限(극한)) 皇室(황실) ... Spain (orthographic projection) svg",
-      "count": 4
-    },
-    {
       "title": "馬德里",
       "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시) ... Puerta de Europa歐羅巴(구라파)의 門(문)",
       "count": 4
@@ -1164,6 +1159,11 @@
     {
       "title": "蘇聯",
       "surrounding": "파일:Coat of arms of",
+      "count": 1
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "標語(표어) Plus ultra(超越(초월)極限(극한)) 皇室(황실)",
       "count": 1
     },
     {

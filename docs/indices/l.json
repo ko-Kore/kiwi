@@ -377,11 +377,6 @@
       "count": 3
     },
     {
-      "title": "西班牙",
-      "surrounding": "康(강)乃(내)馨(형) 標語(표어) Plus ultra(超越(초월)極限(극한)) ... 皇室(황실) 紋章(문장) 파일:Royal Coat",
-      "count": 3
-    },
-    {
       "title": "金絲雀群島",
       "surrounding": "領(영) 金絲雀(금사작)群島(군도) Islas Canarias ... españolas 國旗(국기) [[File:{{{國章}}}|x160px]] 地理(지리)",
       "count": 3
@@ -644,6 +639,11 @@
     {
       "title": "蘇格蘭",
       "surrounding": "Kingdom of Scotland/Rìoghachd na ... Scotland/Rìoghachd na h-Alba 國旗(국기)",
+      "count": 2
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "康(강)乃(내)馨(형) 標語(표어) Plus ultra(超越(초월)極限(극한)) ... 標語(표어) Plus ultra(超越(초월)極限(극한)) 皇室(황실)",
       "count": 2
     },
     {

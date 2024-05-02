@@ -147,11 +147,6 @@
       "count": 10
     },
     {
-      "title": "西班牙",
-      "surrounding": " 西班牙(서반아)王國(왕국) Reino de ... 34 西班牙(서반아)王國(왕국)(西班牙語(서반아어): Reino de",
-      "count": 10
-    },
-    {
       "title": "英國",
       "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[一(일)] United Kingdom of ... 따서 United Kingdom 頭文字(두문자)로는",
       "count": 9
@@ -844,6 +839,11 @@
     {
       "title": "芬蘭",
       "surrounding": " 芬蘭(분란)共和國(공화국) Suomen tasavaltaRepubliken ... 元首(원수) Sauli Niinisto(大統領(대통령)) Alexander",
+      "count": 2
+    },
+    {
+      "title": "西班牙",
+      "surrounding": " 西班牙(서반아)王國(왕국) Reino de ... 34 西班牙(서반아)王國(왕국)(西班牙語(서반아어): Reino de",
       "count": 2
     },
     {
