@@ -10,6 +10,7 @@
 <ul>
 <li class="toclevel-2 tocsection-5"><a href="#一(일):韓日(한일)_統一(통일)_簡(간)化(화)_方法(방법)"><span class="tocnumber">2.1</span> <span class="toctext">一(일):韓日(한일) 統一(통일) 簡(간)化(화) 方法(방법)</span></a></li>
 <li class="toclevel-2 tocsection-6"><a href="#二(이):韓中(한중)_統一(통일)_簡(간)化(화)_方法(방법)"><span class="tocnumber">2.2</span> <span class="toctext">二(이):韓中(한중) 統一(통일) 簡(간)化(화) 方法(방법)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#三(삼):韓國(한국)_異體(이체)字(자)_來(내)源(원)"><span class="tocnumber">2.3</span> <span class="toctext">三(삼):韓國(한국) 異體(이체)字(자) 來(내)源(원)</span></a></li>
 </ul>
 </li>
 </ul>
@@ -82,7 +83,7 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade40"><rb>豫</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby>/<ruby class="hanja api grade20"><rb>預</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade30"><rb>予</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>(<ruby class="hanja api grade62"><rb>字體</rb><rp>(</rp><rt>자체</rt><rp>)</rp></ruby> <ruby class="hanja api grade20"><rb>合倂</rb><rp>(</rp><rt>합병</rt><rp>)</rp></ruby>)
+<td><ruby class="hanja api grade30"><rb>予</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>(<ruby class="hanja api grade20"><rb>合倂</rb><rp>(</rp><rt>합병</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby></td>
@@ -97,6 +98,14 @@
 <td><ruby class="hanja api grade0"><rb>訳</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
+<td><ruby class="hanja api grade32"><rb>澤</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>沢</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade40"><rb>擇</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>択</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
 <td><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade0"><rb>亜</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
 </td></tr>
@@ -105,8 +114,20 @@
 <td><ruby class="hanja api grade0"><rb>唖</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
+<td><ruby class="hanja api grade52"><rb>惡</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>悪</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>壓</rb><rp>(</rp><rt>압</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>圧</rb><rp>(</rp><rt>압</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>曆</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>暦</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
 <td><ruby class="hanja api grade62"><rb>發</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby>/<ruby class="hanja api grade10"><rb>撥</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade0"><rb>発</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby>(<ruby class="hanja api grade62"><rb>字體</rb><rp>(</rp><rt>자체</rt><rp>)</rp></ruby> <ruby class="hanja api grade20"><rb>合倂</rb><rp>(</rp><rt>합병</rt><rp>)</rp></ruby>)
+<td><ruby class="hanja api grade0"><rb>発</rb><rp>(</rp><rt>발</rt><rp>)</rp></ruby>(<ruby class="hanja api grade20"><rb>合倂</rb><rp>(</rp><rt>합병</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade32"><rb>廢</rb><rp>(</rp><rt>폐</rt><rp>)</rp></ruby></td>
@@ -125,16 +146,16 @@
 <td><ruby class="hanja api grade0"><rb>囯</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </td></tr>
 <tr>
-<td><ruby class="hanja api grade32"><rb>澤</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade0"><rb>沢</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby>
-</td></tr>
-<tr>
-<td><ruby class="hanja api grade40"><rb>擇</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade0"><rb>択</rb><rp>(</rp><rt>택</rt><rp>)</rp></ruby>
-</td></tr>
-<tr>
 <td><ruby class="hanja api grade42"><rb>燈</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade0"><rb>灯</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade10"><rb>轟</rb><rp>(</rp><rt>굉</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>軣</rb><rp>(</rp><rt>굉</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>円</rb><rp>(</rp><rt>엔</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
 <h3><span id=".E4.BA.8C.28.EC.9D.B4.29:.E9.9F.93.E4.B8.AD.28.ED.95.9C.EC.A4.91.29_.E7.B5.B1.E4.B8.80.28.ED.86.B5.EC.9D.BC.29_.E7.B0.A1.28.EA.B0.84.29.E5.8C.96.28.ED.99.94.29_.E6.96.B9.E6.B3.95.28.EB.B0.A9.EB.B2.95.29"></span><span class="mw-headline" id="二(이):韓中(한중)_統一(통일)_簡(간)化(화)_方法(방법)"><ruby class="hanja api grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>:<ruby class="hanja api grade80"><rb>韓中</rb><rp>(</rp><rt>한중</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>統一</rb><rp>(</rp><rt>통일</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>方法</rb><rp>(</rp><rt>방법</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B_%E7%B0%A1%E5%8C%96%E5%AD%97&amp;action=edit&amp;section=6" title="部分 編輯: 二(이):韓中(한중) 統一(통일) 簡(간)化(화) 方法(방법)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
@@ -166,7 +187,15 @@
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade52"><rb>雲</rb><rp>(</rp><rt>운</rt><rp>)</rp></ruby></td>
-<td><ruby class="hanja api grade30"><rb>云</rb><rp>(</rp><rt>운</rt><rp>)</rp></ruby>
+<td><ruby class="hanja api grade30"><rb>云</rb><rp>(</rp><rt>운</rt><rp>)</rp></ruby>(<ruby class="hanja api grade20"><rb>合倂</rb><rp>(</rp><rt>합병</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade80"><rb>門</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>门</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade60"><rb>開</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby></td>
+<td>󶕆
 </td></tr>
 <tr>
 <td><ruby class="hanja api grade72"><rb>間</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby>/<ruby class="hanja api grade0"><rb>閒</rb><rp>(</rp><rt>한</rt><rp>)</rp></ruby></td>
@@ -187,6 +216,26 @@
 <tr>
 <td><ruby class="hanja api grade40"><rb>稱</rb><rp>(</rp><rt>칭</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade0"><rb>称</rb><rp>(</rp><rt>칭</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade32"><rb>靈</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>灵</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<h3><span id=".E4.B8.89.28.EC.82.BC.29:.E9.9F.93.E5.9C.8B.28.ED.95.9C.EA.B5.AD.29_.E7.95.B0.E9.AB.94.28.EC.9D.B4.EC.B2.B4.29.E5.AD.97.28.EC.9E.90.29_.E4.BE.86.28.EB.82.B4.29.E6.BA.90.28.EC.9B.90.29"></span><span class="mw-headline" id="三(삼):韓國(한국)_異體(이체)字(자)_來(내)源(원)"><ruby class="hanja api grade80"><rb>三</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby>:<ruby class="hanja api grade80"><rb>韓國</rb><rp>(</rp><rt>한국</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>異體</rb><rp>(</rp><rt>이체</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>來</rb><rp>(</rp><rt>내</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>源</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B_%E7%B0%A1%E5%8C%96%E5%AD%97&amp;action=edit&amp;section=7" title="部分 編輯: 三(삼):韓國(한국) 異體(이체)字(자) 來(내)源(원)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade50"><rb>原字</rb><rp>(</rp><rt>원자</rt><rp>)</rp></ruby></th>
+<th><ruby class="hanja api grade40"><rb>略字</rb><rp>(</rp><rt>약자</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade52"><rb>歷</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>厂</rb><rp>(</rp><rt>엄</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade52"><rb>關</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby></td>
+<td>󶖺
 </td></tr></tbody></table>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade52"><rb>以前</rb><rp>(</rp><rt>이전</rt><rp>)</rp></ruby>에는 "<ruby class="hanja api grade0"><rb>乐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby>"을 <ruby class="hanja api grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby></span>
