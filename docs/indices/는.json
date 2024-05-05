@@ -2022,6 +2022,11 @@
       "count": 7
     },
     {
+      "title": "0으로 나누기",
+      "surrounding": "이 文書(문서)는 토막글입니다 ... 있다 한글 字母(자모)로는 ㆆ으로",
+      "count": 6
+    },
+    {
       "title": "2020年 美合衆國 大統領選擧",
       "surrounding": "States presidential election)는 2020年(년) ... 其他(기타) ↑ 英語(영어)로生日(생일)파티의「파티」와政黨兩方(정당량방)의意味(의미)를갖는「party」를利用(이용)한言語遊戱(언어유희) ",
       "count": 6
@@ -2325,11 +2330,6 @@
       "title": "필름 (P-MODEL)",
       "surrounding": "어떡해 어떡해 나는 天才(천재) ... 필름은 寫眞(사진)필름을 말하는 걸로",
       "count": 6
-    },
-    {
-      "title": "0으로 나누기",
-      "surrounding": "이 文書(문서)는 토막글입니다 ... 그러나 0으로 나누는 演算(연산)은",
-      "count": 5
     },
     {
       "title": "Clbuttic",
@@ -5154,6 +5154,11 @@
     {
       "title": "TORIKYU",
       "surrounding": "其他(기타) 槪要(개요)[편집] TORIKYU는 日本(일본)의",
+      "count": 1
+    },
+    {
+      "title": "ᆥ",
+      "surrounding": "ᆥ는 與黨(여당)과",
       "count": 1
     },
     {

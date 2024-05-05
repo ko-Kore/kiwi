@@ -207,6 +207,11 @@
       "count": 2
     },
     {
+      "title": "0으로 나누기",
+      "surrounding": "되어 있다 한글 字母(자모)로는",
+      "count": 1
+    },
+    {
       "title": "CJK",
       "surrounding": "漢字(한자)들에 더불어 한글 拼音(평음)",
       "count": 1
@@ -224,6 +229,11 @@
     {
       "title": "ᅒ",
       "surrounding": "때 쓰는 한글 字母(자모)이다",
+      "count": 1
+    },
+    {
+      "title": "ᆥ",
+      "surrounding": "野黨(야당)을 合(합)친 한글 字母(자모)이다",
       "count": 1
     },
     {

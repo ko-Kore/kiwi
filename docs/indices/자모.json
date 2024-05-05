@@ -42,8 +42,18 @@
       "count": 2
     },
     {
+      "title": "0으로 나누기",
+      "surrounding": "있다 한글 字母(자모)로는 ㆆ으로",
+      "count": 1
+    },
+    {
       "title": "ᅒ",
       "surrounding": "쓰는 한글 字母(자모)이다 ",
+      "count": 1
+    },
+    {
+      "title": "ᆥ",
+      "surrounding": "合(합)친 한글 字母(자모)이다 ",
       "count": 1
     },
     {
