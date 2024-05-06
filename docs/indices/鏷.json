@@ -1,0 +1,30 @@
+{
+  "word": "鏷",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "錒(아) 釷(토) 鏷(박) 鈾(유)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "錒(아) 釷(토) 鏷(박) 鈾(유)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "錒(아) 釷(토) 鏷(박) 鈾(유)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "錒(아) 釷(토) 鏷(박) 鈾(유)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "錒(아) 釷(토) 鏷(박) 鈾(유)",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "氧",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "碳(탄) 氮(담) 氧(양) 氟(불)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "碳(탄) 氮(담) 氧(양) 氟(불)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "碳(탄) 氮(담) 氧(양) 氟(불)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "碳(탄) 氮(담) 氧(양) 氟(불)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "碳(탄) 氮(담) 氧(양) 氟(불)",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "氯",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "磷(인) 硫(유) 氯(녹) 氬(아)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "磷(인) 硫(유) 氯(녹) 氬(아)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "磷(인) 硫(유) 氯(녹) 氬(아)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "磷(인) 硫(유) 氯(녹) 氬(아)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "磷(인) 硫(유) 氯(녹) 氬(아)",
+      "count": 1
+    }
+  ]
+}

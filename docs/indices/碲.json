@@ -1,0 +1,30 @@
+{
+  "word": "碲",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "錫(석) 銻(제) 碲(제) 碘(전)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "錫(석) 銻(제) 碲(제) 碘(전)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "錫(석) 銻(제) 碲(제) 碘(전)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "錫(석) 銻(제) 碲(제) 碘(전)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "錫(석) 銻(제) 碲(제) 碘(전)",
+      "count": 1
+    }
+  ]
+}

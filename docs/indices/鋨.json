@@ -1,0 +1,30 @@
+{
+  "word": "鋨",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "鎢(오) 錸(내) 鋨(철) 銥(의)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "鎢(오) 錸(내) 鋨(철) 銥(의)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "鎢(오) 錸(내) 鋨(철) 銥(의)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "鎢(오) 錸(내) 鋨(철) 銥(의)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "鎢(오) 錸(내) 鋨(철) 銥(의)",
+      "count": 1
+    }
+  ]
+}

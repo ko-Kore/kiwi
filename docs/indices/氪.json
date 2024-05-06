@@ -1,0 +1,30 @@
+{
+  "word": "氪",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "硒(서) 溴(추) 氪(극) 5",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "硒(서) 溴(추) 氪(극) 5",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "硒(서) 溴(추) 氪(극) 5",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "硒(서) 溴(추) 氪(극) 5",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "硒(서) 溴(추) 氪(극) 5",
+      "count": 1
+    }
+  ]
+}

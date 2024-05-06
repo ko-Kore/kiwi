@@ -1,0 +1,30 @@
+{
+  "word": "碳",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "鈹(피) 硼 碳(탄) 氮(담)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "鈹(피) 硼(붕) 碳(탄) 氮(담)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "鈹(피) 硼(붕) 碳(탄) 氮(담)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "鈹(피) 硼(붕) 碳(탄) 氮(담)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "鈹(피) 硼(붕) 碳(탄) 氮(담)",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "釤",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "釹(여) 鉕(파) 釤(삼) 銪(유)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "釹(여) 鉕(파) 釤(삼) 銪(유)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "釹(여) 鉕(파) 釤(삼) 銪(유)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "釹(여) 鉕(파) 釤(삼) 銪(유)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "釹(여) 鉕(파) 釤(삼) 銪(유)",
+      "count": 1
+    }
+  ]
+}

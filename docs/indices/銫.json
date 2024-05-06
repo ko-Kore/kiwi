@@ -1,0 +1,35 @@
+{
+  "word": "銫",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "氙(선) 6 銫(색) 鋇(패)",
+      "count": 1
+    },
+    {
+      "title": "越南語",
+      "surrounding": "(mà 그러나) 聲銫(성색) (thanh",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "氙(선) 6 銫(색) 鋇(패)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "氙(선) 6 銫(색) 鋇(패)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "氙(선) 6 銫(색) 鋇(패)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "氙(선) 6 銫(색) 鋇(패)",
+      "count": 1
+    }
+  ]
+}

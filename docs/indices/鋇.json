@@ -1,0 +1,30 @@
+{
+  "word": "鋇",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "6 銫(색) 鋇(패) *",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "6 銫(색) 鋇(패) *",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "6 銫(색) 鋇(패) *",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "6 銫(색) 鋇(패) *",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "6 銫(색) 鋇(패) *",
+      "count": 1
+    }
+  ]
+}

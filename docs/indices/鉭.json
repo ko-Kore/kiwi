@@ -1,0 +1,30 @@
+{
+  "word": "鉭",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "* 鉿(협) 鉭(단) 鎢(오)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "* 鉿(협) 鉭(단) 鎢(오)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "* 鉿(협) 鉭(단) 鎢(오)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "* 鉿(협) 鉭(단) 鎢(오)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "* 鉿(협) 鉭(단) 鎢(오)",
+      "count": 1
+    }
+  ]
+}

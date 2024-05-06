@@ -1,0 +1,30 @@
+{
+  "word": "鏌",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "鉨(이) 鈇(부) 鏌(막) 鉝(입)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "鉨(이) 鈇(부) 鏌(막) 鉝(입)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "鉨(이) 鈇(부) 鏌(막) 鉝(입)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "鉨(이) 鈇(부) 鏌(막) 鉝(입)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "鉨(이) 鈇(부) 鏌(막) 鉝(입)",
+      "count": 1
+    }
+  ]
+}

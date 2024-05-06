@@ -1,0 +1,30 @@
+{
+  "word": "鉈",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "金(금) 汞(홍) 鉈(사) 鉛(연)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "金 汞(홍) 鉈(사) 鉛(연)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "金(금) 汞(홍) 鉈(사) 鉛",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "金(금) 汞(홍) 鉈(사) 鉛(연)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "金(금) 汞(홍) 鉈(사) 鉛(연)",
+      "count": 1
+    }
+  ]
+}

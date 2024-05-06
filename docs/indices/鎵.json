@@ -1,0 +1,30 @@
+{
+  "word": "鎵",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "銅(동) 鋅(자) 鎵(가) 鍺(타)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "銅(동) 鋅(자) 鎵(가) 鍺(타)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "銅(동) 鋅(자) 鎵(가) 鍺(타)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "銅(동) 鋅(자) 鎵(가) 鍺(타)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "銅(동) 鋅(자) 鎵(가) 鍺(타)",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "鎶",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "鐽(달) 錀(윤) 鎶(가) 鉨(이)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "鐽(달) 錀(윤) 鎶(가) 鉨(이)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "鐽(달) 錀(윤) 鎶(가) 鉨(이)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "鐽(달) 錀(윤) 鎶(가) 鉨(이)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "鐽(달) 錀(윤) 鎶(가) 鉨(이)",
+      "count": 1
+    }
+  ]
+}

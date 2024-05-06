@@ -1,0 +1,30 @@
+{
+  "word": "鎳",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "鐵(철) 鈷(고) 鎳(얼) 銅(동)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "鐵(철) 鈷(고) 鎳(얼) 銅(동)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "鐵(철) 鈷(고) 鎳(얼) 銅(동)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "鐵(철) 鈷(고) 鎳(얼) 銅(동)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "鐵 鈷(고) 鎳(얼) 銅(동)",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "鈮",
+  "pages": [
+    {
+      "title": "硼",
+      "surrounding": "釔(을) 鋯(고) 鈮(이) 鉬(목)",
+      "count": 1
+    },
+    {
+      "title": "金",
+      "surrounding": "釔(을) 鋯(고) 鈮(이) 鉬(목)",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "釔(을) 鋯(고) 鈮(이) 鉬(목)",
+      "count": 1
+    },
+    {
+      "title": "銀",
+      "surrounding": "釔(을) 鋯(고) 鈮(이) 鉬(목)",
+      "count": 1
+    },
+    {
+      "title": "鐵",
+      "surrounding": "釔(을) 鋯(고) 鈮(이) 鉬(목)",
+      "count": 1
+    }
+  ]
+}
