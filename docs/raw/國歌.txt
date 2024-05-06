@@ -47,7 +47,7 @@
 <tr>
 <th><a href="/wiki/%E8%B6%8A%E5%8D%97" class="mw-redirect" title="越南"><ruby class="hanja api grade32"><rb>越南</rb><rp>(</rp><rt>월남</rt><rp>)</rp></ruby></a>
 </th>
-<td><a href="/index.php?title=%E9%80%B2%E8%BB%8D%E6%AD%8C&amp;action=edit&amp;redlink=1" class="new" title="進軍歌 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>進軍</rb><rp>(</rp><rt>진군</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>歌</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E9%80%B2%E8%BB%8D%E6%AD%8C" title="進軍歌"><ruby class="hanja api grade42"><rb>進軍</rb><rp>(</rp><rt>진군</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>歌</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby></a>
 </td>
 <td>Tiến Quân Ca
 </td>

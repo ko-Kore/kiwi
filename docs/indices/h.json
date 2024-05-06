@@ -47,6 +47,11 @@
       "count": 34
     },
     {
+      "title": "永遠한 丹楓葉",
+      "surrounding": "<永遠(영원)한 丹楓(단풍)葉(엽)(The Maple ... heaven bless The Maple",
+      "count": 29
+    },
+    {
       "title": "江南스타일",
       "surrounding": "그래 너 (hey) 그래 ... 오빤 江南(강남)스타일 (uh) 他言(타언)語(어)[編輯]",
       "count": 28
@@ -764,6 +769,11 @@
     {
       "title": "加奈陀",
       "surrounding": " 加(가)奈(내)陀(타)聯邦(연방) Commonwealth of",
+      "count": 1
+    },
+    {
+      "title": "加奈陀聯邦",
+      "surrounding": "加(가)奈(내)陀(타)聯邦(연방) Canada Commonwealth 國旗(국기)",
       "count": 1
     },
     {
