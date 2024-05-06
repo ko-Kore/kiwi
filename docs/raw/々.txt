@@ -3,16 +3,16 @@
 <td colspan="4" style="font-size: 5em; line-height: 120%;">々
 </td></tr>
 <tr>
-<th colspan="4">
+<th colspan="4">없음
 </th></tr>
 <tr>
 <th><ruby class="hanja api grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
 </th>
-<td>-
+<td>丿
 </td>
 <th><ruby class="hanja api grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
 </th>
-<td>-
+<td><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>2<ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
@@ -28,5 +28,6 @@
 </td></tr></tbody></table>
 <h2><span id=".E9.87.8B.E7.BE.A9.28.EC.84.9D.EC.9D.98.29"></span><span class="mw-headline" id="釋義(석의)"><ruby class="hanja api grade32"><rb>釋義</rb><rp>(</rp><rt>석의</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%80%85&amp;action=edit&amp;section=1" title="部分 編輯: 釋義(석의)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><ruby class="hanja api grade42"><rb>反復</rb><rp>(</rp><rt>반복</rt><rp>)</rp></ruby> <a href="/wiki/%E6%BC%A2%E5%AD%97" title="漢字"><ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby></a> 또는 "<ruby class="hanja api grade62"><rb>表意</rb><rp>(</rp><rt>표의</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>反復</rb><rp>(</rp><rt>반복</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>標示</rb><rp>(</rp><rt>표시</rt><rp>)</rp></ruby>"이며, 바로 앞의 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>가 <ruby class="hanja api grade42"><rb>反復</rb><rp>(</rp><rt>반복</rt><rp>)</rp></ruby>되어야 함을 의미합니다. <ruby class="hanja api grade42"><rb>反復</rb><rp>(</rp><rt>반복</rt><rp>)</rp></ruby>되는 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>에 따라 <ruby class="hanja api grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby>이 바뀌지만 <ruby class="hanja api grade62"><rb>大部分</rb><rp>(</rp><rt>대부분</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade40"><rb>境遇</rb><rp>(</rp><rt>경우</rt><rp>)</rp></ruby> 두 <ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>째 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>는 첫 <ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>째 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>와 같이 발음되지만 다쿠텐(hi-&gt;bi, to-&gt;do, ha-&gt;ba)으로 <ruby class="hanja api grade62"><rb>發音</rb><rp>(</rp><rt>발음</rt><rp>)</rp></ruby>됩니다. 그것은 <ruby class="hanja api grade52"><rb>種種</rb><rp>(</rp><rt>종종</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>單語</rb><rp>(</rp><rt>단어</rt><rp>)</rp></ruby>가 "그 <ruby class="hanja api grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby> 하나 <ruby class="hanja api grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby>"을 의미하게 만듭니다.
+</p><p><a href="/index.php?title=%EC%9C%84%ED%82%A4%ED%94%BC%EB%94%94%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="위키피디아 (없는 文書)">위키피디아</a>에 따르면 <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>로 오도리<ruby class="hanja api grade70"><rb>地</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>(<ruby class="hanja api grade10"><rb>踊</rb><rp>(</rp><rt>용</rt><rp>)</rp></ruby>り<ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>) "춤추는 <ruby class="hanja api grade60"><rb>表式</rb><rp>(</rp><rt>표식</rt><rp>)</rp></ruby>"이라고 합니다. <ruby class="hanja api grade32"><rb>爐</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby>부스<ruby class="hanja api grade52"><rb>土價</rb><rp>(</rp><rt>토가</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>言及</rb><rp>(</rp><rt>언급</rt><rp>)</rp></ruby>하는 이름('쿠리카에시')을 더 자주 들었다.
 </p>
 </div></body></html>

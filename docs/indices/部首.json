@@ -28,7 +28,7 @@
     },
     {
       "title": "々",
-      "surrounding": " 々 部首(부수) -",
+      "surrounding": "々 없음 部首(부수) 丿",
       "count": 1
     },
     {
@@ -389,6 +389,11 @@
     {
       "title": "金",
       "surrounding": "성 김 部首(부수) 金",
+      "count": 1
+    },
+    {
+      "title": "鉛",
+      "surrounding": "鉛 연 部首(부수) 金",
       "count": 1
     },
     {

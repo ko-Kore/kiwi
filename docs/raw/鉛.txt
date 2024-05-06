@@ -1,0 +1,31 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<td colspan="4" style="font-size: 5em; line-height: 120%;">鉛
+</td></tr>
+<tr>
+<th colspan="4">연
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+</th>
+<td>金
+</td>
+<th><ruby class="hanja api grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>5<ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade0"><rb>铅</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby>
+</td>
+<th><ruby class="hanja api grade62"><rb>新字</rb><rp>(</rp><rt>신자</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby>
+</th>
+<td>-
+</td></tr>
+<tr>
+<td colspan="4" style="text-align: center;">-
+</td></tr></tbody></table>
+<p><ruby class="hanja api grade40"><rb>鉛</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade42"><rb>元素</rb><rp>(</rp><rt>원소</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>記號</rb><rp>(</rp><rt>기호</rt><rp>)</rp></ruby> Pb, <ruby class="hanja api grade50"><rb>原子</rb><rp>(</rp><rt>원자</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby> 82, <ruby class="hanja api grade50"><rb>原子量</rb><rp>(</rp><rt>원자량</rt><rp>)</rp></ruby> 207.2의 <ruby class="hanja api grade40"><rb>金屬</rb><rp>(</rp><rt>금속</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>化學</rb><rp>(</rp><rt>화학</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>元素</rb><rp>(</rp><rt>원소</rt><rp>)</rp></ruby>이며 <ruby class="hanja api grade50"><rb>原子量</rb><rp>(</rp><rt>원자량</rt><rp>)</rp></ruby>에서 가장 큰 비 <ruby class="hanja api grade40"><rb>放射性</rb><rp>(</rp><rt>방사성</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>元素</rb><rp>(</rp><rt>원소</rt><rp>)</rp></ruby>입니다. <ruby class="hanja api grade40"><rb>金屬</rb><rp>(</rp><rt>금속</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>鉛</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade62"><rb>面體</rb><rp>(</rp><rt>면체</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>中心</rb><rp>(</rp><rt>중심</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade62"><rb>立方體</rb><rp>(</rp><rt>입방체</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>決定</rb><rp>(</rp><rt>결정</rt><rp>)</rp></ruby>입니다.
+</p>
+</div></body></html>

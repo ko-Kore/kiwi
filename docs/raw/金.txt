@@ -130,7 +130,7 @@
 <tr>
 <th>2
 </th>
-<td><ruby class="hanja api grade0"><rb>鋰</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%E9%8B%B0&amp;action=edit&amp;redlink=1" class="new" title="鋰 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>鋰</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby></a>
 </td>
 <td><ruby class="hanja api grade0"><rb>鈹</rb><rp>(</rp><rt>피</rt><rp>)</rp></ruby>
 </td>
@@ -186,7 +186,7 @@
 </td>
 <td><a href="/index.php?title=%E9%8C%B3&amp;action=edit&amp;redlink=1" class="new" title="錳 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>錳</rb><rp>(</rp><rt>맹</rt><rp>)</rp></ruby></a>
 </td>
-<td><a href="/index.php?title=%E9%90%B5&amp;action=edit&amp;redlink=1" class="new" title="鐵 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>鐵</rb><rp>(</rp><rt>철</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E9%90%B5" title="鐵"><ruby class="hanja api grade50"><rb>鐵</rb><rp>(</rp><rt>철</rt><rp>)</rp></ruby></a>
 </td>
 <td><ruby class="hanja api grade0"><rb>鈷</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby>
 </td>
@@ -231,7 +231,7 @@
 </td>
 <td><ruby class="hanja api grade0"><rb>鈀</rb><rp>(</rp><rt>파</rt><rp>)</rp></ruby>
 </td>
-<td><a href="/index.php?title=%E9%8A%80&amp;action=edit&amp;redlink=1" class="new" title="銀 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E9%8A%80" title="銀"><ruby class="hanja api grade60"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby></a>
 </td>
 <td><ruby class="hanja api grade0"><rb>鎘</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby>
 </td>
@@ -243,9 +243,9 @@
 </td>
 <td><ruby class="hanja api grade0"><rb>碲</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>
 </td>
-<td><ruby class="hanja api grade0"><rb>碘</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%E7%A2%98&amp;action=edit&amp;redlink=1" class="new" title="碘 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>碘</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby></a>
 </td>
-<td><ruby class="hanja api grade0"><rb>氙</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=%E6%B0%99&amp;action=edit&amp;redlink=1" class="new" title="氙 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>氙</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>6
@@ -276,7 +276,7 @@
 </td>
 <td><ruby class="hanja api grade0"><rb>鉈</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
 </td>
-<td><a href="/index.php?title=%E9%89%9B&amp;action=edit&amp;redlink=1" class="new" title="鉛 (없는 文書)"><ruby class="hanja api grade40 unknown"><rb>鉛</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E9%89%9B" title="鉛"><ruby class="hanja api grade40"><rb>鉛</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby></a>
 </td>
 <td><ruby class="hanja api grade0"><rb>鉍</rb><rp>(</rp><rt>필</rt><rp>)</rp></ruby>
 </td>
@@ -295,7 +295,7 @@
 </td>
 <td>**
 </td>
-<td><ruby class="hanja api grade0"><rb>鑪</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby>
+<td><a href="/wiki/%E9%91%AA" class="mw-redirect" title="鑪"><ruby class="hanja api grade0"><rb>鑪</rb><rp>(</rp><rt>노</rt><rp>)</rp></ruby></a>
 </td>
 <td>𨧀
 </td>
@@ -321,9 +321,9 @@
 </td>
 <td><ruby class="hanja api grade0"><rb>鉝</rb><rp>(</rp><rt>입</rt><rp>)</rp></ruby>
 </td>
-<td>鿬
+<td><a href="/wiki/%E9%BF%AC" title="鿬">鿬</a>
 </td>
-<td>鿫
+<td><a href="/wiki/%E9%BF%AB" title="鿫">鿫</a>
 </td></tr>
 <tr>
 <td colspan="19">
