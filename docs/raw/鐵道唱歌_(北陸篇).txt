@@ -120,7 +120,7 @@
 </p><p>　　　むかし本田の善光が
 </p><p>　　　　　ひろひし佛なりとかや
 </p><p>三十　此處にとゞまるひまあれば
-　　　　　戶隱山にのぼり見ん
+</p><p>　　　　　戶隱山にのぼり見ん
 </p><p><br>
 　　　飯綱の原のほとゝぎす
 </p><p>　　　　　なのる初音もきゝがてら
@@ -297,7 +297,7 @@
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span style="font-size: smaller;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>: </span><span lang="ja">武田信玄と上杉謙信</span></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade30"><rb>佐</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>渡</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby>より<ruby class="hanja api grade72"><rb>直</rb><rp>(</rp><rt>직</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>江津</rb><rp>(</rp><rt>강진</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>迄</rb><rp>(</rp><rt>흘</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>直</rb><rp>(</rp><rt>직</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>江津</rb><rp>(</rp><rt>강진</rt><rp>)</rp></ruby>より<ruby class="hanja api grade32"><rb>越</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>迄</rb><rp>(</rp><rt>흘</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>汽船</rb><rp>(</rp><rt>기선</rt><rp>)</rp></ruby>にてわたる</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span style="font-size: smaller;"><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語">日本語</a>: </span><span lang="ja">佐渡由直江津迄直江津依越中迄汽船にて渡</span></span>
 </li>
 </ol></div>
 </div></body></html>
