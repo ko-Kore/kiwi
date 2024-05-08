@@ -14,9 +14,9 @@
 <th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_Swiss.svg" class="new" title="파일:Flag of Swiss.svg"><span class="mw-broken-media" data-height="160">파일:Flag of Swiss.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Switzerland.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/langko-kore-160px-Flag_of_Switzerland.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/langko-kore-240px-Flag_of_Switzerland.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/langko-kore-320px-Flag_of_Switzerland.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Swiss.svg" class="new" title="파일:Coat of arms of Swiss.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Swiss.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Switzerland.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/langko-kore-144px-Coat_of_arms_of_Switzerland.svg.png" decoding="async" width="144" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/langko-kore-217px-Coat_of_arms_of_Switzerland.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/langko-kore-289px-Coat_of_arms_of_Switzerland.svg.png 2x"></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
