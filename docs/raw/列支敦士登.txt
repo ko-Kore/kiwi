@@ -25,7 +25,7 @@
 <tr>
 <th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td>Oben am jungen Rhein (젊은 라인강에서)
+<td>Oben am jungen Rhein (<a href="/wiki/%EC%A0%8A%EC%9D%80_%EB%9D%BC%EC%9D%B8%EA%B0%95%EC%97%90%EC%84%9C" class="mw-redirect" title="젊은 라인강에서">젊은 라인강에서</a>)
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
