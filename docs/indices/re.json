@@ -97,6 +97,11 @@
       "count": 3
     },
     {
+      "title": "新加坡",
+      "surrounding": "1 5 新加坡(신가파)(Singapore) 1 ... Flag of Singapore 馬來(마래)語(어):",
+      "count": 3
+    },
+    {
       "title": "獨逸",
       "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... +49 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland)",
       "count": 3
@@ -284,11 +289,6 @@
     {
       "title": "廣東語",
       "surrounding": "han2 guo2 ren2 ma？",
-      "count": 1
-    },
-    {
-      "title": "新加坡",
-      "surrounding": "Flag of Singapore 馬來(마래)語(어):",
       "count": 1
     },
     {
