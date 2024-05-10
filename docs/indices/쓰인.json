@@ -52,8 +52,23 @@
       "count": 1
     },
     {
+      "title": "々",
+      "surrounding": "아닌 한글에 쓰인 記錄(기록)도",
+      "count": 1
+    },
+    {
       "title": "〇",
       "surrounding": "‘零(영)’ 代身(대신) 쓰인다 例(예)를",
+      "count": 1
+    },
+    {
+      "title": "ㄲ",
+      "surrounding": "終聲(종성)에 모두 쓰인다 ",
+      "count": 1
+    },
+    {
+      "title": "ㄸ",
+      "surrounding": "終聲(종성)에 모두 쓰인다 ",
       "count": 1
     },
     {
@@ -62,8 +77,23 @@
       "count": 1
     },
     {
+      "title": "上戶驛",
+      "surrounding": "다음 뜻으로 쓰인다 日本(일본)",
+      "count": 1
+    },
+    {
+      "title": "五學",
+      "surrounding": "데에도 자주 쓰인다 三淸(삼청)敎育(교육)團(단):",
+      "count": 1
+    },
+    {
       "title": "倉頡輸入法",
       "surrounding": "一部(일부) 字形(자형)에 쓰인다 [2]",
+      "count": 1
+    },
+    {
+      "title": "加太驛",
+      "surrounding": "다음 뜻으로 쓰인다 日本(일본)",
       "count": 1
     },
     {
@@ -74,6 +104,16 @@
     {
       "title": "國語",
       "surrounding": "科目(과목)의 이름으로도 쓰인다 ↑",
+      "count": 1
+    },
+    {
+      "title": "大澤驛",
+      "surrounding": "다음 뜻으로 쓰인다 朝鮮民主主義人民共和國(조선민주주의인민공화국)",
+      "count": 1
+    },
+    {
+      "title": "太田驛",
+      "surrounding": "다음 뜻으로 쓰인다 目次",
       "count": 1
     },
     {
@@ -143,7 +183,7 @@
     },
     {
       "title": "釜山都市鐵道",
-      "surrounding": "사이에서 非公式的(비공식적)으로만 쓰인다 路線(노선)[편집]",
+      "surrounding": "사이에서 非公式的(비공식적)으로만 쓰인다 路線(노선)[編輯]",
       "count": 1
     },
     {
@@ -167,6 +207,16 @@
       "count": 1
     },
     {
+      "title": "갈마驛",
+      "surrounding": "다음 뜻으로 쓰인다 大韓民國(대한민국)",
+      "count": 1
+    },
+    {
+      "title": "갈마역",
+      "surrounding": "다음 뜻으로 쓰인다 大田(대전)都市(도시)鐵道(철도)",
+      "count": 1
+    },
+    {
       "title": "나치獨逸의 노래",
       "surrounding": "Hoch)다 로 쓰인 노래로",
       "count": 1
@@ -174,6 +224,26 @@
     {
       "title": "디스코드",
       "surrounding": "傳達(전달)해주는 봇도 쓰인다 디스코드",
+      "count": 1
+    },
+    {
+      "title": "신목驛",
+      "surrounding": "다음 뜻으로 쓰인다 神木(신목)驛(역)[編輯]",
+      "count": 1
+    },
+    {
+      "title": "신목역",
+      "surrounding": "다음 뜻으로 쓰인다 神木(신목)驛(역)[編輯]",
+      "count": 1
+    },
+    {
+      "title": "신정驛",
+      "surrounding": "다음 뜻으로 쓰인다 大韓民國(대한민국)",
+      "count": 1
+    },
+    {
+      "title": "신정역",
+      "surrounding": "다음 뜻으로 쓰인다 首都圈(수도권)電鐵(전철)",
       "count": 1
     },
     {
