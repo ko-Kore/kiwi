@@ -156,6 +156,22 @@
 <tr>
 <td><ruby class="hanja api grade42"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></td>
 <td><ruby class="hanja api grade0"><rb>円</rb><rp>(</rp><rt>엔</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade40"><rb>專</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>叀</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade52"><rb>傳</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>伝</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade40"><rb>轉</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade0"><rb>転</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>藝</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby></td>
+<td><ruby class="hanja api grade12"><rb>芸</rb><rp>(</rp><rt>운</rt><rp>)</rp></ruby>
 </td></tr></tbody></table>
 <h3><span id=".E4.BA.8C.28.EC.9D.B4.29:.E9.9F.93.E4.B8.AD.28.ED.95.9C.EC.A4.91.29_.E7.B5.B1.E4.B8.80.28.ED.86.B5.EC.9D.BC.29_.E7.B0.A1.28.EA.B0.84.29.E5.8C.96.28.ED.99.94.29_.E6.96.B9.E6.B3.95.28.EB.B0.A9.EB.B2.95.29"></span><span class="mw-headline" id="二(이):韓中(한중)_統一(통일)_簡(간)化(화)_方法(방법)"><ruby class="hanja api grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>:<ruby class="hanja api grade80"><rb>韓中</rb><rp>(</rp><rt>한중</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>統一</rb><rp>(</rp><rt>통일</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>方法</rb><rp>(</rp><rt>방법</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B_%E7%B0%A1%E5%8C%96%E5%AD%97&amp;action=edit&amp;section=6" title="部分 編輯: 二(이):韓中(한중) 統一(통일) 簡(간)化(화) 方法(방법)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
 <table class="wikitable">
