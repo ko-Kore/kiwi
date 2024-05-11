@@ -30,9 +30,10 @@
 <li class="toclevel-2 tocsection-4"><a href="#斥候兵(척후병)"><span class="tocnumber">2.2</span> <span class="toctext">斥候兵(척후병)</span></a></li>
 <li class="toclevel-2 tocsection-5"><a href="#工兵(공병)"><span class="tocnumber">2.3</span> <span class="toctext">工兵(공병)</span></a></li>
 <li class="toclevel-2 tocsection-6"><a href="#砲兵(포병)"><span class="tocnumber">2.4</span> <span class="toctext">砲兵(포병)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#步兵(보병)"><span class="tocnumber">2.5</span> <span class="toctext">步兵(보병)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#騎兵(기병)"><span class="tocnumber">2.6</span> <span class="toctext">騎兵(기병)</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-7"><a href="#步兵(보병)"><span class="tocnumber">3</span> <span class="toctext">步兵(보병)</span></a></li>
 </ul>
 </div>
 <h2><span id=".E6.A7.AA.E8.BF.B0.28.EA.B0.9C.EC.88.A0.29"></span><span class="mw-headline" id="槪述(개술)"><ruby class="hanja api grade32"><rb>槪述</rb><rp>(</rp><rt>개술</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E9%99%B8%E8%BB%8D(%E8%BB%8D%E6%AD%8C)&amp;action=edit&amp;section=1" title="部分 編輯: 槪述(개술)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -78,12 +79,20 @@
 <ruby><rb>其</rb><rp>(</rp><rt>その</rt><rp>)</rp></ruby><ruby><rb>聲</rb><rp>(</rp><rt>こゑ</rt><rp>)</rp></ruby><ruby><rb>天</rb><rp>(</rp><rt>てん</rt><rp>)</rp></ruby><ruby><rb>地</rb><rp>(</rp><rt>ち</rt><rp>)</rp></ruby>に<ruby><rb>轟</rb><rp>(</rp><rt>とゞろ</rt><rp>)</rp></ruby>けり
 </p><p><br>
 </p>
-<h2><span id=".E6.AD.A5.E5.85.B5.28.EB.B3.B4.EB.B3.91.29"></span><span class="mw-headline" id="步兵(보병)"><ruby class="hanja api grade42"><rb>步兵</rb><rp>(</rp><rt>보병</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E9%99%B8%E8%BB%8D(%E8%BB%8D%E6%AD%8C)&amp;action=edit&amp;section=7" title="部分 編輯: 步兵(보병)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><ruby><rb>一齊射擊</rb><rp>(</rp><rt>いっせいしやげき</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>銃</rb><rp>(</rp><rt>つゝ</rt><rp>)</rp></ruby><ruby><rb>先</rb><rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に<br>
+<h3><span id=".E6.AD.A5.E5.85.B5.28.EB.B3.B4.EB.B3.91.29"></span><span class="mw-headline" id="步兵(보병)"><ruby class="hanja api grade42"><rb>步兵</rb><rp>(</rp><rt>보병</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E9%99%B8%E8%BB%8D(%E8%BB%8D%E6%AD%8C)&amp;action=edit&amp;section=7" title="部分 編輯: 步兵(보병)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby><rb>一齊射擊</rb><rp>(</rp><rt>いつせいしやげき</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>銃</rb><rp>(</rp><rt>つゝ</rt><rp>)</rp></ruby><ruby><rb>先</rb><rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に<br>
 <ruby><rb>敵</rb><rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>氣</rb><rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby><rb>力</rb><rp>(</rp><rt>りく</rt><rp>)</rp></ruby>を<ruby><rb>怯</rb><rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ませて<br>
 <ruby><rb>鐵條</rb><rp>(</rp><rt>てつでう</rt><rp>)</rp></ruby><ruby><rb>網</rb><rp>(</rp><rt>あみ</rt><rp>)</rp></ruby>も<ruby><rb>者</rb><rp>(</rp><rt>もの</rt><rp>)</rp></ruby>かはと<br>
 <ruby><rb>踊</rb><rp>(</rp><rt>おどり</rt><rp>)</rp></ruby><ruby><rb>越</rb><rp>(</rp><rt>こ</rt><rp>)</rp></ruby>え<ruby><rb>足</rb><rp>(</rp><rt>たる</rt><rp>)</rp></ruby><ruby><rb>壘上</rb><rp>(</rp><rt>るいじよ</rt><rp>)</rp></ruby>に<br>
 <ruby><rb>立</rb><rp>(</rp><rt>たて</rt><rp>)</rp></ruby>し<ruby><rb>譽</rb><rp>(</rp><rt>ほまれ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>日</rb><rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby><rb>章</rb><rp>(</rp><rt>しやう</rt><rp>)</rp></ruby><ruby><rb>旗</rb><rp>(</rp><rt>き</rt><rp>)</rp></ruby><br>
 <ruby><rb>皆我</rb><rp>(</rp><rt>みなわが</rt><rp>)</rp></ruby><ruby><rb>步</rb><rp>(</rp><rt>ほ</rt><rp>)</rp></ruby><ruby><rb>兵</rb><rp>(</rp><rt>へい</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>働</rb><rp>(</rp><rt>はたらき</rt><rp>)</rp></ruby>ぞ
+</p>
+<h3><span id=".E9.A8.8E.E5.85.B5.28.EA.B8.B0.EB.B3.91.29"></span><span class="mw-headline" id="騎兵(기병)"><ruby class="hanja api grade32"><rb>騎兵</rb><rp>(</rp><rt>기병</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E9%99%B8%E8%BB%8D(%E8%BB%8D%E6%AD%8C)&amp;action=edit&amp;section=8" title="部分 編輯: 騎兵(기병)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby><rb>擊</rb><rp>(</rp><rt>う</rt><rp>)</rp></ruby>たれて<ruby><rb>逃</rb><rp>(</rp><rt>にげ</rt><rp>)</rp></ruby><ruby><rb>往</rb><rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>く<ruby><rb>八方</rb><rp>(</rp><rt>はつぽう</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><br>
+<ruby><rb>敵</rb><rp>(</rp><rt>てき</rt><rp>)</rp></ruby>を<ruby><rb>追伏</rb><rp>(</rp><rt>おいふせ</rt><rp>)</rp></ruby><ruby><rb>追</rb><rp>(</rp><rt>おい</rt><rp>)</rp></ruby><ruby><rb>散</rb><rp>(</rp><rt>ち</rt><rp>)</rp></ruby>らし<br>
+<ruby><rb>全軍</rb><rp>(</rp><rt>ぜんぐん</rt><rp>)</rp></ruby><ruby><rb>殘</rb><rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>らず<ruby><rb>中</rb><rp>(</rp><rt>うち</rt><rp>)</rp></ruby><ruby><rb>破</rb><rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>る<br>
+<ruby><rb>騎</rb><rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby><rb>兵</rb><rp>(</rp><rt>へい</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>任<ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>重ければ<br>
+<ruby><rb>我</rb><rp>(</rp><rt>わが</rt><rp>)</rp></ruby><ruby><rb>乘</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>る<ruby><rb>馬</rb><rp>(</rp><rt>うま</rt><rp>)</rp></ruby>を<ruby><rb>子</rb><rp>(</rp><rt>こ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>如</rb><rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>く<br>
+<ruby><rb>勞</rb><rp>(</rp><rt>いた</rt><rp>)</rp></ruby><ruby><rb>惡人</rb><rp>(</rp><rt>わるひと</rt><rp>)</rp></ruby>も<ruby><rb>在</rb><rp>(</rp><rt>あ</rt><rp>)</rp></ruby>るぞかし
 </p>
 </div></body></html>
