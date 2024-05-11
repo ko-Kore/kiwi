@@ -1,0 +1,23 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">永井建子
+</th></tr>
+<tr>
+<th colspan="2">ながゐ けんし
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1865<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>27<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-25px-Flag_of_Japan.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-38px-Flag_of_Japan.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-50px-Flag_of_Japan.svg.png 2x"></a></span> <a href="/wiki/%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B" title="日本帝國"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a><a href="/wiki/%E5%BB%A3%E5%B3%B6%E5%B8%82" title="廣島市"><ruby class="hanja api grade50"><rb>廣島</rb><rp>(</rp><rt>광도</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>死去</rb><rp>(</rp><rt>사거</rt><rp>)</rp></ruby>
+</th>
+<td>1940<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>30<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-25px-Flag_of_Japan.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-38px-Flag_of_Japan.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-50px-Flag_of_Japan.svg.png 2x"></a></span> <a href="/wiki/%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B" title="日本帝國"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%BB%A3%E5%B3%B6%E7%B8%A3&amp;action=edit&amp;redlink=1" class="new" title="廣島縣 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>廣島</rb><rp>(</rp><rt>광도</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>縣</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby></a><a href="/wiki/%E5%BB%A3%E5%B3%B6%E5%B8%82" title="廣島市"><ruby class="hanja api grade50"><rb>廣島</rb><rp>(</rp><rt>광도</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>職業</rb><rp>(</rp><rt>직업</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade32"><rb>作詞者</rb><rp>(</rp><rt>작사자</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>及</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>作曲者</rb><rp>(</rp><rt>작곡자</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+</div></body></html>
