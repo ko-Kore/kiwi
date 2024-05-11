@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Germany_(1935%E2%80%931945).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langko-kore-267px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png" decoding="async" width="267" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langko-kore-400px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langko-kore-534px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Nazi_Germany(1935-1945).svg" class="new" title="파일:Coat of arms of Nazi Germany(1935-1945).svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Nazi Germany(1935-1945).svg</span></a></span>
+<td style="text-align: center;">[[File:없어요.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>|x160px]]
 </td></tr></tbody></table>
 </td></tr>
 <tr>
@@ -33,7 +33,7 @@
 <tr>
 <th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%E4%BC%AF%E6%9E%97" title="伯林"><ruby class="hanja api grade32"><rb>伯林</rb><rp>(</rp><rt>백림</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<td><a href="/wiki/%E4%BC%AF%E6%9E%97" title="伯林"><ruby class="hanja api grade32"><rb>伯林</rb><rp>(</rp><rt>백림</rt><rp>)</rp></ruby></a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
@@ -41,7 +41,7 @@
 <tr>
 <th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
 </th>
-<td>6,962,700<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>km²
+<td>6,962,700<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>km²
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
@@ -58,9 +58,11 @@
 </td></tr>
 </tbody></table>
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade42"><rb>將來</rb><rp>(</rp><rt>장래</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade0"><rb>日耳曼</rb><rp>(</rp><rt>일이만</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>尼</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>(<ruby class="hanja api grade62"><rb>世界</rb><rp>(</rp><rt>세계</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade50"><rb>都會</rb><rp>(</rp><rt>도회</rt><rp>)</rp></ruby> <ruby class="hanja api grade0"><rb>日耳曼</rb><rp>(</rp><rt>일이만</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>尼</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>, Welthauptstadt Germania)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">하지만 <ruby class="hanja api grade40"><rb>普通</rb><rp>(</rp><rt>보통</rt><rp>)</rp></ruby> 양발로 <ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby>자를 잡고 머리가 오른쪽을 <ruby class="hanja api grade60"><rb>向</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby>하고 있는 <ruby class="hanja api grade10"><rb>禿</rb><rp>(</rp><rt>독</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>鷹</rb><rp>(</rp><rt>응</rt><rp>)</rp></ruby>의 이미지를 <ruby class="hanja api grade62"><rb>代理</rb><rp>(</rp><rt>대리</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade40"><rb>採擇</rb><rp>(</rp><rt>채택</rt><rp>)</rp></ruby>해요.</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade60"><rb>本土</rb><rp>(</rp><rt>본토</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby> 370,000㎢</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade42"><rb>將來</rb><rp>(</rp><rt>장래</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade0"><rb>日耳曼</rb><rp>(</rp><rt>일이만</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>尼</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>(<ruby class="hanja api grade62"><rb>世界</rb><rp>(</rp><rt>세계</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade50"><rb>都會</rb><rp>(</rp><rt>도회</rt><rp>)</rp></ruby> <ruby class="hanja api grade0"><rb>日耳曼</rb><rp>(</rp><rt>일이만</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>尼</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>, Welthauptstadt Germania)</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><ruby class="hanja api grade60"><rb>本土</rb><rp>(</rp><rt>본토</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby> 370,000㎢</span>
 </li>
 </ol></div>
 </div></body></html>

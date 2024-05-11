@@ -402,11 +402,6 @@
       "count": 4
     },
     {
-      "title": "獨逸民族의 大日耳曼國",
-      "surrounding": "獨逸(독일)民族(민족)의 大日(대일)耳(이)曼(만)國(국) Großdeutsches Reich ... of arms of Nazi",
-      "count": 4
-    },
-    {
       "title": "第一空輸特戰旅團",
       "surrounding": "1st Special Forces Group ... 增便(증편)되었고 部隊(부대)名(명)도 第(제)1空輸特戰團(공수특전단)(Group)에서 第(제)1空輸(공수)特典(특전)旅團(여단)(Brigade)으로",
       "count": 4
@@ -1284,6 +1279,11 @@
     {
       "title": "獨逸國",
       "surrounding": "E”에서 처음으로 “Großdeutsches Reich”(“大(대)獨逸(독일)國(국)”)의",
+      "count": 1
+    },
+    {
+      "title": "獨逸民族의 大日耳曼國",
+      "surrounding": "獨逸(독일)民族(민족)의 大日(대일)耳(이)曼(만)國(국) Großdeutsches Reich",
       "count": 1
     },
     {
