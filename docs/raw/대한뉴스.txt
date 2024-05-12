@@ -1,0 +1,32 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">대한뉴스<br>大韓뉴스
+</th></tr>
+<tr>
+<th colspan="2">DAEHAN NEWS
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>上映</rb><rp>(</rp><rt>상영</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>
+</th>
+<td>1952<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 1<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>終映</rb><rp>(</rp><rt>종영</rt><rp>)</rp></ruby>
+</th>
+<td>1994<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 30<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>總數</rb><rp>(</rp><rt>총수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade62"><rb>共</rb><rp>(</rp><rt>공</rt><rp>)</rp></ruby> 2040 <ruby class="hanja api grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>뒤의
+</th>
+<td><a href="/index.php?title=%E9%9F%93%E5%9C%8B%E6%94%BF%E7%AD%96%E6%94%BE%E9%80%81%E9%99%A2&amp;action=edit&amp;redlink=1" class="new" title="韓國政策放送院 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>文化</rb><rp>(</rp><rt>문화</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>體育</rb><rp>(</rp><rt>체육</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>觀光</rb><rp>(</rp><rt>관광</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby> <ruby class="hanja api grade80 unknown"><rb>韓國</rb><rp>(</rp><rt>한국</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>政策</rb><rp>(</rp><rt>정책</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>院</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></a>(Korea TV)
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">'<ruby class="hanja api grade80"><rb>大韓</rb><rp>(</rp><rt>대한</rt><rp>)</rp></ruby>뉴스' <ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja api grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>이다. <ruby class="hanja api grade60"><rb>美軍</rb><rp>(</rp><rt>미군</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>政廳</rb><rp>(</rp><rt>정청</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>公報部</rb><rp>(</rp><rt>공보부</rt><rp>)</rp></ruby> '<ruby class="hanja api grade42"><rb>時報</rb><rp>(</rp><rt>시보</rt><rp>)</rp></ruby>' <ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>으로는 1946<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 1<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>.</span>
+</li>
+</ol></div>
+</div></body></html>

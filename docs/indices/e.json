@@ -427,11 +427,6 @@
       "count": 4
     },
     {
-      "title": "五學",
-      "surrounding": "全(전)劇(극) 通用(통용)[編輯] Deus Non ... 이름이 없는 ref 태그는",
-      "count": 4
-    },
-    {
       "title": "假名入力",
       "surrounding": "ゑへ ー Backspace Tab ... Alt Win Menu Ctrl",
       "count": 4
@@ -799,6 +794,11 @@
     {
       "title": "二",
       "surrounding": "(白(백) ȵi¹¹³) er6 (文(문) ... (白(백) ȵi²³¹) er6 (文(문)",
+      "count": 2
+    },
+    {
+      "title": "五學",
+      "surrounding": "全(전)劇(극) 通用(통용)[編輯] Deus Non ... 변조되더라도 \"\"또한 \"\"Deus Non",
       "count": 2
     },
     {
@@ -1584,6 +1584,11 @@
     {
       "title": "나무위키",
       "surrounding": "시달려서 파라과이의 umanle S",
+      "count": 1
+    },
+    {
+      "title": "대한뉴스",
+      "surrounding": "뒤의 文化(문화)體育(체육)觀光(관광)部(부) 韓國(한국)政策(정책)放送(방송)院(원)(Korea TV)",
       "count": 1
     },
     {
