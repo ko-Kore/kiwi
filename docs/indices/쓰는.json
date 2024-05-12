@@ -52,6 +52,11 @@
       "count": 2
     },
     {
+      "title": "대한뉴스",
+      "surrounding": "資料(자료)를 빌려서 쓰는 게 ... 原曲(원곡)을 그대로 쓰는 境遇(경우)도",
+      "count": 2
+    },
+    {
       "title": "CJK",
       "surrounding": "왼쪽에서 오른쪽으로 쓰는 言語(언어)로",
       "count": 1
@@ -244,11 +249,6 @@
     {
       "title": "놀랄 노",
       "surrounding": "아무도 어떻게 쓰는지 모르는",
-      "count": 1
-    },
-    {
-      "title": "대한뉴스",
-      "surrounding": "資料(자료)를 빌려서 쓰는 게",
       "count": 1
     },
     {

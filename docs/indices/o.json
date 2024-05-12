@@ -102,6 +102,11 @@
       "count": 20
     },
     {
+      "title": "대한뉴스",
+      "surrounding": "뒤의 文化(문화)體育(체육)觀光(관광)部(부) 韓國(한국)政策(정책)放送(방송)院(원)(Korea TV) ... 요크셔 行進曲(행진곡) Yorkscher Marsch",
+      "count": 20
+    },
+    {
       "title": "美國달러",
       "surrounding": "United States dollar ISO ... 擁護(옹호)하는反面(반면) 政治的正當性(정치적정당성)(Political Correctness)에 拘泥(구니)되어선안된다며",
       "count": 18
@@ -239,11 +244,6 @@
     {
       "title": "구글 日本語入力",
       "surrounding": "變換(변환)性能(성능) 二 mozc 三 ... 오픈소스化(화)한 프로젝트로 mozc가 있다",
-      "count": 6
-    },
-    {
-      "title": "대한뉴스",
-      "surrounding": "뒤의 文化(문화)體育(체육)觀光(관광)部(부) 韓國(한국)政策(정책)放送(방송)院(원)(Korea TV) ... 'Noticiero ICAIC Latinoamericano'를 1959年(년)부터",
       "count": 6
     },
     {
