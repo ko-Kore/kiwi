@@ -1,0 +1,28 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby> 뉴스<br><ruby><rb>日本</rb><rp>(</rp><rt>につぽん</rt><rp>)</rp></ruby>ニユース
+</th></tr>
+<tr>
+<th colspan="2">NIPPON NEWS
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>上映</rb><rp>(</rp><rt>상영</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>
+</th>
+<td>1940<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>終映</rb><rp>(</rp><rt>종영</rt><rp>)</rp></ruby>
+</th>
+<td>1955<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>以後</rb><rp>(</rp><rt>이후</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>總數</rb><rp>(</rp><rt>총수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade62"><rb>共</rb><rp>(</rp><rt>공</rt><rp>)</rp></ruby> 264<ruby class="hanja api grade42"><rb>回</rb><rp>(</rp><rt>회</rt><rp>)</rp></ruby>(<ruby class="hanja api grade62"><rb>戰前</rb><rp>(</rp><rt>전전</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>製作</rb><rp>(</rp><rt>제작</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E3%8A%93%E6%97%A5%E6%9C%AC%E6%98%A0%E7%95%B5%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="㊓日本映畵社 (없는 文書)">㊓<ruby class="hanja api grade60 unknown"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>映畵社</rb><rp>(</rp><rt>영화사</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade62"><rb>戰前</rb><rp>(</rp><rt>전전</rt><rp>)</rp></ruby>), <a href="/index.php?title=%E3%8D%BF%E6%97%A5%E6%9C%AC%E6%98%A0%E7%95%B5%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="㍿日本映畵社 (없는 文書)">㍿<ruby class="hanja api grade60 unknown"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>映畵社</rb><rp>(</rp><rt>영화사</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade62"><rb>戰後</rb><rp>(</rp><rt>전후</rt><rp>)</rp></ruby>)
+</td></tr></tbody></table>
+</div></body></html>
