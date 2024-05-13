@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Libya.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/langko-kore-320px-Flag_of_Libya.svg.png" decoding="async" width="320" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/langko-kore-480px-Flag_of_Libya.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/langko-kore-640px-Flag_of_Libya.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coats_of_arms_of_the_State_of_Libya.svg" class="new" title="파일:Coats of arms of the State of Libya.svg"><span class="mw-broken-media" data-height="160">파일:Coats of arms of the State of Libya.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coats_of_arms_of_Libya.svg" class="new" title="파일:Coats of arms of Libya.svg"><span class="mw-broken-media" data-height="160">파일:Coats of arms of Libya.svg</span></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
