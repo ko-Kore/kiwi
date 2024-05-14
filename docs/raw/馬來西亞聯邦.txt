@@ -1,2 +1,2 @@
-<html><head></head><body><div class="mw-parser-output"><ol><li>#넘겨주기 <a href="/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E" title="馬來西亞"><ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></a></li></ol>
+<html><head></head><body><div class="mw-parser-output"><div class="redirectMsg"><p>넘겨줄 對象:</p><ul class="redirectText"><li><a href="/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E" title="馬來西亞">馬來西亞</a></li></ul></div>
 </div></body></html>
