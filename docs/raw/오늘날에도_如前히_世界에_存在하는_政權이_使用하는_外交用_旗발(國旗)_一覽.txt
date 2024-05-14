@@ -295,82 +295,46 @@
 <tbody><tr>
 <th><ruby class="hanja api grade80"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby>슬라브 <ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td>표 제목
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Russia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-900px-Flag_of_Russia.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-1350px-Flag_of_Russia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-1800px-Flag_of_Russia.svg.png 2x"></a></span><br><a href="/wiki/%E9%9C%B2%E8%A5%BF%E4%BA%9E%E8%81%AF%E9%82%A6" class="mw-redirect" title="露西亞聯邦"><ruby class="hanja api grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Ukraine.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langko-kore-1200px-Flag_of_Ukraine.svg.png" decoding="async" width="1200" height="800" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langko-kore-1800px-Flag_of_Ukraine.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/langko-kore-2400px-Flag_of_Ukraine.svg.png 2x"></a></span><br><a href="/wiki/%E7%83%8F%E5%85%8B%E8%98%AD%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="烏克蘭共和國"><ruby class="hanja api grade32"><rb>烏克蘭</rb><rp>(</rp><rt>오극란</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Belarus.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/langko-kore-1200px-Flag_of_Belarus.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/langko-kore-1800px-Flag_of_Belarus.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/langko-kore-2400px-Flag_of_Belarus.svg.png 2x"></a></span><br><a href="/wiki/%E5%88%A5%E6%8B%89%E9%9C%B2%E8%A5%BF%E4%BA%9E%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="別拉露西亞共和國"><ruby class="hanja api grade60"><rb>別</rb><rp>(</rp><rt>별</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>拉</rb><rp>(</rp><rt>랍</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th><a href="/wiki/%E6%B3%A2%E7%BE%85%E7%9A%84%E6%B5%B7" class="mw-redirect" title="波羅的海"><ruby class="hanja api grade42"><rb>波</rb><rp>(</rp><rt>파</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>羅</rb><rp>(</rp><rt>라</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>的</rb><rp>(</rp><rt>적</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>海</rb><rp>(</rp><rt>해</rt><rp>)</rp></ruby></a><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Lithuania.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/langko-kore-1000px-Flag_of_Lithuania.svg.png" decoding="async" width="1000" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/langko-kore-1500px-Flag_of_Lithuania.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/langko-kore-2000px-Flag_of_Lithuania.svg.png 2x"></a></span><br><a href="/wiki/%E7%AB%8B%E9%99%B6%E5%AE%9B%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="立陶宛共和國"><ruby class="hanja api grade10"><rb>立陶宛</rb><rp>(</rp><rt>입도완</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Estonia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/langko-kore-990px-Flag_of_Estonia.svg.png" decoding="async" width="990" height="630" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/langko-kore-1485px-Flag_of_Estonia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/langko-kore-1980px-Flag_of_Estonia.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%84%9B%E6%B2%99%E5%B0%BC%E4%BA%9E%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="愛沙尼亞共和國 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>愛</rb><rp>(</rp><rt>애</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>沙</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>尼</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Latvia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langko-kore-1200px-Flag_of_Latvia.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langko-kore-1800px-Flag_of_Latvia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/langko-kore-2400px-Flag_of_Latvia.svg.png 2x"></a></span><br><a href="/wiki/%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="拉脫維亞共和國"><ruby class="hanja api grade20"><rb>拉脫維亞</rb><rp>(</rp><rt>납탈유아</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th><ruby class="hanja api grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby>슬라브 <ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Poland.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langko-kore-640px-Flag_of_Poland.svg.png" decoding="async" width="640" height="400" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langko-kore-960px-Flag_of_Poland.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langko-kore-1280px-Flag_of_Poland.svg.png 2x"></a></span><br><a href="/wiki/%E6%B3%A2%E8%98%AD%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="波蘭共和國"><ruby class="hanja api grade32"><rb>波蘭</rb><rp>(</rp><rt>파란</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<th>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Slovakia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/langko-kore-900px-Flag_of_Slovakia.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/langko-kore-1350px-Flag_of_Slovakia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/langko-kore-1800px-Flag_of_Slovakia.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="斯洛伐克共和國 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>斯洛伐克</rb><rp>(</rp><rt>사락벌극</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
+<th><a href="/wiki/%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6" title="摩爾多瓦"><ruby class="hanja api grade10"><rb>摩爾多瓦</rb><rp>(</rp><rt>마이다와</rt><rp>)</rp></ruby></a>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Moldova.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/langko-kore-1800px-Flag_of_Moldova.svg.png" decoding="async" width="1800" height="900" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/langko-kore-2700px-Flag_of_Moldova.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/langko-kore-3600px-Flag_of_Moldova.svg.png 2x"></a></span><br><a href="/wiki/%E6%91%A9%E7%88%BE%E5%A4%9A%E7%93%A6%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="摩爾多瓦共和國"><ruby class="hanja api grade10"><rb>摩爾多瓦</rb><rp>(</rp><rt>마이다와</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
 </div></body></html>
