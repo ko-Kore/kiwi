@@ -1,0 +1,30 @@
+{
+  "word": "標準時",
+  "pages": [
+    {
+      "title": "日本帝國",
+      "surrounding": "400km² 時間帶(시간대) 日本(일본)標準時(표준시) (UTC",
+      "count": 1
+    },
+    {
+      "title": "氷島",
+      "surrounding": "7% 時間帶(시간대) 國際(국제)標準時(표준시) (UTC",
+      "count": 1
+    },
+    {
+      "title": "英蘭",
+      "surrounding": "279km² 時間帶(시간대) 國際(국제)標準時(표준시) (UTC",
+      "count": 1
+    },
+    {
+      "title": "葡萄牙",
+      "surrounding": "5% 時間帶(시간대) 標準時(표준시)間(간) (UTC",
+      "count": 1
+    },
+    {
+      "title": "蘇格蘭",
+      "surrounding": "169km² 時間帶(시간대) 國際(국제)標準時(표준시) (UTC",
+      "count": 1
+    }
+  ]
+}
