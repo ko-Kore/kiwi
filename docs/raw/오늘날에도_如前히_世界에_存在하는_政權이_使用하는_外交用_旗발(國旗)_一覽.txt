@@ -153,6 +153,14 @@
 <tr>
 <th><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
 </th>
-<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Afghanistan_(2013%E2%80%932021).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/langko-kore-900px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/langko-kore-1350px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/langko-kore-1800px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 2x"></a></span><br><a href="/index.php?title=%E9%98%BF%E5%AF%8C%E6%B1%97&amp;action=edit&amp;redlink=1" class="new" title="阿富汗 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>阿富汗</rb><rp>(</rp><rt>아부한</rt><rp>)</rp></ruby></a>
+<td><br><a href="/index.php?title=%E9%98%BF%E5%AF%8C%E6%B1%97&amp;action=edit&amp;redlink=1" class="new" title="阿富汗 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>阿富汗</rb><rp>(</rp><rt>아부한</rt><rp>)</rp></ruby></a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
 </td></tr></tbody></table>
 </div></body></html>
