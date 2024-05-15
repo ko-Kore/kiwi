@@ -1,8 +1,12 @@
 {
   "title": "나치獨逸",
   "namespace": 0,
-  "timestamp": 1715674826000,
-  "categories": [],
+  "timestamp": 1715797473000,
+  "categories": [
+    "토막글",
+    "나치獨逸",
+    "獨逸의 歷史"
+  ],
   "members": [],
   "file": null
 }

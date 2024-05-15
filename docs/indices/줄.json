@@ -417,6 +417,11 @@
       "count": 1
     },
     {
+      "title": "列支敦士登公國",
+      "surrounding": "넘겨줄 對象:列支敦士登",
+      "count": 1
+    },
+    {
       "title": "別拉露西亞共和國",
       "surrounding": "넘겨줄 對象:別拉露西亞",
       "count": 1
@@ -579,6 +584,11 @@
     {
       "title": "塳文化𡨸漢",
       "surrounding": "넘겨줄 對象：漢字文化圈",
+      "count": 1
+    },
+    {
+      "title": "墺地利共和國",
+      "surrounding": "넘겨줄 對象:墺地利",
       "count": 1
     },
     {
@@ -962,6 +972,11 @@
       "count": 1
     },
     {
+      "title": "洪牙利共和國",
+      "surrounding": "넘겨줄 對象:洪牙利",
+      "count": 1
+    },
+    {
       "title": "海雲臺新市街地",
       "surrounding": "넘겨줄 대상:海雲臺그린시티",
       "count": 1
@@ -1047,6 +1062,11 @@
       "count": 1
     },
     {
+      "title": "獨逸聯邦共和國",
+      "surrounding": "넘겨줄 對象:獨逸",
+      "count": 1
+    },
+    {
       "title": "現代 한글 11172字",
       "surrounding": "넘겨줄 대상:現代한글",
       "count": 1
@@ -1074,6 +1094,11 @@
     {
       "title": "瑞典王國",
       "surrounding": "넘겨줄 對象:瑞典",
+      "count": 1
+    },
+    {
+      "title": "瑞西聯邦",
+      "surrounding": "넘겨줄 對象:瑞西",
       "count": 1
     },
     {
@@ -1214,6 +1239,11 @@
     {
       "title": "美戀시",
       "surrounding": "넘겨줄 대상:美少女戀愛",
+      "count": 1
+    },
+    {
+      "title": "聖馬利諾共和國",
+      "surrounding": "넘겨줄 對象:聖馬利諾",
       "count": 1
     },
     {
@@ -1509,11 +1539,6 @@
     {
       "title": "나고야시",
       "surrounding": "넘겨줄 대상:名古屋市",
-      "count": 1
-    },
-    {
-      "title": "나치獨逸",
-      "surrounding": "넘겨줄 對象:獨逸民族의",
       "count": 1
     },
     {
