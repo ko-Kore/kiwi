@@ -127,6 +127,11 @@
       "count": 1
     },
     {
+      "title": "丁抹王國",
+      "surrounding": "넘겨줄 對象:丁抹",
+      "count": 1
+    },
+    {
       "title": "中國大陸",
       "surrounding": "넘겨줄 對象:中華人民共和國",
       "count": 1
@@ -652,6 +657,11 @@
       "count": 1
     },
     {
+      "title": "氷島共和國",
+      "surrounding": "넘겨줄 對象:氷島",
+      "count": 1
+    },
+    {
       "title": "江原道 (大韓民國)",
       "surrounding": "넘겨줄 대상:江原特別自治道",
       "count": 1
@@ -764,6 +774,11 @@
     {
       "title": "現代한글 11172字",
       "surrounding": "넘겨줄 對象：現代韓㐎",
+      "count": 1
+    },
+    {
+      "title": "瑞典王國",
+      "surrounding": "넘겨줄 對象:瑞典",
       "count": 1
     },
     {
@@ -919,6 +934,11 @@
     {
       "title": "艦隊컬렉션 ~艦코레~",
       "surrounding": "넘겨줄 대상:艦隊컬렉션",
+      "count": 1
+    },
+    {
+      "title": "芬蘭共和國",
+      "surrounding": "넘겨줄 對象:芬蘭",
       "count": 1
     },
     {
