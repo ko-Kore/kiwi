@@ -447,6 +447,11 @@
       "count": 1
     },
     {
+      "title": "安道爾大公國",
+      "surrounding": "넘겨줄 對象:安道爾",
+      "count": 1
+    },
+    {
       "title": "宝鐘마린",
       "surrounding": "넘겨줄 대상:寶鐘마린",
       "count": 1
@@ -689,6 +694,11 @@
     {
       "title": "波斯",
       "surrounding": "넘겨줄 대상:페르시아",
+      "count": 1
+    },
+    {
+      "title": "波斯尼亞黑塞哥維那",
+      "surrounding": "넘겨줄 對象:波黑",
       "count": 1
     },
     {
