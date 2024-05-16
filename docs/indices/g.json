@@ -367,11 +367,6 @@
       "count": 2
     },
     {
-      "title": "中央日報",
-      "surrounding": " LOGO 파일:Joongang Ilbo ... Ilbo title svg 設立(설립)",
-      "count": 2
-    },
-    {
       "title": "中華民國",
       "surrounding": "臺(대)語(어)(閩(민)南(남)語(어)) 客語(객어)(客家語(객가어)) Pangcah(Amis 阿(아)美(미))語(어) ... Pinuyumayan(Puyuma 卑(비)南(남))語(어) Ngudradrekai(Rukai 魯(노)凱(개))語(어)",
       "count": 2
@@ -629,6 +624,11 @@
     {
       "title": "三星 갤럭시",
       "surrounding": "三(삼)星(성) 갤럭시 Samsung GALAXY",
+      "count": 1
+    },
+    {
+      "title": "中央日報",
+      "surrounding": "웹사이트 https://www joongang co",
       "count": 1
     },
     {
