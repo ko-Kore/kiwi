@@ -652,11 +652,6 @@
       "count": 2
     },
     {
-      "title": "中央日報",
-      "surrounding": " LOGO 파일:Https://i namu ... 파일:Https://i namu wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb Fayn3I7qhZdlHQ",
-      "count": 2
-    },
-    {
       "title": "中華民國",
       "surrounding": "Pangcah(Amis 阿(아)美(미))語(어) Atayal(泰(태)雅(아))語(어) Paiwan(排(배)灣(만))語(어) ... 魯(노)凱(개))語(어) Tsou(鄒(추))語(어) Saisiyat(賽(새)夏(하))語(어) Yami(Tao",
       "count": 2
@@ -1009,6 +1004,11 @@
     {
       "title": "上",
       "surrounding": "𡨸國語(자국어) : thượng ",
+      "count": 1
+    },
+    {
+      "title": "中央日報",
+      "surrounding": "파일:Joongang Ilbo title svg",
       "count": 1
     },
     {

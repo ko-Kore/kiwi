@@ -4,7 +4,7 @@
 <tbody><tr>
 <th><b>LOGO</b>
 </th>
-<td><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Https://i.namu.wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb_Fayn3I7qhZdlHQ.svg" class="new" title="파일:Https://i.namu.wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb Fayn3I7qhZdlHQ.svg"><span class="mw-broken-media">파일:Https://i.namu.wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb Fayn3I7qhZdlHQ.svg</span></a></span>
+<td><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Joongang_Ilbo_title.svg" class="new" title="파일:Joongang Ilbo title.svg"><span class="mw-broken-media">파일:Joongang Ilbo title.svg</span></a></span>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade42"><rb>設立</rb><rp>(</rp><rt>설립</rt><rp>)</rp></ruby>
@@ -75,5 +75,10 @@
 <th><ruby class="hanja api grade40"><rb>從屬</rb><rp>(</rp><rt>종속</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade42"><rb>關係</rb><rp>(</rp><rt>관계</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby>
 </th>
 <td>JTBC(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br>(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)콘텐트리<ruby class="hanja api grade32"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby><br><ruby class="hanja api grade32"><rb>中央日報</rb><rp>(</rp><rt>중앙일보</rt><rp>)</rp></ruby>에스(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br><ruby class="hanja api grade32"><rb>中央日報</rb><rp>(</rp><rt>중앙일보</rt><rp>)</rp></ruby>엠앤피(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br>JOONGANGILBO USA, Inc.<br>톡트<ruby class="hanja api grade40"><rb>委員會</rb><rp>(</rp><rt>위원회</rt><rp>)</rp></ruby>(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br>(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)차이나랩
+</td></tr>
+<tr>
+<th>웹사이트
+</th>
+<td>
 </td></tr></tbody></table>
 </div></body></html>

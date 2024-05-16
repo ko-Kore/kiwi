@@ -832,11 +832,6 @@
       "count": 2
     },
     {
-      "title": "中央日報",
-      "surrounding": "LOGO 파일:Https://i namu wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb ... namu wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb Fayn3I7qhZdlHQ svg",
-      "count": 2
-    },
-    {
       "title": "仁川廣域市",
       "surrounding": " all ways ...  all ways INCHEON",
       "count": 2
@@ -1234,6 +1229,11 @@
     {
       "title": "三星 갤럭시",
       "surrounding": "三(삼)星(성) 갤럭시 Samsung GALAXY",
+      "count": 1
+    },
+    {
+      "title": "中央日報",
+      "surrounding": " LOGO 파일:Joongang Ilbo",
       "count": 1
     },
     {

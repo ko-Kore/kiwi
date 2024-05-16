@@ -587,11 +587,6 @@
       "count": 2
     },
     {
-      "title": "中央日報",
-      "surrounding": " LOGO 파일:Https://i namu ... wiki/i/21lmvCOULR7JoykVxA5t3JhMZphGZ5J6DJYhlWzHHJRHKA4f1vyKgTfrf0pyDZ-YXvLEp-4UGe5TiqRQDOJ4hxNLJXnZuHy29SXdZIIv3NjkCuhiMpe0A6vwEz6gBXmBUT39YJb Fayn3I7qhZdlHQ svg 設立(설립)",
-      "count": 2
-    },
-    {
       "title": "九",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) tseu5 (tɕiɤ³³⁴) ... (tɕiɤ³³⁴) 蘇州語(소주어) tseu3 (tɕy⁵¹)",
       "count": 2
@@ -914,6 +909,11 @@
     {
       "title": "上",
       "surrounding": "병음 : shàng 國語(국어)",
+      "count": 1
+    },
+    {
+      "title": "中央日報",
+      "surrounding": "Ilbo title svg 設立(설립)",
       "count": 1
     },
     {
