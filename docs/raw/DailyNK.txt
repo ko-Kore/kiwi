@@ -1,0 +1,24 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable wordmark">
+<caption>
+</caption>
+<tbody><tr>
+<th>LOGO
+</th>
+<td><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=DailyNK_wordmark.svg" class="new" title="파일:DailyNK wordmark.svg"><span class="mw-broken-media">파일:DailyNK wordmark.svg</span></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>成立</rb><rp>(</rp><rt>성립</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=2004%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2004年 (없는 文書)">2004<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=12%E6%9C%8810%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="12月10日 (없는 文書)">12<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>10<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>代表者</rb><rp>(</rp><rt>대표자</rt><rp>)</rp></ruby>
+</th>
+<td>이광백
+</td></tr>
+<tr>
+<th>웹사이트
+</th>
+<td><a rel="nofollow" class="external free" href="https://www.dailynk.com/">https://www.dailynk.com/</a>
+</td></tr></tbody></table>
+</div></body></html>
