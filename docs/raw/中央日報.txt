@@ -1,0 +1,79 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th><b>LOGO</b>
+</th>
+<td><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4_%EC%A0%9C%ED%98%B8.svg" class="new" title="파일:중앙일보 제호.svg"><span class="mw-broken-media">파일:중앙일보 제호.svg</span></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>設立</rb><rp>(</rp><rt>설립</rt><rp>)</rp></ruby>
+</th>
+<td>1965<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 17<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>創刊</rb><rp>(</rp><rt>창간</rt><rp>)</rp></ruby>
+</th>
+<td>1965<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 9<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 22<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>創業主</rb><rp>(</rp><rt>창업주</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%9D%8E%E7%A7%89%E5%96%86&amp;action=edit&amp;redlink=1" class="new" title="李秉喆 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>李秉喆</rb><rp>(</rp><rt>이병철</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>代表者</rb><rp>(</rp><rt>대표자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%B0%95%EC%9E%A5%ED%9D%AC&amp;action=edit&amp;redlink=1" class="new" title="박장희 (없는 文書)">박장희</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>本社</rb><rp>(</rp><rt>본사</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%EC%84%9C%EC%9A%B8%E7%89%B9%E5%88%A5%E5%B8%82" title="서울特別市">서울<ruby class="hanja api grade60"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby></a> 마포구 상암산로 48-6<br>(상암동 1651)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>任員陣</rb><rp>(</rp><rt>임원진</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>業種</rb><rp>(</rp><rt>업종</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade62"><rb>新聞</rb><rp>(</rp><rt>신문</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>發行</rb><rp>(</rp><rt>발행</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>業</rb><rp>(</rp><rt>업</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade72"><rb>上場</rb><rp>(</rp><rt>상장</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>與否</rb><rp>(</rp><rt>여부</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade42"><rb>非上場</rb><rp>(</rp><rt>비상장</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>規模</rb><rp>(</rp><rt>규모</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade42"><rb>準</rb><rp>(</rp><rt>준</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>大企業</rb><rp>(</rp><rt>대기업</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>任職員</rb><rp>(</rp><rt>임직원</rt><rp>)</rp></ruby>
+</th>
+<td>721<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby> (2021<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>賣出額</rb><rp>(</rp><rt>매출액</rt><rp>)</rp></ruby>
+</th>
+<td>2781<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby> 1,660<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby> 3,381<a href="/wiki/%EC%9B%90" class="mw-redirect" title="원">원</a> (2022<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade72"><rb>年間</rb><rp>(</rp><rt>연간</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>營業利益</rb><rp>(</rp><rt>영업이익</rt><rp>)</rp></ruby>
+</th>
+<td>50<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby> 6,649<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby> 9666원 (2022<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade72"><rb>年間</rb><rp>(</rp><rt>연간</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>純利益</rb><rp>(</rp><rt>순이익</rt><rp>)</rp></ruby>
+</th>
+<td>76<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby> 9,841<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby> 9,024원 (2022<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade72"><rb>年間</rb><rp>(</rp><rt>연간</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th>그룹
+</th>
+<td><a href="/index.php?title=%E4%B8%AD%E5%A4%AE%EA%B7%B8%EB%A3%B9&amp;action=edit&amp;redlink=1" class="new" title="中央그룹 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby>그룹</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>從屬</rb><rp>(</rp><rt>종속</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade42"><rb>關係</rb><rp>(</rp><rt>관계</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby>
+</th>
+<td>JTBC(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br>(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)콘텐트리<ruby class="hanja api grade32"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby><br><ruby class="hanja api grade32"><rb>中央日報</rb><rp>(</rp><rt>중앙일보</rt><rp>)</rp></ruby>에스(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br><ruby class="hanja api grade32"><rb>中央日報</rb><rp>(</rp><rt>중앙일보</rt><rp>)</rp></ruby>엠앤피(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br>JOONGANGILBO USA, Inc.<br>톡트<ruby class="hanja api grade40"><rb>委員會</rb><rp>(</rp><rt>위원회</rt><rp>)</rp></ruby>(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)<br>(<ruby class="hanja api grade32"><rb>株</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>)차이나랩
+</td></tr></tbody></table>
+</div></body></html>
