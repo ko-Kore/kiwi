@@ -417,11 +417,6 @@
       "count": 5
     },
     {
-      "title": "波黑",
-      "surrounding": " 波斯尼亞黑塞哥維那(파사니아흑새가유나) Bosna i ... arms of Bosnia svg",
-      "count": 5
-    },
-    {
       "title": "獨逸國",
       "surrounding": "首相(수상)府(부)長官(장관)(Chef der Reichskanzlei) 한스 ... 비스마르크가 普魯西(보로서)王國(왕국)의 領國(영국)宰相(재상)(Staatskanzler)가 되었다",
       "count": 5
@@ -949,6 +944,11 @@
     {
       "title": "格陵蘭",
       "surrounding": " 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland ... 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland 自治體(자치체)",
+      "count": 2
+    },
+    {
+      "title": "波黑",
+      "surrounding": " 波斯尼亞黑塞哥維那(파사니아흑새가유나) Bosna i ... Bosna i HerzegovinaБосна и",
       "count": 2
     },
     {

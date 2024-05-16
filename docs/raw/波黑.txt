@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Bosnia_and_Herzegovina.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/langko-kore-320px-Flag_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="320" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/langko-kore-480px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/langko-kore-640px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Bosnia.svg" class="new" title="파일:Coat of arms of Bosnia.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Bosnia.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Bosnia_and_Herzegovina.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/langko-kore-140px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="140" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/langko-kore-210px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/langko-kore-280px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png 2x"></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
@@ -51,17 +51,17 @@
 <tr>
 <th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
 </th>
-<td>9,833,520km²
+<td>51,209km²
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
 </th>
-<td>UTC-4:00 - UTC+10:00, <ruby class="hanja api grade62"><rb>一部</rb><rp>(</rp><rt>일부</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>여름<ruby class="hanja api grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>觀測</rb><rp>(</rp><rt>관측</rt><rp>)</rp></ruby>
+<td>UTC+2
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
 </th>
-<td>2<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>實體</rb><rp>(</rp><rt>실체</rt><rp>)</rp></ruby>
+<td>3<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>實體</rb><rp>(</rp><rt>실체</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>

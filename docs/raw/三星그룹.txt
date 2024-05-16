@@ -1,5 +1,5 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
-<caption><ruby class="hanja api grade32"><rb>槪述</rb><rp>(</rp><rt>개술</rt><rp>)</rp></ruby>
+<caption>
 </caption>
 <tbody><tr>
 <th><b>LOGO</b>
