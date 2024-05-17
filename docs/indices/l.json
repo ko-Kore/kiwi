@@ -242,6 +242,11 @@
       "count": 4
     },
     {
+      "title": "DailyNK",
+      "surrounding": " LOGO 파일:DailyNK wordmark ... 中央日報(중앙일보) 朝鮮日報(조선일보) DailyNK 中間派(중간파)",
+      "count": 4
+    },
+    {
       "title": "中華民國",
       "surrounding": "또 英語(영어)로는 Republic of ... Sakizaya(撒(살)奇(기)萊(래)雅(아))語(어) Seediq(賽(새)德(덕)克(극))語(어) Hla’alua(拉(랍)阿(아)魯(로)哇(와))語(어) Kanakanavu(卡(잡)那(나)卡(잡)那(나)富(부))語(어)",
       "count": 4
@@ -440,11 +445,6 @@
       "title": "𡨸國語",
       "surrounding": "ị k l m ... Latin Extended Additional 領域(영역)에",
       "count": 3
-    },
-    {
-      "title": "DailyNK",
-      "surrounding": " LOGO 파일:DailyNK wordmark ... 웹사이트 https://www dailynk com/",
-      "count": 2
     },
     {
       "title": "NLCS Jeju",
@@ -782,6 +782,11 @@
       "count": 1
     },
     {
+      "title": "中央日報",
+      "surrounding": "中央日報 朝鮮日報(조선일보) DailyNK 中間派(중간파)",
+      "count": 1
+    },
+    {
       "title": "仁川廣域市",
       "surrounding": " all ways",
       "count": 1
@@ -1114,6 +1119,11 @@
     {
       "title": "데이트 어 라이브",
       "surrounding": "데이트 어 라이브EighteenChild (토론)는",
+      "count": 1
+    },
+    {
+      "title": "데일리NK",
+      "surrounding": "넘겨줄 對象:DailyNK ",
       "count": 1
     },
     {

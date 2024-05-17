@@ -107,6 +107,11 @@
       "count": 2
     },
     {
+      "title": "DailyNK",
+      "surrounding": "많은 消息(소식)을 傳(전)해야 하는",
+      "count": 1
+    },
+    {
       "title": "UTF-16",
       "surrounding": "16비트인만큼 엔디언處理(처리)를 해야 한다",
       "count": 1

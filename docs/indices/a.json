@@ -467,6 +467,11 @@
       "count": 4
     },
     {
+      "title": "DailyNK",
+      "surrounding": " LOGO 파일:DailyNK wordmark ... 中央日報(중앙일보) 朝鮮日報(조선일보) DailyNK 中間派(중간파)",
+      "count": 4
+    },
+    {
       "title": "三星그룹",
       "surrounding": "사이에서 別名(별명)은 'Sammy'이다 same ... 社(사)무스 아란(Samus Aran サムス·アラン)의",
       "count": 4
@@ -600,11 +605,6 @@
       "title": "오네로리키메세쿠天皇",
       "surrounding": "에이라 이르마타르 유티라이넨(Elia Ilmatar ... ロリ(로리)는 ロリータ(로리이타 原語(원어)Lolita)의略語(략어)로서 幼女(유녀)를意味(의미)한다",
       "count": 4
-    },
-    {
-      "title": "DailyNK",
-      "surrounding": " LOGO 파일:DailyNK wordmark ... 웹사이트 https://www dailynk com/",
-      "count": 3
     },
     {
       "title": "丁抹",
@@ -834,6 +834,11 @@
     {
       "title": "下位文化",
       "surrounding": "社會學者(사회학자) 데이비드 리스만(David Riesman)이 ... 데이비드 리스만(David Riesman)이 使用(사용)한",
+      "count": 2
+    },
+    {
+      "title": "中央日報",
+      "surrounding": "웹사이트 https://www joongang co ... 中央日報 朝鮮日報(조선일보) DailyNK 中間派(중간파)",
       "count": 2
     },
     {
@@ -1234,11 +1239,6 @@
     {
       "title": "三星 갤럭시",
       "surrounding": "三(삼)星(성) 갤럭시 Samsung GALAXY",
-      "count": 1
-    },
-    {
-      "title": "中央日報",
-      "surrounding": "웹사이트 https://www joongang co",
       "count": 1
     },
     {
@@ -1724,6 +1724,11 @@
     {
       "title": "데니스 리치",
       "surrounding": "리치(英語(영어): Dennis MacAlistair Ritchie",
+      "count": 1
+    },
+    {
+      "title": "데일리NK",
+      "surrounding": "넘겨줄 對象:DailyNK ",
       "count": 1
     },
     {

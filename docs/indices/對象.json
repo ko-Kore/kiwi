@@ -37,6 +37,11 @@
       "count": 1
     },
     {
+      "title": "DailyNK",
+      "surrounding": "保守(보수)勢力(세력)이다 批判(비판)의 對象(대상)은 保守(보수)도",
+      "count": 1
+    },
+    {
       "title": "EFL杯",
       "surrounding": "넘겨줄 對象:英蘭 프로",
       "count": 1
@@ -589,6 +594,11 @@
     {
       "title": "대한뉴스",
       "surrounding": "넘겨줄 對象:大韓뉴스 ",
+      "count": 1
+    },
+    {
+      "title": "데일리NK",
+      "surrounding": "넘겨줄 對象:DailyNK ",
       "count": 1
     },
     {

@@ -122,6 +122,11 @@
       "count": 4
     },
     {
+      "title": "DailyNK",
+      "surrounding": "LOGO 파일:DailyNK wordmark svg ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
+      "count": 3
+    },
+    {
       "title": "人名 漢字 表記 一覽",
       "surrounding": "瑪(마)利(리)亞(아)/馬(마)利(리)亞(아)/麻里(마리)亞(아) 英語: Louis/Lewis프랑스語: Louis獨逸語: ... 亞(아)歷(력)/亞(아)歷山(역산)/亞(아)歷山(역산)大(대)/伊(이)斯(사)坎(감)達(달)爾(이) 英語: Matthew/Matt이탈리아語: Matteo獨逸語:",
       "count": 3
@@ -167,13 +172,13 @@
       "count": 3
     },
     {
-      "title": "DailyNK",
-      "surrounding": "LOGO 파일:DailyNK wordmark svg ... 이광백 웹사이트 https://www dailynk",
+      "title": "ㆆ",
+      "surrounding": "特有(특유)의 'bottle'과 'water'의 發音(발음)을 ... 美國式英語(미국식영어)圈(권)에서는 'boˈle'과 'waˈer'로 表記(표기)하곤",
       "count": 2
     },
     {
-      "title": "ㆆ",
-      "surrounding": "特有(특유)의 'bottle'과 'water'의 發音(발음)을 ... 美國式英語(미국식영어)圈(권)에서는 'boˈle'과 'waˈer'로 表記(표기)하곤",
+      "title": "中央日報",
+      "surrounding": "톡트委員會(위원회)(株(주))(株(주))차이나랩 웹사이트 https://www joongang ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
       "count": 2
     },
     {
@@ -279,11 +284,6 @@
     {
       "title": "中國語 敎科書",
       "surrounding": "中國本土(중국본토)에서는 語文(어문)(语文(어문) yǔwén)이라고 稱(칭)한다",
-      "count": 1
-    },
-    {
-      "title": "中央日報",
-      "surrounding": "톡트委員會(위원회)(株(주))(株(주))차이나랩 웹사이트 https://www joongang",
       "count": 1
     },
     {

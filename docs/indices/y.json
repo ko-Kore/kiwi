@@ -142,6 +142,11 @@
       "count": 5
     },
     {
+      "title": "DailyNK",
+      "surrounding": " LOGO 파일:DailyNK wordmark ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
+      "count": 4
+    },
+    {
       "title": "中華民國",
       "surrounding": "Pangcah(Amis 阿(아)美(미))語(어) Atayal(泰(태)雅(아))語(어) Paiwan(排(배)灣(만))語(어) ... Kavalan(噶(갈)瑪(마)蘭(란))語(어) Truku(太(태)魯(로)閣(각))語(어) Sakizaya(撒(살)奇(기)萊(래)雅(아))語(어) Seediq(賽(새)德(덕)克(극))語(어)",
       "count": 4
@@ -237,13 +242,13 @@
       "count": 2
     },
     {
-      "title": "DailyNK",
-      "surrounding": " LOGO 파일:DailyNK wordmark ... 웹사이트 https://www dailynk com/",
+      "title": "Grand Dieu Sauve le Roi",
+      "surrounding": "주소서(1745-今(금)) 美國(미국) My Country ... 美國(미국) My Country tis",
       "count": 2
     },
     {
-      "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "주소서(1745-今(금)) 美國(미국) My Country ... 美國(미국) My Country tis",
+      "title": "中央日報",
+      "surrounding": "中央日報 朝鮮日報(조선일보) DailyNK 中間派(중간파) ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
       "count": 2
     },
     {
@@ -644,6 +649,11 @@
     {
       "title": "게임보이",
       "surrounding": "메모리 뱅크 컨트롤러(Memory Bank",
+      "count": 1
+    },
+    {
+      "title": "데일리NK",
+      "surrounding": "넘겨줄 對象:DailyNK ",
       "count": 1
     },
     {
