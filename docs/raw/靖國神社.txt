@@ -1,0 +1,62 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade40"><rb>名稱</rb><rp>(</rp><rt>명칭</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade10"><rb>靖國</rb><rp>(</rp><rt>정국</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>神社</rb><rp>(</rp><rt>신사</rt><rp>)</rp></ruby><br>야스쿠니 신사<br><ruby><rb>靖國神社</rb><rp>(</rp><rt>やすくにじんじあ</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><b>LOGO</b>
+</th>
+<td><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Yasukuni_Shrine_wordmark.svg" class="new" title="파일:Yasukuni Shrine wordmark.svg"><span class="mw-broken-media">파일:Yasukuni Shrine wordmark.svg</span></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>創設</rb><rp>(</rp><rt>창설</rt><rp>)</rp></ruby>
+</th>
+<td>1869<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>12<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>社</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>格</rb><rp>(</rp><rt>격</rt><rp>)</rp></ruby>(しゃかく)
+</th>
+<td><ruby class="hanja api grade52"><rb>別格</rb><rp>(</rp><rt>별격</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>官</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>幣</rb><rp>(</rp><rt>폐</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>社</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>, <ruby class="hanja api grade10"><rb>勅祭</rb><rp>(</rp><rt>칙제</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>社</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>祭神</rb><rp>(</rp><rt>제신</rt><rp>)</rp></ruby>(さいじん)
+</th>
+<td><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>戰死者</rb><rp>(</rp><rt>전사자</rt><rp>)</rp></ruby> 246<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby> 6<ruby class="hanja api grade70"><rb>千</rb><rp>(</rp><rt>천</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>余</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>位</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>現</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>宮</rb><rp>(</rp><rt>궁</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>司</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>(ぐうじ)
+</th>
+<td><ruby class="hanja api grade10"><rb>大塚</rb><rp>(</rp><rt>대총</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>海夫</rb><rp>(</rp><rt>해부</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>例</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>行</rb><rp>(</rp><rt>행</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>祭祀</rb><rp>(</rp><rt>제사</rt><rp>)</rp></ruby>
+</th>
+<td>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>22<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>과 10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>18<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>主要</rb><rp>(</rp><rt>주요</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>行事</rb><rp>(</rp><rt>행사</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade80"><rb>三</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>玉</rb><rp>(</rp><rt>옥</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>祭</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>(7<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 13-16<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>內部</rb><rp>(</rp><rt>내부</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>景</rb><rp>(</rp><rt>경</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>點</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>
+</th>
+<td>
+<ul><li><a href="/index.php?title=%E6%9D%B1%E4%BA%AC%E6%A8%99%E6%BA%96%E6%AB%BB&amp;action=edit&amp;redlink=1" class="new" title="東京標準櫻 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>標準</rb><rp>(</rp><rt>표준</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>櫻</rb><rp>(</rp><rt>앵</rt><rp>)</rp></ruby></a></li>
+<li><a href="/index.php?title=%E5%A4%A7%E6%9D%91%E7%9B%8A%E6%AC%A1%E9%83%9E&amp;action=edit&amp;redlink=1" class="new" title="大村益次郞 (없는 文書)"><ruby class="hanja api grade70 unknown"><rb>大村</rb><rp>(</rp><rt>대촌</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>益</rb><rp>(</rp><rt>익</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>次</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>郞</rb><rp>(</rp><rt>랑</rt><rp>)</rp></ruby></a><ruby class="hanja api grade32"><rb>銅像</rb><rp>(</rp><rt>동상</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja api grade40"><rb>遊</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>就</rb><rp>(</rp><rt>취</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>館</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby></li></ul>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a><a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都"><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>都</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a><a href="/wiki/%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8D%80" title="千代田區"><ruby class="hanja api grade62"><rb>千代</rb><rp>(</rp><rt>천대</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>田</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E4%B9%9D%E6%AE%B5&amp;action=edit&amp;redlink=1" class="new" title="九段 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>九</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>段</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby></a><ruby class="hanja api grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby>3<ruby class="hanja api grade40"><rb>丁</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>目</rb><rp>(</rp><rt>목</rt><rp>)</rp></ruby>1-1
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>公式</rb><rp>(</rp><rt>공식</rt><rp>)</rp></ruby>싸이트
+</th>
+<td><a rel="nofollow" class="external free" href="https://www.yasukuni.or.jp/">https://www.yasukuni.or.jp/</a>
+</td></tr></tbody></table>
+</div></body></html>
