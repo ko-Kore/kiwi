@@ -2,11 +2,6 @@
 <caption>
 </caption>
 <tbody><tr>
-<th>LOGO
-</th>
-<td>Among our people.svg
-</td></tr>
-<tr>
 <th><ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>言</rb><rp>(</rp><rt>언</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=%EC%A1%B0%EC%84%A0%EC%96%B4&amp;action=edit&amp;redlink=1" class="new" title="조선어 (없는 文書)">조선어</a>(<a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>), <a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E4%B8%AD%E5%9C%8B%E8%AA%9E" title="中國語"><ruby class="hanja api grade70"><rb>中國語</rb><rp>(</rp><rt>중국어</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja api grade60"><rb>日本語</rb><rp>(</rp><rt>일본어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E9%9C%B2%E8%A5%BF%E4%BA%9E%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="露西亞語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>露西亞語</rb><rp>(</rp><rt>노서아어</rt><rp>)</rp></ruby></a>
@@ -14,11 +9,14 @@
 <tr>
 <th><ruby class="hanja api grade40"><rb>主管</rb><rp>(</rp><rt>주관</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>單位</rb><rp>(</rp><rt>단위</rt><rp>)</rp></ruby>
 </th>
-<td>조선륙일오출판사
+<td><ruby class="hanja api grade52"><rb>朝鮮</rb><rp>(</rp><rt>조선</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>六</rb><rp>(</rp><rt>륙</rt><rp>)</rp></ruby>•<ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>五</rb><rp>(</rp><rt>오</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>出版社</rb><rp>(</rp><rt>출판사</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=2003%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2003年 (없는 文書)">2003<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=4%E6%9C%881%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="4月1日 (없는 文書)">4<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade42"><rb>創設</rb><rp>(</rp><rt>창설</rt><rp>)</rp></ruby>)-<a href="/wiki/2024%E5%B9%B4" title="2024年">2024<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a><a href="/index.php?title=1%E6%9C%8811%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="1月11日 (없는 文書)">1<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>11<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
+<h2><span id=".EA.B0.9C.EC.9A.94"></span><span class="mw-headline" id="개요">개요</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%9A%B0%EB%A6%AC_%E6%B0%91%E6%97%8F%EB%81%BC%EB%A6%AC&amp;action=edit&amp;section=1" title="部分 編輯: 개요">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>북한의 관변 선전 매체인 조국평화통일위원회(조평통)산하 조선륙일오출판사가 2003년부터 2024년까지 운영하던 대외 선전용 인터넷 웹사이트로 줄여서 우민끼[3]고 부른다. 북한 주민들이 볼 수 없는 외부 정보를 통해 대남 비난도 하였으며, 이는 다른 대외용 웹사이트도 마찬가지였다. 즉, 이런 대외용 웹사이트의 내용을 정작 일반 북한 주민들은 아예 모를 수도 있다는 것이다. 과거 조평통의 상위 단체였던 조선로동당 통일전선부(<ruby class="hanja api grade40"><rb>略</rb><rp>(</rp><rt>략</rt><rp>)</rp></ruby> 통전부)에서 과거에 운영하던 대남 선전용 라디오 방송인 &lt;구국의 소리방송&gt;이 우민끼의 전신이라고 볼 수도 있다.
+</p>
 </div></body></html>
