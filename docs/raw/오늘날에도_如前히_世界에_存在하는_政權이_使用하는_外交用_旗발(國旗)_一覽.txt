@@ -29,6 +29,7 @@
 </li>
 <li class="toclevel-1 tocsection-19"><a href="#南美洲(남미주)"><span class="tocnumber">4</span> <span class="toctext">南美洲(남미주)</span></a></li>
 <li class="toclevel-1 tocsection-20"><a href="#阿弗利加洲(아불리가주)"><span class="tocnumber">5</span> <span class="toctext">阿弗利加洲(아불리가주)</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#大洋洲(대양주)"><span class="tocnumber">6</span> <span class="toctext">大洋洲(대양주)</span></a></li>
 </ul>
 </div>
 <h2><span id=".E4.BA.9E.E6.B4.B2.28.EC.95.84.EC.A3.BC.29"></span><span class="mw-headline" id="亞洲(아주)"><ruby class="hanja api grade32"><rb>亞洲</rb><rp>(</rp><rt>아주</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%98%A4%EB%8A%98%EB%82%A0%EC%97%90%EB%8F%84_%E5%A6%82%E5%89%8D%ED%9E%88_%E4%B8%96%E7%95%8C%EC%97%90_%E5%AD%98%E5%9C%A8%ED%95%98%EB%8A%94_%E6%94%BF%E6%AC%8A%EC%9D%B4_%E4%BD%BF%E7%94%A8%ED%95%98%EB%8A%94_%E5%A4%96%E4%BA%A4%E7%94%A8_%E6%97%97%EB%B0%9C(%E5%9C%8B%E6%97%97)_%E4%B8%80%E8%A6%BD&amp;action=edit&amp;section=1" title="部分 編輯: 亞洲(아주)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -1060,7 +1061,7 @@
 <tr>
 <th>
 </th>
-<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Uganda.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/langko-kore-900px-Flag_of_Uganda.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/langko-kore-1350px-Flag_of_Uganda.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/langko-kore-1800px-Flag_of_Uganda.svg.png 2x"></a></span><br><a href="/index.php?title=%E7%83%8F%E5%B9%B2%E9%81%94%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="烏干達共和國 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>烏</rb><rp>(</rp><rt>오</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>干</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>達</rb><rp>(</rp><rt>달</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Somalia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/langko-kore-900px-Flag_of_Somalia.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/langko-kore-1350px-Flag_of_Somalia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/langko-kore-1800px-Flag_of_Somalia.svg.png 2x"></a></span><br><a href="/index.php?title=%E8%98%87%E6%91%A9%E5%88%A9%E4%BA%9E%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="蘇摩利亞共和國 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>蘇摩利亞</rb><rp>(</rp><rt>소마리아</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
@@ -1100,7 +1101,7 @@
 <tr>
 <th>
 </th>
-<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Eswatini.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/langko-kore-900px-Flag_of_Eswatini.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/langko-kore-1350px-Flag_of_Eswatini.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/langko-kore-1800px-Flag_of_Eswatini.svg.png 2x"></a></span><br><a href="/index.php?title=%E5%8F%B2%E7%93%A6%E6%BF%9F%E8%98%AD%E7%8E%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="史瓦濟蘭王國 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>史</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>瓦</rb><rp>(</rp><rt>와</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>濟</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>蘭</rb><rp>(</rp><rt>란</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Eswatini.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/langko-kore-900px-Flag_of_Eswatini.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/langko-kore-1350px-Flag_of_Eswatini.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/langko-kore-1800px-Flag_of_Eswatini.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%96%AF%E5%A8%81%E5%A3%AB%E8%98%AD%E7%8E%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="斯威士蘭王國 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>斯威士蘭</rb><rp>(</rp><rt>사위사란</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
@@ -1110,96 +1111,91 @@
 <tr>
 <th><ruby class="hanja api grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>印度洋</rb><rp>(</rp><rt>인도양</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>地區</rb><rp>(</rp><rt>지구</rt><rp>)</rp></ruby>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Madagascar.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/langko-kore-900px-Flag_of_Madagascar.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/langko-kore-1350px-Flag_of_Madagascar.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/langko-kore-1800px-Flag_of_Madagascar.svg.png 2x"></a></span><br><a href="/index.php?title=%E9%A6%AC%E9%81%94%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="馬達加斯加共和國 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>馬達加斯加</rb><rp>(</rp><rt>마달가사가</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_Comoros.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/langko-kore-1000px-Flag_of_the_Comoros.svg.png" decoding="async" width="1000" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/langko-kore-1500px-Flag_of_the_Comoros.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/langko-kore-2000px-Flag_of_the_Comoros.svg.png 2x"></a></span><br><a href="/wiki/%E7%A7%91%E6%91%A9%E7%BE%85" title="科摩羅"><ruby class="hanja api grade20"><rb>科摩羅</rb><rp>(</rp><rt>과마라</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>聯盟</rb><rp>(</rp><rt>연맹</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Mauritius.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/langko-kore-900px-Flag_of_Mauritius.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/langko-kore-1350px-Flag_of_Mauritius.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/langko-kore-1800px-Flag_of_Mauritius.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="毛里求斯共和國 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>毛</rb><rp>(</rp><rt>모</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>里</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>求</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>斯</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Seychelles.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/langko-kore-1200px-Flag_of_Seychelles.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/langko-kore-1800px-Flag_of_Seychelles.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/langko-kore-2400px-Flag_of_Seychelles.svg.png 2x"></a></span><br><a href="/index.php?title=%E5%A1%9E%E8%88%8C%E7%88%BE%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="塞舌爾共和國 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>塞舌爾</rb><rp>(</rp><rt>새설이</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_France.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-900px-Flag_of_France.svg.png" decoding="async" width="900" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-1350px-Flag_of_France.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-1800px-Flag_of_France.svg.png 2x"></a></span><br><a href="/index.php?title=%E4%BD%9B%E9%A0%98%E7%95%99%E5%B0%BC%E6%B1%AA%E7%BE%A4%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="佛領留尼汪群島 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>佛領</rb><rp>(</rp><rt>불령</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>留</rb><rp>(</rp><rt>류</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>尼</rb><rp>(</rp><rt>니</rt><rp>)</rp></ruby><ruby class="hanja api grade12 unknown"><rb>汪</rb><rp>(</rp><rt>왕</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>群島</rb><rp>(</rp><rt>군도</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<h2><span id=".E5.A4.A7.E6.B4.8B.E6.B4.B2.28.EB.8C.80.EC.96.91.EC.A3.BC.29"></span><span class="mw-headline" id="大洋洲(대양주)"><ruby class="hanja api grade32"><rb>大洋洲</rb><rp>(</rp><rt>대양주</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%98%A4%EB%8A%98%EB%82%A0%EC%97%90%EB%8F%84_%E5%A6%82%E5%89%8D%ED%9E%88_%E4%B8%96%E7%95%8C%EC%97%90_%E5%AD%98%E5%9C%A8%ED%95%98%EB%8A%94_%E6%94%BF%E6%AC%8A%EC%9D%B4_%E4%BD%BF%E7%94%A8%ED%95%98%EB%8A%94_%E5%A4%96%E4%BA%A4%E7%94%A8_%E6%97%97%EB%B0%9C(%E5%9C%8B%E6%97%97)_%E4%B8%80%E8%A6%BD&amp;action=edit&amp;section=21" title="部分 編輯: 大洋洲(대양주)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><a href="/index.php?title=%E8%8B%B1%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="英聯邦 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby></a><ruby class="hanja api grade42"><rb>成員國</rb><rp>(</rp><rt>성원국</rt><rp>)</rp></ruby>
+</th>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Australia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/langko-kore-1280px-Flag_of_Australia.svg.png" decoding="async" width="1280" height="640" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/langko-kore-1920px-Flag_of_Australia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/langko-kore-2560px-Flag_of_Australia.svg.png 2x"></a></span><br><a href="/wiki/%E6%BF%A0%E6%B4%B2" title="濠洲"><ruby class="hanja api grade20"><rb>濠</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>太</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>剌</rb><rp>(</rp><rt>랄</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Fiji.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/langko-kore-1200px-Flag_of_Fiji.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/langko-kore-1800px-Flag_of_Fiji.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/langko-kore-2400px-Flag_of_Fiji.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%96%90%E6%BF%9F%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="斐濟共和國 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>斐濟</rb><rp>(</rp><rt>비제</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Nauru.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/langko-kore-600px-Flag_of_Nauru.svg.png" decoding="async" width="600" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/langko-kore-900px-Flag_of_Nauru.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/langko-kore-1200px-Flag_of_Nauru.svg.png 2x"></a></span><br><a href="/index.php?title=%E7%91%99%E9%AD%AF%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="瑙魯共和國 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>瑙魯</rb><rp>(</rp><rt>노로</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Kiribati.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/langko-kore-600px-Flag_of_Kiribati.svg.png" decoding="async" width="600" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/langko-kore-900px-Flag_of_Kiribati.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/langko-kore-1200px-Flag_of_Kiribati.svg.png 2x"></a></span><br><a href="/index.php?title=%E5%9F%BA%E9%87%8C%E5%B7%B4%E6%96%AF%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="基里巴斯共和國 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>基里巴斯</rb><rp>(</rp><rt>기리파사</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_New_Zealand.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/langko-kore-1200px-Flag_of_New_Zealand.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/langko-kore-1800px-Flag_of_New_Zealand.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/langko-kore-2400px-Flag_of_New_Zealand.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%96%B0%E8%A5%BF%E8%98%AD%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="新西蘭聯邦 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>新西蘭</rb><rp>(</rp><rt>신서란토</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_Solomon_Islands.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/langko-kore-1200px-Flag_of_the_Solomon_Islands.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/langko-kore-1800px-Flag_of_the_Solomon_Islands.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/langko-kore-2400px-Flag_of_the_Solomon_Islands.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%89%80%E7%BE%85%E9%96%80%E8%AB%B8%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="所羅門諸島 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>所羅門諸島</rb><rp>(</rp><rt>소라문제도</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Tonga.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/langko-kore-960px-Flag_of_Tonga.svg.png" decoding="async" width="960" height="480" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/langko-kore-1440px-Flag_of_Tonga.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/langko-kore-1920px-Flag_of_Tonga.svg.png 2x"></a></span><br><a href="/index.php?title=%E6%9D%B1%E4%BC%BD%E7%8E%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="東伽王國 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby><ruby class="hanja api grade12 unknown"><rb>伽</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Tuvalu.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/langko-kore-1200px-Flag_of_Tuvalu.svg.png" decoding="async" width="1200" height="600" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/langko-kore-1800px-Flag_of_Tuvalu.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/langko-kore-2400px-Flag_of_Tuvalu.svg.png 2x"></a></span><br><a href="/index.php?title=%E5%9C%96%E7%93%A6%E7%9B%A7&amp;action=edit&amp;redlink=1" class="new" title="圖瓦盧 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>圖瓦盧</rb><rp>(</rp><rt>도와로</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th>
 </th>
-<td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Vanuatu.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/langko-kore-600px-Flag_of_Vanuatu.svg.png" decoding="async" width="600" height="360" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/langko-kore-900px-Flag_of_Vanuatu.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/langko-kore-1200px-Flag_of_Vanuatu.svg.png 2x"></a></span><br><a href="/index.php?title=%E7%93%A6%E5%8A%AA%E9%98%BF%E5%9C%96%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="瓦努阿圖共和國 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>瓦努阿圖</rb><rp>(</rp><rt>와노아도</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<th>
-</th>
-<td>
+<td>예시</td>
+<td>예시
 </td></tr>
 <tr>
-<th>
-</th>
-<td>
+<td>예시</td>
+<td>예시
 </td></tr>
 <tr>
-<th>
-</th>
-<td>
+<td>예시</td>
+<td>예시
 </td></tr>
 <tr>
-<th>
-</th>
-<td>
-</td></tr>
-<tr>
-<th>
-</th>
-<td>
-</td></tr>
-<tr>
-<th>
-</th>
-<td>
+<td>예시</td>
+<td>예시
 </td></tr></tbody></table>
 </div></body></html>
