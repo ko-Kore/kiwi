@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Russia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-240px-Flag_of_Russia.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-360px-Flag_of_Russia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-480px-Flag_of_Russia.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Russia_Federation.svg" class="new" title="파일:Coat of arms of Russia Federation.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Russia Federation.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Russia.svg" class="new" title="파일:Coat of arms of Russia.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Russia.svg</span></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

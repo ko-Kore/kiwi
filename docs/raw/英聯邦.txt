@@ -1,0 +1,37 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="2"><b><ruby class="hanja api grade30"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby></b>
+</th></tr>
+<tr>
+<th colspan="2">Commonwealth of Nations<br>The Commonwealth<br>The British Commonwealth
+</th></tr>
+<tr>
+<th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="聯邦 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</th></tr>
+<tr>
+<td colspan="2">[[파일:{{{로고}}}|200px]]
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>1,800,000,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>18,800,000km²
+</td></tr>
+<tr>
+<td colspan="2"><a rel="nofollow" class="external text" href="https://thecommonwealth.org/">홈페이지</a>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">The Commonwealth</span>
+</li>
+</ol></div>
+</div></body></html>
