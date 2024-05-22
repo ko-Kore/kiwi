@@ -30,7 +30,7 @@
 <th><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a></th>
 <th colspan="6"><a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja api grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a></th>
 <th colspan="3"><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja api grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a></th>
-<th><a href="/index.php?title=%E9%A6%AC%E6%9D%A5%E8%A5%BF%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="馬来西亞 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>馬来西亞</rb><rp>(</rp><rt>마래서아</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E6%98%9F%E6%B8%AF" class="mw-redirect" title="星港"><ruby class="hanja api grade42"><rb>星港</rb><rp>(</rp><rt>성항</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E" title="馬來西亞"><ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E6%98%9F%E6%B8%AF" class="mw-redirect" title="星港"><ruby class="hanja api grade42"><rb>星港</rb><rp>(</rp><rt>성항</rt><rp>)</rp></ruby></a></th>
 <th><a href="/wiki/%E8%B6%8A%E5%8D%97" class="mw-redirect" title="越南"><ruby class="hanja api grade32"><rb>越南</rb><rp>(</rp><rt>월남</rt><rp>)</rp></ruby></a>
 </th></tr>
 <tr>
@@ -160,7 +160,7 @@
 <th><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a></th>
 <th><a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja api grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a></th>
 <th colspan="3"><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja api grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a></th>
-<th><a href="/index.php?title=%E9%A6%AC%E6%9D%A5%E8%A5%BF%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="馬来西亞 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>馬来西亞</rb><rp>(</rp><rt>마래서아</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E" title="馬來西亞"><ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></a></th>
 <th><a href="/wiki/%E6%98%9F%E6%B8%AF" class="mw-redirect" title="星港"><ruby class="hanja api grade42"><rb>星港</rb><rp>(</rp><rt>성항</rt><rp>)</rp></ruby></a></th>
 <th><a href="/wiki/%E8%B6%8A%E5%8D%97" class="mw-redirect" title="越南"><ruby class="hanja api grade32"><rb>越南</rb><rp>(</rp><rt>월남</rt><rp>)</rp></ruby></a>
 </th></tr>
