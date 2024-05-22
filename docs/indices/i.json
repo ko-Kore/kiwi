@@ -662,11 +662,6 @@
       "count": 3
     },
     {
-      "title": "塞舌爾共和國",
-      "surrounding": " 塞舌爾(새설이)共和國(공화국) Republic of ... Seychelles (orthographic projection) svg",
-      "count": 3
-    },
-    {
       "title": "墺地利",
       "surrounding": " 墺地利(오지리)共和國(공화국) Republik Österreich ... Lasst uns mit geschlungen",
       "count": 3
@@ -1354,6 +1349,11 @@
     {
       "title": "城庯胡志明",
       "surrounding": "Hồ Chí Minh ↑",
+      "count": 1
+    },
+    {
+      "title": "塞舌爾共和國",
+      "surrounding": " 塞舌爾(새설이)共和國(공화국) Republic of",
       "count": 1
     },
     {

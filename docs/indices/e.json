@@ -322,11 +322,6 @@
       "count": 6
     },
     {
-      "title": "塞舌爾共和國",
-      "surrounding": " 塞舌爾(새설이)共和國(공화국) Republic of ... 維(유)多(다)利(리)亞(아) 大統領(대통령) Wavel Ramkalawan",
-      "count": 6
-    },
-    {
       "title": "歐羅巴聯合",
       "surrounding": "歐羅巴聯合 歐羅巴(구라파)聯合(연합) Europäische Union/Union ... 白耳義(백이의)의 首都(수도) 布(포)魯(로)塞(새)爾(이)(Brussels)에 本社(본사)를",
       "count": 6
@@ -649,6 +644,11 @@
     {
       "title": "塞耳維",
       "surrounding": "塞(새)耳(이)維(유)共和國(공화국) Република Србија/Republika Srbija ... “Serbia”에서 由來(유래)하여 “Serbia”라는 이름은",
+      "count": 3
+    },
+    {
+      "title": "塞舌爾共和國",
+      "surrounding": " 塞舌爾(새설이)共和國(공화국) Republic of ... 維(유)多(다)利(리)亞(아) 大統領(대통령) Wavel Ramkalawan",
       "count": 3
     },
     {
