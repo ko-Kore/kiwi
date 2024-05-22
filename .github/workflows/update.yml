@@ -20,7 +20,7 @@ jobs:
     - name: Setup node
       uses: actions/setup-node@v2
       with:
-        node-version: 16.x
+        node-version: 18.x
         cache: 'npm'
 
     - run: npm install
@@ -34,5 +34,3 @@ jobs:
         TASK_NAME: 'Update mirror'
         TIMEZONE: 'Asia/Seoul'
         BRANCH_NAME: 'gh-pages'
-        
-    - run: curl -u ${{ env.GITHUB_ACTOR }}:${{ secrets.GITHUB_TOKEN }} -X POST https://api.github.com/repos/ko-Kore/kiwi/pages/builds
