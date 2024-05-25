@@ -9,7 +9,7 @@
 <th colspan="2" style="background: #CDDEFF;">{{{지위}}}
 </th></tr>
 <tr>
-<td colspan="2"><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Insigne_Romanum_coronatum.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-kore-200px-Insigne_Romanum_coronatum.svg.png" decoding="async" width="200" height="296" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-kore-300px-Insigne_Romanum_coronatum.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-kore-400px-Insigne_Romanum_coronatum.svg.png 2x"></a></span>
+<td colspan="2">[[파일:{{{로고}}}|200px]]
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
