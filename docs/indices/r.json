@@ -212,6 +212,11 @@
       "count": 7
     },
     {
+      "title": "SC第一銀行",
+      "surrounding": " SC第一銀行(제일은행)Standard Chartered ... of Standard Chartered Bank",
+      "count": 6
+    },
+    {
       "title": "伯法斯督",
       "surrounding": "伯(백)法(법)斯(사)督(독) Belfast/Béal Feirste 市(시) ... : Beal Feirste)는 伯(백)法(법)斯(사)督(독)",
       "count": 6
@@ -594,11 +599,6 @@
     {
       "title": "IBM 셀렉트릭",
       "surrounding": "셀렉트릭 打字機(타자기)(IBM Selectric Typewriter)는 ... 打字機(타자기)(IBM Selectric Typewriter)는 IBM이",
-      "count": 2
-    },
-    {
-      "title": "SC第一銀行",
-      "surrounding": " SC第一銀行(제일은행)Standard Chartered ...  SC第一銀行(제일은행)Standard Chartered Bank渣打銀行(zaa1",
       "count": 2
     },
     {

@@ -287,6 +287,11 @@
       "count": 4
     },
     {
+      "title": "SC第一銀行",
+      "surrounding": "Bank渣打銀行(zaa1 daa2 ngan4 hong4) ... Chartered Bank svg 國家(국가)",
+      "count": 3
+    },
+    {
       "title": "中國語 入力方式",
       "surrounding": "方法(방법)이다 例示(예시)로 ‘zhong’ 이라고 ... 나오는 IME는 ‘zg’ 라고만",
       "count": 3
@@ -360,11 +365,6 @@
       "title": "포르투갈語",
       "surrounding": "주세요 포르투갈語(어)(포르투갈語: língua portuguesa) ... 및 葡語(포어)(포르투갈語: português)는 印歐語族(인구어족)",
       "count": 3
-    },
-    {
-      "title": "SC第一銀行",
-      "surrounding": "Bank渣打銀行(zaa1 daa2 ngan4 hong4) ... daa2 ngan4 hong4) 國家(국가)",
-      "count": 2
     },
     {
       "title": "VAIO",
