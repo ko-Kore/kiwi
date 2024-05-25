@@ -127,11 +127,6 @@
       "count": 2
     },
     {
-      "title": "SC第一銀行",
-      "surrounding": " SC第一銀行(제일은행)Standard Chartered ... Mark of Standard Chartered",
-      "count": 2
-    },
-    {
       "title": "丁抹",
       "surrounding": "er et yndigt land[1] ... et yndigt land[1] 國花(국화)",
       "count": 2
@@ -209,6 +204,11 @@
     {
       "title": "NLCS Jeju",
       "surrounding": "NLCS Jeju(North London Collegiate",
+      "count": 1
+    },
+    {
+      "title": "SC第一銀行",
+      "surrounding": " SC第一銀行(제일은행)Standard Chartered",
       "count": 1
     },
     {
