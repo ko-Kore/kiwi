@@ -137,6 +137,11 @@
       "count": 3
     },
     {
+      "title": "SC第一銀行",
+      "surrounding": "스탠다드차타드 SWIFT 코드 SCBLKRSE ... 合倂(합병)하면서 SWIFT 코드도 스탠다드車(차)타드로",
+      "count": 2
+    },
+    {
       "title": "五筆劃收入法",
       "surrounding": "劃(획) 例字(례자) 코드 口(구) ... 있다 詳細表(상세표) 코드 筆劃種類(필획종류)",
       "count": 2
@@ -205,11 +210,6 @@
       "title": "원 (大韓民國)",
       "surrounding": "ISO 4217 코드 KRW ... ISO4217에依(의)해 配定(배정)된 通貨(통화)코드는 KRW이며",
       "count": 2
-    },
-    {
-      "title": "SC第一銀行",
-      "surrounding": "스탠다드차타드 SWIFT 코드 SCBLKRSE",
-      "count": 1
     },
     {
       "title": "Unicode",
