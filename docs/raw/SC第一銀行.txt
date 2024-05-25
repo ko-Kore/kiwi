@@ -1,0 +1,25 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<tbody><tr>
+<th colspan="2"><b>SC<ruby class="hanja api grade60"><rb>第一銀行</rb><rp>(</rp><rt>제일은행</rt><rp>)</rp></ruby></b>
+</th></tr>
+<tr>
+<th colspan="2">Standard Chartered Bank<br><ruby class="hanja api grade0"><rb>渣</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>打</rb><rp>(</rp><rt>타</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>銀行</rb><rp>(</rp><rt>은행</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2" style="background: #CDDEFF;">{{{지위}}}
+</th></tr>
+<tr>
+<td colspan="2"><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Insigne_Romanum_coronatum.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-kore-200px-Insigne_Romanum_coronatum.svg.png" decoding="async" width="200" height="296" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-kore-300px-Insigne_Romanum_coronatum.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Insigne_Romanum_coronatum.svg/langko-kore-400px-Insigne_Romanum_coronatum.svg.png 2x"></a></span>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Kingdom_(1-2).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-25px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-38px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-50px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 2x"></a></span> <a href="/wiki/%E8%8B%B1%E5%9C%8B" title="英國"><ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td colspan="2"><a rel="nofollow" class="external text" href="https://www.sc.com/hk/">홈페이지</a>
+</td></tr></tbody></table>
+</div></body></html>
