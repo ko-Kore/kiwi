@@ -2,7 +2,7 @@
 <caption>
 </caption>
 <tbody><tr>
-<th colspan="2"><b><big>SC<ruby class="hanja api grade60"><rb>第一銀行</rb><rp>(</rp><rt>제일은행</rt><rp>)</rp></ruby></big></b><br>Standard Chartered Bank<br><ruby class="hanja api grade0"><rb>渣</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>打</rb><rp>(</rp><rt>타</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>銀行</rb><rp>(</rp><rt>은행</rt><rp>)</rp></ruby>
+<th colspan="2"><b><big>SC<ruby class="hanja api grade60"><rb>第一銀行</rb><rp>(</rp><rt>제일은행</rt><rp>)</rp></ruby></big></b><br>Standard Chartered Bank<br><ruby><rb>渣打銀行</rb><rp>(</rp><rt>zaa1 daa2 ngan4 hong4</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <td colspan="2">
