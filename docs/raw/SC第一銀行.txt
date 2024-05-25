@@ -1,25 +1,45 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
 <tbody><tr>
-<th colspan="2"><b>SC<ruby class="hanja api grade60"><rb>第一銀行</rb><rp>(</rp><rt>제일은행</rt><rp>)</rp></ruby></b>
+<th colspan="2"><b><big>SC<ruby class="hanja api grade60"><rb>第一銀行</rb><rp>(</rp><rt>제일은행</rt><rp>)</rp></ruby></big></b><br>Standard Chartered Bank<br><ruby class="hanja api grade0"><rb>渣</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>打</rb><rp>(</rp><rt>타</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>銀行</rb><rp>(</rp><rt>은행</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<th colspan="2">Standard Chartered Bank<br><ruby class="hanja api grade0"><rb>渣</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>打</rb><rp>(</rp><rt>타</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>銀行</rb><rp>(</rp><rt>은행</rt><rp>)</rp></ruby>
-</th></tr>
-<tr>
-<th colspan="2" style="background: #CDDEFF;">{{{지위}}}
-</th></tr>
-<tr>
-<td colspan="2">[[파일:{{{로고}}}|200px]]
+<td colspan="2">
 </td></tr>
-<tr>
-<th colspan="2"><ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
-</th></tr>
 <tr>
 <th><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
 <td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Kingdom_(1-2).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-25px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-38px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-50px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 2x"></a></span> <a href="/wiki/%E8%8B%B1%E5%9C%8B" title="英國"><ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td colspan="2"><a rel="nofollow" class="external text" href="https://www.sc.com/hk/">홈페이지</a>
+<th><ruby class="hanja api grade52"><rb>法人</rb><rp>(</rp><rt>법인</rt><rp>)</rp></ruby>
+</th>
+<td>㍿ SC<ruby class="hanja api grade60"><rb>第一銀行</rb><rp>(</rp><rt>제일은행</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>設立</rb><rp>(</rp><rt>설립</rt><rp>)</rp></ruby>
+</th>
+<td>1927<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 7<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 1<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>支配</rb><rp>(</rp><rt>지배</rt><rp>)</rp></ruby>
+</th>
+<td>스탠다드차타드
+</td></tr>
+<tr>
+<th>SWIFT 코드
+</th>
+<td>SCBLKRSE
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade10"><rb>取扱</rb><rp>(</rp><rt>취급</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>通貨</rb><rp>(</rp><rt>통화</rt><rp>)</rp></ruby>
+</th>
+<td>USD<br>JPY<br>EUR<br>GBP<br>CAD<br>CHF<br>HKD<br>SEK<br>AUD<br>DKK<br>NOK<br>SAR<br>KWD<br>BHD<br>AED<br>SGD<br>MYR<br>NZD<br>CNY<br>IDR<br>THB
+</td></tr>
+<tr>
+<th>홈페이지
+</th>
+<td><a rel="nofollow" class="external free" href="https://www.sc.com/hk/">https://www.sc.com/hk/</a>
 </td></tr></tbody></table>
 </div></body></html>

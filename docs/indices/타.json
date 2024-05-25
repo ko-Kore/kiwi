@@ -602,6 +602,11 @@
       "count": 3
     },
     {
+      "title": "SC第一銀行",
+      "surrounding": "SC第一銀行(제일은행)Standard Chartered Bank渣(사)打(타)銀行(은행) 國家(국가) ... 1日(일) 支配(지배) 스탠다드차타드 SWIFT",
+      "count": 2
+    },
+    {
       "title": "U+",
       "surrounding": "코드 포인트를 나타낼 때 ... 포인트는 U+6F22로 나타낸다 2010年(년)에",
       "count": 2
@@ -1189,11 +1194,6 @@
     {
       "title": "Orangestar",
       "surrounding": "넘겨줄 대상:오렌지스타 ",
-      "count": 1
-    },
-    {
-      "title": "SC第一銀行",
-      "surrounding": "Standard Chartered Bank渣(사)打(타)銀行(은행) {{{지위}}}",
       "count": 1
     },
     {
