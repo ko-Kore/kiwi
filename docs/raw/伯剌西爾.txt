@@ -1,0 +1,109 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade10"><rb>伯剌西爾</rb><rp>(</rp><rt>백랄서이</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">República Federativa do Brasil
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Brazil.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langko-kore-229px-Flag_of_Brazil.svg.png" decoding="async" width="229" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langko-kore-343px-Flag_of_Brazil.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langko-kore-457px-Flag_of_Brazil.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Brazil.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/langko-kore-160px-Coat_of_arms_of_Brazil.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/langko-kore-240px-Coat_of_arms_of_Brazil.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/langko-kore-320px-Coat_of_arms_of_Brazil.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%9D%B4%ED%94%BC%EB%9E%91%EA%B0%80%EC%9D%98_%EC%9A%B8%EC%9D%8C%EC%86%8C%EB%A6%AC%EB%A5%BC_%EB%93%A4%EC%96%B4%EC%9A%94&amp;action=edit&amp;redlink=1" class="new" title="이피랑가의 울음소리를 들어요 (없는 文書)">이피랑가의 울음소리를 들어요</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade42"><rb>毛</rb><rp>(</rp><rt>모</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>蟹</rb><rp>(</rp><rt>해</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>爪</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>蘭</rb><rp>(</rp><rt>란</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td>Ordem e Progresso
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Brazil_(orthographic_projection).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/langko-kore-300px-Brazil_%28orthographic_projection%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/langko-kore-450px-Brazil_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/langko-kore-600px-Brazil_%28orthographic_projection%29.svg.png 2x"></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade10"><rb>巴西</rb><rp>(</rp><rt>파서</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>利</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td>Luiz Inácio Lula da Silva
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>8,514,900km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC-2:00 - UTC-5:00
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>203,000,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>25.4<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%91%A1%E8%90%84%E7%89%99%E8%AA%9E" class="mw-redirect" title="葡萄牙語"><ruby class="hanja api grade10"><rb>葡萄牙</rb><rp>(</rp><rt>포도아</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%A4%A9%E4%B8%BB%E6%95%8E" class="mw-redirect" title="天主敎"><ruby class="hanja api grade70"><rb>天主敎</rb><rp>(</rp><rt>천주교</rt><rp>)</rp></ruby></a> (<ruby class="hanja api grade52"><rb>事實上</rb><rp>(</rp><rt>사실상</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade32"><rb>西曆</rb><rp>(</rp><rt>서력</rt><rp>)</rp></ruby>1822<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>9<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>7<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>55
+</td></tr></tbody></table>
+<div class="notice" style="overflow: hidden; padding: 15px; margin: 15px 0px; border: 3px solid #2196F3; background-color: #70BBF93E;border-radius: 4px;"><div class="tp_link" style="font-size: 16pt; color: #2196F3;"><b>이 <ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>는 <a href="/wiki/%ED%86%A0%EB%A7%89%EA%B8%80" title="토막글">토막글</a>입니다.</b></div><div style="margin-top: .5em;">
+이 <ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade42"><rb>內容</rb><rp>(</rp><rt>내용</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade72"><rb>不足</rb><rp>(</rp><rt>부족</rt><rp>)</rp></ruby>하거나 <ruby class="hanja api grade50"><rb>完成</rb><rp>(</rp><rt>완성</rt><rp>)</rp></ruby>되지 않아 <b>위키러 여러분의 <ruby class="hanja api grade52"><rb>關心</rb><rp>(</rp><rt>관심</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade52"><rb>必要</rb><rp>(</rp><rt>필요</rt><rp>)</rp></ruby>합니다.</b><br><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.xn--9cs231j0ji.xn--p8s937b.net/index.php?title=%E4%BC%AF%E5%89%8C%E8%A5%BF%E7%88%BE&amp;action=edit"><ruby class="hanja api grade30"><rb>只今</rb><rp>(</rp><rt>지금</rt><rp>)</rp></ruby> 이 <ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade20"><rb>編輯</rb><rp>(</rp><rt>편집</rt><rp>)</rp></ruby>해서 <ruby class="hanja api grade42"><rb>內容</rb><rp>(</rp><rt>내용</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>補充</rb><rp>(</rp><rt>보충</rt><rp>)</rp></ruby>해 주세요!</a></span></div></div>
+<p><b><ruby class="hanja api grade10"><rb>伯剌西爾</rb><rp>(</rp><rt>백랄서이</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></b>(<span style="font-size: smaller;"><a href="/wiki/%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88%E8%AA%9E" title="포르투갈語">포르투갈語</a>: </span><span lang="pt">República Federativa do Brasil</span> <small>헤푸블리카 페데라치바 두 브라지우</small>)은 <a href="/index.php?title=%E5%8D%97%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="南아메리카 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>아메리카</a>에 <ruby class="hanja api grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>한 <a href="/index.php?title=%E8%81%AF%E9%82%A6%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="聯邦制 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>聯邦制</rb><rp>(</rp><rt>연방제</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E5%85%B1%E5%92%8C%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="共和國 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>이다.
+</p>
+</div></body></html>
