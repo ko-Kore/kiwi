@@ -112,6 +112,7 @@
 <ul>
 <li class="toclevel-2 tocsection-4"><a href="#國會(국회)"><span class="tocnumber">3.1</span> <span class="toctext">國會(국회)</span></a></li>
 <li class="toclevel-2 tocsection-5"><a href="#政府(정부)"><span class="tocnumber">3.2</span> <span class="toctext">政府(정부)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#行政區劃(행정구획)"><span class="tocnumber">3.3</span> <span class="toctext">行政區劃(행정구획)</span></a></li>
 </ul>
 </li>
 </ul>
@@ -245,79 +246,54 @@
 <td>Alexandre Silveira
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade42"><rb>婦女</rb><rp>(</rp><rt>부녀</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Cida Gonçalves
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade50"><rb>漁業</rb><rp>(</rp><rt>어업</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>及</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>水産養殖</rb><rp>(</rp><rt>수산양식</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>André de Paula
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade32"><rb>計劃</rb><rp>(</rp><rt>계획</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>及</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>豫算</rb><rp>(</rp><rt>예산</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Simone Tebet
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade42"><rb>港口</rb><rp>(</rp><rt>항구</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>及</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>空港</rb><rp>(</rp><rt>공항</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Silvio Costa Filho
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade50"><rb>原住民</rb><rp>(</rp><rt>원주민</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Sonia Guajajara
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade42"><rb>社會保障</rb><rp>(</rp><rt>사회보장</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Carlos Lupi
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade60"><rb>外交</rb><rp>(</rp><rt>외교</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Mauro Vieira
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade42"><rb>衛生</rb><rp>(</rp><rt>위생</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Nísia Trindade
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade52"><rb>勞工</rb><rp>(</rp><rt>노공</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Luiz Marinho
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade60"><rb>交通部</rb><rp>(</rp><rt>교통부</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>長</rb><rp>(</rp><rt>장</rt><rp>)</rp></ruby></td>
+<td>Renan Calheiros Filho
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade52"><rb>旅</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>游</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Celso Sabino
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시
+<td><ruby class="hanja api grade42"><rb>創業</rb><rp>(</rp><rt>창업</rt><rp>)</rp></ruby>、<ruby class="hanja api grade32"><rb>微</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>型</rb><rp>(</rp><rt>형</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>及</rb><rp>(</rp><rt>급</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>小型</rb><rp>(</rp><rt>소형</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部長</rb><rp>(</rp><rt>부장</rt><rp>)</rp></ruby></td>
+<td>Márcio França
 </td></tr></tbody></table>
+<h3><span id=".E8.A1.8C.E6.94.BF.E5.8D.80.E5.8A.83.28.ED.96.89.EC.A0.95.EA.B5.AC.ED.9A.8D.29"></span><span class="mw-headline" id="行政區劃(행정구획)"><ruby class="hanja api grade32"><rb>行政區劃</rb><rp>(</rp><rt>행정구획</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E4%BC%AF%E5%89%8C%E8%A5%BF%E7%88%BE&amp;action=edit&amp;section=6" title="部分 編輯: 行政區劃(행정구획)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja api grade52"><rb>全國的</rb><rp>(</rp><rt>전국적</rt><rp>)</rp></ruby>으로 스물여섯 <ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade52"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>와 한 <ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>區域</rb><rp>(</rp><rt>구역</rt><rp>)</rp></ruby>으로 나뉜다.
+</p>
 </div></body></html>
