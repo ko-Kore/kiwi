@@ -182,6 +182,11 @@
       "count": 7
     },
     {
+      "title": "CIS",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
+      "count": 6
+    },
+    {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot regime(外國(외국) 당근 ... carrot regime problem ",
       "count": 6
@@ -290,11 +295,6 @@
       "title": "프린세스 커넥트! Re:Dive",
       "surrounding": "Re:Dive 開發(개발) Cygames (게임製作(제작)) ... Entertainment Taiwan Limited 等級(등급)",
       "count": 5
-    },
-    {
-      "title": "CIS",
-      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... СНГ(SNG) 英語(영어)로 CIS(Commonwealth of",
-      "count": 4
     },
     {
       "title": "KTX-이음",
