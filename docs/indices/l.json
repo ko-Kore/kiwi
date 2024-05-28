@@ -182,11 +182,6 @@
       "count": 7
     },
     {
-      "title": "CIS",
-      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
-      "count": 7
-    },
-    {
       "title": "伯法斯督",
       "surrounding": " 伯(백)法(법)斯(사)督(독) Belfast/Béal Feirste ... 인테르링구에: : Beal Feirste)는",
       "count": 7
@@ -230,6 +225,11 @@
       "title": "님의代",
       "surrounding": "of happy life be ... moss doth line 古歌(고가)를由來(유래)로하는",
       "count": 6
+    },
+    {
+      "title": "CIS",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
+      "count": 5
     },
     {
       "title": "Clbuttic",

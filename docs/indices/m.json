@@ -152,11 +152,6 @@
       "count": 8
     },
     {
-      "title": "CIS",
-      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 높은 準會員(준회원)國(국)(Associate member)의 地位(지위)를",
-      "count": 7
-    },
-    {
       "title": "塞舌爾共和國",
       "surrounding": "大統領(대통령) Wavel Ramkalawan 地理(지리) ... 빌리 랑가沙彌(사미)(Billy Rangasamy) 靑少年(청소년)",
       "count": 7
@@ -185,6 +180,11 @@
       "title": "門",
       "surrounding": "拼音(병음) : mén 國語(국어) ... 𡨸國語(자국어) : môn ",
       "count": 7
+    },
+    {
+      "title": "CIS",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 높은 準會員(준회원)國(국)(Associate member)의 地位(지위)를",
+      "count": 6
     },
     {
       "title": "Foreign carrot regime",

@@ -207,11 +207,6 @@
       "count": 11
     },
     {
-      "title": "CIS",
-      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly)",
-      "count": 10
-    },
-    {
       "title": "人",
       "surrounding": "拼音(평음) : rén 國語(국어) ... 𡨸國語(자국어) : nhân ",
       "count": 10
@@ -245,6 +240,11 @@
       "title": "韓國語의 漢字",
       "surrounding": "-{便紙(편지)}- 편지 (pyeonji) 草紙(초지) ... 漢字表(한자표)(호적法施行規則(법시행규칙)37條(조)) KLDP net: 漢字(한자)한글變換(변환)",
       "count": 9
+    },
+    {
+      "title": "CIS",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly)",
+      "count": 8
     },
     {
       "title": "Foreign carrot regime",
