@@ -1,0 +1,32 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2"><b><big><ruby class="hanja api grade52"><rb>獨立國</rb><rp>(</rp><rt>독립국</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>家</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby></big></b><br><b><big>Содружество Независимых Государств</big></b><br><b><big>Commonwealth of Independent States</big></b>
+</th></tr>
+<tr>
+<td colspan="2"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_the_Commonwealth_Independent_States.svg" class="new" title="파일:Flag of the Commonwealth Independent States.svg"><span class="mw-broken-media">파일:Flag of the Commonwealth Independent States.svg</span></a></span>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>旗</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Brazil_(orthographic_projection).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/langko-kore-541px-Brazil_%28orthographic_projection%29.svg.png" decoding="async" width="541" height="541" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/langko-kore-812px-Brazil_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/langko-kore-1082px-Brazil_%28orthographic_projection%29.svg.png 2x"></a></span>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地圖</rb><rp>(</rp><rt>지도</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>成立</rb><rp>(</rp><rt>성립</rt><rp>)</rp></ruby>
+</th>
+<td>1991<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 8<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>會員國</rb><rp>(</rp><rt>회원국</rt><rp>)</rp></ruby>
+</th>
+<td>9<ruby class="hanja api grade42"><rb>個國</rb><rp>(</rp><rt>개국</rt><rp>)</rp></ruby>(<ruby class="hanja api grade42"><rb>正會員國</rb><rp>(</rp><rt>정회원국</rt><rp>)</rp></ruby>)<br>
+<p>1<ruby class="hanja api grade42"><rb>個國</rb><rp>(</rp><rt>개국</rt><rp>)</rp></ruby>(<ruby class="hanja api grade42"><rb>準會員</rb><rp>(</rp><rt>준회원</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>)<br>
+2<ruby class="hanja api grade42"><rb>個國</rb><rp>(</rp><rt>개국</rt><rp>)</rp></ruby>(<ruby class="hanja api grade52"><rb>參觀</rb><rp>(</rp><rt>참관</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>)
+</p>
+</td></tr></tbody></table>
+</div></body></html>
