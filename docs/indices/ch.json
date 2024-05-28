@@ -147,11 +147,6 @@
       "count": 2
     },
     {
-      "title": "英領南具琉耳及南三度一致群島",
-      "surrounding": "and South Sandwich Islands ... and South Sandwich Islands",
-      "count": 2
-    },
-    {
       "title": "雙拼",
       "surrounding": "yüuai shu chi 零声母(영성모)ouo ... yiuuai shu chi ouo",
       "count": 2
@@ -274,6 +269,11 @@
     {
       "title": "花園明朝",
       "surrounding": "花園明朝(화원명조)(はなぞのみんちょう Hanazono Mincho)는 明朝體(명조체)",
+      "count": 1
+    },
+    {
+      "title": "英領南具琉耳及南三度一致群島",
+      "surrounding": "the South Sandwich Islands",
       "count": 1
     },
     {
