@@ -1,37 +1,30 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
 <tbody><tr>
-<th colspan="2"><b><ruby class="hanja api grade30"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby></b>
+<th colspan="2"><ruby class="hanja api grade30"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby><br>Commonwealth of Nations<br>The Commonwealth<br>The British Commonwealth
 </th></tr>
 <tr>
-<th colspan="2">Commonwealth of Nations<br>The Commonwealth<br>The British Commonwealth
-</th></tr>
-<tr>
-<th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E8%81%AF%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="聯邦 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-</th></tr>
-<tr>
-<td colspan="2">[[파일:{{{로고}}}|200px]]
+<td colspan="2"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_the_Commonwealth.svg" class="new" title="파일:Flag of the Commonwealth.svg"><span class="mw-broken-media">파일:Flag of the Commonwealth.svg</span></a></span>
 </td></tr>
 <tr>
-<th colspan="2"><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
-</th></tr>
-<tr>
-<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade52"><rb>性質</rb><rp>(</rp><rt>성질</rt><rp>)</rp></ruby>
 </th>
-<td>1,800,000,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+<td><ruby class="hanja api grade42"><rb>國際</rb><rp>(</rp><rt>국제</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>同盟</rb><rp>(</rp><rt>동맹</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
-</th></tr>
-<tr>
-<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby>
 </th>
-<td>18,800,000km²
+<td><a href="/wiki/%E5%80%AB%E6%95%A6" title="倫敦"><ruby class="hanja api grade30"><rb>倫敦</rb><rp>(</rp><rt>윤돈</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td colspan="2"><a rel="nofollow" class="external text" href="https://thecommonwealth.org/">홈페이지</a>
+<th><ruby class="hanja api grade52"><rb>元首</rb><rp>(</rp><rt>원수</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%B0%B0%EC%8A%A4%E4%B8%89%E4%B8%96&amp;action=edit&amp;redlink=1" class="new" title="찰스三世 (없는 文書)">찰스<ruby class="hanja api grade72 unknown"><rb>三世</rb><rp>(</rp><rt>삼세</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th>홈페이지
+</th>
+<td><a rel="nofollow" class="external free" href="https://thecommonwealth.org/">https://thecommonwealth.org/</a>
 </td></tr></tbody></table>
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">The Commonwealth</span>
-</li>
-</ol></div>
 </div></body></html>

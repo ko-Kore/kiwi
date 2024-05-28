@@ -727,11 +727,6 @@
       "count": 2
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방) Commonwealth ... British Commonwealth 聯邦(연방)[1] [[파일:{{{로고}}}|200px]]",
-      "count": 2
-    },
-    {
       "title": "蒙古",
       "surrounding": "北洋(북양)政府(정부)로부터 獨立(독립)하였으나 蘇聯(소련)의 壓迫(압박)으로 ... 建立(건립)된 蒙古人民共和國(몽고인민공화국)은 蘇聯(소련) 다음으로",
       "count": 2
@@ -1359,6 +1354,11 @@
     {
       "title": "英國프리미어리그",
       "surrounding": "Premier League)는 英蘭(영란)蹴球(축구)聯盟(연맹) 傘下(산하)",
+      "count": 1
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of",
       "count": 1
     },
     {
