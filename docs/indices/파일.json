@@ -12,11 +12,6 @@
       "count": 3
     },
     {
-      "title": "CIS",
-      "surrounding": "Independent States 파일:Flag of ... 關聯(관련) 情報(정보) 파일:Flag of",
-      "count": 2
-    },
-    {
       "title": "大韓民國의 人名用 漢字",
       "surrounding": "漢字表(한자표) PDF 파일 PDF ... 파일 PDF 파일을 보고",
       "count": 2
@@ -60,6 +55,11 @@
       "title": "파일:더 바이너리 프로필 寫眞.jpg",
       "surrounding": "파일 설명[편집] ... 라이선스[편집] 이 파일의 內容(내용)은",
       "count": 2
+    },
+    {
+      "title": "CIS",
+      "surrounding": "Independent States 파일:Flag of",
+      "count": 1
     },
     {
       "title": "DailyNK",

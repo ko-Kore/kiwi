@@ -127,11 +127,6 @@
       "count": 2
     },
     {
-      "title": "CIS",
-      "surrounding": "Independent States 파일:Flag of ... 關聯(관련) 情報(정보) 파일:Flag of",
-      "count": 2
-    },
-    {
       "title": "中華民國",
       "surrounding": "達(달)悟(오))語(어) Thao(邵(소))語(어) Kavalan(噶(갈)瑪(마)蘭(란))語(어) Truku(太(태)魯(로)閣(각))語(어) ... Sakizaya(撒(살)奇(기)萊(래)雅(아))語(어) Seediq(賽(새)德(덕)克(극))語(어) Hla’alua(拉(랍)阿(아)魯(로)哇(와))語(어) Kanakanavu(卡(잡)那(나)卡(잡)那(나)富(부))語(어)",
       "count": 2
@@ -215,6 +210,11 @@
       "title": "金絲雀群島",
       "surrounding": "領(영) 金絲雀(금사작)群島(군도) Islas Canarias ... Islas Canarias españolas 國旗(국기)",
       "count": 2
+    },
+    {
+      "title": "CIS",
+      "surrounding": "Independent States 파일:Flag of",
+      "count": 1
     },
     {
       "title": "Clbuttic",
