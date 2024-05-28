@@ -12,6 +12,11 @@
       "count": 1
     },
     {
+      "title": "CIS",
+      "surrounding": "加入(가입)되어 있지 않으며 駐屯(주둔)하고",
+      "count": 1
+    },
+    {
       "title": "CJK互換用漢字",
       "surrounding": "글字(자)가 存在(존재)하지 않으며 統合漢字(통합한자)로서",
       "count": 1

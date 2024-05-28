@@ -2,6 +2,11 @@
   "word": "svg",
   "pages": [
     {
+      "title": "CIS",
+      "surrounding": "Independent States svg 旗(기) ... of Mongol svg蒙古(몽고) 蘇聯(소련)의",
+      "count": 2
+    },
+    {
       "title": "伯法斯督",
       "surrounding": "North Ireland svg 北(북)愛蘭(애란) ... North Ireland svg 北(북)愛蘭(애란)",
       "count": 2
@@ -10,11 +15,6 @@
       "title": "英國皇家海軍",
       "surrounding": "Royal Navy svg 파일:Coat ... Royal Navy svg 旗(기)",
       "count": 2
-    },
-    {
-      "title": "CIS",
-      "surrounding": "Independent States svg 旗(기)",
-      "count": 1
     },
     {
       "title": "DailyNK",

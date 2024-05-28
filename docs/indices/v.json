@@ -152,6 +152,11 @@
       "count": 2
     },
     {
+      "title": "CIS",
+      "surrounding": "Independent States svg 旗(기) ... of Mongol svg蒙古(몽고) 蘇聯(소련)의",
+      "count": 2
+    },
+    {
       "title": "中華民國",
       "surrounding": "達(달)悟(오))語(어) Thao(邵(소))語(어) Kavalan(噶(갈)瑪(마)蘭(란))語(어) Truku(太(태)魯(로)閣(각))語(어) ... Seediq(賽(새)德(덕)克(극))語(어) Hla’alua(拉(랍)阿(아)魯(로)哇(와))語(어) Kanakanavu(卡(잡)那(나)卡(잡)那(나)富(부))語(어) 馬祖(마조)語(어)(福州(복주)語(어))",
       "count": 2
@@ -270,11 +275,6 @@
       "title": "파일:Blood vessels kr.png",
       "surrounding": "英語版原本(영어판원본)：https://commons wikimedia org/wiki/File:Blood_vessels-en svg ... wikimedia org/wiki/File:Blood_vessels-en svg CC-BY-SA",
       "count": 2
-    },
-    {
-      "title": "CIS",
-      "surrounding": "Independent States svg 旗(기)",
-      "count": 1
     },
     {
       "title": "DailyNK",
