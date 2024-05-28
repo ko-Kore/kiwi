@@ -97,6 +97,11 @@
       "count": 5
     },
     {
+      "title": "CIS",
+      "surrounding": "ГосударствCommonwealth of Independent States ... CIS(Commonwealth of Independent States)",
+      "count": 4
+    },
+    {
       "title": "英國",
       "surrounding": "Great Britain and Northern ... and Northern Ireland로 現存(현존)",
       "count": 4
@@ -139,11 +144,6 @@
     {
       "title": "Alice in 冷凍庫",
       "surrounding": "君は何故か悲しそうに 笑ながら踊る Wonderland またあの日と ... 너는어째서인지슬픈것같이 웃으며춤추는 Wonderland 또그날과",
-      "count": 2
-    },
-    {
-      "title": "CIS",
-      "surrounding": "ГосударствCommonwealth of Independent States ... the Commonwealth Independent States",
       "count": 2
     },
     {

@@ -152,6 +152,11 @@
       "count": 4
     },
     {
+      "title": "CIS",
+      "surrounding": "ГосударствCommonwealth of Independent States ... CIS(Commonwealth of Independent States)",
+      "count": 4
+    },
+    {
       "title": "丁抹",
       "surrounding": "웹 사이트[編輯] 皇室(황실):http://www kongehuset ... stm dk 外交(외교)部(부):http://www um",
       "count": 4
@@ -275,11 +280,6 @@
       "title": "𬞟",
       "surrounding": "標準中國語(표준중국어) 讀音(독음)은 píng이지만 ‘𬞟’의 ... 標準中國語(표준중국어) 讀音(독음): pín 유니코드:",
       "count": 3
-    },
-    {
-      "title": "CIS",
-      "surrounding": "ГосударствCommonwealth of Independent States ... the Commonwealth Independent States",
-      "count": 2
     },
     {
       "title": "吳廷琰",

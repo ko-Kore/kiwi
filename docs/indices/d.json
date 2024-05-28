@@ -217,6 +217,11 @@
       "count": 6
     },
     {
+      "title": "CIS",
+      "surrounding": "ГосударствCommonwealth of Independent States ... CIS(Commonwealth of Independent States)",
+      "count": 5
+    },
+    {
       "title": "回轉交叉路",
       "surrounding": "通行方式圖 回轉(회전)交叉路(교차로)(英語: Roundabout) 또는 ... 信號化(신호화)回轉(회전)交叉路(교차로)(英國英語: Signalised roundabouts)는 優先權(우선권)이",
       "count": 5
@@ -385,11 +390,6 @@
       "title": "𡨸國語",
       "surrounding": "b c d đ ... Latin Extended Additional 領域(영역)에",
       "count": 3
-    },
-    {
-      "title": "CIS",
-      "surrounding": "ГосударствCommonwealth of Independent States ... the Commonwealth Independent States",
-      "count": 2
     },
     {
       "title": "IOS",
