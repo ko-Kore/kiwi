@@ -1,0 +1,90 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade50"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Repubblika ta' Malta
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Malta.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/langko-kore-240px-Flag_of_Malta.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/langko-kore-360px-Flag_of_Malta.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/langko-kore-480px-Flag_of_Malta.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Malta.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Malta.svg/langko-kore-125px-Coat_of_arms_of_Malta.svg.png" decoding="async" width="125" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Malta.svg/langko-kore-187px-Coat_of_arms_of_Malta.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Malta.svg/langko-kore-250px-Coat_of_arms_of_Malta.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96%E9%A0%8C&amp;action=edit&amp;redlink=1" class="new" title="馬耳他頌 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>頌</rb><rp>(</rp><rt>송</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%93%A6%E8%90%8A%E5%A1%94&amp;action=edit&amp;redlink=1" class="new" title="瓦萊塔 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>瓦</rb><rp>(</rp><rt>와</rt><rp>)</rp></ruby><ruby class="hanja api grade12 unknown"><rb>萊</rb><rp>(</rp><rt>래</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>塔</rb><rp>(</rp><rt>탑</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td>Myriam Spiteri Debono
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>316km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%8D%94%E5%AE%9A_%E4%B8%96%E7%95%8C%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="協定 世界時 (없는 文書)">UTC</a> +1
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>542,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>1379.8<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="馬耳他語 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%AD%90%E6%B4%B2%E5%9C%93&amp;action=edit&amp;redlink=1" class="new" title="歐洲圓 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>歐洲</rb><rp>(</rp><rt>구주</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+356
+</td></tr></tbody></table>
+</div></body></html>
