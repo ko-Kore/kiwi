@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_South_Africa_(1928-1982).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_South_Africa_%281928-1982%29.svg/langko-kore-240px-Flag_of_South_Africa_%281928-1982%29.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_South_Africa_%281928-1982%29.svg/langko-kore-360px-Flag_of_South_Africa_%281928-1982%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_South_Africa_%281928-1982%29.svg/langko-kore-480px-Flag_of_South_Africa_%281928-1982%29.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_South_Africa_(1928%E2%80%931994).svg" class="new" title="파일:Coat of arms of South Africa (1928–1994).svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of South Africa (1928–1994).svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_the_RSA_(1928%E2%80%931994).svg" class="new" title="파일:Coat of arms of the RSA (1928–1994).svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of the RSA (1928–1994).svg</span></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
@@ -33,9 +33,10 @@
 <tr>
 <th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
 </th>
-<td>* <a href="/index.php?title=%ED%94%84%EB%A6%AC%ED%86%A0%EB%A6%AC%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="프리토리아 (없는 文書)">프리토리아</a>(<ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>)
-<ul><li><a href="/index.php?title=%E9%96%8B%E6%99%AE%E6%95%A6&amp;action=edit&amp;redlink=1" class="new" title="開普敦 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>開</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>普</rb><rp>(</rp><rt>보</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>敦</rb><rp>(</rp><rt>돈</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade52"><rb>立法</rb><rp>(</rp><rt>입법</rt><rp>)</rp></ruby>)</li>
-<li><a href="/index.php?title=%EB%B8%94%EB%A3%B8%ED%8F%B0%ED%85%8C%EC%9D%B8&amp;action=edit&amp;redlink=1" class="new" title="블룸폰테인 (없는 文書)">블룸폰테인</a>(<ruby class="hanja api grade32"><rb>司法</rb><rp>(</rp><rt>사법</rt><rp>)</rp></ruby>)</li></ul>
+<td><a href="/index.php?title=%ED%94%84%EB%A6%AC%ED%86%A0%EB%A6%AC%EC%95%84&amp;action=edit&amp;redlink=1" class="new" title="프리토리아 (없는 文書)">프리토리아</a>(<ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>)<br>
+<p><a href="/index.php?title=%E9%96%8B%E6%99%AE%E6%95%A6&amp;action=edit&amp;redlink=1" class="new" title="開普敦 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>開</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>普</rb><rp>(</rp><rt>보</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>敦</rb><rp>(</rp><rt>돈</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade52"><rb>立法</rb><rp>(</rp><rt>입법</rt><rp>)</rp></ruby>)<br>
+<a href="/index.php?title=%EB%B8%94%EB%A3%B8%ED%8F%B0%ED%85%8C%EC%9D%B8&amp;action=edit&amp;redlink=1" class="new" title="블룸폰테인 (없는 文書)">블룸폰테인</a>(<ruby class="hanja api grade32"><rb>司法</rb><rp>(</rp><rt>사법</rt><rp>)</rp></ruby>)
+</p>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
