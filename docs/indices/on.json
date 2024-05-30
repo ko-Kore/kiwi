@@ -272,6 +272,11 @@
       "count": 2
     },
     {
+      "title": "暮國",
+      "surrounding": "暮國(모국) Estado Plurinacional de ... 暮國(모국)(스페인語: Estado Plurinacional de",
+      "count": 2
+    },
+    {
       "title": "月卽別",
       "surrounding": " 月卽別(월즉별)共和國(공화국) Oʻzbekiston Respublikasi ... +998 月卽別(월즉별)共和國(공화국)(우즈베크語: Oʻzbekiston Respublikasi)",
       "count": 2
@@ -469,11 +474,6 @@
     {
       "title": "文言文編程語言",
       "surrounding": "i++) { console log(\"問天地好在。\");",
-      "count": 1
-    },
-    {
-      "title": "暮國",
-      "surrounding": "暮國(모국) Estado Plurinacional de",
       "count": 1
     },
     {
