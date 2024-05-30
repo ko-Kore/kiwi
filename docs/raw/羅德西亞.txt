@@ -1,0 +1,52 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>羅</rb><rp>(</rp><rt>나</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>德</rb><rp>(</rp><rt>덕</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Rhodesia
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_Zimbabwe_(1970%E2%80%931979).svg" class="new" title="파일:Flag of Zimbabwe (1970–1979).svg"><span class="mw-broken-media" data-height="160">파일:Flag of Zimbabwe (1970–1979).svg</span></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Zimbabwe_(1965%E2%80%931979).svg" class="new" title="파일:Coat of arms of Zimbabwe (1965–1979).svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Zimbabwe (1965–1979).svg</span></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade0"><rb>哈</rb><rp>(</rp><rt>합</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>拉</rb><rp>(</rp><rt>랍</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>雷</rb><rp>(</rp><rt>뢰</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>390,000km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC+2
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>
+</td></tr>
+</tbody></table>
+</div></body></html>

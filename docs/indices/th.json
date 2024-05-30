@@ -137,11 +137,6 @@
       "count": 2
     },
     {
-      "title": "南阿弗利加",
-      "surrounding": "Republic of South AfricaRepubliek ... arms of South Africa",
-      "count": 2
-    },
-    {
       "title": "塞舌爾共和國",
       "surrounding": "안토니 드 자크(Anthony Derjacques) ... 抗訴法院(항소법원)長(장) 안토니 페르난도(Anthony Fer)",
       "count": 2
@@ -224,6 +219,11 @@
     {
       "title": "南阿共",
       "surrounding": "Republic of South Africa",
+      "count": 1
+    },
+    {
+      "title": "南阿弗利加",
+      "surrounding": "Republic of South AfricaRepubliek",
       "count": 1
     },
     {
