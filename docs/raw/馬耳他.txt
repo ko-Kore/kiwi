@@ -96,9 +96,10 @@
 <li class="toclevel-2 tocsection-4"><a href="#大綱(대강)"><span class="tocnumber">3.1</span> <span class="toctext">大綱(대강)</span></a></li>
 <li class="toclevel-2 tocsection-5"><a href="#議會(의회)"><span class="tocnumber">3.2</span> <span class="toctext">議會(의회)</span></a></li>
 <li class="toclevel-2 tocsection-6"><a href="#政府(정부)"><span class="tocnumber">3.3</span> <span class="toctext">政府(정부)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#行政區劃(행정구획)"><span class="tocnumber">3.4</span> <span class="toctext">行政區劃(행정구획)</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-7"><a href="#法律(법률)"><span class="tocnumber">4</span> <span class="toctext">法律(법률)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#法律(법률)"><span class="tocnumber">4</span> <span class="toctext">法律(법률)</span></a></li>
 </ul>
 </div>
 <h2><span id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"></span><span class="mw-headline" id="槪要(개요)"><ruby class="hanja api grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=1" title="部分 編輯: 槪要(개요)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -207,5 +208,8 @@
 <td><ruby class="hanja api grade10"><rb>高齡化</rb><rp>(</rp><rt>고령화</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>保健</rb><rp>(</rp><rt>보건</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>對應</rb><rp>(</rp><rt>대응</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>長官</rb><rp>(</rp><rt>장관</rt><rp>)</rp></ruby></td>
 <td>조-에티엔 아벨라(Jo-Etienne Abela)
 </td></tr></tbody></table>
-<h2><span id=".E6.B3.95.E5.BE.8B.28.EB.B2.95.EB.A5.A0.29"></span><span class="mw-headline" id="法律(법률)"><ruby class="hanja api grade42"><rb>法律</rb><rp>(</rp><rt>법률</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=7" title="部分 編輯: 法律(법률)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E8.A1.8C.E6.94.BF.E5.8D.80.E5.8A.83.28.ED.96.89.EC.A0.95.EA.B5.AC.ED.9A.8D.29"></span><span class="mw-headline" id="行政區劃(행정구획)"><ruby class="hanja api grade32"><rb>行政區劃</rb><rp>(</rp><rt>행정구획</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=7" title="部分 編輯: 行政區劃(행정구획)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja api grade72"><rb>全國</rb><rp>(</rp><rt>전국</rt><rp>)</rp></ruby>에 68<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70"><rb>地方</rb><rp>(</rp><rt>지방</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>市政</rb><rp>(</rp><rt>시정</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>委員會</rb><rp>(</rp><rt>위원회</rt><rp>)</rp></ruby>가 있다. 그 <ruby class="hanja api grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>島</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby>는 54<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>고 <ruby class="hanja api grade52"><rb>高調</rb><rp>(</rp><rt>고조</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>島</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby>는 14<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby>이다.
+</p>
+<h2><span id=".E6.B3.95.E5.BE.8B.28.EB.B2.95.EB.A5.A0.29"></span><span class="mw-headline" id="法律(법률)"><ruby class="hanja api grade42"><rb>法律</rb><rp>(</rp><rt>법률</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=8" title="部分 編輯: 法律(법률)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 </div></body></html>
