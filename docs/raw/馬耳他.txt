@@ -28,9 +28,6 @@
 <td><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96%E9%A0%8C&amp;action=edit&amp;redlink=1" class="new" title="馬耳他頌 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>頌</rb><rp>(</rp><rt>송</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Republic_of_Malta_(orthographic_projection).svg" class="new" title="파일:Republic of Malta (orthographic projection).svg"><span class="mw-broken-media" data-height="300">파일:Republic of Malta (orthographic projection).svg</span></a></span><br><center><small></small></center>
-</td></tr>
-<tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -90,6 +87,19 @@
 </th>
 <td>+356
 </td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko-Kore" dir="ltr"><h2 id="mw-toc-heading">目次</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#槪要(개요)"><span class="tocnumber">1</span> <span class="toctext">槪要(개요)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#歷史(역사)"><span class="tocnumber">2</span> <span class="toctext">歷史(역사)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#政治(정치)"><span class="tocnumber">3</span> <span class="toctext">政治(정치)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#大綱(대강)"><span class="tocnumber">3.1</span> <span class="toctext">大綱(대강)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#議會(의회)"><span class="tocnumber">3.2</span> <span class="toctext">議會(의회)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#政府(정부)"><span class="tocnumber">3.3</span> <span class="toctext">政府(정부)</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
 <h2><span id=".E6.A7.AA.E8.A6.81.28.EA.B0.9C.EC.9A.94.29"></span><span class="mw-headline" id="槪要(개요)"><ruby class="hanja api grade32"><rb>槪要</rb><rp>(</rp><rt>개요</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=1" title="部分 編輯: 槪要(개요)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><ruby class="hanja api grade50"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade70"><rb>地中海</rb><rp>(</rp><rt>지중해</rt><rp>)</rp></ruby> 한가운데에 <ruby class="hanja api grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>한 섬나라로 "<ruby class="hanja api grade70"><rb>地中海</rb><rp>(</rp><rt>지중해</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade32"><rb>心臟</rb><rp>(</rp><rt>심장</rt><rp>)</rp></ruby>"으로 알려져 있습니다. <ruby class="hanja api grade32"><rb>海岸線</rb><rp>(</rp><rt>해안선</rt><rp>)</rp></ruby>의 길이는 190km가 넘고 많은 <ruby class="hanja api grade70"><rb>自然</rb><rp>(</rp><rt>자연</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>港口</rb><rp>(</rp><rt>항구</rt><rp>)</rp></ruby>가 있습니다. <ruby class="hanja api grade32"><rb>亞熱帶</rb><rp>(</rp><rt>아열대</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>地中海性</rb><rp>(</rp><rt>지중해성</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>氣候</rb><rp>(</rp><rt>기후</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade40"><rb>年平均</rb><rp>(</rp><rt>연평균</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>氣溫</rb><rp>(</rp><rt>기온</rt><rp>)</rp></ruby>은 19.7°C, <ruby class="hanja api grade50"><rb>最高</rb><rp>(</rp><rt>최고</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>氣溫</rb><rp>(</rp><rt>기온</rt><rp>)</rp></ruby>은 40°C, <ruby class="hanja api grade42"><rb>最低</rb><rp>(</rp><rt>최저</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>氣溫</rb><rp>(</rp><rt>기온</rt><rp>)</rp></ruby>은 5°C이다. <ruby class="hanja api grade40"><rb>年平均</rb><rp>(</rp><rt>연평균</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>降水量</rb><rp>(</rp><rt>강수량</rt><rp>)</rp></ruby>은 560mm입니다.
 </p>
@@ -105,4 +115,95 @@
 </p><p>1964<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 9<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 21<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>, <ruby class="hanja api grade50"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade52"><rb>公式的</rb><rp>(</rp><rt>공식적</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade40"><rb>宣言</rb><rp>(</rp><rt>선언</rt><rp>)</rp></ruby>하고 <ruby class="hanja api grade30"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>會員國</rb><rp>(</rp><rt>회원국</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>維持</rb><rp>(</rp><rt>유지</rt><rp>)</rp></ruby>했습니다.
 </p><p>1979<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 31<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>, <ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade50"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby>에 있는 <ruby class="hanja api grade72"><rb>軍事</rb><rp>(</rp><rt>군사</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>基地</rb><rp>(</rp><rt>기지</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade20"><rb>撤收</rb><rp>(</rp><rt>철수</rt><rp>)</rp></ruby>했다.
 </p>
+<h2><span id=".E6.94.BF.E6.B2.BB.28.EC.A0.95.EC.B9.98.29"></span><span class="mw-headline" id="政治(정치)"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=3" title="部分 編輯: 政治(정치)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".E5.A4.A7.E7.B6.B1.28.EB.8C.80.EA.B0.95.29"></span><span class="mw-headline" id="大綱(대강)"><ruby class="hanja api grade32"><rb>大綱</rb><rp>(</rp><rt>대강</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=4" title="部分 編輯: 大綱(대강)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1966<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>馬耳他</rb><rp>(</rp><rt>마이타</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>以後</rb><rp>(</rp><rt>이후</rt><rp>)</rp></ruby> 첫 <ruby class="hanja api grade42"><rb>總選</rb><rp>(</rp><rt>총선</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade42"><rb>國民黨</rb><rp>(</rp><rt>국민당</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade60"><rb>勝利</rb><rp>(</rp><rt>승리</rt><rp>)</rp></ruby>했다. 
+</p><p>1971-1987<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>勞動黨</rb><rp>(</rp><rt>노동당</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade42"><rb>連續</rb><rp>(</rp><rt>연속</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>執權</rb><rp>(</rp><rt>집권</rt><rp>)</rp></ruby>했다. 그 <ruby class="hanja api grade72"><rb>後</rb><rp>(</rp><rt>후</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>國民黨</rb><rp>(</rp><rt>국민당</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade42"><rb>勞動黨</rb><rp>(</rp><rt>노동당</rt><rp>)</rp></ruby>은 오랫동안 번갈아 <ruby class="hanja api grade32"><rb>執權</rb><rp>(</rp><rt>집권</rt><rp>)</rp></ruby>했다.
+</p>
+<h3><span id=".E8.AD.B0.E6.9C.83.28.EC.9D.98.ED.9A.8C.29"></span><span class="mw-headline" id="議會(의회)"><ruby class="hanja api grade42"><rb>議會</rb><rp>(</rp><rt>의회</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=5" title="部分 編輯: 議會(의회)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><ruby class="hanja api grade50"><rb>下院</rb><rp>(</rp><rt>하원</rt><rp>)</rp></ruby>이라 불리며 <ruby class="hanja api grade40"><rb>普通選擧</rb><rp>(</rp><rt>보통선거</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade50"><rb>選出</rb><rp>(</rp><rt>선출</rt><rp>)</rp></ruby>되며 <ruby class="hanja api grade50"><rb>任期</rb><rp>(</rp><rt>임기</rt><rp>)</rp></ruby>는 5<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>이며 <ruby class="hanja api grade42"><rb>立法府</rb><rp>(</rp><rt>입법부</rt><rp>)</rp></ruby>이다. 
+</p><p>이<ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>議會</rb><rp>(</rp><rt>의회</rt><rp>)</rp></ruby>는 2022<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade50"><rb>選出</rb><rp>(</rp><rt>선출</rt><rp>)</rp></ruby>되어 <ruby class="hanja api grade60"><rb>現在</rb><rp>(</rp><rt>현재</rt><rp>)</rp></ruby> 79<ruby class="hanja api grade60"><rb>席</rb><rp>(</rp><rt>석</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade42"><rb>勞動黨</rb><rp>(</rp><rt>노동당</rt><rp>)</rp></ruby>(<ruby class="hanja api grade40"><rb>與黨</rb><rp>(</rp><rt>여당</rt><rp>)</rp></ruby>) 43<ruby class="hanja api grade60"><rb>席</rb><rp>(</rp><rt>석</rt><rp>)</rp></ruby>, <ruby class="hanja api grade42"><rb>國民黨</rb><rp>(</rp><rt>국민당</rt><rp>)</rp></ruby>(<ruby class="hanja api grade42"><rb>野黨</rb><rp>(</rp><rt>야당</rt><rp>)</rp></ruby>) 35<ruby class="hanja api grade60"><rb>席</rb><rp>(</rp><rt>석</rt><rp>)</rp></ruby>, <ruby class="hanja api grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>議員</rb><rp>(</rp><rt>의원</rt><rp>)</rp></ruby> 1<ruby class="hanja api grade60"><rb>席</rb><rp>(</rp><rt>석</rt><rp>)</rp></ruby>이다. 안굴루 파루지아(Anġlu Farrugia)의 <ruby class="hanja api grade42"><rb>議長</rb><rp>(</rp><rt>의장</rt><rp>)</rp></ruby>.
+</p>
+<h3><span id=".E6.94.BF.E5.BA.9C.28.EC.A0.95.EB.B6.80.29"></span><span class="mw-headline" id="政府(정부)"><ruby class="hanja api grade42"><rb>政府</rb><rp>(</rp><rt>정부</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%A6%AC%E8%80%B3%E4%BB%96&amp;action=edit&amp;section=6" title="部分 編輯: 政府(정부)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2022<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>總選</rb><rp>(</rp><rt>총선</rt><rp>)</rp></ruby>에서 아벨라 <ruby class="hanja api grade42"><rb>總理</rb><rp>(</rp><rt>총리</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade42"><rb>勞動黨</rb><rp>(</rp><rt>노동당</rt><rp>)</rp></ruby>을 이끌고 55.1%의 <ruby class="hanja api grade32"><rb>得票率</rb><rp>(</rp><rt>득표율</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade50"><rb>再選</rb><rp>(</rp><rt>재선</rt><rp>)</rp></ruby>되었다.
+</p>
+<table class="wikitable">
+<caption><ruby class="hanja api grade32"><rb>內閣</rb><rp>(</rp><rt>내각</rt><rp>)</rp></ruby>
+</caption>
+<tbody><tr>
+<td><ruby class="hanja api grade42"><rb>總理</rb><rp>(</rp><rt>총리</rt><rp>)</rp></ruby></td>
+<td>아벨라(Abera)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>副總理</rb><rp>(</rp><rt>부총리</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>兼</rb><rp>(</rp><rt>겸</rt><rp>)</rp></ruby> <ruby class="hanja api grade20"><rb>歐洲</rb><rp>(</rp><rt>구주</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>基金</rb><rp>(</rp><rt>기금</rt><rp>)</rp></ruby>, <ruby class="hanja api grade62"><rb>社會</rb><rp>(</rp><rt>사회</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>對話</rb><rp>(</rp><rt>대화</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade50"><rb>消費者</rb><rp>(</rp><rt>소비자</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>權益</rb><rp>(</rp><rt>권익</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>長官</rb><rp>(</rp><rt>장관</rt><rp>)</rp></ruby></td>
+<td>크리스 파인(Chris Fearne)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade60"><rb>外交</rb><rp>(</rp><rt>외교</rt><rp>)</rp></ruby>, <ruby class="hanja api grade20"><rb>歐洲</rb><rp>(</rp><rt>구주</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>事務</rb><rp>(</rp><rt>사무</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade32"><rb>貿易</rb><rp>(</rp><rt>무역</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>長官</rb><rp>(</rp><rt>장관</rt><rp>)</rp></ruby></td>
+<td>이안 보치(Ian Borg)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>, <ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade40"><rb>戰略</rb><rp>(</rp><rt>전략</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>工學部</rb><rp>(</rp><rt>공학부</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>長官</rb><rp>(</rp><rt>장관</rt><rp>)</rp></ruby></td>
+<td>실비오 스켐브리(Silvo　Schembri)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade60"><rb>交通</rb><rp>(</rp><rt>교통</rt><rp>)</rp></ruby>, 인프라, <ruby class="hanja api grade42"><rb>公共事務</rb><rp>(</rp><rt>공공사무</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>長官</rb><rp>(</rp><rt>장관</rt><rp>)</rp></ruby></td>
+<td>크리스 보넷(Chris　Bonett)
+</td></tr>
+<tr>
+<td><ruby class="hanja api grade40"><rb>環境</rb><rp>(</rp><rt>환경</rt><rp>)</rp></ruby>, 에너지 및 <ruby class="hanja api grade42"><rb>大港</rb><rp>(</rp><rt>대항</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>復興部</rb><rp>(</rp><rt>부흥부</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>長官</rb><rp>(</rp><rt>장관</rt><rp>)</rp></ruby></td>
+<td>미리암 달리(Miriam　Dalli)
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr></tbody></table>
 </div></body></html>

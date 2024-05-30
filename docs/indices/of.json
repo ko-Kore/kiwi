@@ -112,11 +112,6 @@
       "count": 2
     },
     {
-      "title": "馬耳他",
-      "surrounding": "ta' MaltaRepublic of Malta ... 馬耳他(마이타)頌(송) 파일:Republic of Malta",
-      "count": 2
-    },
-    {
       "title": "나치獨逸의 노래",
       "surrounding": "Hakenkreuz voll Hoffnung schon ... Hakenkreuz voll Hoffnung schon",
       "count": 2
@@ -224,6 +219,11 @@
     {
       "title": "馬來西亞",
       "surrounding": "産業(산업)部長(부장) Fadillah Yusof 交通部(교통부)",
+      "count": 1
+    },
+    {
+      "title": "馬耳他",
+      "surrounding": "ta' MaltaRepublic of Malta",
       "count": 1
     },
     {
