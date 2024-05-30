@@ -57,7 +57,7 @@
 <tr>
 <th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%BC%97%E5%88%A9%E5%8A%A0%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="南阿弗利加語 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E9%98%BF%E5%BC%97%E5%88%A9%E5%8A%A0%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="阿弗利加語 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
 </td></tr>
 </tbody></table>
 </div></body></html>
