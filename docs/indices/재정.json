@@ -2,6 +2,11 @@
   "word": "재정",
   "pages": [
     {
+      "title": "馬耳他",
+      "surrounding": "3 4 財政(재정)과 金融(금융) ... 21億(억) 유로 財政(재정) 赤字(적자)는",
+      "count": 5
+    },
+    {
       "title": "伯剌西爾",
       "surrounding": "Silvio Almeida 財政部(재정부)長(장) Fernando ... 헤알이었습니다 聯邦(연방)政府(정부)의 財政收入(재정수입)은 2兆(조)2100億(억)",
       "count": 4
@@ -64,11 +69,6 @@
     {
       "title": "金正日",
       "surrounding": "黨(당)과 政府(정부)部署(부서)의 財政(재정)配分(배분)만 한다",
-      "count": 1
-    },
-    {
-      "title": "馬耳他",
-      "surrounding": "보니치(Owen Bonnici) 財政(재정) 및",
       "count": 1
     },
     {
