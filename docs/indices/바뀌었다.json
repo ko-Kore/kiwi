@@ -50,6 +50,11 @@
       "title": "아이폰",
       "surrounding": "製品名(제품명)이 4S→4s로 바뀌었다 ",
       "count": 1
+    },
+    {
+      "title": "아프리칸스語",
+      "surrounding": "sch~는 sk~로 바뀌었다 (예:",
+      "count": 1
     }
   ]
 }
