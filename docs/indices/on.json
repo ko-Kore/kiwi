@@ -167,6 +167,11 @@
       "count": 3
     },
     {
+      "title": "新西蘭",
+      "surrounding": " 新西蘭(신서란토)聯邦(연방) Commonwealth of ... 마라마 데이비슨(Marama Davidson) ACT",
+      "count": 3
+    },
+    {
       "title": "暮國",
       "surrounding": "暮國(모국) Estado Plurinacional de ... 000 部(부); \"Responsibility Daily\"",
       "count": 3
@@ -479,11 +484,6 @@
     {
       "title": "文言文編程語言",
       "surrounding": "i++) { console log(\"問天地好在。\");",
-      "count": 1
-    },
-    {
-      "title": "新西蘭",
-      "surrounding": " 新西蘭(신서란토)聯邦(연방) Commonwealth of",
       "count": 1
     },
     {
