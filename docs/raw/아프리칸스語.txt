@@ -1,0 +1,31 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</th>
+<td>부르<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby><br><ruby class="hanja api grade20"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby><br><ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>和蘭語</rb><rp>(</rp><rt>화란어</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>原</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td>Afrikaans
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>使用者</rb><rp>(</rp><rt>사용자</rt><rp>)</rp></ruby>
+</th>
+<td>보어<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>使用</rb><rp>(</rp><rt>사용</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%8D%97%E9%98%BF%E5%85%B1" title="南阿共"><ruby class="hanja api grade32"><rb>南阿共</rb><rp>(</rp><rt>남아공</rt><rp>)</rp></ruby></a><br><a href="/index.php?title=%E7%B4%8D%E7%B1%B3%E6%AF%94%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="納米比亞 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>納米比亞</rb><rp>(</rp><rt>납미비아</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th>토르
+</th>
+<td>AF
+</td></tr></tbody></table>
+<p>아프리칸스<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby>(<span style="font-size: smaller;"><a class="mw-selflink selflink">아프리칸스語</a>: </span><span lang="af"><ruby><rb>Afrikaans</rb><rp>(</rp><rt>아프리칸스</rt><rp>)</rp></ruby></span>)는 <ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>　<ruby class="hanja api grade60"><rb>地區</rb><rp>(</rp><rt>지구</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>位置</rb><rp>(</rp><rt>위치</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade10"><rb>歐羅巴人</rb><rp>(</rp><rt>구라파인</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>通用</rb><rp>(</rp><rt>통용</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby>.
+</p>
+</div></body></html>
