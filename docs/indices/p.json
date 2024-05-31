@@ -157,6 +157,11 @@
       "count": 4
     },
     {
+      "title": "CIS(獨立國家聯合)",
+      "surrounding": "ГосударствCommonwealth of Independent States ... CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly)",
+      "count": 4
+    },
+    {
       "title": "CIS",
       "surrounding": "ГосударствCommonwealth of Independent States ... CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly)",
       "count": 4
@@ -319,6 +324,11 @@
     {
       "title": "塞爾維",
       "surrounding": "塞(새)爾(이)維(유)語(어) 拉丁(납정)字(자): Republika Srbija ... Srbija 英語(영어): Republic of",
+      "count": 2
+    },
+    {
+      "title": "密克羅尼西亞聯邦",
+      "surrounding": "큰 섬은 Pohnpei Chuuk ... Pohnpei Chuuk Yap Kosrae이다",
       "count": 2
     },
     {
@@ -624,6 +634,11 @@
     {
       "title": "斯洛伐克",
       "surrounding": "斯洛伐克(사락벌극)共和國(공화국) Slovenská Republika 國旗(국기)",
+      "count": 1
+    },
+    {
+      "title": "新自由主義",
+      "surrounding": "뷰캐넌 敎授(교수)의 公共(공공)選擇(선택)論(론)(public choice",
       "count": 1
     },
     {

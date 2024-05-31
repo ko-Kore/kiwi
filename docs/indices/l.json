@@ -242,6 +242,11 @@
       "count": 6
     },
     {
+      "title": "CIS(獨立國家聯合)",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
+      "count": 5
+    },
+    {
       "title": "CIS",
       "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
       "count": 5
@@ -639,6 +644,11 @@
     {
       "title": "斯洛伐克",
       "surrounding": " 斯洛伐克(사락벌극)共和國(공화국) Slovenská Republika ... 斯洛伐克(사락벌극)共和國(공화국) Slovenská Republika 國旗(국기)",
+      "count": 2
+    },
+    {
+      "title": "新自由主義",
+      "surrounding": "新自由主義(신자유주의)(Neo-Liberalism)는 20世紀(세기) ... 뷰캐넌 敎授(교수)의 公共(공공)選擇(선택)論(론)(public choice",
       "count": 2
     },
     {

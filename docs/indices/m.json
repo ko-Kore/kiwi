@@ -192,6 +192,11 @@
       "count": 7
     },
     {
+      "title": "CIS(獨立國家聯合)",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 높은 準會員(준회원)國(국)(Associate member)의 地位(지위)를",
+      "count": 6
+    },
+    {
       "title": "CIS",
       "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 높은 準會員(준회원)國(국)(Associate member)의 地位(지위)를",
       "count": 6
@@ -274,6 +279,11 @@
     {
       "title": "列支敦士登",
       "surrounding": " 列支敦士登(열지돈사등)公國(공국) Fürstentum Liechtenstein ... +423 列支敦士登(열지돈사등)公國(공국)(獨逸語: Fürstentum(후회스텐톰) Liechtenstein(렉스팬식탁응))은",
+      "count": 5
+    },
+    {
+      "title": "密克羅尼西亞聯邦",
+      "surrounding": "Wesley W Simina 地理(지리) ... 年間(연간) 降水量(강수량)은 3000mm 以上(이상)으로",
       "count": 5
     },
     {
@@ -444,11 +454,6 @@
     {
       "title": "天津市",
       "surrounding": "人口密度(인구밀도) 35 571名(명)/km² 地理(지리) ... 45km² 海拔(해발) 5m 象徵(상징)",
-      "count": 3
-    },
-    {
-      "title": "密克羅尼西亞聯邦",
-      "surrounding": "Wesley W Simina 地理(지리) ... 人口密度(인구밀도) 142 51名(명)/km² 公用語(공용어)",
       "count": 3
     },
     {
@@ -1279,6 +1284,11 @@
     {
       "title": "文言文編程語言",
       "surrounding": "具現體(구현체)[편집] 基本的(기본적)으로 npm에 인터프리터가",
+      "count": 1
+    },
+    {
+      "title": "新自由主義",
+      "surrounding": "新自由主義(신자유주의)(Neo-Liberalism)는 20世紀(세기)",
       "count": 1
     },
     {
