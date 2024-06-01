@@ -1392,6 +1392,11 @@
       "count": 1
     },
     {
+      "title": "발트海",
+      "surrounding": "넘겨줄 對象:波羅地海",
+      "count": 1
+    },
+    {
       "title": "베를린",
       "surrounding": "넘겨줄 대상:伯林",
       "count": 1
@@ -1404,6 +1409,11 @@
     {
       "title": "베트남語",
       "surrounding": "넘겨줄 대상:越南語",
+      "count": 1
+    },
+    {
+      "title": "벨라루스",
+      "surrounding": "넘겨줄 對象:別拉露西亞",
       "count": 1
     },
     {
@@ -1494,6 +1504,11 @@
     {
       "title": "스웨덴",
       "surrounding": "넘겨줄 對象:瑞典",
+      "count": 1
+    },
+    {
+      "title": "슬로바키아",
+      "surrounding": "넘겨줄 對象:斯洛伐克",
       "count": 1
     },
     {
@@ -1694,6 +1709,11 @@
     {
       "title": "쯔놈",
       "surrounding": "넘겨줄 대상:𡨸喃",
+      "count": 1
+    },
+    {
+      "title": "체코",
+      "surrounding": "넘겨줄 對象:捷克共和國",
       "count": 1
     },
     {
