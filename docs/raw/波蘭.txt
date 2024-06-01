@@ -1,0 +1,103 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>波蘭</rb><rp>(</rp><rt>파란</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Rzeczpospolita Polska
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Poland.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langko-kore-256px-Flag_of_Poland.svg.png" decoding="async" width="256" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langko-kore-384px-Flag_of_Poland.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langko-kore-512px-Flag_of_Poland.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_the_Poland.svg" class="new" title="파일:Coat of arms of the Poland.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of the Poland.svg</span></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td>Mazurek Dąbrowskiego(<a href="/index.php?title=%EB%8F%94%EB%B8%8C%EB%A1%9C%EC%8A%A4%ED%82%A4_%EB%A7%88%EC%A3%BC%EB%A5%B4%EC%B9%B4_%EB%8C%84%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="돔브로스키 마주르카 댄스 (없는 文書)">돔브로스키 마주르카 댄스</a>)
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Poland_(orthographic_projection).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poland_%28orthographic_projection%29.svg/langko-kore-300px-Poland_%28orthographic_projection%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poland_%28orthographic_projection%29.svg/langko-kore-450px-Poland_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Poland_%28orthographic_projection%29.svg/langko-kore-600px-Poland_%28orthographic_projection%29.svg.png 2x"></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%8F%AF%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="華沙 (없는 文書)"><ruby class="hanja api grade40 unknown"><rb>華</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>沙</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>體制</rb><rp>(</rp><rt>체제</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%85%B1%E5%92%8C%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="共和制 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>共和制</rb><rp>(</rp><rt>공화제</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%95%88%EC%A0%9C%EC%9D%B4_%EB%91%90%EB%8B%A4&amp;action=edit&amp;redlink=1" class="new" title="안제이 두다 (없는 文書)">안제이 두다</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>312,705km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC+1(<a href="/index.php?title=%E4%B8%AD%E5%A4%AE%EC%9C%A0%EB%9F%BD_%E6%A8%99%E6%BA%96%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="中央유럽 標準時 (없는 文書)">CET</a>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>3774.9<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>117.1<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%B3%A2%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="波蘭語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>波蘭</rb><rp>(</rp><rt>파란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=Z%C5%82ote&amp;action=edit&amp;redlink=1" class="new" title="Złote (없는 文書)">złote</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=5%E6%9C%883%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="5月3日 (없는 文書)">5<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+420
+</td></tr></tbody></table>
+</div></body></html>
