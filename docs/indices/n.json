@@ -1067,11 +1067,6 @@
       "count": 2
     },
     {
-      "title": "波蘭",
-      "surrounding": "of the Poland svg ... Republic of Poland 폴란드語:",
-      "count": 2
-    },
-    {
       "title": "波黑",
       "surrounding": " 波斯尼亞黑塞哥維那(파사니아흑새가유나) Bosna i ... Bosna i HerzegovinaБосна и",
       "count": 2
@@ -1604,6 +1599,11 @@
     {
       "title": "法羅諸島",
       "surrounding": " 法(법)羅(라)諸島(제도) Føroyar/Færøerne 自治體(자치체)",
+      "count": 1
+    },
+    {
+      "title": "波蘭",
+      "surrounding": "Republic of Poland 폴란드語:",
       "count": 1
     },
     {
