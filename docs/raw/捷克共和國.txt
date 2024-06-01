@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <tbody><tr>
-<th colspan="2"><ruby class="hanja api grade30"><rb>獨逸聯邦共和國</rb><rp>(</rp><rt>독일연방공화국</rt><rp>)</rp></ruby>
+<th colspan="2"><ruby class="hanja api grade10"><rb>捷克</rb><rp>(</rp><rt>첩극</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <th colspan="2">Česká Republika
@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_Czech_Republic.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langko-kore-240px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langko-kore-360px-Flag_of_the_Czech_Republic.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/langko-kore-480px-Flag_of_the_Czech_Republic.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_Czech_Republic.svg" class="new" title="파일:Coat of arms of Czech Republic.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Czech Republic.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_the_Czech_Republic.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/langko-kore-133px-Coat_of_arms_of_the_Czech_Republic.svg.png" decoding="async" width="133" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/langko-kore-200px-Coat_of_arms_of_the_Czech_Republic.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/langko-kore-267px-Coat_of_arms_of_the_Czech_Republic.svg.png 2x"></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>
@@ -93,32 +93,12 @@
 <td><a href="/index.php?title=%E6%8D%B7%E5%85%8B%E5%85%8B%E6%9C%97&amp;action=edit&amp;redlink=1" class="new" title="捷克克朗 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>克</rb><rp>(</rp><rt>극</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>朗</rb><rp>(</rp><rt>랑</rt><rp>)</rp></ruby></a>(CZK)
 </td></tr>
 <tr>
-<th><ruby class="hanja api grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
-</th>
-<td>&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
-</td></tr>
-<tr>
-<th>1<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>當</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
-</th>
-<td>&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
-</td></tr>
-<tr>
-<th><ruby class="hanja api grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
-</th>
-<td>$4<ruby class="hanja api grade32"><rb>兆</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby>5555<ruby class="hanja api grade50"><rb>億</rb><rp>(</rp><rt>억</rt><rp>)</rp></ruby>&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
-</td></tr>
-<tr>
-<th>1<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>當</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>實質</rb><rp>(</rp><rt>실질</rt><rp>)</rp></ruby> GDP
-</th>
-<td>$54,983&nbsp;(<a href="/wiki/2019%E5%B9%B4" title="2019年">2019<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>&nbsp;<ruby class="hanja api grade42"><rb>基準</rb><rp>(</rp><rt>기준</rt><rp>)</rp></ruby>)
-</td></tr>
-<tr>
 <th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
 </th>
-<td>10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>28<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+<td><a href="/index.php?title=10%E6%9C%8828%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="10月28日 (없는 文書)">10<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>28<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>

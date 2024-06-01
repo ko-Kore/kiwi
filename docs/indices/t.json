@@ -822,11 +822,6 @@
       "count": 2
     },
     {
-      "title": "捷克共和國",
-      "surrounding": "國旗(국기) 國章(국장) 파일:Coat of ... 標語(표어) Pravda vítězí (眞理(진리)必勝(필승)",
-      "count": 2
-    },
-    {
       "title": "支那",
       "surrounding": "또한 震旦(진단)(산스크리트語: Cīna-sthāna 지나스타나，팔리語: ... Cīna-sthāna 지나스타나，팔리語: Cīna-rattha 지나라타)",
       "count": 2
@@ -1284,6 +1279,11 @@
     {
       "title": "憲法",
       "surrounding": "憲法(헌법)(英語: constitution)은 國家(국가)의",
+      "count": 1
+    },
+    {
+      "title": "捷克共和國",
+      "surrounding": "標語(표어) Pravda vítězí (眞理(진리)必勝(필승)",
       "count": 1
     },
     {
