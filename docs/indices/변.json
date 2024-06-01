@@ -527,11 +527,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "自國(자국) 利益(이익)을 代辯(대변)하는 CIS의",
-      "count": 1
-    },
-    {
       "title": "CJK",
       "surrounding": "文字(문자) 인코딩이나 可變幅(가변폭) 文字(문자)",
       "count": 1
@@ -899,6 +894,11 @@
     {
       "title": "爾靈山",
       "surrounding": "산의 모양조차 변할 정도로",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "自國(자국) 利益(이익)을 代辯(대변)하는 CIS의",
       "count": 1
     },
     {

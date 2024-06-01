@@ -317,11 +317,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "國家(국가) 機關(기관)으로 轉換(전환)되는 것",
-      "count": 1
-    },
-    {
       "title": "CJK",
       "surrounding": "Shift-JIS CJK統合漢字(통합한자)로 代表(대표)되는 CJK",
       "count": 1
@@ -754,6 +749,11 @@
     {
       "title": "特別急行列車",
       "surrounding": "1號線(호선) 等(등)에서 運營(운영)되는 急行列車(급행열차)보다",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "國家(국가) 機關(기관)으로 轉換(전환)되는 것",
       "count": 1
     },
     {

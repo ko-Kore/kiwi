@@ -267,11 +267,6 @@
       "count": 4
     },
     {
-      "title": "CIS",
-      "surrounding": "ГосударствCommonwealth of Independent States ... CIS(Commonwealth of Independent States)",
-      "count": 4
-    },
-    {
       "title": "墨西哥",
       "surrounding": " 墨西哥(묵서가)合衆國(합중국) Estados Unidos ... Manuel López Obrador 地理(지리)",
       "count": 4
@@ -289,6 +284,11 @@
     {
       "title": "暮國",
       "surrounding": " 暮國(모국) Estado Plurinacional ... Estado Plurinacional de Bolivia)는",
+      "count": 4
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "ГосударствCommonwealth of Independent States ... CIS(Commonwealth of Independent States)",
       "count": 4
     },
     {

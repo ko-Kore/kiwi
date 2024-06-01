@@ -157,11 +157,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "않아 正會員國(정회원국)이 되지는 않았다",
-      "count": 1
-    },
-    {
       "title": "CJK",
       "surrounding": "때문에 서로 互換(호환)되지 않았다",
       "count": 1
@@ -474,6 +469,11 @@
     {
       "title": "漢文",
       "surrounding": "內容(내용)이 不足(부족)하거나 完成(완성)되지 않아",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "않아 正會員國(정회원국)이 되지는 않았다",
       "count": 1
     },
     {

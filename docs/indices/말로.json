@@ -17,11 +17,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "있다 長期的(장기적)으로는 (말로만) 經濟(경제)",
-      "count": 1
-    },
-    {
       "title": "CJK",
       "surrounding": "통틀어 이르는 말로 소프트웨어",
       "count": 1
@@ -74,6 +69,11 @@
     {
       "title": "漢語",
       "surrounding": "言語(언어)를 일컫는 말로 韓國語(한국어)에서",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "있다 長期的(장기적)으로는 (말로만) 經濟(경제)",
       "count": 1
     },
     {

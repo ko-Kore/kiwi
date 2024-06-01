@@ -1377,11 +1377,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "Independent States) 北韓(북한)에서는 獨立國(독립국)家(가)協同體(협동체)",
-      "count": 1
-    },
-    {
       "title": "CJK統合漢字",
       "surrounding": "CJK로 알려진 中國語(중국어)·日本語(일본어)·韓國語(한국어) 等(등)",
       "count": 1
@@ -2254,6 +2249,11 @@
     {
       "title": "片假名",
       "surrounding": "附記(부기)한 것으로 韓國(한국)의 口訣(구결)文字(문자)와도",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "Independent States) 北韓(북한)에서는 獨立國(독립국)家(가)協同體(협동체)",
       "count": 1
     },
     {

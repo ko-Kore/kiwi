@@ -142,11 +142,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "States 旗(기) 地圖(지도) 成立(성립)",
-      "count": 1
-    },
-    {
       "title": "SC第一銀行",
       "surrounding": "제일은행의 引受(인수)를 試圖(시도)했으나 霧散(무산)되었다",
       "count": 1
@@ -349,6 +344,11 @@
     {
       "title": "澳門輕電鐵",
       "surrounding": "連繫路線 包含 路線圖 澳(오)門(문)輕電鐵(경전철)은",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "States 旗(기) 地圖(지도) 成立(성립)",
       "count": 1
     },
     {

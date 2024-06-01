@@ -167,11 +167,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "役割(역할)은 하지 못했기 때문에",
-      "count": 1
-    },
-    {
       "title": "Foreign carrot regime",
       "surrounding": "形態素(형태소)間(간) 境界(경계)를 잘못 把握(파악)하여",
       "count": 1
@@ -334,6 +329,11 @@
     {
       "title": "漢字直接入力",
       "surrounding": "그렇게 좋지 못하다 먼저",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "役割(역할)은 하지 못했기 때문에",
       "count": 1
     },
     {

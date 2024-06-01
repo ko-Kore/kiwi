@@ -232,11 +232,6 @@
       "count": 8
     },
     {
-      "title": "CIS",
-      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 段階(단계) 높은 準會員(준회원)國(국)(Associate member)의",
-      "count": 8
-    },
-    {
       "title": "中",
       "surrounding": "吳語(오어)[편집] 上海語(상해어) tson1 (tsoŋ⁵³) ... tson5 (～奖(장) tsoŋ⁵²³) 越南語(월남어)[편집]",
       "count": 8
@@ -244,6 +239,11 @@
     {
       "title": "利物浦",
       "surrounding": " 利(리)物(물)浦(포) Liverpool 市(시) ... High Street Liverpool L2",
+      "count": 8
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 段階(단계) 높은 準會員(준회원)國(국)(Associate member)의",
       "count": 8
     },
     {

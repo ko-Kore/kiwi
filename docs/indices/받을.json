@@ -32,11 +32,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "團體(단체) 取扱(취급)을 받을 程度(정도)로",
-      "count": 1
-    },
-    {
       "title": "DailyNK",
       "surrounding": "極右(극우)에게 모두 非難(비난)받을 수",
       "count": 1
@@ -44,6 +39,11 @@
     {
       "title": "獨-伊-日 三國同盟 條約",
       "surrounding": "國家(국가)에 依(의)해 攻擊(공격)받을 境遇(경우)",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "團體(단체) 取扱(취급)을 받을 程度(정도)로",
       "count": 1
     },
     {

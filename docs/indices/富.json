@@ -127,11 +127,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "影響力(영향력)이 高(고)하다 阿富汗(아부한) 蘇聯(소련)의",
-      "count": 1
-    },
-    {
       "title": "TORIKYU",
       "surrounding": "減速(감속) DETH 富士山(부사산) abcdefg",
       "count": 1
@@ -304,6 +299,11 @@
     {
       "title": "漢文 敎育用 基礎 漢字",
       "surrounding": "부) • 富(부) (넉넉할",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "影響力(영향력)이 高(고)하다 阿富汗(아부한) 蘇聯(소련)의",
       "count": 1
     },
     {

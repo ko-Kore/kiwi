@@ -647,11 +647,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "國家(국가) 統合(통합)을 計劃(계획)하고 있는데",
-      "count": 1
-    },
-    {
       "title": "DailyNK",
       "surrounding": "하며 各種(각종) 企劃(기획) 取材(취재)를",
       "count": 1
@@ -749,6 +744,11 @@
     {
       "title": "漢文 敎育用 基礎 漢字",
       "surrounding": "획) • 劃(획) (그을",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "國家(국가) 統合(통합)을 計劃(계획)하고 있는데",
       "count": 1
     },
     {

@@ -37,6 +37,11 @@
       "count": 1
     },
     {
+      "title": "CIS",
+      "surrounding": "넘겨줄 對象:獨立國家聯合",
+      "count": 1
+    },
+    {
       "title": "EFL杯",
       "surrounding": "넘겨줄 對象:英蘭",
       "count": 1
@@ -814,11 +819,6 @@
     {
       "title": "特急列車",
       "surrounding": "넘겨줄 대상:特別急行列車",
-      "count": 1
-    },
-    {
-      "title": "獨立國家聯合",
-      "surrounding": "넘겨줄 對象:CIS(獨立國家聯合)",
       "count": 1
     },
     {

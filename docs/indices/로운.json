@@ -87,11 +87,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "貨幣(화폐)의 使用(사용) 자유로운 經濟(경제)",
-      "count": 1
-    },
-    {
       "title": "UTF-16",
       "surrounding": "金文(금문) 篆書(전서)같은 새로운 글字(자)가",
       "count": 1
@@ -234,6 +229,11 @@
     {
       "title": "無題(魯迅)",
       "surrounding": "변해요 친구가 새로운 귀신이",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "貨幣(화폐)의 使用(사용) 자유로운 經濟(경제)",
       "count": 1
     },
     {

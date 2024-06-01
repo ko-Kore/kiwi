@@ -257,11 +257,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "아닌 曖昧(애매)한 位置(위치)에 놓여",
-      "count": 1
-    },
-    {
       "title": "KTX-이음",
       "surrounding": "或(혹)은 愛稱(애칭)쯤되는 位置(위치)에서 사용될",
       "count": 1
@@ -599,6 +594,11 @@
     {
       "title": "特別急行列車",
       "surrounding": "快速(쾌속)과 비슷한 位置(위치) ↑",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "아닌 曖昧(애매)한 位置(위치)에 놓여",
       "count": 1
     },
     {

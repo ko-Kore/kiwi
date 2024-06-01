@@ -192,6 +192,11 @@
       "count": 1
     },
     {
+      "title": "CIS",
+      "surrounding": "넘겨줄 對象:獨立國家聯合",
+      "count": 1
+    },
+    {
       "title": "CJK",
       "surrounding": "新聞等(신문등)에도 漢字(한자)를 줄여나가고 있다",
       "count": 1
@@ -1139,11 +1144,6 @@
     {
       "title": "特急列車",
       "surrounding": "넘겨줄 대상:特別急行列車",
-      "count": 1
-    },
-    {
-      "title": "獨立國家聯合",
-      "surrounding": "넘겨줄 對象:CIS(獨立國家聯合)",
       "count": 1
     },
     {

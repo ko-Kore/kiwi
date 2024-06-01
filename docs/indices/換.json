@@ -277,11 +277,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "國家(국가) 機關(기관)으로 轉換(전환)되는 것",
-      "count": 1
-    },
-    {
       "title": "CJK",
       "surrounding": "때문에 서로 互換(호환)되지 않았다",
       "count": 1
@@ -454,6 +449,11 @@
     {
       "title": "漢文 敎育用 基礎 漢字",
       "surrounding": "환) • 換(환) (바꿀",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "國家(국가) 機關(기관)으로 轉換(전환)되는 것",
       "count": 1
     },
     {

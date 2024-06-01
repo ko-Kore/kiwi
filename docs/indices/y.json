@@ -272,11 +272,6 @@
       "count": 2
     },
     {
-      "title": "CIS",
-      "surrounding": "CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly) ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
-      "count": 2
-    },
-    {
       "title": "Grand Dieu Sauve le Roi",
       "surrounding": "주소서(1745-今(금)) 美國(미국) My Country ... 美國(미국) My Country tis",
       "count": 2
@@ -334,6 +329,11 @@
     {
       "title": "漢字文化圈",
       "surrounding": "hǎng tsêi 汉语(Hànyǔ) 漢語(hon3yu5) ... tsêi 汉语(Hànyǔ) 漢語(hon3yu5) 汉字(Hànzì)",
+      "count": 2
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly) ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
       "count": 2
     },
     {

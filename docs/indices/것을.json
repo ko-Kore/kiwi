@@ -232,11 +232,6 @@
       "count": 1
     },
     {
-      "title": "CIS",
-      "surrounding": "地位(지위)를 附與(부여)받는 것을 拒否(거부)함에",
-      "count": 1
-    },
-    {
       "title": "DailyNK",
       "surrounding": "알게 되는 것을 極度(극도)로",
       "count": 1
@@ -519,6 +514,11 @@
     {
       "title": "獨-伊-日 三國同盟 條約",
       "surrounding": "援助(원조)를 提供(제공)할 것을 約束(약속)한다",
+      "count": 1
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "地位(지위)를 附與(부여)받는 것을 拒否(거부)함에",
       "count": 1
     },
     {

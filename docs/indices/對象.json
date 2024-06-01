@@ -37,6 +37,11 @@
       "count": 1
     },
     {
+      "title": "CIS",
+      "surrounding": "넘겨줄 對象:獨立國家聯合 ",
+      "count": 1
+    },
+    {
       "title": "DailyNK",
       "surrounding": "保守(보수)勢力(세력)이다 批判(비판)의 對象(대상)은 保守(보수)도",
       "count": 1
@@ -454,11 +459,6 @@
     {
       "title": "烏克蘭共和國",
       "surrounding": "넘겨줄 對象:烏克蘭 ",
-      "count": 1
-    },
-    {
-      "title": "獨立國家聯合",
-      "surrounding": "넘겨줄 對象:CIS(獨立國家聯合) ",
       "count": 1
     },
     {

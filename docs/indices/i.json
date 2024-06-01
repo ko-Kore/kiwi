@@ -667,11 +667,6 @@
       "count": 3
     },
     {
-      "title": "CIS",
-      "surrounding": "國際機構(국제기구)이자 國家(국가) 聯合(연합)(Confederation)이다 蘇聯(소련) ... 段階(단계) 높은 準會員(준회원)國(국)(Associate member)의",
-      "count": 3
-    },
-    {
       "title": "CJK",
       "surrounding": "槪要(개요)[편집] CJK(ChineseJapaneseKorean 또는 ... ISO 2022-JP Shift-JIS CJK統合漢字(통합한자)로",
       "count": 3
@@ -784,6 +779,11 @@
     {
       "title": "獨-伊-日 三國同盟 條約",
       "surrounding": "獨逸(독일) 代表(대표): Joachim von ... 代表(대표): Galeazzo Ciano 日本(일본)",
+      "count": 3
+    },
+    {
+      "title": "獨立國家聯合",
+      "surrounding": "國際機構(국제기구)이자 國家(국가) 聯合(연합)(Confederation)이다 蘇聯(소련) ... 段階(단계) 높은 準會員(준회원)國(국)(Associate member)의",
       "count": 3
     },
     {
