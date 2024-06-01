@@ -112,11 +112,6 @@
       "count": 3
     },
     {
-      "title": "墺地利-洪牙利 帝國",
-      "surrounding": "墺地利(오지리)-洪牙利(홍아리) 帝國(제국) Österreichisch-Ungarische Monarchie ... 예시 파일:Austro-Hungarian Empire (orthographic",
-      "count": 3
-    },
-    {
       "title": "獨逸",
       "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... +49 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland)",
       "count": 3
@@ -299,6 +294,11 @@
     {
       "title": "利物浦",
       "surrounding": "所在地(소재지) High Street Liverpool",
+      "count": 1
+    },
+    {
+      "title": "墺地利-洪牙利 帝國",
+      "surrounding": "墺地利(오지리)-洪牙利(홍아리) 帝國(제국) Österreichisch-Ungarische Monarchie",
       "count": 1
     },
     {
