@@ -1382,6 +1382,11 @@
       "count": 1
     },
     {
+      "title": "미크로네시아聯邦",
+      "surrounding": "넘겨줄 對象:密克羅尼西亞聯邦",
+      "count": 1
+    },
+    {
       "title": "베를린",
       "surrounding": "넘겨줄 대상:伯林",
       "count": 1
@@ -1399,6 +1404,11 @@
     {
       "title": "보통화",
       "surrounding": "넘겨줄 대상:普通話",
+      "count": 1
+    },
+    {
+      "title": "볼리비아",
+      "surrounding": "넘겨줄 對象:暮國",
       "count": 1
     },
     {
@@ -1494,6 +1504,11 @@
     {
       "title": "아랍어",
       "surrounding": "넘겨줄 대상:아랍語",
+      "count": 1
+    },
+    {
+      "title": "아르헨티나",
+      "surrounding": "넘겨줄 對象:亞爾然丁",
       "count": 1
     },
     {
