@@ -212,11 +212,6 @@
       "count": 10
     },
     {
-      "title": "墺地利-洪牙利 帝國",
-      "surrounding": "帝國(제국) Österreichisch-Ungarische Monarchie Osztrák–Magyar ... of Arms of Austria-Hungary",
-      "count": 9
-    },
-    {
       "title": "新西蘭",
       "surrounding": " 新西蘭(신서란토)聯邦(연방) Commonwealth of ... 마크 쿠퍼(Mark Cooper)입니다 高等法院(고등법원)은",
       "count": 9
@@ -280,6 +275,11 @@
       "title": "韓國語의 漢字",
       "surrounding": "-{便紙(편지)}- 편지 (pyeonji) 草紙(초지) ... -{囚徒(수도)}- 수도 (sudo) 側房(측방)",
       "count": 8
+    },
+    {
+      "title": "墺地利-洪牙利 帝國",
+      "surrounding": "帝國(제국) Österreichisch-Ungarische Monarchie Osztrák–Magyar ... of Arms of the",
+      "count": 7
     },
     {
       "title": "廣東語",
