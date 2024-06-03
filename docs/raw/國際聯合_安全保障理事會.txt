@@ -1,11 +1,11 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
-<caption>캡션 텍스트
+<caption>
 </caption>
 <tbody><tr>
-<th colspan="2"><b><ruby class="hanja api grade32"><rb>國際聯合</rb><rp>(</rp><rt>국제연합</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>安全保障理事會</rb><rp>(</rp><rt>안전보장이사회</rt><rp>)</rp></ruby><br>유엔 <ruby class="hanja api grade42"><rb>安全保障理事會</rb><rp>(</rp><rt>안전보장이사회</rt><rp>)</rp></ruby><br>United Nations Security Council</b>
+<th colspan="2"><b><ruby class="hanja api grade32"><rb>國際聯合</rb><rp>(</rp><rt>국제연합</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>安全保障理事會</rb><rp>(</rp><rt>안전보장이사회</rt><rp>)</rp></ruby><br>유엔 안전보장이사회<br>United Nations Security Council</b>
 </th></tr>
 <tr>
-<td colspan="2"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_the_UN.svg" class="new" title="파일:Flag of the UN.svg"><span class="mw-broken-media" data-width="180">파일:Flag of the UN.svg</span></a><figcaption>▲ 國際聯合 安全保障理事會 旗</figcaption></figure>
+<td colspan="2"><figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Nations.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/langko-kore-300px-Flag_of_the_United_Nations.svg.png" decoding="async" width="300" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/langko-kore-450px-Flag_of_the_United_Nations.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/langko-kore-600px-Flag_of_the_United_Nations.svg.png 2x"></a><figcaption>▲ 國際聯合 安全保障理事會 旗</figcaption></figure>
 </td></tr>
 <tr>
 <td colspan="2"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=%EC%9C%A0%EC%97%94_%EC%95%88%EC%A0%84%EB%B3%B4%EC%9E%A5%EC%9D%B4%EC%82%AC%ED%9A%8C.webp" class="new" title="파일:유엔 안전보장이사회.webp"><span class="mw-broken-media" data-width="180">파일:유엔 안전보장이사회.webp</span></a><figcaption>▲ 國際聯合 安全保障理事會 會議場</figcaption></figure>
