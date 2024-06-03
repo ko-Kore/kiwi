@@ -227,6 +227,11 @@
       "count": 7
     },
     {
+      "title": "和蘭",
+      "surrounding": " 和蘭(화란)王國(왕국) Koninkrijk der ... of the Netherlands)은 和蘭(화란)의",
+      "count": 7
+    },
+    {
       "title": "瑞典",
       "surrounding": " 瑞典(서전)王國(왕국) kungarike Sverige ... se 總理(총리)辦公(판공)室(실):http://www regeringen se",
       "count": 7
@@ -519,11 +524,6 @@
     {
       "title": "公炳禹세벌式 3-91",
       "surrounding": "4ㅂ ·ㅌ Enter Shift ... Win Menu Ctrl 特長點(특장점)[편집]",
-      "count": 3
-    },
-    {
-      "title": "和蘭",
-      "surrounding": " 和蘭(화란)王國(왕국) Koninkrijk der ... Koninkrijk der Nederlanden 國旗(국기)",
       "count": 3
     },
     {
@@ -1298,7 +1298,7 @@
     },
     {
       "title": "白",
-      "surrounding": "𡨸(자)國語(국어) : trắng(白(백)) ",
+      "surrounding": "𡨸(자)國語(국어) : trắng(𡨸(자)喃(남):白(백)) ",
       "count": 1
     },
     {

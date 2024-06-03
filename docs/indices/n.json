@@ -402,6 +402,11 @@
       "count": 6
     },
     {
+      "title": "和蘭",
+      "surrounding": " 和蘭(화란)王國(왕국) Koninkrijk der ... of the Netherlands)은 和蘭(화란)의",
+      "count": 6
+    },
+    {
       "title": "城庯胡志明",
       "surrounding": "城庯胡志明 ↑ Thành phố ... ương ↑ Đông Nam",
       "count": 6
@@ -1004,11 +1009,6 @@
     {
       "title": "南",
       "surrounding": "拼音(병음) : naam4 naa1 ... : naam4 naa1 越南語(월남어)[편집]",
-      "count": 2
-    },
-    {
-      "title": "和蘭",
-      "surrounding": " 和蘭(화란)王國(왕국) Koninkrijk der ... Koninkrijk der Nederlanden 國旗(국기)",
       "count": 2
     },
     {
@@ -1668,7 +1668,7 @@
     },
     {
       "title": "白",
-      "surrounding": "𡨸(자)國語(국어) : trắng(白(백)) ",
+      "surrounding": "𡨸(자)國語(국어) : trắng(𡨸(자)喃(남):白(백)) ",
       "count": 1
     },
     {
