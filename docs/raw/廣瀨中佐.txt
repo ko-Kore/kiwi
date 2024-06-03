@@ -1,0 +1,27 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<caption>캡션 텍스트
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>和</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>田</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>建</rb><rp>(</rp><rt>건</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>樹</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade40"><rb>納</rb><rp>(</rp><rt>납</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>所</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>辨</rb><rp>(</rp><rt>변</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>次</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>郞</rb><rp>(</rp><rt>랑</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby>
+</th>
+<td>1912<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%BB%A3%E7%80%A8%E4%B8%AD%E4%BD%90&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><ruby><rb>轟</rb><rp>(</rp><rt>とゞろく</rt><rp>)</rp></ruby><ruby><rb>砲音</rb><rp>(</rp><rt>つゝおと</rt><rp>)</rp></ruby>　<ruby><rb>飛</rb><rp>(</rp><rt>とべ</rt><rp>)</rp></ruby><ruby><rb>來</rb><rp>(</rp><rt>く</rt><rp>)</rp></ruby>る<ruby><rb>彈丸</rb><rp>(</rp><rt>だんがん</rt><rp>)</rp></ruby><br>
+<ruby><rb>荒波</rb><rp>(</rp><rt>あらなみ</rt><rp>)</rp></ruby><ruby><rb>洗</rb><rp>(</rp><rt>あら</rt><rp>)</rp></ruby>ふ　<ruby><rb>書桌</rb><rp>(</rp><rt>デッキ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>上</rb><rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<br>
+<ruby><rb>闇</rb><rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>を<ruby><rb>貫</rb><rp>(</rp><rt>つらぬ</rt><rp>)</rp></ruby>く　<ruby><rb>中</rb><rp>(</rp><rt>ちふ</rt><rp>)</rp></ruby><ruby><rb>佐</rb><rp>(</rp><rt>さ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>叫</rb><rp>(</rp><rt>さけび</rt><rp>)</rp></ruby><br>
+「<ruby><rb>杉</rb><rp>(</rp><rt>すぎ</rt><rp>)</rp></ruby><ruby><rb>野</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>は<ruby><rb>何</rb><rp>(</rp><rt>いず</rt><rp>)</rp></ruby><ruby><rb>處</rb><rp>(</rp><rt>こ</rt><rp>)</rp></ruby>　<ruby><rb>杉</rb><rp>(</rp><rt>すぎ</rt><rp>)</rp></ruby><ruby><rb>野</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>は<ruby><rb>居</rb><rp>(</rp><rt>ゐ</rt><rp>)</rp></ruby>ずや
+</p><p><br>
+</p><p><br>
+</p>
+</div></body></html>
