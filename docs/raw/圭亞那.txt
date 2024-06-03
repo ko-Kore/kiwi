@@ -1,0 +1,100 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade12"><rb>圭亞那</rb><rp>(</rp><rt>규아나</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>合作</rb><rp>(</rp><rt>합작</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Cooperative Republic of Guyana
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Guyana.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/langko-kore-267px-Flag_of_Guyana.svg.png" decoding="async" width="267" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/langko-kore-400px-Flag_of_Guyana.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/langko-kore-534px-Flag_of_Guyana.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Guyana.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coat_of_arms_of_Guyana.svg/langko-kore-167px-Coat_of_arms_of_Guyana.svg.png" decoding="async" width="167" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coat_of_arms_of_Guyana.svg/langko-kore-250px-Coat_of_arms_of_Guyana.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coat_of_arms_of_Guyana.svg/langko-kore-333px-Coat_of_arms_of_Guyana.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td>가장 사랑하는 <ruby class="hanja api grade12"><rb>圭亞那</rb><rp>(</rp><rt>규아나</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade50"><rb>山河</rb><rp>(</rp><rt>산하</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%8E%8B%E8%93%AE&amp;action=edit&amp;redlink=1" class="new" title="王蓮 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>王蓮</rb><rp>(</rp><rt>왕련</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td>One people, one nation, one destiny<br>하나의 <ruby class="hanja api grade60"><rb>民族</rb><rp>(</rp><rt>민족</rt><rp>)</rp></ruby>, 하나의 <ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>, 하나의 <ruby class="hanja api grade62"><rb>運命</rb><rp>(</rp><rt>운명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Guyana_(orthographic_projection).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Guyana_%28orthographic_projection%29.svg/langko-kore-300px-Guyana_%28orthographic_projection%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Guyana_%28orthographic_projection%29.svg/langko-kore-450px-Guyana_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Guyana_%28orthographic_projection%29.svg/langko-kore-600px-Guyana_%28orthographic_projection%29.svg.png 2x"></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%96%AC%E6%B2%BB%E5%B1%AF&amp;action=edit&amp;redlink=1" class="new" title="喬治屯 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>喬</rb><rp>(</rp><rt>교</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>治</rb><rp>(</rp><rt>치</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>屯</rb><rp>(</rp><rt>둔</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%AA%A8%ED%95%98%EB%A9%94%EB%93%9C_%EC%9D%BC%ED%8C%8C%EC%9D%B8_%EC%95%8C%EB%A6%AC&amp;action=edit&amp;redlink=1" class="new" title="모하메드 일파인 알리 (없는 文書)">모하메드 일파인 알리</a>(Mohamed Irfaan Ali)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>215,000km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC-4
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>776,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>3.7<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade32"><rb>西曆</rb><rp>(</rp><rt>서력</rt><rp>)</rp></ruby>1970<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>2<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>23<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>591
+</td></tr></tbody></table>
+</div></body></html>
