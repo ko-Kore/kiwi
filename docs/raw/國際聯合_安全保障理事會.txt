@@ -1,0 +1,34 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>캡션 텍스트
+</caption>
+<tbody><tr>
+<th colspan="2"><b><ruby class="hanja api grade32"><rb>國際聯合</rb><rp>(</rp><rt>국제연합</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>安全保障理事會</rb><rp>(</rp><rt>안전보장이사회</rt><rp>)</rp></ruby><br>유엔 <ruby class="hanja api grade42"><rb>安全保障理事會</rb><rp>(</rp><rt>안전보장이사회</rt><rp>)</rp></ruby><br>United Nations Security Council</b>
+</th></tr>
+<tr>
+<td colspan="2"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_the_UN.svg" class="new" title="파일:Flag of the UN.svg"><span class="mw-broken-media" data-width="180">파일:Flag of the UN.svg</span></a><figcaption>▲ 國際聯合 安全保障理事會 旗</figcaption></figure>
+</td></tr>
+<tr>
+<td colspan="2"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=%EC%9C%A0%EC%97%94_%EC%95%88%EC%A0%84%EB%B3%B4%EC%9E%A5%EC%9D%B4%EC%82%AC%ED%9A%8C.webp" class="new" title="파일:유엔 안전보장이사회.webp"><span class="mw-broken-media" data-width="180">파일:유엔 안전보장이사회.webp</span></a><figcaption>▲ 國際聯合 安全保障理事會 會議場</figcaption></figure>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>現</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>理事長</rb><rp>(</rp><rt>이사장</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Arab_Emirates.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/langko-kore-25px-Flag_of_the_United_Arab_Emirates.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/langko-kore-38px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/langko-kore-50px-Flag_of_the_United_Arab_Emirates.svg.png 2x"></a></span>라나 자키 누세이베
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>理事國</rb><rp>(</rp><rt>이사국</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>代表</rb><rp>(</rp><rt>대표</rt><rp>)</rp></ruby>
+</th>
+<td><b><ruby class="hanja api grade80"><rb>五大</rb><rp>(</rp><rt>오대</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>常任理事國</rb><rp>(</rp><rt>상임이사국</rt><rp>)</rp></ruby></b><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_People%27s_Republic_of_China.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-25px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-38px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-50px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x"></a></span><b><ruby class="hanja api grade40"><rb>張</rb><rp>(</rp><rt>장</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby></b><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_France.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-25px-Flag_of_France.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-38px-Flag_of_France.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-50px-Flag_of_France.svg.png 2x"></a></span><b>니콜라 드 리비에르</b><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Russia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-25px-Flag_of_Russia.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-38px-Flag_of_Russia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-50px-Flag_of_Russia.svg.png 2x"></a></span><b>바실리 네벤쟈</b><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Kingdom_(3-5).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langko-kore-25px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" decoding="async" width="25" height="15" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langko-kore-38px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langko-kore-50px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 2x"></a></span><b>바바라 우드워드</b><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_States.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-25px-Flag_of_the_United_States.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-38px-Flag_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-50px-Flag_of_the_United_States.svg.png 2x"></a></span><b>린다 토머스-그린필드</b>
+<p><ruby class="hanja api grade42"><rb>非常任理事國</rb><rp>(</rp><rt>비상임이사국</rt><rp>)</rp></ruby><br>
+</p>
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<th>SNS
+</th>
+<td><a rel="nofollow" class="external free" href="https://www.facebook.com/unitednations">https://www.facebook.com/unitednations</a><br><a rel="nofollow" class="external free" href="https://twitter.com/i/lists/1072872569311776768">https://twitter.com/i/lists/1072872569311776768</a><br><a rel="nofollow" class="external free" href="https://www.youtube.com/unitednations">https://www.youtube.com/unitednations</a>
+</td></tr></tbody></table>
+</div></body></html>
