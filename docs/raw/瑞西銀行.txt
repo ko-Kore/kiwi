@@ -2,7 +2,7 @@
 <caption>
 </caption>
 <tbody><tr>
-<th><ruby class="hanja api grade12"><rb>徽章</rb><rp>(</rp><rt>휘장</rt><rp>)</rp></ruby>
+<th>로고
 </th>
 <td><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_the_UBS.svg" class="new" title="파일:Coat of arms of the UBS.svg"><span class="mw-broken-media">파일:Coat of arms of the UBS.svg</span></a></span>
 </td></tr>
