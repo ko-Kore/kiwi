@@ -1,2 +1,79 @@
-<html><head></head><body><div class="mw-parser-output">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade0"><rb>梵蒂岡</rb><rp>(</rp><rt>범체강</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>城</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Stato della Città del Vaticano
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_Vatican_City_(2023%E2%80%93present).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg/langko-kore-160px-Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg/langko-kore-240px-Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg/langko-kore-320px-Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_the_Holy_See_(2).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Coat_of_arms_of_the_Holy_See_%282%29.svg/langko-kore-162px-Coat_of_arms_of_the_Holy_See_%282%29.svg.png" decoding="async" width="162" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Coat_of_arms_of_the_Holy_See_%282%29.svg/langko-kore-242px-Coat_of_arms_of_the_Holy_See_%282%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Coat_of_arms_of_the_Holy_See_%282%29.svg/langko-kore-323px-Coat_of_arms_of_the_Holy_See_%282%29.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%95%8E%E7%9A%87%E8%A1%8C%E9%80%B2%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="敎皇行進曲 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>敎皇</rb><rp>(</rp><rt>교황</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>行進曲</rb><rp>(</rp><rt>행진곡</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a class="mw-selflink selflink">梵蒂岡</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/%E6%95%8E%E7%9A%87" title="敎皇"><ruby class="hanja api grade32"><rb>敎皇</rb><rp>(</rp><rt>교황</rt><rp>)</rp></ruby></a>
+</th>
+<td><a href="/index.php?title=%ED%94%84%EB%9E%80%EC%B9%98%EC%8A%A4%EC%BD%94&amp;action=edit&amp;redlink=1" class="new" title="프란치스코 (없는 文書)">프란치스코</a>(Franciscus)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>0.44km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC +1
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>764<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%EB%9D%BC%ED%8B%B4%E8%AA%9E" title="라틴語">라틴<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用</rb><rp>(</rp><rt>공용</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%BE%85%E7%94%B8%E6%96%87%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="羅甸文字 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>羅甸</rb><rp>(</rp><rt>나전</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>
+</td></tr>
+</tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/index.php?title=%E7%B4%85%E8%A1%A3%E4%B8%BB%E6%95%8E&amp;action=edit&amp;redlink=1" class="new" title="紅衣主敎 (없는 文書)"><ruby class="hanja api grade40 unknown"><rb>紅衣主敎</rb><rp>(</rp><rt>홍의주교</rt><rp>)</rp></ruby></a> 178<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby></span>
+</li>
+</ol></div>
 </div></body></html>
