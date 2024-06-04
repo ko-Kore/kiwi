@@ -1942,6 +1942,11 @@
       "count": 1
     },
     {
+      "title": "노르웨이",
+      "surrounding": "넘겨줄 對象:諾威 ",
+      "count": 1
+    },
+    {
       "title": "대한뉴스",
       "surrounding": "넘겨줄 對象:大韓뉴스 ",
       "count": 1
@@ -2017,6 +2022,16 @@
       "count": 1
     },
     {
+      "title": "몰도바",
+      "surrounding": "넘겨줄 對象:摩爾多瓦 ",
+      "count": 1
+    },
+    {
+      "title": "몰타",
+      "surrounding": "넘겨줄 對象:馬耳他 ",
+      "count": 1
+    },
+    {
       "title": "무니코드",
       "surrounding": "무니코드는 유니코드의 反對(반대)말이다 ",
       "count": 1
@@ -2057,8 +2072,18 @@
       "count": 1
     },
     {
+      "title": "불가리아",
+      "surrounding": "넘겨줄 對象:勃牙利 ",
+      "count": 1
+    },
+    {
       "title": "브라질",
       "surrounding": "넘겨줄 對象:伯剌西爾 ",
+      "count": 1
+    },
+    {
+      "title": "산마리노",
+      "surrounding": "넘겨줄 對象:聖馬利諾 ",
       "count": 1
     },
     {
