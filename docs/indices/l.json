@@ -117,14 +117,14 @@
       "count": 19
     },
     {
-      "title": "和蘭",
-      "surrounding": "Koninkrijk der Nederlanden 國旗(국기) ... 長官(장관) Kajsa Ollongren (女性(여성))",
-      "count": 16
-    },
-    {
       "title": "塞舌爾共和國",
       "surrounding": " 塞舌爾(새설이)共和國(공화국) Republic of ... Donald Robert Ally) 大法院長(대법원장)",
       "count": 16
+    },
+    {
+      "title": "和蘭",
+      "surrounding": "Koninkrijk der Nederlanden 國旗(국기) ... 長官(장관) Kajsa Ollongren (女性(여성))",
+      "count": 15
     },
     {
       "title": "捷克共和國",
@@ -474,6 +474,11 @@
     {
       "title": "瑞典",
       "surrounding": "國歌(국가) Du gamla du ... XVI Gustaf(國王(국왕)) Ulf Kristersson(首相(수상))",
+      "count": 3
+    },
+    {
+      "title": "盧森堡",
+      "surrounding": "치렀습니다 CSU인 Claude Wiesler가 ... 長官(장관)은 Gerzawie Bettel의 民主黨(민주당)입니다",
       "count": 3
     },
     {
