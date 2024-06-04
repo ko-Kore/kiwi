@@ -162,11 +162,6 @@
       "count": 2
     },
     {
-      "title": "安道爾",
-      "surrounding": " 安道爾(안도이)公國(공국) Principat d'Andorra ... 國旗(국기) 國章(국장) 파일:Coat of",
-      "count": 2
-    },
-    {
       "title": "密克羅尼西亞聯邦",
       "surrounding": "密克羅尼西亞聯邦(밀극라니서아연방) The Federated States ... The Federated States of",
       "count": 2
@@ -309,6 +304,11 @@
     {
       "title": "大政翼贊會",
       "surrounding": "파일:Coat of",
+      "count": 1
+    },
+    {
+      "title": "安道爾",
+      "surrounding": " 安道爾(안도이)公國(공국) Principat d'Andorra",
       "count": 1
     },
     {
