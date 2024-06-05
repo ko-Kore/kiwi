@@ -1,0 +1,90 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>北塞</rb><rp>(</rp><rt>북새</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>浦</rb><rp>(</rp><rt>포</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>路</rb><rp>(</rp><rt>로</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>斯</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>土耳其</rb><rp>(</rp><rt>토이기</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Türkiye Cumhuriyeti
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Turkey.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langko-kore-240px-Flag_of_Turkey.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langko-kore-360px-Flag_of_Turkey.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langko-kore-480px-Flag_of_Turkey.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_T%C3%BCrkiye.svg" class="new" title="파일:Coat of arms of Türkiye.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Türkiye.svg</span></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%8D%A8%E7%AB%8B%E8%A1%8C%E9%80%B2%E6%9B%B2&amp;action=edit&amp;redlink=1" class="new" title="獨立行進曲 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>行進曲</rb><rp>(</rp><rt>행진곡</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%AE%89%E5%8D%A1%E6%8B%89&amp;action=edit&amp;redlink=1" class="new" title="安卡拉 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>安</rb><rp>(</rp><rt>안</rt><rp>)</rp></ruby><ruby class="hanja api grade0 unknown"><rb>卡</rb><rp>(</rp><rt>잡</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>拉</rb><rp>(</rp><rt>랍</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%EB%A0%88%EC%A0%9C%ED%94%84_%ED%83%80%EC%9D%B4%EC%9D%B4%ED%94%84_%EC%97%90%EB%A5%B4%EB%8F%84%EC%95%88" title="레제프 타이이프 에르도안">레제프 타이이프 에르도안</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>783,600km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%8D%94%E5%AE%9A_%E4%B8%96%E7%95%8C%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="協定 世界時 (없는 文書)">UTC</a> +3
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>85,280,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>109.6<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="土耳其語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>土耳其</rb><rp>(</rp><rt>토이기</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%87%8C%E6%8B%89&amp;action=edit&amp;redlink=1" class="new" title="里拉 (없는 文書)"><ruby class="hanja api grade70 unknown"><rb>里</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>拉</rb><rp>(</rp><rt>랍</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+90
+</td></tr></tbody></table>
+</div></body></html>
