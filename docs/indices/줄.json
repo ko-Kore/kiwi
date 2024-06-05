@@ -1558,7 +1558,7 @@
     },
     {
       "title": "露烏戰爭",
-      "surrounding": "넘겨줄 대상:2022年",
+      "surrounding": "넘겨줄 對象:2022年",
       "count": 1
     },
     {
@@ -2099,6 +2099,11 @@
     {
       "title": "언어",
       "surrounding": "넘겨줄 대상:言語",
+      "count": 1
+    },
+    {
+      "title": "에르도안",
+      "surrounding": "넘겨줄 對象:레제프",
       "count": 1
     },
     {
