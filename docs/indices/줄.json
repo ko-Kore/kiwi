@@ -1632,6 +1632,11 @@
       "count": 1
     },
     {
+      "title": "가이아나",
+      "surrounding": "넘겨줄 對象:圭亞那",
+      "count": 1
+    },
+    {
       "title": "가타카나",
       "surrounding": "넘겨줄 대상:片假名",
       "count": 1
@@ -1674,6 +1679,11 @@
     {
       "title": "나치獨逸의 노래",
       "surrounding": "歌詞(가사)의 첫 줄을 딴",
+      "count": 1
+    },
+    {
+      "title": "남아프리카공화국",
+      "surrounding": "넘겨줄 對象:南阿共",
       "count": 1
     },
     {
@@ -1807,6 +1817,11 @@
       "count": 1
     },
     {
+      "title": "리비아",
+      "surrounding": "넘겨줄 對象:利比亞",
+      "count": 1
+    },
+    {
       "title": "마스토돈 (SNS)",
       "surrounding": "넘겨줄 대상:마스토돈",
       "count": 1
@@ -1859,6 +1874,11 @@
     {
       "title": "미크로네시아聯邦",
       "surrounding": "넘겨줄 對象:密克羅尼西亞聯邦",
+      "count": 1
+    },
+    {
+      "title": "바누아투",
+      "surrounding": "넘겨줄 對象:瓦努阿圖",
       "count": 1
     },
     {
@@ -2157,6 +2177,11 @@
       "count": 1
     },
     {
+      "title": "이집트",
+      "surrounding": "넘겨줄 對象:埃及",
+      "count": 1
+    },
+    {
       "title": "이탈리아",
       "surrounding": "넘겨줄 대상:伊太利",
       "count": 1
@@ -2269,6 +2294,11 @@
     {
       "title": "코로나19",
       "surrounding": "넘겨줄 대상:코로나바이러스感染症-19",
+      "count": 1
+    },
+    {
+      "title": "코모로",
+      "surrounding": "넘겨줄 對象:科摩羅",
       "count": 1
     },
     {
