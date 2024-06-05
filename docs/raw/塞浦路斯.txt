@@ -1,0 +1,97 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade30"><rb>塞浦路斯</rb><rp>(</rp><rt>새포로사</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Κυπριακή Δημοκρατία<br>Kıbrıs Cumhuriyeti
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Cyprus.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/langko-kore-240px-Flag_of_Cyprus.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/langko-kore-360px-Flag_of_Cyprus.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/langko-kore-480px-Flag_of_Cyprus.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Cyprus_(2006).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg/langko-kore-159px-Coat_of_arms_of_Cyprus_%282006%29.svg.png" decoding="async" width="159" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg/langko-kore-238px-Coat_of_arms_of_Cyprus_%282006%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg/langko-kore-317px-Coat_of_arms_of_Cyprus_%282006%29.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%87%AA%E7%94%B1%E9%A0%8C&amp;action=edit&amp;redlink=1" class="new" title="自由頌 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>頌</rb><rp>(</rp><rt>송</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Cyprus_(orthographic_projection).svg" class="new" title="파일:Cyprus (orthographic projection).svg"><span class="mw-broken-media" data-height="300">파일:Cyprus (orthographic projection).svg</span></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%B0%BC%E7%A7%91%E8%A5%BF%E4%BA%9E&amp;action=edit&amp;redlink=1" class="new" title="尼科西亞 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>尼</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>科</rb><rp>(</rp><rt>과</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>西</rb><rp>(</rp><rt>서</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td>니코스 흐리스토줄리디스
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>9,251km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%8D%94%E5%AE%9A_%E4%B8%96%E7%95%8C%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="協定 世界時 (없는 文書)">UTC</a> +2
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>928,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>130.7<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%B8%8C%E8%87%98%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="希臘語 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>希臘語</rb><rp>(</rp><rt>희랍어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%AD%90%E6%B4%B2%E5%9C%93&amp;action=edit&amp;redlink=1" class="new" title="歐洲圓 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>歐洲</rb><rp>(</rp><rt>구주</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+357
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/index.php?title=%E5%B8%8C%E8%87%98&amp;action=edit&amp;redlink=1" class="new" title="希臘 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>希臘</rb><rp>(</rp><rt>희랍</rt><rp>)</rp></ruby></a>와 같은 <ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>가 <ruby class="hanja api grade40"><rb>採擇</rb><rp>(</rp><rt>채택</rt><rp>)</rp></ruby>됩니다</span>
+</li>
+</ol></div>
+</div></body></html>
