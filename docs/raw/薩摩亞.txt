@@ -1,0 +1,97 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade10"><rb>薩摩亞</rb><rp>(</rp><rt>살마아</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>獨立國</rb><rp>(</rp><rt>독립국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Independent State of Samoa
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Samoa.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/langko-kore-320px-Flag_of_Samoa.svg.png" decoding="async" width="320" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/langko-kore-480px-Flag_of_Samoa.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/langko-kore-640px-Flag_of_Samoa.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Samoa.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_arms_of_Samoa.svg/langko-kore-159px-Coat_of_arms_of_Samoa.svg.png" decoding="async" width="159" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_arms_of_Samoa.svg/langko-kore-238px-Coat_of_arms_of_Samoa.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_arms_of_Samoa.svg/langko-kore-318px-Coat_of_arms_of_Samoa.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td>O Le Fu'a o Le Sa'olotoga o Samoa<br><a href="/index.php?title=%E8%87%AA%E7%94%B1%EC%9D%98_%E6%97%97%EB%B0%9C&amp;action=edit&amp;redlink=1" class="new" title="自由의 旗발 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade0 unknown"><rb>旗발</rb><rp>(</rp><rt>깃발</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td>Fa'avae i le atua Samoa
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade32"><rb>阿</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>皮</rb><rp>(</rp><rt>피</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>元首</rb><rp>(</rp><rt>원수</rt><rp>)</rp></ruby>
+</th>
+<td>Tuimaleali’ifano Va’aletoa Sualauvi II
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>2,934km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC +12
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>205,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>70.1<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E8%96%A9%E6%91%A9%E4%BA%9E%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="薩摩亞語 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>薩摩亞</rb><rp>(</rp><rt>살마아</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用</rb><rp>(</rp><rt>공용</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%BE%85%E7%94%B8%E6%96%87%E5%AD%97&amp;action=edit&amp;redlink=1" class="new" title="羅甸文字 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>羅甸</rb><rp>(</rp><rt>나전</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=6%E6%9C%881%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="6月1日 (없는 文書)">6<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+678
+</td></tr></tbody></table>
+</div></body></html>
