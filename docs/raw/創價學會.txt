@@ -1,0 +1,34 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2">創價學會<br>창가학회<br><ruby><rb>創</rb><rp>(</rp><rt>そう</rt><rp>)</rp></ruby><ruby><rb>価</rb><rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby><rb>学会</rb><rp>(</rp><rt>がっかい</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2"><figure class="mw-default-size" typeof="mw:Error mw:File/Thumb"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_Soka_Gakkai.svg" class="new" title="파일:Flag of Soka Gakkai.svg"><span class="mw-broken-media" data-width="180">파일:Flag of Soka Gakkai.svg</span></a><figcaption></figcaption></figure>
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr></tbody></table>
+</div></body></html>
