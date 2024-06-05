@@ -1,6 +1,6 @@
 <html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <tbody><tr>
-<th colspan="2"><ruby class="hanja api grade32"><rb>北塞</rb><rp>(</rp><rt>북새</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>浦</rb><rp>(</rp><rt>포</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>路</rb><rp>(</rp><rt>로</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>斯</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>土耳其</rb><rp>(</rp><rt>토이기</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+<th colspan="2"><ruby class="hanja api grade32"><rb>土耳其</rb><rp>(</rp><rt>토이기</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
 <th colspan="2">Türkiye Cumhuriyeti
@@ -16,7 +16,7 @@
 <tr>
 <td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Turkey.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langko-kore-240px-Flag_of_Turkey.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langko-kore-360px-Flag_of_Turkey.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langko-kore-480px-Flag_of_Turkey.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Coat_of_arms_of_T%C3%BCrkiye.svg" class="new" title="파일:Coat of arms of Türkiye.svg"><span class="mw-broken-media" data-height="160">파일:Coat of arms of Türkiye.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_Turkey.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Emblem_of_Turkey.svg/langko-kore-220px-Emblem_of_Turkey.svg.png" decoding="async" width="220" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Emblem_of_Turkey.svg/langko-kore-330px-Emblem_of_Turkey.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Emblem_of_Turkey.svg/langko-kore-439px-Emblem_of_Turkey.svg.png 2x"></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

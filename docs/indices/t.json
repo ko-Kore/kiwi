@@ -837,11 +837,6 @@
       "count": 2
     },
     {
-      "title": "土耳其",
-      "surrounding": "北塞(북새)浦(포)路(로)斯(사)土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti 國旗(국기) ... 國旗(국기) 國章(국장) 파일:Coat of",
-      "count": 2
-    },
-    {
       "title": "外傷後 스트레스 障礙",
       "surrounding": "外傷後(외상후) 스트레스 障礙(장애)(Post-traumatic stress ... 스트레스 障礙(장애)(Post-traumatic stress disorder",
       "count": 2
@@ -1264,6 +1259,11 @@
     {
       "title": "圓 (朝鮮民主主義人民共和國)",
       "surrounding": "發音(발음) wʌ̹n tsʌn 로마字(자)",
+      "count": 1
+    },
+    {
+      "title": "土耳其",
+      "surrounding": "土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti 國旗(국기)",
       "count": 1
     },
     {

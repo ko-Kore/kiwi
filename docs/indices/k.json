@@ -192,11 +192,6 @@
       "count": 4
     },
     {
-      "title": "土耳其",
-      "surrounding": " 北塞(북새)浦(포)路(로)斯(사)土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti ... 人口密度(인구밀도) 109 6名(명)/km² 公用語(공용어)",
-      "count": 4
-    },
-    {
       "title": "密克羅尼西亞聯邦",
       "surrounding": "政治(정치) 首都(수도) Palikir 大統領(대통령) ... 섬은 Pohnpei Chuuk Yap",
       "count": 4
@@ -264,6 +259,11 @@
     {
       "title": "南阿弗利加",
       "surrounding": "of South AfricaRepubliek Suid-Afrika ... 2 043 359km² 時間帶(시간대)",
+      "count": 3
+    },
+    {
+      "title": "土耳其",
+      "surrounding": " 土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti ... 人口密度(인구밀도) 109 6名(명)/km² 公用語(공용어)",
       "count": 3
     },
     {
