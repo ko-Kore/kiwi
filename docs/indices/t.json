@@ -77,14 +77,14 @@
       "count": 36
     },
     {
-      "title": "이어폰과蟬時雨",
-      "surrounding": "[1] 이曲(곡)은 Orangestar의 13番(번)째 ... wasn't a true freedom",
+      "title": "土耳其",
+      "surrounding": "土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti 國旗(국기) ... States of NATOÉtats membres",
       "count": 33
     },
     {
-      "title": "土耳其",
-      "surrounding": "土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti 國旗(국기) ... 人民(인민)民主黨(민주당)(Halkların Demokratik Partisi; HDP)는",
-      "count": 31
+      "title": "이어폰과蟬時雨",
+      "surrounding": "[1] 이曲(곡)은 Orangestar의 13番(번)째 ... wasn't a true freedom",
+      "count": 33
     },
     {
       "title": "圭亞那",
@@ -133,8 +133,13 @@
     },
     {
       "title": "和蘭",
-      "surrounding": "앤서니 브루인(Jan Anthonie Bruijn ... Erik Stegink 基督敎(기독교)民主(민주)聯盟(연맹)(Christen-Democratisch Appel",
-      "count": 18
+      "surrounding": "앤서니 브루인(Jan Anthonie Bruijn ... States of NATOÉtats membres",
+      "count": 20
+    },
+    {
+      "title": "捷克共和國",
+      "surrounding": "標語(표어) Pravda vítězí (眞理(진리)必勝(필승) ... States of NATOÉtats membres",
+      "count": 19
     },
     {
       "title": "小苹果",
@@ -145,11 +150,6 @@
       "title": "雙拼",
       "surrounding": "있는데 中國語(중국어) phonotactics上(상) 出現(출현) ... Win Menu Ctrl 위에서",
       "count": 18
-    },
-    {
-      "title": "捷克共和國",
-      "surrounding": "標語(표어) Pravda vítězí (眞理(진리)必勝(필승) ... 檢察廳(검찰청)長人(장인) Igor Stříž는 2021年(년)에",
-      "count": 17
     },
     {
       "title": "薩摩亞",
@@ -177,6 +177,11 @@
       "count": 14
     },
     {
+      "title": "丁抹",
+      "surrounding": " 丁抹(정말)王國(왕국) Kongeriget Danmark ... ↑ 皇室(황실)頌歌(송가):Kong Kristian ↑",
+      "count": 13
+    },
+    {
       "title": "韓國停戰協定",
       "surrounding": "韓文(한문) 朝文(조문) United Nations ... 美國(미국): John Foster Dulles",
       "count": 13
@@ -194,11 +199,6 @@
     {
       "title": "Grand Dieu Sauve le Roi",
       "surrounding": "Roi Que toujours glorieux ... du mein Vaterland(1850-1961) 獨逸(독일)",
-      "count": 11
-    },
-    {
-      "title": "丁抹",
-      "surrounding": " 丁抹(정말)王國(왕국) Kongeriget Danmark ... ↑ 皇室(황실)頌歌(송가):Kong Kristian ",
       "count": 11
     },
     {
@@ -242,6 +242,11 @@
       "count": 9
     },
     {
+      "title": "瑞典",
+      "surrounding": "Carl XVI Gustaf(國王(국왕)) Ulf ... States of NATOÉtats membres",
+      "count": 9
+    },
+    {
       "title": "自由 소프트웨어",
       "surrounding": "소프트웨어[1](英語(영어): free software 또는 ... (or Use with Care)",
       "count": 9
@@ -249,6 +254,16 @@
     {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot regime(外國(외국) ... of foreign carrot regime",
+      "count": 8
+    },
+    {
+      "title": "獨逸",
+      "surrounding": "獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland 國旗(국기) ... States of NATOÉtats membres",
+      "count": 8
+    },
+    {
+      "title": "盧森堡",
+      "surrounding": " 盧森堡(노삼보)大公國(대공국) Groussherzogtum LëtzebuergGroßherzogtum ... States of NATOÉtats membres",
       "count": 8
     },
     {
@@ -264,6 +279,11 @@
     {
       "title": "西西里 上陸",
       "surrounding": "西西里 上陸(英語: Operation Husky ... 조지 패튼(George Patton) 將軍(장군)의",
+      "count": 8
+    },
+    {
+      "title": "諾威",
+      "surrounding": " 諾威(낙위)王國(왕국) Kongeriket Norge ... States of NATOÉtats membres",
       "count": 8
     },
     {
@@ -302,11 +322,6 @@
       "count": 7
     },
     {
-      "title": "瑞典",
-      "surrounding": "Carl XVI Gustaf(國王(국왕)) Ulf ... regeringen se 外交(외교)部(부):http://www ud",
-      "count": 7
-    },
-    {
       "title": "인터체인지",
       "surrounding": "(英語: Free-flow interchange) 立體交叉(입체교차) ... Junction 對(대) Interchange의 對立(대립)으로",
       "count": 7
@@ -342,28 +357,28 @@
       "count": 6
     },
     {
+      "title": "拉脫維亞",
+      "surrounding": " 拉脫維亞(납탈유아)共和國(공화국) Latvijas Republika ... States of NATOÉtats membres",
+      "count": 6
+    },
+    {
+      "title": "波蘭",
+      "surrounding": " 波蘭(파란)共和國(공화국) Rzeczpospolita Polska ... States of NATOÉtats membres",
+      "count": 6
+    },
+    {
       "title": "濠洲",
       "surrounding": " 濠洲(호주)聯邦(연방) Commonwealth of ... Terra Australis Incognita의 것을",
       "count": 6
     },
     {
-      "title": "獨逸",
-      "surrounding": "獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland 國旗(국기) ... 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland) 略稱(약칭)",
-      "count": 6
-    },
-    {
-      "title": "盧森堡",
-      "surrounding": " 盧森堡(노삼보)大公國(대공국) Groussherzogtum LëtzebuergGroßherzogtum ... 長官(장관)은 Gerzawie Bettel의 民主黨(민주당)입니다",
+      "title": "芬蘭",
+      "surrounding": "芬蘭(분란)共和國(공화국) Suomen tasavaltaRepubliken Finland ... 芬蘭(분란)共和國(공화국)(2022年(년)7月(월)5日(일)) ↑ 瑞典語(서전어):Vårt land",
       "count": 6
     },
     {
       "title": "葡萄",
       "surrounding": "또는 孛(패)桃(도)는 葡萄(포도)屬(속)(Vitis) 植物(식물)의 ... in 2012 faostat fao",
-      "count": 6
-    },
-    {
-      "title": "諾威",
-      "surrounding": " 諾威(낙위)王國(왕국) Kongeriket Norge ... 議會(의회) http://www stortinget no",
       "count": 6
     },
     {
@@ -374,6 +389,11 @@
     {
       "title": "使用者:ItMarki",
       "surrounding": "安寧(안녕)하세요！나는 ItMarki 입니다。ItMarki의 ... object shows) User:ItMarki/Battle for",
+      "count": 5
+    },
+    {
+      "title": "勃牙利",
+      "surrounding": "大統領(대통령)宮(궁): www president bg ... States of NATOÉtats membres",
       "count": 5
     },
     {
@@ -477,11 +497,6 @@
       "count": 4
     },
     {
-      "title": "拉脫維亞",
-      "surrounding": " 拉脫維亞(납탈유아)共和國(공화국) Latvijas Republika ... +371 拉脫維亞(납탈유아)共和國(공화국)(라트비아語: Latvijas Republika)",
-      "count": 4
-    },
-    {
       "title": "李承晩",
       "surrounding": "影響(영향)을 받은 中立(중립)”(原題(원제):Neutrality as ... the United States)이다 ↑",
       "count": 4
@@ -492,23 +507,8 @@
       "count": 4
     },
     {
-      "title": "波蘭",
-      "surrounding": " 波蘭(파란)共和國(공화국) Rzeczpospolita Polska ... Poland 폴란드語: Rzeczpospolita Polska)은",
-      "count": 4
-    },
-    {
       "title": "眼科",
       "surrounding": "주세요 眼科(안과)(英語(영어): ophthalmology)는 눈의 ... 눈을 뜻하는 ‘ophthalmos’와 知性(지성)을",
-      "count": 4
-    },
-    {
-      "title": "芬蘭",
-      "surrounding": "芬蘭(분란)共和國(공화국) Suomen tasavaltaRepubliken Finland ... 加入(가입)했다 ↑ 瑞典語(서전어):Vårt land",
-      "count": 4
-    },
-    {
-      "title": "葡萄牙",
-      "surrounding": "葡萄牙(포도아)共和國(공화국) República Portuguesa 國旗(국기) ... Republic (orthographic projection) svg",
       "count": 4
     },
     {
@@ -674,6 +674,16 @@
     {
       "title": "英領南具琉耳及南三度一致群島",
       "surrounding": " 英領(영령)南(남)具琉耳(구류이)及(급)南(남)三度(삼도)一致(일치)群島(군도)South Georgia ... and the South Sandwich",
+      "count": 3
+    },
+    {
+      "title": "葡萄牙",
+      "surrounding": "葡萄牙(포도아)共和國(공화국) República Portuguesa 國旗(국기) ... States of NATOÉtats membres",
+      "count": 3
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "標語(표어) Plus ultra(超越(초월)極限(극한)) 皇室(황실) ... States of NATOÉtats membres",
       "count": 3
     },
     {
@@ -897,6 +907,11 @@
       "count": 2
     },
     {
+      "title": "斯洛伐克",
+      "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... States of NATOÉtats membres",
+      "count": 2
+    },
+    {
       "title": "月卽別",
       "surrounding": " 月卽別(월즉별)共和國(공화국) Oʻzbekiston Respublikasi ... +998 月卽別(월즉별)共和國(공화국)(우즈베크語: Oʻzbekiston Respublikasi)",
       "count": 2
@@ -904,6 +919,11 @@
     {
       "title": "格陵蘭",
       "surrounding": " 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland ... 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland 自治體(자치체)",
+      "count": 2
+    },
+    {
+      "title": "洪牙利",
+      "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... States of NATOÉtats membres",
       "count": 2
     },
     {
@@ -937,6 +957,11 @@
       "count": 2
     },
     {
+      "title": "白耳義",
+      "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... States of NATOÉtats membres",
+      "count": 2
+    },
+    {
       "title": "秘密의 숲",
       "surrounding": "放送(방송)日(일) 大韓民國(대한민국) tvN 2017年(년)6月(월)10日(일) ... 2017年(년)에 大韓民國(대한민국) tvN로 放送(방송)한",
       "count": 2
@@ -949,6 +974,11 @@
     {
       "title": "統一列車 달린다",
       "surrounding": "번져주세 千里馬(천리마) tractor 起重機(기중기)도 ... 달린다 千里馬(천리마) tractor 起重機(기중기)도",
+      "count": 2
+    },
+    {
+      "title": "羅馬尼",
+      "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... States of NATOÉtats membres",
       "count": 2
     },
     {
@@ -1519,11 +1549,6 @@
     {
       "title": "蘇格蘭",
       "surrounding": "Kingdom of Scotland/Rìoghachd na",
-      "count": 1
-    },
-    {
-      "title": "西班牙",
-      "surrounding": "標語(표어) Plus ultra(超越(초월)極限(극한)) 皇室(황실)",
       "count": 1
     },
     {

@@ -87,6 +87,11 @@
       "count": 4
     },
     {
+      "title": "獨逸",
+      "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... of NATOÉtats membres de",
+      "count": 4
+    },
+    {
       "title": "獨逸民主共和國",
       "surrounding": "부른다 國家(국가)人民軍(인민군)은 地上部隊(지상부대)(Landstreitkräfte) 人民(인민)海軍(해군)(Volksmarine) ... 軍(군)과는 別途(별도)로 펠릭스제르진스키近衛聯隊(근위련대)(Wachregiment Feliks",
       "count": 4
@@ -117,13 +122,18 @@
       "count": 3
     },
     {
-      "title": "獨逸",
-      "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... +49 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland)",
+      "title": "捷克共和國",
+      "surrounding": "長官(장관) Marian Jurečka 副總理(부총리) ... of NATOÉtats membres de",
       "count": 3
     },
     {
       "title": "硫黄島의 星條旗",
       "surrounding": "each Yankee There on ... Isle There were tears",
+      "count": 3
+    },
+    {
+      "title": "諾威",
+      "surrounding": "스텔러(Jonas Gahr Støre 勞動黨(노동당)) ... of NATOÉtats membres de",
       "count": 3
     },
     {
@@ -152,8 +162,23 @@
       "count": 2
     },
     {
+      "title": "勃牙利",
+      "surrounding": "大統領(대통령)宮(궁): www president bg ... of NATOÉtats membres de",
+      "count": 2
+    },
+    {
+      "title": "和蘭",
+      "surrounding": "長官(장관) Kajsa Ollongren (女性(여성)) ... of NATOÉtats membres de",
+      "count": 2
+    },
+    {
       "title": "國漢大百科:紹介",
       "surrounding": "言語(언어) 設定(설정)을 `Ko-kore`로 바꾸면 ... 수 있습니다 '보이기(rendering)' 設定(설정)에서는",
+      "count": 2
+    },
+    {
+      "title": "土耳其",
+      "surrounding": "쉴레이만 데미렐(Suleyman Demirel)은 새로운 ... of NATOÉtats membres de",
       "count": 2
     },
     {
@@ -167,11 +192,6 @@
       "count": 2
     },
     {
-      "title": "捷克共和國",
-      "surrounding": "長官(장관) Marian Jurečka 副總理(부총리) ... 農林(농림)部(부) 長官(장관) Marek Výborný",
-      "count": 2
-    },
-    {
       "title": "新西蘭",
       "surrounding": "Christopher Luxon 綠色黨(녹색당)(Green Party): ... 나레와 패커(Debbie Narewa Packer)",
       "count": 2
@@ -182,8 +202,18 @@
       "count": 2
     },
     {
+      "title": "波蘭",
+      "surrounding": "國家(국가)象徵(상징) 國歌(국가) Mazurek Dąbrowskiego(돔브로프스키의 ... of NATOÉtats membres de",
+      "count": 2
+    },
+    {
       "title": "活版印刷",
       "surrounding": "名稱(명칭)[편집] 英語(영어)로는 ‘letterpress’라고 하며 ... 印刷(인쇄)하든 다 ‘letterpress’라 한다",
+      "count": 2
+    },
+    {
+      "title": "瑞典",
+      "surrounding": "se 總理(총리)辦公(판공)室(실):http://www regeringen se ... of NATOÉtats membres de",
       "count": 2
     },
     {
@@ -199,11 +229,6 @@
     {
       "title": "自由 소프트웨어 財團",
       "surrounding": "소프트웨어 財團(재단)(英語(영어): Free Software ... 財團(재단)(英語(영어): Free Software Foundation)은",
-      "count": 2
-    },
-    {
-      "title": "諾威",
-      "surrounding": "스텔러(Jonas Gahr Støre 勞動黨(노동당)) ... 政府(정부) http://www regjeringen no",
       "count": 2
     },
     {
@@ -272,6 +297,11 @@
       "count": 1
     },
     {
+      "title": "丁抹",
+      "surrounding": "of NATOÉtats membres de",
+      "count": 1
+    },
+    {
       "title": "中華民國",
       "surrounding": "Pinuyumayan(Puyuma 卑(비)南(남))語(어) Ngudradrekai(Rukai 魯(노)凱(개))語(어)",
       "count": 1
@@ -299,16 +329,6 @@
     {
       "title": "利物浦",
       "surrounding": "所在地(소재지) High Street Liverpool",
-      "count": 1
-    },
-    {
-      "title": "和蘭",
-      "surrounding": "長官(장관) Kajsa Ollongren (女性(여성))",
-      "count": 1
-    },
-    {
-      "title": "土耳其",
-      "surrounding": "쉴레이만 데미렐(Suleyman Demirel)은 새로운",
       "count": 1
     },
     {
@@ -347,18 +367,33 @@
       "count": 1
     },
     {
-      "title": "波蘭",
-      "surrounding": "國家(국가)象徵(상징) 國歌(국가) Mazurek Dąbrowskiego(돔브로프스키의",
+      "title": "拉脫維亞",
+      "surrounding": "of NATOÉtats membres de",
       "count": 1
     },
     {
-      "title": "瑞典",
-      "surrounding": "se 總理(총리)辦公(판공)室(실):http://www regeringen se",
+      "title": "斯洛伐克",
+      "surrounding": "of NATOÉtats membres de",
+      "count": 1
+    },
+    {
+      "title": "洪牙利",
+      "surrounding": "of NATOÉtats membres de",
+      "count": 1
+    },
+    {
+      "title": "白耳義",
+      "surrounding": "of NATOÉtats membres de",
       "count": 1
     },
     {
       "title": "皇帝 (同形異義)",
       "surrounding": "밴드 Mr Children 기타리스트",
+      "count": 1
+    },
+    {
+      "title": "盧森堡",
+      "surrounding": "of NATOÉtats membres de",
       "count": 1
     },
     {
@@ -377,6 +412,11 @@
       "count": 1
     },
     {
+      "title": "羅馬尼",
+      "surrounding": "of NATOÉtats membres de",
+      "count": 1
+    },
+    {
       "title": "羅馬蹴球俱樂部",
       "surrounding": "Roma 官方(관방)歌(가) Sempre Roma",
       "count": 1
@@ -392,6 +432,11 @@
       "count": 1
     },
     {
+      "title": "芬蘭",
+      "surrounding": "of NATOÉtats membres de",
+      "count": 1
+    },
+    {
       "title": "英國프리미어리그",
       "surrounding": "英蘭(영란)蹴球(축구)優勝(우승)리그 英國(영국)프리미어리그(英語: Premier League)는",
       "count": 1
@@ -404,6 +449,16 @@
     {
       "title": "英蘭蹴球超級聯賽",
       "surrounding": "英蘭(영란)蹴球(축구)冠(관)軍(군)聯(련)賽(새) 英蘭(영란)蹴球(축구)超(초)級(급)聯(련)賽(새)(英語: Premier League",
+      "count": 1
+    },
+    {
+      "title": "葡萄牙",
+      "surrounding": "of NATOÉtats membres de",
+      "count": 1
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "of NATOÉtats membres de",
       "count": 1
     },
     {

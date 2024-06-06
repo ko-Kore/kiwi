@@ -232,11 +232,6 @@
       "count": 4
     },
     {
-      "title": "葡萄牙",
-      "surrounding": " 葡萄牙(포도아)共和國(공화국) República Portuguesa ... Republic (orthographic projection) svg",
-      "count": 4
-    },
-    {
       "title": "通用規範漢字表",
       "surrounding": "𬳵 U+2CCF5 pī 6749 ... 𬭯 U+2CB6F piě 7890",
       "count": 4
@@ -330,6 +325,11 @@
       "title": "𬞟",
       "surrounding": "標準中國語(표준중국어) 讀音(독음)은 píng이지만 ‘𬞟’의 ... 標準中國語(표준중국어) 讀音(독음): pín 유니코드:",
       "count": 3
+    },
+    {
+      "title": "勃牙利",
+      "surrounding": "大統領(대통령)宮(궁): www president bg ... 議會(의회): www parliament bg",
+      "count": 2
     },
     {
       "title": "南阿弗利加",
@@ -814,6 +814,11 @@
     {
       "title": "英蘭蹴球優勝리그",
       "surrounding": "英蘭(영란)蹴球(축구)優勝(우승)리그(英語: EFL(일아이프) Championship(챔피언스리그))는 英國(영국)프리미어리그에",
+      "count": 1
+    },
+    {
+      "title": "葡萄牙",
+      "surrounding": " 葡萄牙(포도아)共和國(공화국) República Portuguesa",
       "count": 1
     },
     {

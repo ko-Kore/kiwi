@@ -22,6 +22,11 @@
       "count": 12
     },
     {
+      "title": "和蘭",
+      "surrounding": "和蘭(화란)王國(왕국) Koninkrijk der Nederlanden ... NATOÉtats membres de l'OTAN",
+      "count": 10
+    },
+    {
       "title": "美合衆國",
       "surrounding": "裏面(이면)에서 찾을수있는“Annuit cœptis”(英(영):Providence favors ... of this Confederacy shall",
       "count": 10
@@ -29,11 +34,6 @@
     {
       "title": "伯剌西爾",
       "surrounding": "伯剌西爾(백랄서이)聯邦(연방)共和國(공화국) República Federativa do ... Conference on Trade and",
-      "count": 9
-    },
-    {
-      "title": "和蘭",
-      "surrounding": "和蘭(화란)王國(왕국) Koninkrijk der Nederlanden ... Caroline van der Plas(女性(여성))",
       "count": 9
     },
     {
@@ -102,13 +102,33 @@
       "count": 3
     },
     {
+      "title": "土耳其",
+      "surrounding": "Işci Sendıkalari Konfederasyonu [DİSK] ... NATOÉtats membres de l'OTAN",
+      "count": 3
+    },
+    {
       "title": "星條旗 (國歌)",
       "surrounding": "of the deep Where ... that hath made and",
       "count": 3
     },
     {
+      "title": "獨逸",
+      "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... NATOÉtats membres de l'OTAN",
+      "count": 3
+    },
+    {
       "title": "獨逸民主共和國",
       "surrounding": "國家(국가)\"(sozialistischen Staat der Arbeiter ... 隸下(예하)에는 勞動者階級(노동자계급)戰鬪(전투)團(단)(Kampfgruppen der Arbeiterklasse)과",
+      "count": 3
+    },
+    {
+      "title": "盧森堡",
+      "surrounding": "LëtzebuergGroßherzogtum LuxemburgGrand-Duché de Luxembourg ... NATOÉtats membres de l'OTAN",
+      "count": 3
+    },
+    {
+      "title": "西班牙",
+      "surrounding": "西班牙(서반아)王國(왕국) Reino de España ... NATOÉtats membres de l'OTAN",
       "count": 3
     },
     {
@@ -137,8 +157,8 @@
       "count": 2
     },
     {
-      "title": "土耳其",
-      "surrounding": "Işci Sendıkalari Konfederasyonu [DİSK] ... 議會(의회)에서 사데틴 빌기츠(Sadettin Bilgic)가",
+      "title": "勃牙利",
+      "surrounding": "大統領(대통령)宮(궁): www president bg ... NATOÉtats membres de l'OTAN",
       "count": 2
     },
     {
@@ -172,11 +192,6 @@
       "count": 2
     },
     {
-      "title": "獨逸",
-      "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... +49 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland)",
-      "count": 2
-    },
-    {
       "title": "獨逸國",
       "surrounding": "1943年(년)6月(월)24日(일) 首相(수상)府(부)長官(장관)(Chef der Reichskanzlei) ... E”에서 처음으로 “Großdeutsches Reich”(“大(대)獨逸(독일)國(국)”)의",
       "count": 2
@@ -187,8 +202,8 @@
       "count": 2
     },
     {
-      "title": "盧森堡",
-      "surrounding": "LëtzebuergGroßherzogtum LuxemburgGrand-Duché de Luxembourg ... 치렀습니다 CSU인 Claude Wiesler가",
+      "title": "芬蘭",
+      "surrounding": "Sauli Niinisto(大統領(대통령)) Alexander Stubb(總理(총리)) ... NATOÉtats membres de l'OTAN",
       "count": 2
     },
     {
@@ -202,8 +217,8 @@
       "count": 2
     },
     {
-      "title": "西班牙",
-      "surrounding": "西班牙(서반아)王國(왕국) Reino de España ... 西班牙(서반아)王國(왕국)(西班牙語(서반아어): Reino de España)은",
+      "title": "諾威",
+      "surrounding": "에이드(Espen Barth Eide 勞動黨(노동당)) ... NATOÉtats membres de l'OTAN",
       "count": 2
     },
     {
@@ -239,6 +254,11 @@
     {
       "title": "VAIO",
       "surrounding": "社名(사명)의 'VAIO'는 'Video Audio",
+      "count": 1
+    },
+    {
+      "title": "丁抹",
+      "surrounding": "NATOÉtats membres de l'OTAN",
       "count": 1
     },
     {
@@ -297,6 +317,21 @@
       "count": 1
     },
     {
+      "title": "拉脫維亞",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
+      "title": "捷克共和國",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
+      "title": "斯洛伐克",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
       "title": "新加坡",
       "surrounding": "Singapore 馬來(마래)語(어): Bendera Singapura)는",
       "count": 1
@@ -312,8 +347,18 @@
       "count": 1
     },
     {
+      "title": "波蘭",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
       "title": "注文은 토끼입니까?",
       "surrounding": "』(日(일)：ご注文(주문)はうさぎですか？、英(영)：Is the order a",
+      "count": 1
+    },
+    {
+      "title": "洪牙利",
+      "surrounding": "NATOÉtats membres de l'OTAN",
       "count": 1
     },
     {
@@ -342,6 +387,16 @@
       "count": 1
     },
     {
+      "title": "瑞典",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
+      "title": "白耳義",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
       "title": "科摩羅",
       "surrounding": "科摩羅(과마라)聯盟(연맹) Union des Comores/الاتّحاد",
       "count": 1
@@ -362,13 +417,13 @@
       "count": 1
     },
     {
-      "title": "自由 소프트웨어",
-      "surrounding": "They Are Loaded or",
+      "title": "羅馬尼",
+      "surrounding": "NATOÉtats membres de l'OTAN",
       "count": 1
     },
     {
-      "title": "芬蘭",
-      "surrounding": "Sauli Niinisto(大統領(대통령)) Alexander Stubb(總理(총리))",
+      "title": "自由 소프트웨어",
+      "surrounding": "They Are Loaded or",
       "count": 1
     },
     {
@@ -377,13 +432,13 @@
       "count": 1
     },
     {
-      "title": "西西里 上陸",
-      "surrounding": "테더(Arthur William Tedder) 空軍(공군)",
+      "title": "葡萄牙",
+      "surrounding": "NATOÉtats membres de l'OTAN",
       "count": 1
     },
     {
-      "title": "諾威",
-      "surrounding": "에이드(Espen Barth Eide 勞動黨(노동당))",
+      "title": "西西里 上陸",
+      "surrounding": "테더(Arthur William Tedder) 空軍(공군)",
       "count": 1
     },
     {

@@ -107,6 +107,16 @@
       "count": 37
     },
     {
+      "title": "土耳其",
+      "surrounding": " 土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti ... NATOÉtats membres de l'OTAN",
+      "count": 36
+    },
+    {
+      "title": "和蘭",
+      "surrounding": "和蘭(화란)王國(왕국) Koninkrijk der Nederlanden ... NATOÉtats membres de l'OTAN",
+      "count": 35
+    },
+    {
       "title": "獨逸民主共和國",
       "surrounding": "\"勞農(노농) 社會主義(사회주의) 國家(국가)\"(sozialistischen Staat ... 部隊(부대)가 있다 人民(인민)警察(경찰)(Volkspolizei)이라는 警察(경찰)도",
       "count": 34
@@ -115,16 +125,6 @@
       "title": "Grand Dieu Sauve le Roi",
       "surrounding": "Grand Dieu Sauve ... du mein Vaterland(1850-1961) 獨逸(독일)",
       "count": 32
-    },
-    {
-      "title": "土耳其",
-      "surrounding": " 土耳其(토이기)共和國(공화국) Türkiye Cumhuriyeti ... 反面(반면) 人民(인민)民主黨(민주당)(Halkların Demokratik Partisi;",
-      "count": 32
-    },
-    {
-      "title": "和蘭",
-      "surrounding": "和蘭(화란)王國(왕국) Koninkrijk der Nederlanden ... 長官(장관) Kajsa Ollongren (女性(여성))",
-      "count": 31
     },
     {
       "title": "塞舌爾共和國",
@@ -172,6 +172,11 @@
       "count": 22
     },
     {
+      "title": "捷克共和國",
+      "surrounding": " 捷克(첩극)共和國(공화국) Česká Republika ... NATOÉtats membres de l'OTAN",
+      "count": 19
+    },
+    {
       "title": "自由 소프트웨어",
       "surrounding": "自由(자유) 소프트웨어[1](英語(영어): free software ... or Confusing: Access〉 (英語(영어))",
       "count": 19
@@ -180,6 +185,11 @@
       "title": "薩摩亞",
       "surrounding": " 薩摩亞(살마아)獨立國(독립국) Independent State ... 薩摩亞(살마아) 옵저버(Samoa Observer) 또",
       "count": 18
+    },
+    {
+      "title": "盧森堡",
+      "surrounding": " 盧森堡(노삼보)大公國(대공국) Groussherzogtum LëtzebuergGroßherzogtum ... NATOÉtats membres de l'OTAN",
+      "count": 17
     },
     {
       "title": "獨逸國",
@@ -207,11 +217,6 @@
       "count": 15
     },
     {
-      "title": "捷克共和國",
-      "surrounding": " 捷克(첩극)共和國(공화국) Česká Republika ... 就任(취임)했다 大法院長(대법원장)人(인) Petr Angyalossy는",
-      "count": 15
-    },
-    {
       "title": "新西蘭",
       "surrounding": " 新西蘭(신서란토)聯邦(연방) Commonwealth of ... 마크 쿠퍼(Mark Cooper)입니다 高等法院(고등법원)은",
       "count": 15
@@ -227,13 +232,18 @@
       "count": 14
     },
     {
+      "title": "瑞典",
+      "surrounding": " 瑞典(서전)王國(왕국) kungarike Sverige ... NATOÉtats membres de l'OTAN",
+      "count": 14
+    },
+    {
       "title": "粵語諺文",
       "surrounding": "厄(액) 앜 e *爹(다) ... # 읃 oek 脚(각)*",
       "count": 14
     },
     {
-      "title": "盧森堡",
-      "surrounding": " 盧森堡(노삼보)大公國(대공국) Groussherzogtum LëtzebuergGroßherzogtum ... 長官(장관)은 Gerzawie Bettel의 民主黨(민주당)입니다",
+      "title": "波蘭",
+      "surrounding": " 波蘭(파란)共和國(공화국) Rzeczpospolita Polska ... NATOÉtats membres de l'OTAN",
       "count": 13
     },
     {
@@ -242,8 +252,18 @@
       "count": 13
     },
     {
+      "title": "諾威",
+      "surrounding": " 諾威(낙위)王國(왕국) Kongeriket Norge ... NATOÉtats membres de l'OTAN",
+      "count": 13
+    },
+    {
       "title": "暮國",
       "surrounding": "Estado Plurinacional de Bolivia ... The News; \"Change\" 12",
+      "count": 12
+    },
+    {
+      "title": "獨逸",
+      "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... NATOÉtats membres de l'OTAN",
       "count": 12
     },
     {
@@ -257,8 +277,8 @@
       "count": 11
     },
     {
-      "title": "瑞典",
-      "surrounding": " 瑞典(서전)王國(왕국) kungarike Sverige ... 外交(외교)部(부):http://www ud se 國家(국가)",
+      "title": "丁抹",
+      "surrounding": " 丁抹(정말)王國(왕국) Kongeriget Danmark ... NATOÉtats membres de l'OTAN",
       "count": 10
     },
     {
@@ -282,18 +302,8 @@
       "count": 9
     },
     {
-      "title": "波蘭",
-      "surrounding": " 波蘭(파란)共和國(공화국) Rzeczpospolita Polska ... 放送局(방송국)은 波蘭(파란) 라디오(Polskie Radio)와",
-      "count": 9
-    },
-    {
       "title": "科摩羅",
       "surrounding": "科摩羅(과마라)聯盟(연맹) Union des Comores/الاتّحاد ... Anjouan 및 Moheli의 3",
-      "count": 9
-    },
-    {
-      "title": "諾威",
-      "surrounding": " 諾威(낙위)王國(왕국) Kongeriket Norge ... 議會(의회) http://www stortinget no",
       "count": 9
     },
     {
@@ -307,13 +317,23 @@
       "count": 8
     },
     {
-      "title": "獨逸",
-      "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland) 略稱(약칭)",
+      "title": "瑞西",
+      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
       "count": 8
     },
     {
-      "title": "瑞西",
-      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
+      "title": "白耳義",
+      "surrounding": " 白耳義(백이의)王國(왕국) België/Belgique/Belgien 國旗(국기) ... NATOÉtats membres de l'OTAN",
+      "count": 8
+    },
+    {
+      "title": "芬蘭",
+      "surrounding": " 芬蘭(분란)共和國(공화국) Suomen tasavaltaRepubliken ... NATOÉtats membres de l'OTAN",
+      "count": 8
+    },
+    {
+      "title": "西班牙",
+      "surrounding": " 西班牙(서반아)王國(왕국) Reino de ... NATOÉtats membres de l'OTAN",
       "count": 8
     },
     {
@@ -357,6 +377,11 @@
       "count": 7
     },
     {
+      "title": "勃牙利",
+      "surrounding": "大統領(대통령)宮(궁): www president bg ... NATOÉtats membres de l'OTAN",
+      "count": 7
+    },
+    {
       "title": "國歌",
       "surrounding": "Ca 美國(미국) The Star-Spangled ... Queen gɒd seɪv ðə",
       "count": 7
@@ -369,6 +394,11 @@
     {
       "title": "廣東語",
       "surrounding": "(粵(월)：faat3 韓(한): beop) 等(등)이 ... zo2 faan6 mei6 aa？",
+      "count": 7
+    },
+    {
+      "title": "拉脫維亞",
+      "surrounding": "拉脫維亞(납탈유아)共和國(공화국) Latvijas Republika 國旗(국기) ... NATOÉtats membres de l'OTAN",
       "count": 7
     },
     {
@@ -397,11 +427,6 @@
       "count": 7
     },
     {
-      "title": "丁抹",
-      "surrounding": " 丁抹(정말)王國(왕국) Kongeriget Danmark ... dk 議會(의회):http://www folketinget dk",
-      "count": 6
-    },
-    {
       "title": "伯林",
       "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[一(일)] ... Rathaus ↑ Ostniederdeutsch ",
       "count": 6
@@ -427,6 +452,11 @@
       "count": 6
     },
     {
+      "title": "斯洛伐克",
+      "surrounding": " 斯洛伐克(사락벌극)共和國(공화국) Slovenská Republika ... NATOÉtats membres de l'OTAN",
+      "count": 6
+    },
+    {
       "title": "歐羅巴聯合",
       "surrounding": "歐羅巴聯合 歐羅巴(구라파)聯合(연합) Europäische Union/Union ... 白耳義(백이의)의 首都(수도) 布(포)魯(로)塞(새)爾(이)(Brussels)에 本社(본사)를",
       "count": 6
@@ -438,7 +468,7 @@
     },
     {
       "title": "葡萄牙",
-      "surrounding": " 葡萄牙(포도아)共和國(공화국) República Portuguesa ... Republic (orthographic projection) svg",
+      "surrounding": " 葡萄牙(포도아)共和國(공화국) República Portuguesa ... NATOÉtats membres de l'OTAN",
       "count": 6
     },
     {
@@ -592,13 +622,13 @@
       "count": 4
     },
     {
-      "title": "瓦努阿圖",
-      "surrounding": " 瓦努阿圖(와노아도)共和國(공화국) Republic of ... 瓦努阿圖(와노아도)共和國(공화국)(英語(영어): The Republic of",
+      "title": "洪牙利",
+      "surrounding": "• 編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States ... NATOÉtats membres de l'OTAN",
       "count": 4
     },
     {
-      "title": "白耳義",
-      "surrounding": " 白耳義(백이의)王國(왕국) België/Belgique/Belgien 國旗(국기) ... Belgique 獨逸語: Belgien)은 \"벨기에\"라고",
+      "title": "瓦努阿圖",
+      "surrounding": " 瓦努阿圖(와노아도)共和國(공화국) Republic of ... 瓦努阿圖(와노아도)共和國(공화국)(英語(영어): The Republic of",
       "count": 4
     },
     {
@@ -607,18 +637,13 @@
       "count": 4
     },
     {
-      "title": "芬蘭",
-      "surrounding": " 芬蘭(분란)共和國(공화국) Suomen tasavaltaRepubliken ... Sauli Niinisto(大統領(대통령)) Alexander Stubb(總理(총리))",
+      "title": "羅馬尼",
+      "surrounding": "• 編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States ... NATOÉtats membres de l'OTAN",
       "count": 4
     },
     {
       "title": "英國皇家海軍",
       "surrounding": "1660年(년) 最高(최고)統帥(통수) Charles III(名義(명의)) ... 노래 참나무의 마음(Heart of",
-      "count": 4
-    },
-    {
-      "title": "西班牙",
-      "surrounding": " 西班牙(서반아)王國(왕국) Reino de ... 西班牙(서반아)王國(왕국)(西班牙語(서반아어): Reino de España)은",
       "count": 4
     },
     {
@@ -784,11 +809,6 @@
     {
       "title": "心停止",
       "surrounding": "英語(영어)로는 cardiac arrest[1]라 하며 ... 이에對應(대응)하는 英單語(영단어)는 \"heart attack\"이다",
-      "count": 3
-    },
-    {
-      "title": "拉脫維亞",
-      "surrounding": "拉脫維亞(납탈유아)共和國(공화국) Latvijas Republika 國旗(국기) ... 拉脫維亞(납탈유아)共和國(공화국)(라트비아語: Latvijas Republika) 國名(국명)은",
       "count": 3
     },
     {
@@ -1034,11 +1054,6 @@
     {
       "title": "散彈銃",
       "surrounding": "shotgun 英語: scattergun)은 普通(보통) ... 使用(사용)하는 火器(화기)이다 粘土射擊(점토사격)(clay-pigeon shooting)과",
-      "count": 2
-    },
-    {
-      "title": "斯洛伐克",
-      "surrounding": " 斯洛伐克(사락벌극)共和國(공화국) Slovenská Republika ... 斯洛伐克(사락벌극)共和國(공화국) Slovenská Republika 國旗(국기)",
       "count": 2
     },
     {
