@@ -1,0 +1,101 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade10"><rb>巴林</rb><rp>(</rp><rt>파림</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">مملكة البحرين
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Bahrain.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/langko-kore-267px-Flag_of_Bahrain.svg.png" decoding="async" width="267" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/langko-kore-400px-Flag_of_Bahrain.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/langko-kore-534px-Flag_of_Bahrain.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Emblem_of_Bahrain.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Emblem_of_Bahrain.svg/langko-kore-160px-Emblem_of_Bahrain.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Emblem_of_Bahrain.svg/langko-kore-240px-Emblem_of_Bahrain.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Emblem_of_Bahrain.svg/langko-kore-320px-Emblem_of_Bahrain.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%9A%B0%EB%A6%AC%EC%9D%98_%E5%B7%B4%E6%9E%97&amp;action=edit&amp;redlink=1" class="new" title="우리의 巴林 (없는 文書)">우리의 <ruby class="hanja api grade10 unknown"><rb>巴林</rb><rp>(</rp><rt>파림</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Bahrain_(orthographic_projection).svg" class="new" title="파일:Bahrain (orthographic projection).svg"><span class="mw-broken-media" data-height="300">파일:Bahrain (orthographic projection).svg</span></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%A7%88%EB%82%98%EB%A7%88&amp;action=edit&amp;redlink=1" class="new" title="마나마 (없는 文書)">마나마</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>國王</rb><rp>(</rp><rt>국왕</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</th>
+<td><a href="/index.php?title=%ED%95%98%EB%A7%88%EB%93%9C_%EB%B9%88_%EC%9D%B4%EC%82%AC_%EC%95%8C_%ED%95%A0%EB%A6%AC%ED%8C%8C&amp;action=edit&amp;redlink=1" class="new" title="하마드 빈 이사 알 할리파 (없는 文書)">하마드 빈 이사 알 할리파</a><br>حمد بن عيسى آل خليفة
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>786km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC+3
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>1,570,000<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>78.7<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E4%BA%9E%E5%89%8C%E6%AF%94%E4%BA%9E%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="亞剌比亞語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>剌</rb><rp>(</rp><rt>랄</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>比</rb><rp>(</rp><rt>비</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%9B%9E%E6%95%8E" title="回敎"><ruby class="hanja api grade42"><rb>回敎</rb><rp>(</rp><rt>회교</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td>1971<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>8<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>15<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade52"><rb>獨立</rb><rp>(</rp><rt>독립</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>)<br>2002<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>2<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>14<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade10"><rb>巴林</rb><rp>(</rp><rt>파림</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>首長國</rb><rp>(</rp><rt>수장국</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade10"><rb>巴林</rb><rp>(</rp><rt>파림</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade40"><rb>變更</rb><rp>(</rp><rt>변경</rt><rp>)</rp></ruby>했어요.)<br>12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>16<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade42"><rb>國慶日</rb><rp>(</rp><rt>국경일</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>+973
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span style="font-size: smaller;"><a href="/wiki/%EC%95%84%EB%9E%8D%E8%AA%9E" title="아랍語">아랍語</a>: </span><span lang="ar">ملك البحرين</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade80"><rb>外國</rb><rp>(</rp><rt>외국</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>僑民</rb><rp>(</rp><rt>교민</rt><rp>)</rp></ruby>이 55%를 차지해요.</span>
+</li>
+</ol></div>
+</div></body></html>
