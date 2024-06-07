@@ -1,0 +1,43 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable Infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade80"><rb>國民</rb><rp>(</rp><rt>국민</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>社會主義</rb><rp>(</rp><rt>사회주의</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>勞動者</rb><rp>(</rp><rt>노동자</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>黨</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby>(나치<ruby class="hanja api grade42"><rb>黨</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby>)<br>Nationalsozialistische Deutsche Arbeiterpartei(NSDAP)
+</th></tr>
+<tr>
+<td colspan="2"><figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Germany_(1935%E2%80%931945).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langko-kore-300px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png" decoding="async" width="300" height="180" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langko-kore-450px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/langko-kore-600px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png 2x"></a><figcaption></figcaption></figure>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>旗</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>創立者</rb><rp>(</rp><rt>창립자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%95%88%ED%86%A4_%EB%93%9C%EB%A0%89%EC%8A%AC%EB%9F%AC&amp;action=edit&amp;redlink=1" class="new" title="안톤 드렉슬러 (없는 文書)">안톤 드렉슬러</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建立</rb><rp>(</rp><rt>건립</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</th>
+<td>1920<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 2<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 24<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>解散</rb><rp>(</rp><rt>해산</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</th>
+<td>1945<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 10<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>歷代</rb><rp>(</rp><rt>역대</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>指導者</rb><rp>(</rp><rt>지도자</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%95%88%ED%86%A4_%EB%93%9C%EB%A0%89%EC%8A%AC%EB%9F%AC&amp;action=edit&amp;redlink=1" class="new" title="안톤 드렉슬러 (없는 文書)">안톤 드렉슬러</a> <small>(1920<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> ~ 1921<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)</small><br>
+<p><a href="/wiki/%EC%95%84%EB%8F%8C%ED%94%84_%ED%9E%88%ED%8B%80%EB%9F%AC" title="아돌프 히틀러">아돌프 히틀러</a> <small>(1921<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> ~ 1945<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)</small><br>
+<a href="/index.php?title=%EB%A7%88%EB%A5%B4%ED%8B%B4_%EB%B3%B4%EC%96%B4%EB%A7%8C&amp;action=edit&amp;redlink=1" class="new" title="마르틴 보어만 (없는 文書)">마르틴 보어만</a> <small>(1945<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)</small>
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>黨員</rb><rp>(</rp><rt>당원</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>數量</rb><rp>(</rp><rt>수량</rt><rp>)</rp></ruby>
+</th>
+<td>20<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>(<ruby class="hanja api grade42"><rb>創立</rb><rp>(</rp><rt>창립</rt><rp>)</rp></ruby>)<br>
+<p>850<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>(<ruby class="hanja api grade40"><rb>解散</rb><rp>(</rp><rt>해산</rt><rp>)</rp></ruby>)
+</p>
+</td></tr></tbody></table>
+</div></body></html>
