@@ -1032,6 +1032,11 @@
       "count": 1
     },
     {
+      "title": "南阿共",
+      "surrounding": "넘겨줄 對象:南阿弗利加 共和國",
+      "count": 1
+    },
+    {
       "title": "南韓",
       "surrounding": "넘겨줄 對象：大韓民國 ",
       "count": 1
@@ -1039,6 +1044,11 @@
     {
       "title": "南아메리카 共和國",
       "surrounding": "넘겨줄 對象:南阿共 ",
+      "count": 1
+    },
+    {
+      "title": "南아프리카 共和國",
+      "surrounding": "넘겨줄 對象:南阿弗利加 共和國",
       "count": 1
     },
     {
