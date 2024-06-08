@@ -27,7 +27,35 @@
 <caption>
 </caption>
 <tbody><tr>
+<th><a href="/index.php?title=%E7%8D%A8%E9%80%B8%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="獨逸語 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>原語</rb><rp>(</rp><rt>원어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
 <th colspan="2">1.
+</th></tr>
+<tr>
+<td>Auf der Heide blüht ein kleines Blümelein,<br>
+<p>und das heißt - Erika.<br>
+Heiß von hunderttausend kleinen Bienelein<br>
+wird umschwärmt - Erika.<br>
+Denn ihr Herz ist voller Süßigkeit,<br>
+zarter Duft entströmt dem Blütenkleid.<br>
+<b>Auf der Heide blüht ein kleines Blümelein,</b><br>
+<b>und das heißt - Erika.</b>
+</p>
+</td>
+<td><ruby class="hanja api grade32"><rb>荒野</rb><rp>(</rp><rt>황야</rt><rp>)</rp></ruby>에 작은 꽃 한 송이가 피어있는데,<br>
+<p>그 꽃은 에리카라고 하네.<br>
+<ruby class="hanja api grade70"><rb>千萬</rb><rp>(</rp><rt>천만</rt><rp>)</rp></ruby> 마리의 자그마한 꿀벌들로부터<br>
+<ruby class="hanja api grade40"><rb>熱烈</rb><rp>(</rp><rt>열렬</rt><rp>)</rp></ruby>하게 모여드는 것은 에리카라네.<br>
+왜냐하면 그 꽃의 마음은 달콤함으로 가득한,<br>
+꽃잎에서 퍼져 나오는 부드러운 <ruby class="hanja api grade42"><rb>香氣</rb><rp>(</rp><rt>향기</rt><rp>)</rp></ruby>니까.<br>
+<b><ruby class="hanja api grade32"><rb>荒野</rb><rp>(</rp><rt>황야</rt><rp>)</rp></ruby>에 작은 꽃 한 송이가 피어있는데,</b><br>
+<b>그 꽃은 에리카라고 하네.</b>
+</p>
+</td></tr>
+<tr>
+<th colspan="2">2.
 </th></tr>
 <tr>
 <td>
@@ -35,16 +63,8 @@
 <td>
 </td></tr>
 <tr>
-<td colspan="2">2.
-</td></tr>
-<tr>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td colspan="2">3.
-</td></tr>
+<th colspan="2">3.
+</th></tr>
 <tr>
 <td>
 </td>
