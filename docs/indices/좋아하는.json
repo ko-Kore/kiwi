@@ -2,11 +2,6 @@
   "word": "좋아하는",
   "pages": [
     {
-      "title": "드골主義",
-      "surrounding": "많은 部分(부분)을 좋아하는 사람들이 ... 드 골을 좋아하는 사람들",
-      "count": 3
-    },
-    {
       "title": "使用者:SeanSentIGPC",
       "surrounding": "설명 3 좋아하는 것 ... Language의 줄임말이다 좋아하는 것[편집]",
       "count": 2
@@ -39,6 +34,16 @@
     {
       "title": "金正日",
       "surrounding": "그가 가장 좋아하는 것은",
+      "count": 1
+    },
+    {
+      "title": "애리가(軍歌)",
+      "surrounding": "軍人(군인)들이 가장 좋아하는 노래",
+      "count": 1
+    },
+    {
+      "title": "애리가 (軍歌)",
+      "surrounding": "軍人(군인)들이 가장 좋아하는 노래",
       "count": 1
     }
   ]
