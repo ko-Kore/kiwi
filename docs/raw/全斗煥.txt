@@ -1,0 +1,84 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade0"><rb>朴正熙</rb><rp>(</rp><rt>박정희</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Park_Chung-hee_1963%27s.png" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Park_Chung-hee_1963%27s.png/218px-Park_Chung-hee_1963%27s.png" decoding="async" width="218" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Park_Chung-hee_1963%27s.png/327px-Park_Chung-hee_1963%27s.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/f/f5/Park_Chung-hee_1963%27s.png 2x"></a></span>
+</td></tr>
+<tr>
+<th colspan="2"><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_South_Korea_(1949%E2%80%931984).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/langko-kore-25px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/langko-kore-38px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_South_Korea_%281949%E2%80%931984%29.svg/langko-kore-50px-Flag_of_South_Korea_%281949%E2%80%931984%29.svg.png 2x"></a></span> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>5-9<ruby class="hanja api grade62"><rb>代</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>任期</rb><rp>(</rp><rt>임기</rt><rp>)</rp></ruby>
+</th>
+<td>1963<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>17<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>-1979<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>26<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>敬稱</rb><rp>(</rp><rt>경칭</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%96%A3%E4%B8%8B&amp;action=edit&amp;redlink=1" class="new" title="閣下 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>閣下</rb><rp>(</rp><rt>각하</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>身上</rb><rp>(</rp><rt>신상</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>海</rb><rp>(</rp><rt>해</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>英文</rb><rp>(</rp><rt>영문</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>
+</th>
+<td>Chun Doo-hwan
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1931<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan_(1870%E2%80%931999).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/langko-kore-25px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png" decoding="async" width="25" height="18" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/langko-kore-38px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/langko-kore-50px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 2x"></a></span> <a href="/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B" class="mw-redirect" title="大日本帝國"><ruby class="hanja api grade80"><rb>大日</rb><rp>(</rp><rt>대일</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a><ruby class="hanja api grade52"><rb>朝鮮</rb><rp>(</rp><rt>조선</rt><rp>)</rp></ruby><a href="/wiki/%E6%85%B6%E5%B0%99%E5%8D%97%E9%81%93" title="慶尙南道"><ruby class="hanja api grade32"><rb>慶尙南道</rb><rp>(</rp><rt>경상남도</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E9%99%9D%E5%B7%9D%E9%83%A1&amp;action=edit&amp;redlink=1" class="new" title="陝川郡 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>陝</rb><rp>(</rp><rt>섬</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>川</rb><rp>(</rp><rt>천</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>郡</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>死去</rb><rp>(</rp><rt>사거</rt><rp>)</rp></ruby>
+</th>
+<td>2021<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>11<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>23<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>(<ruby class="hanja api grade30"><rb>享年</rb><rp>(</rp><rt>향년</rt><rp>)</rp></ruby> 90<ruby class="hanja api grade52"><rb>歲</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby>) <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_South_Korea.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-kore-25px-Flag_of_South_Korea.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-kore-38px-Flag_of_South_Korea.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langko-kore-50px-Flag_of_South_Korea.svg.png 2x"></a></span> <a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a><a href="/wiki/%EC%84%9C%EC%9A%B8%E7%89%B9%E5%88%A5%E5%B8%82" title="서울特別市">서울<ruby class="hanja api grade60"><rb>特別市</rb><rp>(</rp><rt>특별시</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E8%A5%BF%E5%A4%A7%E9%96%80%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="西大門區 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>西大門區</rb><rp>(</rp><rt>서대문구</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%BB%B6%E7%A6%A7%E6%B4%9E&amp;action=edit&amp;redlink=1" class="new" title="延禧洞 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>延禧洞</rb><rp>(</rp><rt>연희동</rt><rp>)</rp></ruby></a><ruby class="hanja api grade40"><rb>私宅</rb><rp>(</rp><rt>사택</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>國籍</rb><rp>(</rp><rt>국적</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9C%8B" class="mw-redirect" title="大日本帝國"><ruby class="hanja api grade80"><rb>大日</rb><rp>(</rp><rt>대일</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>帝國</rb><rp>(</rp><rt>제국</rt><rp>)</rp></ruby></a>(1931<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>-1945<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>(1948<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>以後</rb><rp>(</rp><rt>이후</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>本貫</rb><rp>(</rp><rt>본관</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%AE%8C%E5%B1%B1%E5%85%A8%E6%B0%8F&amp;action=edit&amp;redlink=1" class="new" title="完山全氏 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>完山</rb><rp>(</rp><rt>완산</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>全</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>氏</rb><rp>(</rp><rt>씨</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>政黨</rb><rp>(</rp><rt>정당</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%B0%91%E4%B8%BB%E6%AD%A3%E7%BE%A9%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="民主正義黨 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>民主正義黨</rb><rp>(</rp><rt>민주정의당</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>父母</rb><rp>(</rp><rt>부모</rt><rp>)</rp></ruby>
+</th>
+<td>아버지:&nbsp;<a href="/index.php?title=%E5%85%A8%E7%9B%B8%E7%A6%B9&amp;action=edit&amp;redlink=1" class="new" title="全相禹 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>全</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>相</rb><rp>(</rp><rt>상</rt><rp>)</rp></ruby><ruby class="hanja api grade12 unknown"><rb>禹</rb><rp>(</rp><rt>우</rt><rp>)</rp></ruby></a><br>어머니:&nbsp;<a href="/index.php?title=%E9%87%91%E7%82%B9%E6%96%87&amp;action=edit&amp;redlink=1" class="new" title="金点文 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>金</rb><rp>(</rp><rt>금</rt><rp>)</rp></ruby><ruby class="hanja api grade0 unknown"><rb>点</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>文</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade60"><rb>李</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>順</rb><rp>(</rp><rt>순</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>子</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby><small>(1958<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>結婚</rb><rp>(</rp><rt>결혼</rt><rp>)</rp></ruby>)</small>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade72"><rb>子女</rb><rp>(</rp><rt>자녀</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E5%85%A8%E5%9C%A8%E5%BA%B8&amp;action=edit&amp;redlink=1" class="new" title="全在庸 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>全</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>在</rb><rp>(</rp><rt>재</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>庸</rb><rp>(</rp><rt>용</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade72"><rb>子</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>宗敎</rb><rp>(</rp><rt>종교</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E4%BD%9B%E6%95%8E" title="佛敎"><ruby class="hanja api grade42"><rb>佛敎</rb><rp>(</rp><rt>불교</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>署名</rb><rp>(</rp><rt>서명</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Chun_Doo-hwan_signature.svg" class="new" title="파일:Chun Doo-hwan signature.svg"><span class="mw-broken-media" data-width="128">파일:Chun Doo-hwan signature.svg</span></a></span>
+</td></tr></tbody></table>
+</div></body></html>
