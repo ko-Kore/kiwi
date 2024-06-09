@@ -82,8 +82,24 @@ singe ich zum Gruß ihr dieses Lied.<br>
 <th colspan="2">3.
 </th></tr>
 <tr>
-<td>
+<td>In mein'm Kämmerlein blüht auch ein Blümelein,<br>
+<p>und das heißt - Erika.<br>
+Schon beim Morgengrau'n sowie beim Dämmerschein<br>
+Schaut's mich an - Erika.<br>
+Und dann ist es mir, als spräch' es laut:<br>
+Denkst du auch an deine kleine Braut?<br>
+<b>In der Heimat weint um dich ein Mägdelein</b><br>
+<b>und das heißt: Erika.</b>
+</p>
 </td>
-<td>
+<td>내 자그마한 <ruby class="hanja api grade42"><rb>房</rb><rp>(</rp><rt>방</rt><rp>)</rp></ruby>에는 작은 꽃 한 송이가 피어있는데,<br>
+<p>그 꽃은 에리카라고 하네.<br>
+새벽에도 <ruby class="hanja api grade42"><rb>餘</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>에도<br>
+날 바라보는 것은 에리카라네.<br>
+그리고 그 꽃은 마치 내게 큰 소리로 이렇게 말하는 것 같네.<br>
+"너도 네 어린 <ruby class="hanja api grade42"><rb>新婦</rb><rp>(</rp><rt>신부</rt><rp>)</rp></ruby>를 생각하고 있니?"<br>
+<b><ruby class="hanja api grade42"><rb>故鄕</rb><rp>(</rp><rt>고향</rt><rp>)</rp></ruby>에서 어느 한 아가씨가 너 때문에 울고 있는데,</b><br>
+<b>그<ruby class="hanja api grade80"><rb>女</rb><rp>(</rp><rt>녀</rt><rp>)</rp></ruby>는 에리카라고 하네.</b>
+</p>
 </td></tr></tbody></table>
 </div></body></html>
