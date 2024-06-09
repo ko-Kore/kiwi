@@ -977,11 +977,6 @@
       "count": 2
     },
     {
-      "title": "獨逸語",
-      "surrounding": "獨逸語(독일어) 原語(원어) Deutsche 分布(분포) ... 파일:Flag of Kazakstan svg哈(합)薩(살)克(극)",
-      "count": 2
-    },
-    {
       "title": "瑞西",
       "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération suisse/Confederazione ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
       "count": 2
@@ -1519,6 +1514,11 @@
     {
       "title": "獨-伊-日 三國同盟 條約",
       "surrounding": "Joachim von Ribbentrop 伊太利(이태리)",
+      "count": 1
+    },
+    {
+      "title": "獨逸語",
+      "surrounding": "獨逸語(독일어) 原語(원어) Deutsche 分布(분포)",
       "count": 1
     },
     {
