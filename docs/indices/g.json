@@ -342,6 +342,11 @@
       "count": 4
     },
     {
+      "title": "잘자요 아가씨",
+      "surrounding": "time to go to ... time to go to",
+      "count": 4
+    },
+    {
       "title": "中國語 入力方式",
       "surrounding": "方法(방법)이다 例示(예시)로 ‘zhong’ 이라고 ... 나오는 IME는 ‘zg’ 라고만",
       "count": 3
@@ -559,6 +564,11 @@
     {
       "title": "漢語拼音",
       "surrounding": "北京 → Běijīng 使用(사용) ... è f g h",
+      "count": 2
+    },
+    {
+      "title": "獨逸語",
+      "surrounding": "白耳義(백이의) 露西亞(노서아) 파일:Flag of ... of Kazakstan svg哈(합)薩(살)克(극) 佛蘭西(불란서)",
       "count": 2
     },
     {

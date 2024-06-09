@@ -367,6 +367,11 @@
       "count": 8
     },
     {
+      "title": "잘자요 아가씨",
+      "surrounding": "お嬢様 it's time to ... go to bed (고고고",
+      "count": 8
+    },
+    {
       "title": "조 바이든",
       "surrounding": "조 바이든 Joe Biden ... Robinette \"Joe\" Biden Jr",
       "count": 8
@@ -1114,6 +1119,11 @@
     {
       "title": "獨-伊-日 三國同盟 條約",
       "surrounding": "Joachim von Ribbentrop 伊太利(이태리) ... 伊太利(이태리) 代表(대표): Galeazzo Ciano",
+      "count": 2
+    },
+    {
+      "title": "獨逸語",
+      "surrounding": "獨逸語(독일어) 原語(원어) Deutsche 分布(분포) ... 日耳曼(일이만)語族(어족) 코드 de 獨逸語(독일어)",
       "count": 2
     },
     {
