@@ -2,6 +2,11 @@
   "word": "驅動",
   "pages": [
     {
+      "title": "게임보이 어드밴스",
+      "surrounding": "78 MHz로 驅動(구동)되는 32비트 ... 칩은 게임보이 驅動(구동) 外(외)에도",
+      "count": 3
+    },
+    {
       "title": "漢字組建",
       "surrounding": "利用(이용)하여 웹API形式(형식)으로 驅動(구동)된다 https://(도메인名(명))/han3_ji7_tsoo1_kian3/(組字式(조자식))",
       "count": 1
@@ -9,11 +14,6 @@
     {
       "title": "게임보이",
       "surrounding": "어드밴스 SP에서도 驅動(구동)할수가 있다",
-      "count": 1
-    },
-    {
-      "title": "게임보이 어드밴스",
-      "surrounding": "칩은 게임보이 驅動(구동) 外(외)에도",
       "count": 1
     },
     {

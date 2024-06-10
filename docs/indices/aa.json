@@ -8,12 +8,27 @@
     },
     {
       "title": "廣東語",
-      "surrounding": "區別(구별)된다 이는 saam1(三(삼)) sam1(心(심))과 ... faan6 mei6 aa？ ",
-      "count": 5
+      "surrounding": "例(예)로는 壓(압) (粵(월)：aat3 韓(한)：ap); ... faan6 mei6 aa？ ",
+      "count": 7
+    },
+    {
+      "title": "아프리칸스語",
+      "surrounding": "아프리칸스語(어)阿弗利加(아불리가)語(어)南阿弗利加(남아불리가)和蘭語(화란어) 原(원)詞(사) Afrikaans 使用者(사용자) ... '아프리카式(식) 네덜란드語(어)'에 Afrikaans(아프리칸스語(어))라는 이름을",
+      "count": 4
+    },
+    {
+      "title": "SC第一銀行",
+      "surrounding": "SC第一銀行(제일은행)Standard Chartered Bank渣打銀行(zaa1 daa2 ... Chartered Bank渣打銀行(zaa1 daa2 ngan4",
+      "count": 2
     },
     {
       "title": "南",
-      "surrounding": "拼音(병음) : naam4 naa1 ... : naam4 naa1 越南語(월남어)[편집]",
+      "surrounding": "拼音(병음) : naam4 naa1 ... : naam4 naa1 越南語(월남어)[編輯]",
+      "count": 2
+    },
+    {
+      "title": "圭亞那",
+      "surrounding": "일파인 알리(Mohamed Irfaan Ali) ... 이르파안 알리(Mohamed Irfaan Ali)",
       "count": 2
     },
     {
@@ -27,6 +42,11 @@
       "count": 2
     },
     {
+      "title": "格陵蘭",
+      "surrounding": " 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland ... 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland 自治體(자치체)",
+      "count": 2
+    },
+    {
       "title": "獨逸民主共和國",
       "surrounding": "社會主義(사회주의) 國家(국가)\"(sozialistischen Staat der ... 獨逸(독일)의 \"平和(평화) 國家(국가)\"(Friedensstaat)라고 부르며",
       "count": 2
@@ -37,18 +57,33 @@
       "count": 2
     },
     {
+      "title": "和蘭",
+      "surrounding": "會長(회장) 新社會(신사회)契約(계약)黨(당)(Nieuw Sociaal Contract",
+      "count": 1
+    },
+    {
+      "title": "塞舌爾共和國",
+      "surrounding": "長官(장관) 나디르 하산(Naadir Hassan)",
+      "count": 1
+    },
+    {
       "title": "敎",
       "surrounding": "拼音(병음) : gaau1·3 越南語(월남어)[편집]",
       "count": 1
     },
     {
       "title": "獨逸國",
-      "surrounding": "비스마르크가 普魯西王國(보로서왕국)의 領國宰相(영국재상)(Staatskanzler)가 되었다",
+      "surrounding": "비스마르크가 普魯西(보로서)王國(왕국)의 領國(영국)宰相(재상)(Staatskanzler)가 되었다",
       "count": 1
     },
     {
       "title": "白",
-      "surrounding": "拼音(병음) : baak6 越南語(월남어)[편집]",
+      "surrounding": "拼音(병음) : baak6 越南語(월남어)[編輯]",
+      "count": 1
+    },
+    {
+      "title": "芬蘭",
+      "surrounding": "國家(국가)象徵(상징) 國歌(국가) Maamme[1] 政治(정치)",
       "count": 1
     }
   ]
