@@ -1,45 +1,138 @@
-<html><head></head><body><div class="mw-parser-output"><p><a href="/wiki/%EC%A0%8A%EC%9D%80_%EB%9D%BC%EC%9D%B8%EA%B0%95%EC%97%90%EC%84%9C" class="mw-redirect" title="젊은 라인강에서">젊은 라인강에서</a>는 <a href="/wiki/%E5%88%97%E6%94%AF%E6%95%A6%E5%A3%AB%E7%99%BB" title="列支敦士登"><ruby class="hanja api grade30"><rb>列支敦士登</rb><rp>(</rp><rt>열지돈사등</rt><rp>)</rp></ruby></a>의 <a href="/wiki/%E5%9C%8B%E6%AD%8C" title="國歌"><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby></a>습니다.
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade32"><rb>作詞</rb><rp>(</rp><rt>작사</rt><rp>)</rp></ruby>
+</th>
+<td>Jakob Joseph Jauch
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>作曲</rb><rp>(</rp><rt>작곡</rt><rp>)</rp></ruby>
+</th>
+<td>알 수 없음
+</td></tr></tbody></table>
+<p><a class="mw-selflink selflink">젊은 라인江에서</a>(<span style="font-size: smaller;"><a href="/wiki/%E7%8D%A8%E9%80%B8%E8%AA%9E" title="獨逸語">獨逸語</a>: </span><span lang="de">Oben am jungen Rhein</span>)는 <a href="/wiki/%E5%88%97%E6%94%AF%E6%95%A6%E5%A3%AB%E7%99%BB" title="列支敦士登"><ruby class="hanja api grade30"><rb>列支敦士登</rb><rp>(</rp><rt>열지돈사등</rt><rp>)</rp></ruby></a>의 <a href="/wiki/%E5%9C%8B%E6%AD%8C" title="國歌"><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby></a>습니다.
 </p>
-<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%A0%8A%EC%9D%80_%EB%9D%BC%EC%9D%B8%E6%B1%9F%EC%97%90%EC%84%9C&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><ruby class="hanja api grade0"><rb>词</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>, <ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>: Jakob Josef Jauch
-</p><p><br>
-1.
-</p><p>Oben am deutschen Rhein
-</p><p>Lehnet sich Liechtenstein
-</p><p>An Alpenhöh'n.
-</p><p>Dies liebe Heimatland
-</p><p>Im deutschen Vaterland
-</p><p>Hat Gottes weise Hand
-</p><p>Für uns erseh'n.
-</p><p><br>
-2.
-</p><p>Wo einst St. Lucien
-</p><p>Frieden nach Rhätien
-</p><p>Hineingebracht.
-</p><p>Dort an dem Grenzenstein
-</p><p>Und längs dem jungen Rhein
-</p><p>Steht furchtlos Liechtenstein
-</p><p>Auf Deutschlands Wacht.
-</p><p><br>
-3.
-</p><p>Lieblich zur Sommerzeit
-</p><p>Auf hoher Alpen Weid
-</p><p>Schwebt Himmelsruh'.
-</p><p>Wo frei die Gemse springt,
-</p><p>Kühn sich der Adler schwingt,
-</p><p>Der Senn das Ave singt
-</p><p>Der Heimat zu.
-</p><p><br>
-4.
-</p><p>Von grünen Felsenhöh'n
-</p><p>Freundlich ist es zu seh'n
-</p><p>Mit einem Blick:
-</p><p>Wie des Rheins Silberband
-</p><p>Säumet das schöne Land
-</p><p>Ein kleines Vaterland
-</p><p>Vom stillen Glück.
-</p><p><br>
-5.
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29.28.E5.85.83.E4.BE.86.28.EC.9B.90.EB.9E.98.29.29"></span><span class="mw-headline" id="歌詞(가사)(元來(원래))"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby>(<ruby class="hanja api grade52"><rb>元來</rb><rp>(</rp><rt>원래</rt><rp>)</rp></ruby>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%A0%8A%EC%9D%80_%EB%9D%BC%EC%9D%B8%E6%B1%9F%EC%97%90%EC%84%9C&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)(元來(원래))">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><a href="/index.php?title=%E7%8D%A8%E9%80%B8%E8%AA%9E%EF%BD%9C%E5%8E%9F%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="獨逸語｜原語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>獨逸語</rb><rp>(</rp><rt>독일어</rt><rp>)</rp></ruby>｜<ruby class="hanja api grade50 unknown"><rb>原語</rb><rp>(</rp><rt>원어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<th colspan="2">1.
+</th></tr>
+<tr>
+<td>Oben am deutschen Rhein<br>
+<p>Lehnet sich Liechtenstein<br>
+An Alpenhöh'n.<br>
+Dies liebe Heimatland<br>
+Im deutschen Vaterland<br>
+Hat Gottes weise Hand<br>
+Für uns erseh'n. 
+</p>
+</td>
+<td>저 라인 <ruby class="hanja api grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby> 위쪽으로,<br>
+<p><ruby class="hanja api grade30"><rb>列支敦士登</rb><rp>(</rp><rt>열지돈사등</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade62"><rb>高山</rb><rp>(</rp><rt>고산</rt><rp>)</rp></ruby>에서<br>
+기대고 있을 때.<br>
+이 사랑하는 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>이여,<br>
+이 사랑하는 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>은,<br>
+하느님의 손으로<br>
+우리에게 주어졌노라.
+</p>
+</td></tr>
+<tr>
+<th colspan="2">2.
+</th></tr>
+<tr>
+<td>Wo einst St. Lucien<br>
+<p>Frieden nach Rhätien<br>
+Hineingebracht.<br>
+Dort an dem Grenzenstein<br>
+Und längs dem jungen Rhein<br>
+Steht furchtlos Liechtenstein<br>
+Auf Deutschlands Wacht.
+</p>
+</td>
+<td><ruby class="hanja api grade30"><rb>列支敦士登</rb><rp>(</rp><rt>열지돈사등</rt><rp>)</rp></ruby>은 죽지 않았다네.<br>
+<p>저 라인 <ruby class="hanja api grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby> 위쪽으로,<br>
+<ruby class="hanja api grade52"><rb>幸福</rb><rp>(</rp><rt>행복</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade42"><rb>忠誠</rb><rp>(</rp><rt>충성</rt><rp>)</rp></ruby>을.<br>
+<ruby class="hanja api grade62"><rb>工作</rb><rp>(</rp><rt>공작</rt><rp>)</rp></ruby>님은 하늘에서 땅까지 살고 있다네.<br>
+오랫동안, 우리의 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>에 살았다네.<br>
+<ruby class="hanja api grade72"><rb>兄弟間</rb><rp>(</rp><rt>형제간</rt><rp>)</rp></ruby>의 사랑으로<br>
+<ruby class="hanja api grade42"><rb>協同</rb><rp>(</rp><rt>협동</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>를.
+</p>
+</td></tr>
+<tr>
+<th colspan="2">3.
+</th></tr>
+<tr>
+<td>Lieblich zur Sommerzeit<br>
+<p>Auf hoher Alpen Weid<br>
+Schwebt Himmelsruh'.<br>
+Wo frei die Gemse springt,<br>
+Kühn sich der Adler schwingt,<br>
+Der Senn das Ave singt<br>
+Der Heimat zu.
+</p>
+</td>
+<td>여름철에 사랑 스럽다.<br>
+<p><ruby class="hanja api grade32"><rb>亞</rb><rp>(</rp><rt>아</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>耳</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>伯</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>士</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>高地帶</rb><rp>(</rp><rt>고지대</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>牧草地</rb><rp>(</rp><rt>목초지</rt><rp>)</rp></ruby><br>
+<ruby class="hanja api grade70"><rb>天國</rb><rp>(</rp><rt>천국</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>安息</rb><rp>(</rp><rt>안식</rt><rp>)</rp></ruby>을 띄운다.<br>
+섀미 가죽이 자유롭게 뛰는 곳,<br>
+<ruby class="hanja api grade10"><rb>禿</rb><rp>(</rp><rt>독</rt><rp>)</rp></ruby>수리는 <ruby class="hanja api grade20"><rb>大膽</rb><rp>(</rp><rt>대담</rt><rp>)</rp></ruby>하게 흔들리고,<br>
+아베를 노래하는 <ruby class="hanja api grade10"><rb>酪農</rb><rp>(</rp><rt>낙농</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>家</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby><br>
+집을 <ruby class="hanja api grade60"><rb>向</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby>해.
+</p>
+</td></tr>
+<tr>
+<th colspan="2">4.
+</th></tr>
+<tr>
+<td>Von grünen Felsenhöh'n
+<p>Freundlich ist es zu seh'n
+Mit einem Blick:
+Wie des Rheins Silberband
+Säumet das schöne Land
+Ein kleines Vaterland
+Vom stillen Glück.
+</p>
+</td>
+<td>푸른 바위 높이에서<br>
+<p>보기 <ruby class="hanja api grade70"><rb>便</rb><rp>(</rp><rt>편</rt><rp>)</rp></ruby>합니다<br>
+한눈에 보기:<br>
+라인<ruby class="hanja api grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade60"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby>빛 리본처럼<br>
+아름다운 땅을 늘어놓는다<br>
+작은 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby> 조용한 <ruby class="hanja api grade52"><rb>幸福</rb><rp>(</rp><rt>행복</rt><rp>)</rp></ruby>.
+</p>
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시
+</td></tr></tbody></table>
+<p>5.
 </p><p>Hoch lebe Liechtenstein,
 </p><p>Blühend am deutschen Rhein,
 </p><p>Glücklich und treu.
@@ -47,6 +140,9 @@
 </p><p>Hoch unser Vaterland,
 </p><p>Durch Bruderliebe Band
 </p><p>Vereint und frei.
+</p>
+<h2><span id=".E9.99.84.28.EB.B6.80.29.E6.B3.A8.28.EC.A3.BC.29"></span><span class="mw-headline" id="附(부)注(주)"><ruby class="hanja api grade32"><rb>附</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>注</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%EC%A0%8A%EC%9D%80_%EB%9D%BC%EC%9D%B8%E6%B1%9F%EC%97%90%EC%84%9C&amp;action=edit&amp;section=2" title="部分 編輯: 附(부)注(주)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1963<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>, 이 노래는 <ruby class="hanja api grade40"><rb>縮約</rb><rp>(</rp><rt>축약</rt><rp>)</rp></ruby>되고 <ruby class="hanja api grade32"><rb>獨逸語</rb><rp>(</rp><rt>독일어</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>單語</rb><rp>(</rp><rt>단어</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade62"><rb>對</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade32"><rb>言及</rb><rp>(</rp><rt>언급</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade32"><rb>削除</rb><rp>(</rp><rt>삭제</rt><rp>)</rp></ruby>되었는데, <ruby class="hanja api grade60"><rb>例</rb><rp>(</rp><rt>예</rt><rp>)</rp></ruby>를 들어 "am deutschen Rhein"(<ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby>의 라인 <ruby class="hanja api grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby>에서)은 "oben am jungen Rhein"(젊은 라인<ruby class="hanja api grade72"><rb>江</rb><rp>(</rp><rt>강</rt><rp>)</rp></ruby>에서)으로, "im deutschen Vaterland"(<ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>本土</rb><rp>(</rp><rt>본토</rt><rp>)</rp></ruby>에서)는 "das teure Vaterland"(<ruby class="hanja api grade70"><rb>所重</rb><rp>(</rp><rt>소중</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>)로 바뀌었다. "Auf Deutschlands Wacht"(<ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>監視</rb><rp>(</rp><rt>감시</rt><rp>)</rp></ruby> 아래)가 <ruby class="hanja api grade32"><rb>包含</rb><rp>(</rp><rt>포함</rt><rp>)</rp></ruby>된 <ruby class="hanja api grade50"><rb>原文</rb><rp>(</rp><rt>원문</rt><rp>)</rp></ruby>의 두 <ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>째 <ruby class="hanja api grade40"><rb>段落</rb><rp>(</rp><rt>단락</rt><rp>)</rp></ruby>에서는 세 <ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>째와 네 <ruby class="hanja api grade60"><rb>番</rb><rp>(</rp><rt>번</rt><rp>)</rp></ruby>째 <ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>연</rt><rp>)</rp></ruby>에서와 같이 <ruby class="hanja api grade50"><rb>完全</rb><rp>(</rp><rt>완전</rt><rp>)</rp></ruby>히 멈추고 노래합니다.
 </p>
 <div class="notice" style="overflow: hidden; padding: 15px; margin: 15px 0px; border: 3px solid #2196F3; background-color: #70BBF93E;border-radius: 4px;"><div style="">
 이 <a href="/wiki/%E6%96%87%E6%9B%B8" title="文書"><ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby></a>는 <a href="/wiki/%E5%88%97%E6%94%AF%E6%95%A6%E5%A3%AB%E7%99%BB" title="列支敦士登"><ruby class="hanja api grade30"><rb>列支敦士登</rb><rp>(</rp><rt>열지돈사등</rt><rp>)</rp></ruby></a>에서 <a href="/wiki/%E5%88%86%E5%B2%90" title="分岐"><ruby class="hanja api grade62"><rb>分</rb><rp>(</rp><rt>분</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>岐</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby></a>하였습니다.</div></div>
