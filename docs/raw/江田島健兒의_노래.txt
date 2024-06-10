@@ -1,10 +1,23 @@
-<html><head></head><body><div class="mw-parser-output"><p><br>
-</p>
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade62"><rb>神代</rb><rp>(</rp><rt>신대</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>猛</rb><rp>(</rp><rt>맹</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>男</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade30"><rb>佐</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>淸</rb><rp>(</rp><rt>청</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>吉</rb><rp>(</rp><rt>길</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
 <h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B1%9F%E7%94%B0%E5%B3%B6%E5%81%A5%E5%85%92%EC%9D%98_%EB%85%B8%EB%9E%98&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><ruby><rb>澎湃</rb><rp>(</rp><rt>ほうはい</rt><rp>)</rp></ruby><ruby><rb>寄</rb><rp>(</rp><rt>よ</rt><rp>)</rp></ruby>する<ruby><rb>海原</rb><rp>(</rp><rt>うなばら</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>　<ruby><rb>大波</rb><rp>(</rp><rt>おほなみ</rt><rp>)</rp></ruby><ruby><rb>碎</rb><rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>け<ruby><rb>散</rb><rp>(</rp><rt>ち</rt><rp>)</rp></ruby>る<ruby><rb>所</rb><rp>(</rp><rt>ところ</rt><rp>)</rp></ruby><br>
 <ruby><rb>常磐</rb><rp>(</rp><rt>ときわ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>松</rb><rp>(</rp><rt>まつ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>綠</rb><rp>(</rp><rt>みどり</rt><rp>)</rp></ruby><ruby><rb>濃</rb><rp>(</rp><rt>のう</rt><rp>)</rp></ruby>き　<ruby><rb>秀麗</rb><rp>(</rp><rt>しゅうれい</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>國</rb><rp>(</rp><rt>くに</rt><rp>)</rp></ruby><ruby><rb>秋</rb><rp>(</rp><rt>あき</rt><rp>)</rp></ruby><ruby><rb>津</rb><rp>(</rp><rt>つ</rt><rp>)</rp></ruby><ruby><rb>州</rb><rp>(</rp><rt>しま</rt><rp>)</rp></ruby><br>
-<ruby><rb>有</rb><rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby><rb>史</rb><rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby><rb>悠々數千載</rb><rp>(</rp><rt>ゆう／＼すうせんざい</rt><rp>)</rp></ruby>　<ruby><rb>皇</rb><rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby><rb>謨</rb><rp>(</rp><rt>ぼ</rt><rp>)</rp></ruby><ruby><rb>仰</rb><rp>(</rp><rt>あお</rt><rp>)</rp></ruby>げば　<ruby><rb>彌</rb><rp>(</rp><rt>いや</rt><rp>)</rp></ruby><ruby><rb>高</rb><rp>(</rp><rt>たかし</rt><rp>)</rp></ruby>
-</p><p><br>
+<ruby><rb>有</rb><rp>(</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby><rb>史</rb><rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby><rb>悠々數千載</rb><rp>(</rp><rt>ゆう／＼すうせんざい</rt><rp>)</rp></ruby>　<ruby><rb>皇</rb><rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby><rb>謨</rb><rp>(</rp><rt>ぼ</rt><rp>)</rp></ruby><ruby><rb>仰</rb><rp>(</rp><rt>あお</rt><rp>)</rp></ruby>げば<ruby><rb>彌</rb><rp>(</rp><rt>いや</rt><rp>)</rp></ruby><ruby><rb>高</rb><rp>(</rp><rt>たかし</rt><rp>)</rp></ruby>
+</p><p><ruby><rb>玲瓏</rb><rp>(</rp><rt>れいろう</rt><rp>)</rp></ruby><ruby><rb>聳</rb><rp>(</rp><rt>そび</rt><rp>)</rp></ruby>ゆる<ruby><rb>東海</rb><rp>(</rp><rt>とうかい</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby>　<ruby><rb>芙</rb><rp>(</rp><rt>ふ</rt><rp>)</rp></ruby><ruby><rb>蓉</rb><rp>(</rp><rt>よう</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>嶺</rb><rp>(</rp><rt>みね</rt><rp>)</rp></ruby>を<ruby><rb>仰</rb><rp>(</rp><rt>あおぎ</rt><rp>)</rp></ruby>ては<br>
+<ruby><rb>神州</rb><rp>(</rp><rt>しんしふ</rt><rp>)</rp></ruby><ruby><rb>男</rb><rp>(</rp><rt>だん</rt><rp>)</rp></ruby><ruby><rb>児</rb><rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>熱血</rb><rp>(</rp><rt>ねつけつ</rt><rp>)</rp></ruby>に　<ruby><rb>我</rb><rp>(</rp><rt>わが</rt><rp>)</rp></ruby><ruby><rb>胸</rb><rp>(</rp><rt>むね</rt><rp>)</rp></ruby><ruby><rb>更</rb><rp>(</rp><rt>さら</rt><rp>)</rp></ruby>に<ruby><rb>躍</rb><rp>(</rp><rt>おど</rt><rp>)</rp></ruby>るかな<br>
+<ruby><rb>嗚呼</rb><rp>(</rp><rt>あゝ</rt><rp>)</rp></ruby><ruby><rb>光榮</rb><rp>(</rp><rt>こうえい</rt><rp>)</rp></ruby><ruby><rb>之</rb><rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby><rb>國</rb><rp>(</rp><rt>くに</rt><rp>)</rp></ruby><ruby><rb>柱</rb><rp>(</rp><rt>はしら</rt><rp>)</rp></ruby>　{{ruby|護|まも}らで<ruby><rb>止</rb><rp>(</rp><rt>や</rt><rp>)</rp></ruby>まじ<ruby><rb>身</rb><rp>(</rp><rt>み</rt><rp>)</rp></ruby>を<ruby><rb>捨</rb><rp>(</rp><rt>す</rt><rp>)</rp></ruby>てゝ
 </p><p><br>
 </p>
 </div></body></html>
