@@ -53,12 +53,17 @@
     },
     {
       "title": "英國의 國歌",
-      "surrounding": "live our noble King ... Dieu Sauve le Roi(1686)",
+      "surrounding": "live our noble King ... Dieu Sauve le Roi",
+      "count": 7
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "sich der Adler schwingt ... Dieu Sauve le Roi",
       "count": 7
     },
     {
       "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "Dieu Sauve le Roi는 ... Dieu Sauve le Roi(1686)",
+      "surrounding": "Dieu Sauve le Roi는 ... Dieu Sauve le Roi",
       "count": 6
     },
     {

@@ -58,13 +58,18 @@
     },
     {
       "title": "英國의 國歌",
-      "surrounding": "God save the King ... du mein Vaterland(1850-1961) 獨逸(독일)",
+      "surrounding": "God save the King ... du mein Vaterland (1850-1961)",
       "count": 45
     },
     {
       "title": "裝甲部隊行進曲",
       "surrounding": "詞(사) 쿠르트 빌레(Kurt Wiehle) ... die Todeskugel ruft uns",
       "count": 42
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "Oben am deutschen Rhein ... du mein Vaterland (1850-1961)",
+      "count": 41
     },
     {
       "title": "오, 加奈陀",
@@ -218,7 +223,7 @@
     },
     {
       "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "Roi Que toujours glorieux ... du mein Vaterland(1850-1961) 獨逸(독일)",
+      "surrounding": "Roi Que toujours glorieux ... du mein Vaterland (1850-1961)",
       "count": 11
     },
     {

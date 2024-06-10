@@ -3,12 +3,12 @@
   "pages": [
     {
       "title": "英國의 國歌",
-      "surrounding": "le Roi 大英帝國(대영제국) 直接(직접) ... le Roi(1686) 大英帝國(대영제국) 하느님",
+      "surrounding": "le Roi 大英帝國(대영제국) 直接(직접) ... Roi (1686) 大英帝國(대영제국) 하느님",
       "count": 2
     },
     {
       "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "le Roi(1686) 大英帝國(대영제국) 하느님",
+      "surrounding": "Roi (1686) 大英帝國(대영제국) 하느님",
       "count": 1
     },
     {
@@ -139,6 +139,11 @@
     {
       "title": "오, 加奈陀",
       "surrounding": "le Roi 大英帝國(대영제국) 直接(직접)",
+      "count": 1
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "Roi (1686) 大英帝國(대영제국) 하느님",
       "count": 1
     }
   ]

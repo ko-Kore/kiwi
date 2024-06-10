@@ -3,7 +3,7 @@
   "pages": [
     {
       "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "le Roi” 曲調(곡조)의 國歌(국가)",
+      "surrounding": "le Roi”의 曲調(곡조)를 採用(채용)한",
       "count": 1
     },
     {
@@ -23,12 +23,17 @@
     },
     {
       "title": "英國의 國歌",
-      "surrounding": "le Roi” 曲調(곡조)의 國歌(국가)",
+      "surrounding": "le Roi”의 曲調(곡조)를 採用(채용)한",
       "count": 1
     },
     {
       "title": "黑龍江의 流血",
       "surrounding": "編輯(편집)採用(채용) “小(소)楠(남)公(공)” 曲調(곡조)의 노래",
+      "count": 1
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "le Roi”의 曲調(곡조)를 採用(채용)한",
       "count": 1
     }
   ]

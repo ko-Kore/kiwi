@@ -58,8 +58,13 @@
     },
     {
       "title": "英國의 國歌",
-      "surrounding": "時期(시기)[編輯] 1 God save ... du mein Vaterland(1850-1961) 獨逸(독일)",
+      "surrounding": "時期(시기)[編輯] 1 God save ... du mein Vaterland (1850-1961)",
       "count": 35
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "Oben am deutschen Rhein ... du mein Vaterland (1850-1961)",
+      "count": 34
     },
     {
       "title": "美合衆國",
@@ -183,7 +188,7 @@
     },
     {
       "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "Grand Dieu ... du mein Vaterland(1850-1961) 獨逸(독일)",
+      "surrounding": "Grand Dieu ... du mein Vaterland (1850-1961)",
       "count": 7
     },
     {

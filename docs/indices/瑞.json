@@ -113,7 +113,7 @@
     },
     {
       "title": "Grand Dieu Sauve le Roi",
-      "surrounding": "of thee(1831-1931) 瑞西(서서) Rufst",
+      "surrounding": "thee (1831-1931) 瑞西(서서) Rufst",
       "count": 1
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "title": "英國의 國歌",
-      "surrounding": "of thee(1831-1931) 瑞西(서서) Rufst",
+      "surrounding": "thee (1831-1931) 瑞西(서서) Rufst",
       "count": 1
     },
     {
@@ -349,6 +349,11 @@
     {
       "title": "스카루 (放送劇)",
       "surrounding": "大河(대하) 演出(연출) 曹(조)瑞(서)原(원) 脚本(각본)",
+      "count": 1
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "thee (1831-1931) 瑞西(서서) Rufst",
       "count": 1
     }
   ]
