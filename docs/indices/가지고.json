@@ -102,6 +102,11 @@
       "count": 1
     },
     {
+      "title": "十月維新",
+      "surrounding": "重要(중요)한 權限(권한)을 가지고 있어",
+      "count": 1
+    },
+    {
       "title": "只今은 된거야。",
       "surrounding": "그걸 부드럽게 가지고 걸어",
       "count": 1
@@ -239,6 +244,11 @@
     {
       "title": "靖國神社",
       "surrounding": "戰死者(전사자)의 神位(신위)를 가지고 있는",
+      "count": 1
+    },
+    {
+      "title": "게임보이 어드밴스",
+      "surrounding": "CPU를 그대로 가지고 있기",
       "count": 1
     },
     {
