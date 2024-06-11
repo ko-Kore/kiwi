@@ -117,6 +117,11 @@
       "count": 11
     },
     {
+      "title": "젊은 라인江에서",
+      "surrounding": "Oben am jungen Rhein)는 ... Blühend am jungen Rhein",
+      "count": 11
+    },
+    {
       "title": "一伊那爾栖",
       "surrounding": "up a strange book ... an ordinary girl ↑",
       "count": 10
@@ -124,11 +129,6 @@
     {
       "title": "아프리칸스語",
       "surrounding": "쓰는 類似(유사)言語(언어)(bastard jargon)로 取扱(취급)받았다 ... 읽는다 (예: acht→agt 여덟)",
-      "count": 10
-    },
-    {
-      "title": "젊은 라인江에서",
-      "surrounding": "Oben am jungen Rhein)는 ... Oben am jungen Rhein",
       "count": 10
     },
     {
@@ -258,6 +258,11 @@
     },
     {
       "title": "애리가 (軍歌)",
+      "surrounding": "ist voller Süßigkeit zarter ... dich ein Mägdelein und",
+      "count": 5
+    },
+    {
+      "title": "에리카 (軍歌)",
       "surrounding": "ist voller Süßigkeit zarter ... dich ein Mägdelein und",
       "count": 5
     },

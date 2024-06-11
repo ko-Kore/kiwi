@@ -73,8 +73,8 @@
     },
     {
       "title": "젊은 라인江에서",
-      "surrounding": "Oben am jungen Rhein)는 ... Oben am jungen Rhein",
-      "count": 9
+      "surrounding": "Oben am jungen Rhein)는 ... Blühend am jungen Rhein",
+      "count": 10
     },
     {
       "title": "마르세유의 노래",
@@ -318,6 +318,11 @@
     },
     {
       "title": "애리가 (軍歌)",
+      "surrounding": "Heidekraut rotlilablüht singe ich ... Schon beim Morgengrau'n sowie",
+      "count": 2
+    },
+    {
+      "title": "에리카 (軍歌)",
       "surrounding": "Heidekraut rotlilablüht singe ich ... Schon beim Morgengrau'n sowie",
       "count": 2
     },

@@ -29,7 +29,7 @@
     {
       "title": "젊은 라인江에서",
       "surrounding": "作詞(작사) Jakob Joseph Jauch ... tis of thee (1831-1931)",
-      "count": 63
+      "count": 62
     },
     {
       "title": "크툴루",
@@ -88,6 +88,11 @@
     },
     {
       "title": "애리가 (軍歌)",
+      "surrounding": "der Heide blüht ein ... und das heißt: Erika",
+      "count": 26
+    },
+    {
+      "title": "에리카 (軍歌)",
       "surrounding": "der Heide blüht ein ... und das heißt: Erika",
       "count": 26
     },

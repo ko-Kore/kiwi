@@ -4,7 +4,7 @@
     {
       "title": "젊은 라인江에서",
       "surrounding": "Oben am deutschen Rhein ... 佛蘭西(불란서) Grand Dieu Sauve",
-      "count": 15
+      "count": 14
     },
     {
       "title": "마르세유의 노래",
@@ -173,6 +173,11 @@
     },
     {
       "title": "애리가 (軍歌)",
+      "surrounding": "ist mein treues Schätzelein",
+      "count": 1
+    },
+    {
+      "title": "에리카 (軍歌)",
       "surrounding": "ist mein treues Schätzelein",
       "count": 1
     },
