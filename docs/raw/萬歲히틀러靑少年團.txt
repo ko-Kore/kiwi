@@ -1,0 +1,97 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<caption>캡션 텍스트
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>原</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>白</rb><rp>(</rp><rt>백</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>秋</rb><rp>(</rp><rt>추</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade62"><rb>高</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>阶</rb><rp>(</rp><rt>계</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>哲夫</rb><rp>(</rp><rt>철부</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby>
+</th>
+<td>1938<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<p>1938<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <a href="/index.php?title=%E5%A4%A7%E6%97%A5%E6%9C%AC%E8%81%AF%E5%90%88%E9%9D%91%E5%B9%B4%E5%9C%98&amp;action=edit&amp;redlink=1" class="new" title="大日本聯合靑年團 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>大日</rb><rp>(</rp><rt>대일</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>靑年團</rb><rp>(</rp><rt>청년단</rt><rp>)</rp></ruby></a><ruby class="hanja api grade42"><rb>制定</rb><rp>(</rp><rt>제정</rt><rp>)</rp></ruby>. <ruby class="hanja api grade40"><rb>雜誌</rb><rp>(</rp><rt>잡지</rt><rp>)</rp></ruby> 「<ruby class="hanja api grade80"><rb>靑年</rb><rp>(</rp><rt>청년</rt><rp>)</rp></ruby>」의 <ruby class="hanja api grade50"><rb>當選</rb><rp>(</rp><rt>당선</rt><rp>)</rp></ruby> <ruby class="hanja api grade70"><rb>軍歌</rb><rp>(</rp><rt>군가</rt><rp>)</rp></ruby>.
+</p>
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E8%90%AC%E6%AD%B2%ED%9E%88%ED%8B%80%EB%9F%AC%E9%9D%91%E5%B0%91%E5%B9%B4%E5%9C%98&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade40"><rb>段落</rb><rp>(</rp><rt>단락</rt><rp>)</rp></ruby></th>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E" title="日本語"><ruby class="hanja api grade50"><rb>原語</rb><rp>(</rp><rt>원어</rt><rp>)</rp></ruby></a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></th>
+<th><a href="/wiki/%E7%8D%A8%E9%80%B8%E8%AA%9E" title="獨逸語"><ruby class="hanja api grade32"><rb>獨逸語</rb><rp>(</rp><rt>독일어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<th>1.
+</th>
+<td>
+<p><ruby><rb>燦</rb><rp>(</rp><rt>さん</rt><rp>)</rp></ruby>たり、<ruby><rb>輝</rb><rp>(</rp><rt>かゞやく</rt><rp>)</rp></ruby><br>
+<ruby><rb>八間</rb><rp>(</rp><rt>ハーケン</rt><rp>)</rp></ruby>・<ruby><rb>黑逸</rb><rp>(</rp><rt>クロイツ</rt><rp>)</rp></ruby><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><br>
+ようこそ<ruby><rb>遙々</rb><rp>(</rp><rt>はるばる</rt><rp>)</rp></ruby>、<ruby><rb>西</rb><rp>(</rp><rt>にし</rt><rp>)</rp></ruby>なる<ruby><rb>盟友</rb><rp>(</rp><rt>めいゆう</rt><rp>)</rp></ruby><br>
+いざ<ruby><rb>今</rb><rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby><rb>見</rb><rp>(</rp><rt>み</rt><rp>)</rp></ruby>えん、<ruby><rb>朝日</rb><rp>(</rp><rt>あさひ</rt><rp>)</rp></ruby>に<ruby><rb>迎</rb><rp>(</rp><rt>むかえ</rt><rp>)</rp></ruby>へて<br>
+<ruby><rb>我</rb><rp>(</rp><rt>われ</rt><rp>)</rp></ruby><ruby><rb>等</rb><rp>(</rp><rt>ら</rt><rp>)</rp></ruby>ぞ<ruby><rb>東</rb><rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby><rb>亞</rb><rp>(</rp><rt>あ</rt><rp>)</rp></ruby>の<ruby><rb>靑年日本</rb><rp>(</rp><rt>せいねんにっぽん</rt><rp>)</rp></ruby>
+</p>
+</td>
+<td>예시
+</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr>
+<tr>
+<td>예시</td>
+<td>예시</td>
+<td>예시
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">모든 <a href="/wiki/%E7%89%87%E5%81%87%E5%90%8D" title="片假名"><ruby class="hanja api grade32"><rb>片</rb><rp>(</rp><rt>편</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>假名</rb><rp>(</rp><rt>가명</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade10"><rb>語彙</rb><rp>(</rp><rt>어휘</rt><rp>)</rp></ruby>는 <a href="/wiki/%E6%8C%AF%E5%81%87%E5%90%8D" title="振假名"><ruby class="hanja api grade32"><rb>振</rb><rp>(</rp><rt>진</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>假名</rb><rp>(</rp><rt>가명</rt><rp>)</rp></ruby></a>을 <ruby class="hanja api grade40"><rb>採擇</rb><rp>(</rp><rt>채택</rt><rp>)</rp></ruby>해요.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><ruby class="hanja api grade80"><rb>外國人</rb><rp>(</rp><rt>외국인</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade70"><rb>漢字</rb><rp>(</rp><rt>한자</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby>해요.</span>
+</li>
+</ol></div>
+</div></body></html>
