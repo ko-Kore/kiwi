@@ -2,6 +2,11 @@
   "word": "com",
   "pages": [
     {
+      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
+      "surrounding": "On the coming into ... and will come into",
+      "count": 5
+    },
+    {
       "title": "聯合艦隊解散之辭",
       "surrounding": "Squadron having completed its ... are the outcome of",
       "count": 5
@@ -19,11 +24,6 @@
     {
       "title": "學名",
       "surrounding": "디프테라目(목) 수중파리科(과)의 Parastratiosphecomyia stratiosphecomyioides입니다 ... 수중파리科(과)의 Parastratiosphecomyia stratiosphecomyioides입니다 가장",
-      "count": 2
-    },
-    {
-      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
-      "surrounding": "On the coming into ... America to come into",
       "count": 2
     },
     {
