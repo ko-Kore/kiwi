@@ -42,6 +42,11 @@
       "count": 1
     },
     {
+      "title": "左",
+      "surrounding": " 左 왼쪽 좌",
+      "count": 1
+    },
+    {
       "title": "打字機",
       "surrounding": "基準(기준)으로는 커서만 왼쪽으로 移動(이동)하는",
       "count": 1
