@@ -42,6 +42,11 @@
       "count": 13
     },
     {
+      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
+      "surrounding": "will not have the ... two countries have agreed",
+      "count": 13
+    },
+    {
       "title": "捷克共和國",
       "surrounding": "있어요 標語(표어) Pravda vítězí ... 外交(외교)部(부): http://www mzv cz",
       "count": 10
@@ -169,11 +174,6 @@
     {
       "title": "文言文編程語言",
       "surrounding": "자바스크립트 코드 var a ... 3; for (var i",
-      "count": 3
-    },
-    {
-      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
-      "surrounding": "will not have the ... yet been driven from",
       "count": 3
     },
     {
