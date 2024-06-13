@@ -2,6 +2,11 @@
   "word": "im",
   "pages": [
     {
+      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
+      "surrounding": "into force simultaneously with ... shall be immediately reported",
+      "count": 7
+    },
+    {
       "title": "裝甲部隊行進曲",
       "surrounding": "unser Panzer im Sturmwind ... mehr zur Heimat zurück",
       "count": 7
@@ -75,11 +80,6 @@
       "title": "레제프 타이이프 에르도안",
       "surrounding": "ve Ticari İlimler Akademisi)에 ... Akademisi)의 商學部(상학부)(Ticarî Bilimler Fakültesi)",
       "count": 3
-    },
-    {
-      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
-      "surrounding": "into force simultaneously with ... seek to eliminate conflict",
-      "count": 2
     },
     {
       "title": "薩摩亞",

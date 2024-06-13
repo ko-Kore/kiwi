@@ -2,6 +2,11 @@
   "word": "ist",
   "pages": [
     {
+      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
+      "surrounding": "without including assistance given ... under the administration of",
+      "count": 7
+    },
+    {
       "title": "나치獨逸의 노래",
       "surrounding": "Marschier'n im GeistIn unser'n ... Philipps)와 크리스티안 예리히(Christian Jährig)가",
       "count": 6
@@ -10,11 +15,6 @@
       "title": "聯合艦隊解散之辭",
       "surrounding": "does not consist solely ... offer any resistance to",
       "count": 4
-    },
-    {
-      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
-      "surrounding": "without including assistance given ... determined by administrative agreements",
-      "count": 3
     },
     {
       "title": "애리가 (軍歌)",
