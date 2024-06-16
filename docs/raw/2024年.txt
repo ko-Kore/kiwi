@@ -13,6 +13,30 @@
 </th>
 <td><a href="/index.php?title=2025%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="2025年 (없는 文書)">2025<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
+<table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">다른 <ruby class="hanja api grade40"><rb>紀年法</rb><rp>(</rp><rt>기년법</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><a href="/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B" title="大韓民國"><ruby class="hanja api grade80"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja api grade40"><rb>檀紀</rb><rp>(</rp><rt>단기</rt><rp>)</rp></ruby>4358<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><a href="/wiki/%E5%8C%97%E9%9F%93" title="北韓"><ruby class="hanja api grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja api grade62"><rb>主體</rb><rp>(</rp><rt>주체</rt><rp>)</rp></ruby>114<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja api grade50"><rb>令</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>和</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby>7<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> <br> <ruby class="hanja api grade32"><rb>皇</rb><rp>(</rp><rt>황</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>紀</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>2685<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><a href="/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B" title="中華民國"><ruby class="hanja api grade40"><rb>中華民國</rb><rp>(</rp><rt>중화민국</rt><rp>)</rp></ruby></a>
+</th>
+<td><ruby class="hanja api grade80"><rb>民國</rb><rp>(</rp><rt>민국</rt><rp>)</rp></ruby>114<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
 <p><ruby class="hanja api grade40"><rb>西紀</rb><rp>(</rp><rt>서기</rt><rp>)</rp></ruby>2023<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>은 <a href="/index.php?title=%E7%99%B8%E5%8D%AF%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="癸卯年 (없는 文書)"><ruby class="hanja api grade30 unknown"><rb>癸卯</rb><rp>(</rp><rt>계묘</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>에서 <a href="/index.php?title=%E7%94%B2%E8%BE%B0%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="甲辰年 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>甲辰</rb><rp>(</rp><rt>갑진</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>에 <ruby class="hanja api grade30"><rb>該當</rb><rp>(</rp><rt>해당</rt><rp>)</rp></ruby>되는 <ruby class="hanja api grade60"><rb>年度</rb><rp>(</rp><rt>연도</rt><rp>)</rp></ruby>이다.
 </p>
 <h2><span id=".E4.BA.8B.E4.BB.B6.28.EC.82.AC.EA.B1.B4.29"></span><span class="mw-headline" id="事件(사건)"><ruby class="hanja api grade50"><rb>事件</rb><rp>(</rp><rt>사건</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=2024%E5%B9%B4&amp;action=edit&amp;section=1" title="部分 編輯: 事件(사건)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
