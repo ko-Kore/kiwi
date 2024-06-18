@@ -723,7 +723,7 @@
     },
     {
       "title": "歐羅巴聯合",
-      "surrounding": "歐羅巴聯合 歐羅巴(구라파)聯合(연합) Europäische Union/Union ... 生(생)效(효)) 歐羅巴(구라파)聯合(연합)(獨逸語: Europäische(유로페이스) Union(",
+      "surrounding": " 歐羅巴(구라파)聯合(연합) Europäische Union/Union ... 生(생)效(효)) 歐羅巴(구라파)聯合(연합)(獨逸語: Europäische(유로페이스) Union(",
       "count": 2
     },
     {
@@ -1349,6 +1349,11 @@
     {
       "title": "韓國文化放送株式會社",
       "surrounding": "韓國(한국)文化放送(문화방송)株式會社(주식회사) 簡(간)寫(사) MBC(Munhwa Broadcasting",
+      "count": 1
+    },
+    {
+      "title": "體育",
+      "surrounding": "體育(체육)는英語: physical exercise의",
       "count": 1
     },
     {

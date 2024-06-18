@@ -1,8 +1,10 @@
 {
   "title": "SC第一銀行",
   "namespace": 0,
-  "timestamp": 1716648404000,
-  "categories": [],
+  "timestamp": 1718694106000,
+  "categories": [
+    "銀行"
+  ],
   "members": [],
   "file": null
 }

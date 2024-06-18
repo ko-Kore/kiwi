@@ -508,7 +508,7 @@
     },
     {
       "title": "歐羅巴聯合",
-      "surrounding": "歐羅巴聯合 歐羅巴(구라파)聯合(연합) Europäische Union/Union ... 白耳義(백이의)의 首都(수도) 布(포)魯(로)塞(새)爾(이)(Brussels)에 本社(본사)를",
+      "surrounding": " 歐羅巴(구라파)聯合(연합) Europäische Union/Union ... 白耳義(백이의)의 首都(수도) 布(포)魯(로)塞(새)爾(이)(Brussels)에 本社(본사)를",
       "count": 6
     },
     {
@@ -654,6 +654,11 @@
     {
       "title": "公炳禹세벌式 3-91",
       "surrounding": "+> \\: Backspace Tab ... Alt Win Menu Ctrl",
+      "count": 4
+    },
+    {
+      "title": "北大西洋條約機構",
+      "surrounding": "• 編輯(편집)北大西洋條約機構 成員國(성원국)Member States ... NATOÉtats membres de l'OTAN",
       "count": 4
     },
     {
@@ -1859,6 +1864,11 @@
     {
       "title": "香風智乃",
       "surrounding": "喫茶店(끽다점) Rabbit House의主人(주인)의孫女及看板少女(손녀급간판소녀) 커피에關(관)해서는相當(상당)히通曉(통효)해있으나",
+      "count": 1
+    },
+    {
+      "title": "體育",
+      "surrounding": "體育(체육)는英語: physical exercise의 飜譯(번역)",
       "count": 1
     },
     {
