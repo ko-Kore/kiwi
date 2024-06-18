@@ -1297,6 +1297,11 @@
       "count": 2
     },
     {
+      "title": "知乎",
+      "surrounding": "(영문) https://www zhihu com/ ... zhihu com/ 知(지)乎(호)(Zhihu)는 中國(중국)",
+      "count": 2
+    },
+    {
       "title": "碧藍航路",
       "surrounding": "* 携帶電話(휴대전화) (안드로이드/iOS) 웹사이트 ... PWB Play Entertainment 等級(등급)",
       "count": 2
@@ -1759,11 +1764,6 @@
     {
       "title": "眼科",
       "surrounding": "分科(분과)이다 眼科醫師(안과의사)(英語(영어): ophthalmologist)는 醫學的(의학적)이고",
-      "count": 1
-    },
-    {
-      "title": "知乎",
-      "surrounding": "thumb|center 知(지)乎(호)(Zhihu)는 中國(중국)",
       "count": 1
     },
     {

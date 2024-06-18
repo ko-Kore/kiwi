@@ -147,6 +147,11 @@
       "count": 2
     },
     {
+      "title": "知乎",
+      "surrounding": "(영문) https://www zhihu com/ ... zhihu com/ 知(지)乎(호)(Zhihu)는 中國(중국)",
+      "count": 2
+    },
+    {
       "title": "硫黄島의 星條旗",
       "surrounding": "on the hill Suribachi ... the hill Suribachi flies",
       "count": 2
@@ -249,11 +254,6 @@
     {
       "title": "皇帝 (同形異義)",
       "surrounding": "밴드 Mr Children 기타리스트",
-      "count": 1
-    },
-    {
-      "title": "知乎",
-      "surrounding": "thumb|center 知(지)乎(호)(Zhihu)는 中國(중국)",
       "count": 1
     },
     {

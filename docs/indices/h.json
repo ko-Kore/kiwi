@@ -502,6 +502,11 @@
       "count": 3
     },
     {
+      "title": "知乎",
+      "surrounding": "URL (영문) https://www zhihu ... zhihu com/ 知(지)乎(호)(Zhihu)는 中國(중국)",
+      "count": 3
+    },
+    {
       "title": "科摩羅",
       "surrounding": "Comores Anjouan Moheli 및 ... Kaf Magoni Uamacha 및",
       "count": 3
@@ -759,11 +764,6 @@
     {
       "title": "瑪德羅群島",
       "surrounding": "領(영) 瑪(마)德(덕)羅(라)群島(군도) Ilhas Portuguesas ... 파일:Flag of the Madeira",
-      "count": 2
-    },
-    {
-      "title": "知乎",
-      "surrounding": "thumb|center 知(지)乎(호)(Zhihu)는 ... thumb|center 知(지)乎(호)(Zhihu)는 中國(중국)",
       "count": 2
     },
     {
