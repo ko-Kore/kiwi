@@ -1,4 +1,6 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
+<html><head></head><body><div class="mw-parser-output"><p><br>
+</p>
+<table class="wikitable" style="margin: auto; text-align: center;">
 <tbody><tr>
 <th colspan="5"><span class="tp_link"><ruby class="hanja api grade60"><rb>年度</rb><rp>(</rp><rt>연도</rt><rp>)</rp></ruby></span>
 </th></tr>
