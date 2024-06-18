@@ -502,11 +502,6 @@
       "count": 3
     },
     {
-      "title": "知乎",
-      "surrounding": "URL (영문) https://www zhihu ... zhihu com/ 知(지)乎(호)(Zhihu)는 中國(중국)",
-      "count": 3
-    },
-    {
       "title": "科摩羅",
       "surrounding": "Comores Anjouan Moheli 및 ... Kaf Magoni Uamacha 및",
       "count": 3
@@ -1247,6 +1242,11 @@
       "count": 1
     },
     {
+      "title": "知乎",
+      "surrounding": "링크 知(지)乎(호)(Zhihu)는 中國(중국)",
+      "count": 1
+    },
+    {
       "title": "粵語諺文",
       "surrounding": "卡(잡) 카 h 哈(합)",
       "count": 1
@@ -1358,7 +1358,7 @@
     },
     {
       "title": "體育",
-      "surrounding": "體育(체육)는英語: physical exercise의",
+      "surrounding": "體育(체육)(英語: physical exercise)은",
       "count": 1
     },
     {

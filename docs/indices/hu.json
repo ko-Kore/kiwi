@@ -62,11 +62,6 @@
       "count": 2
     },
     {
-      "title": "知乎",
-      "surrounding": "(영문) https://www zhihu com/ ... zhihu com/ 知(지)乎(호)(Zhihu)는 中國(중국)",
-      "count": 2
-    },
-    {
       "title": "크툴루",
       "surrounding": "Ph'nglui Mglw'nafh Cthulhu R'lyeh ... of mighty Cthulhu for",
       "count": 2
@@ -154,6 +149,11 @@
     {
       "title": "瑞典",
       "surrounding": "사이트[編輯] 皇室(황실):http://www kungahuset se",
+      "count": 1
+    },
+    {
+      "title": "知乎",
+      "surrounding": "링크 知(지)乎(호)(Zhihu)는 中國(중국)",
       "count": 1
     },
     {
