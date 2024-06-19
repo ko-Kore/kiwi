@@ -387,11 +387,6 @@
       "count": 3
     },
     {
-      "title": "美聯合國",
-      "surrounding": "States of America 國旗(국기) ... 標語(표어) Deo vindice主(주)님은 우리의",
-      "count": 3
-    },
-    {
       "title": "西獨",
       "surrounding": "獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland 國旗(국기) ... Einigkeit und Recht und",
       "count": 3
@@ -614,6 +609,11 @@
     {
       "title": "羅馬",
       "surrounding": "都(도)伯林(백림) ↑ comune ↑ ... regione ↑ municcipio ",
+      "count": 2
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": "States of America 國旗(국기) ... 標語(표어) Deo vindice主(주)님은 우리의",
       "count": 2
     },
     {
