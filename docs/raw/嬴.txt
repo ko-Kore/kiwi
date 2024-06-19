@@ -6,26 +6,32 @@
 <th colspan="4">찰 영
 </th></tr>
 <tr>
-<th><ruby class="hanja grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade52"><rb>部首</rb><rp>(</rp><rt>부수</rt><rp>)</rp></ruby>
 </th>
 <td>女
 </td>
-<th><ruby class="hanja grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade32"><rb>劃數</rb><rp>(</rp><rt>획수</rt><rp>)</rp></ruby>
 </th>
-<td><ruby class="hanja grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>16<ruby class="hanja grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
+<td><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>16<ruby class="hanja api grade32"><rb>劃</rb><rp>(</rp><rt>획</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<th><ruby class="hanja grade40"><rb>簡化字</rb><rp>(</rp><rt>간화자</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade40"><rb>簡</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>化</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>字</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
 </th>
 <td>-
 </td>
-<th><ruby class="hanja grade62"><rb>新字體</rb><rp>(</rp><rt>신자체</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade62"><rb>新字</rb><rp>(</rp><rt>신자</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>體</rb><rp>(</rp><rt>체</rt><rp>)</rp></ruby>
 </th>
 <td>-
 </td></tr>
 <tr>
-<td colspan="4" style="text-align: center;">-
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="mw-file-description"><img src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a></span>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja api grade70"><rb>語文</rb><rp>(</rp><rt>어문</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>會</rb><rp>(</rp><rt>회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b><ruby class="hanja api grade60"><rb>特級</rb><rp>(</rp><rt>특급</rt><rp>)</rp></ruby></b></span>
 </td></tr></tbody></table>
-<p>뜻을 나타내는 <a href="/wiki/%E5%A5%B3" title="女"><ruby class="hanja grade80"><rb>女</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby></a>와 <ruby class="hanja grade62"><rb>音</rb><rp>(</rp><rt>음</rt><rp>)</rp></ruby>을 나타내는 𦝠이 합쳐진 <a href="/wiki/%E5%BD%A2%E8%81%B2%E6%96%87%E5%AD%97" title="形聲文字"><ruby class="hanja grade42"><rb>形聲文字</rb><rp>(</rp><rt>형성문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja grade40"><rb>姓氏</rb><rp>(</rp><rt>성씨</rt><rp>)</rp></ruby>의 하나이다.
+</td></tr></tbody></table>
+<p>뜻을 나타내는 <a href="/wiki/%E5%A5%B3" title="女"><ruby class="hanja api grade80"><rb>女</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby></a>와 <ruby class="hanja api grade62"><rb>音</rb><rp>(</rp><rt>음</rt><rp>)</rp></ruby>을 나타내는 𦝠이 합쳐진 <a href="/wiki/%E5%BD%A2%E8%81%B2%E6%96%87%E5%AD%97" title="形聲文字"><ruby class="hanja api grade42"><rb>形聲</rb><rp>(</rp><rt>형성</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja api grade40"><rb>姓氏</rb><rp>(</rp><rt>성씨</rt><rp>)</rp></ruby>의 하나이다.
 </p>
 </div></body></html>

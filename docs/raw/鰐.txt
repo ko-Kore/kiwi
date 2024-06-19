@@ -24,7 +24,13 @@
 <td>-
 </td></tr>
 <tr>
-<td colspan="4" style="text-align: center;">-
+<td colspan="4" style="text-align: center;">
+<table style="display: inline-table; width: 180px; margin: 5px; border: 1px solid #444444; text-align: center;">
+<tbody><tr>
+<td style="border: none; padding: 5px; border-radius: 0;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" class="mw-file-description"><img src="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/26px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png" decoding="async" width="26" height="25" srcset="/images/thumb/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png/40px-%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 1.5x, /images/3/3d/%E8%AA%9E%E6%96%87%E6%9C%83_%EB%A1%9C%EA%B3%A0.png 2x"></a></span>
+</td>
+<td style="border: none; padding: 5px; border-radius: 0; background: #0076c0; color: #ffffff; font-size: 12pt;"><ruby class="hanja api grade70"><rb>語文</rb><rp>(</rp><rt>어문</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>會</rb><rp>(</rp><rt>회</rt><rp>)</rp></ruby> <span style="font-size: 14pt;"><b><ruby class="hanja api grade60"><rb>特級</rb><rp>(</rp><rt>특급</rt><rp>)</rp></ruby>II</b></span>
+</td></tr></tbody></table>
 </td></tr></tbody></table>
 <h2><span id=".E7.94.A8.E4.BE.8B.28.EC.9A.A9.EB.A1.80.29"></span><span class="mw-headline" id="用例(용례)"><ruby class="hanja api grade60"><rb>用例</rb><rp>(</rp><rt>용례</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E9%B0%90&amp;action=edit&amp;section=1" title="部分 編輯: 用例(용례)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/%E9%B0%90%E9%AD%9A" title="鰐魚"><ruby class="hanja api grade0"><rb>鰐魚</rb><rp>(</rp><rt>악어</rt><rp>)</rp></ruby></a></li></ul>
