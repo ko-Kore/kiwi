@@ -1,0 +1,67 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade60"><rb>美</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>聯合國</rb><rp>(</rp><rt>연합국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">the Confederate States of America
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_Dixie.svg" class="new" title="파일:Flag of Dixie.svg"><span class="mw-broken-media" data-height="160">파일:Flag of Dixie.svg</span></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Dixie.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coat_of_arms_of_Dixie.svg/langko-kore-132px-Coat_of_arms_of_Dixie.svg.png" decoding="async" width="132" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coat_of_arms_of_Dixie.svg/langko-kore-198px-Coat_of_arms_of_Dixie.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coat_of_arms_of_Dixie.svg/langko-kore-264px-Coat_of_arms_of_Dixie.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%94%95%EC%8B%9C%EC%9D%98_%EB%85%B8%EB%9E%98&amp;action=edit&amp;redlink=1" class="new" title="딕시의 노래 (없는 文書)">딕시의 노래</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td>Deo vindice<br><ruby class="hanja api grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>님은 우리의 <ruby class="hanja api grade40"><rb>辯護</rb><rp>(</rp><rt>변호</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>者</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>예요
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%AB%8B%E5%9C%B0%E9%96%80%E5%BA%A6&amp;action=edit&amp;redlink=1" class="new" title="立地門度 (없는 文書)"><ruby class="hanja api grade70 unknown"><rb>立地</rb><rp>(</rp><rt>입지</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>門</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>度</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EC%A0%9C%ED%8D%BC%EC%8A%A8_%EB%8D%B0%EC%9D%B4%EB%B9%84%EC%8A%A4&amp;action=edit&amp;redlink=1" class="new" title="제퍼슨 데이비스 (없는 文書)">제퍼슨 데이비스</a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>1,995,392km²
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a> (<ruby class="hanja api grade52"><rb>事實上</rb><rp>(</rp><rt>사실상</rt><rp>)</rp></ruby>)
+</td></tr>
+</tbody></table>
+<div class="notice" style="overflow: hidden; padding: 15px; margin: 15px 0px; border: 3px solid #2196F3; background-color: #70BBF93E;border-radius: 4px;"><div style="">
+이 <a href="/wiki/%E6%96%87%E6%9B%B8" title="文書"><ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby></a>는 <a href="/index.php?title=%E5%8D%97%E5%8C%97%E6%88%B0%E7%88%AD&amp;action=edit&amp;redlink=1" class="new" title="南北戰爭 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>南北戰爭</rb><rp>(</rp><rt>남북전쟁</rt><rp>)</rp></ruby></a>에서 <a href="/wiki/%E5%88%86%E5%B2%90" title="分岐"><ruby class="hanja api grade62"><rb>分</rb><rp>(</rp><rt>분</rt><rp>)</rp></ruby><ruby class="hanja api grade12"><rb>岐</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby></a>하였습니다.</div></div>
+</div></body></html>
