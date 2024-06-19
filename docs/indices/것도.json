@@ -77,6 +77,11 @@
       "count": 1
     },
     {
+      "title": "UTF-16",
+      "surrounding": "유니코드에 導入(도입)된 것도 이러한",
+      "count": 1
+    },
+    {
       "title": "Wwwww",
       "surrounding": "wwwwww처럼 여러個(개)로 쓰는것도 똑같다",
       "count": 1
@@ -199,11 +204,6 @@
     {
       "title": "音盤",
       "surrounding": "媒體(매체)에 담긴 것도 통틀어",
-      "count": 1
-    },
-    {
-      "title": "鰐",
-      "surrounding": "짧고 기어다니는 것도 잘하고",
       "count": 1
     },
     {
