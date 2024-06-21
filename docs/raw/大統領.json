@@ -1,8 +1,11 @@
 {
   "title": "大統領",
   "namespace": 0,
-  "timestamp": 1718082442000,
-  "categories": [],
+  "timestamp": 1718970698000,
+  "categories": [
+    "最高指導者의 呼稱",
+    "大統領"
+  ],
   "members": [],
   "file": null
 }
