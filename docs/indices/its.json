@@ -25,6 +25,11 @@
       "title": "나치獨逸의 노래",
       "surrounding": "hoch die Freiheitsfahne hebt ... hoch die Freiheitsfahne hebt",
       "count": 2
+    },
+    {
+      "title": "戰士의 노래",
+      "surrounding": "Out yonder waits the",
+      "count": 1
     }
   ]
 }

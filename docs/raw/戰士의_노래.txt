@@ -56,7 +56,15 @@ Fé chiúnas chaomh na hoíche ar seol<br>
 Seo libh, canaídh Amhrán na bhFiann
 </p>
 </td>
-<td>
+<td>We'll sing a song, a soldier's song<br>
+<p>With cheering, rousing chorus<br>
+As round our blazing fires we throng<br>
+The starry heavens o'er us<br>
+Impatient for the coming fight<br>
+And as we wait the morning's light<br>
+Here in the silence of the night<br>
+We'll chant a soldier's song<br>
+</p>
 </td>
 <td>
 </td></tr>
@@ -76,8 +84,131 @@ Le gunna scréach faoi lámhach na bpiléar<br>
 Seo libh canaig Amhrán na bhFiann
 </p>
 </td>
-<td>예시
+<td>Soldiers are we,<br>
+<p>whose lives are pledged to Ireland<br>
+Some have come<br>
+from a land beyond the wave<br>
+Sworn to be free,<br>
+no more our ancient sireland<br>
+Shall shelter the despot or the slave;<br>
+Tonight we man the <i>Bearna Baoghal</i><br>
+In Erin's cause, come woe or weal<br>
+'Mid cannons' roar and rifles' peal,<br>
+We'll chant a soldier's song
+</p>
 </td>
-<td>예시
+<td>
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>Cois bánta réidhe, ar ardaibh sléibhe<br>
+<p>Ba bhuadhach ár sinsir romhainn<br>
+Ag lámhach go tréan fén sárbhrat séin<br>
+’Tá thuas sa ghaoth go seolta<br>
+Ba dhúchas riamh dár gcine cháidh<br>
+Gan iompáil siar ó imirt áir<br>
+’S ag siúl mar iad i gcoinne námhad<br>
+Seo libh, canaídh Amhrán na bhFiann
+</p>
+</td>
+<td>In valley green, or towering crag<br>
+<p>Our fathers fought before us<br>
+And conquered 'neath the same old flag<br>
+That's proudly floating o'er us<br>
+We're children of a fighting race<br>
+That never yet has known disgrace<br>
+And as we march, the foe to face<br>
+We'll chant a soldier's song
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>
+</th>
+<td>Sinne Fianna Fáil<br>
+<p>atá faoi gheall ag Éirinn<br>
+Buíon dár slua<br>
+thar toinn do ráinig chughainn<br>
+Faoi mhóid bheith saor<br>
+Sean-tír ár sinsear feasta<br>
+Ní fhágfar faoin tiorán ná faoin tráill<br>
+Anocht a théam sa bhearna bhaoil<br>
+Le gean ar Ghaeil chun báis nó saoil<br>
+Le gunna scréach faoi lámhach na bpiléar<br>
+Seo libh canaig Amhrán na bhFiann
+</p>
+</td>
+<td>Soldiers are we,<br>
+<p>whose lives are pledged to Ireland<br>
+Some have come<br>
+from a land beyond the wave<br>
+Sworn to be free,<br>
+no more our ancient sireland<br>
+Shall shelter the despot or the slave;<br>
+Tonight we man the <i>Bearna Baoghal</i><br>
+In Erin's cause, come woe or weal<br>
+'Mid cannons' roar and rifles' peal,<br>
+We'll chant a soldier's song
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>A bhuíon nach fann d’fhuil Ghaeil is Gall<br>
+<p>Sin breacadh lae na saoirse<br>
+Tá sceimhle ’s scanradh i gcroíthe námhad<br>
+Roimh ranna laochra ár dtíre<br>
+Ár dtinte is tréith gan spréach anois<br>
+Sin luisne ghlé sa spéir anoir<br>
+’S an bíobha i raon na bpiléar agaibh<br>
+Seo libh, canaídh Amhrán na bhFiann
+</p>
+</td>
+<td>Sons of the Gael! Men of the Pale!<br>
+<p>The long-watched day is breaking<br>
+The serried ranks of Innisfail<br>
+Shall set the tyrant quaking<br>
+Our camp fires now are burning low<br>
+See in the east a silv'ry glow<br>
+Out yonder waits the Saxon foe<br>
+So chant a soldier's song
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>
+</th>
+<td>Sinne Fianna Fáil<br>
+<p>atá faoi gheall ag Éirinn<br>
+Buíon dár slua<br>
+thar toinn do ráinig chughainn<br>
+Faoi mhóid bheith saor<br>
+Sean-tír ár sinsear feasta<br>
+Ní fhágfar faoin tiorán ná faoin tráill<br>
+Anocht a théam sa bhearna bhaoil<br>
+Le gean ar Ghaeil chun báis nó saoil<br>
+Le gunna scréach faoi lámhach na bpiléar<br>
+Seo libh canaig Amhrán na bhFiann
+</p>
+</td>
+<td>Soldiers are we,<br>
+<p>whose lives are pledged to Ireland<br>
+Some have come<br>
+from a land beyond the wave<br>
+Sworn to be free,<br>
+no more our ancient sireland<br>
+Shall shelter the despot or the slave;<br>
+Tonight we man the <i>Bearna Baoghal</i><br>
+In Erin's cause, come woe or weal<br>
+'Mid cannons' roar and rifles' peal,<br>
+We'll chant a soldier's song
+</p>
+</td>
+<td>
 </td></tr></tbody></table>
 </div></body></html>

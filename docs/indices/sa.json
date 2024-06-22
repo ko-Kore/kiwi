@@ -2,6 +2,11 @@
   "word": "sa",
   "pages": [
     {
+      "title": "戰士의 노래",
+      "surrounding": "mhóid bheith saor Sean-tír ... báis nó saoil Le",
+      "count": 13
+    },
+    {
       "title": "英國의 國歌",
       "surrounding": "1 God save our ... voice: God save the",
       "count": 10
@@ -24,11 +29,6 @@
     {
       "title": "TORIKYU",
       "surrounding": "shoteresting exprecchoun inthousandtrt outomererr ... grouwan hpihpi fsakisei ongwamsong",
-      "count": 3
-    },
-    {
-      "title": "戰士의 노래",
-      "surrounding": "mhóid bheith saor Sean-tír ... báis nó saoil Le",
       "count": 3
     },
     {
