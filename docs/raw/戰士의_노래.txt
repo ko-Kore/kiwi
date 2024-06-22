@@ -1,0 +1,83 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade50"><rb>原語</rb><rp>(</rp><rt>원어</rt><rp>)</rp></ruby>
+</th>
+<td><b>Amhrán na bhFiann</b><br><b>The Soldier's Song</b>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td>Peadar Kearney<br>Liam Ó Rinn
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>
+</th>
+<td>Peadar Kearney<br>Patrick Heeney
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby>
+</th>
+<td>1'06<i></i>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>創作</rb><rp>(</rp><rt>창작</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=1907%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1907年 (없는 文書)">1907<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=1912%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1912年 (없는 文書)">1912<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<p><b>&lt;<ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래&gt;</b>는 <a href="/wiki/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C" class="mw-redirect" title="아일랜드">아일랜드</a>의 <ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>이다.
+</p>
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%88%B0%E5%A3%AB%EC%9D%98_%EB%85%B8%EB%9E%98&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade40"><rb>段落</rb><rp>(</rp><rt>단락</rt><rp>)</rp></ruby></th>
+<th><a href="/index.php?title=%E6%84%9B%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="愛蘭語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a></th>
+<th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a><a href="/wiki/%E9%A3%9C%E8%AD%AF" title="飜譯"><ruby class="hanja api grade30"><rb>飜譯</rb><rp>(</rp><rt>번역</rt><rp>)</rp></ruby></a>
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>Seo dhíbh, a chairde, duan Óglaigh<br>
+<p>Caithréimeach bríomhar ceolmhar<br>
+Ár dtinte cnámh go buacach táid<br>
+’S an spéir go mín réaltógach<br>
+Is fonnmhar faobhrach sinn chun gleo<br>
+’S go tiúnmhar glé roimh thíocht don ló<br>
+Fé chiúnas chaomh na hoíche ar seol<br>
+Seo libh, canaídh Amhrán na bhFiann
+</p>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>
+</th>
+<td>Sinne Fianna Fáil<br>
+<p>atá faoi gheall ag Éirinn<br>
+Buíon dár slua<br>
+thar toinn do ráinig chughainn<br>
+Faoi mhóid bheith saor<br>
+Sean-tír ár sinsear feasta<br>
+Ní fhágfar faoin tiorán ná faoin tráill<br>
+Anocht a théam sa bhearna bhaoil<br>
+Le gean ar Ghaeil chun báis nó saoil<br>
+Le gunna scréach faoi lámhach na bpiléar<br>
+Seo libh canaig Amhrán na bhFiann
+</p>
+</td>
+<td>예시
+</td>
+<td>예시
+</td></tr></tbody></table>
+</div></body></html>
