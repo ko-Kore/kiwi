@@ -66,7 +66,15 @@ Here in the silence of the night<br>
 We'll chant a soldier's song<br>
 </p>
 </td>
-<td>
+<td>우리는 부르리라, <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를,<br>
+<p>입을 모아 <ruby class="hanja api grade40"><rb>歡呼</rb><rp>(</rp><rt>환호</rt><rp>)</rp></ruby>하고 <ruby class="hanja api grade32"><rb>激勵</rb><rp>(</rp><rt>격려</rt><rp>)</rp></ruby>하며.<br>
+타오르는 불꽃 <ruby class="hanja api grade40"><rb>周圍</rb><rp>(</rp><rt>주위</rt><rp>)</rp></ruby>로 둘러앉아<br>
+별이 빛나는 하늘 아래.<br>
+어서 <ruby class="hanja api grade40"><rb>戰鬪</rb><rp>(</rp><rt>전투</rt><rp>)</rp></ruby>에 나서길 바라며<br>
+<ruby class="hanja api grade70"><rb>來日</rb><rp>(</rp><rt>내일</rt><rp>)</rp></ruby> 아침이 밝아오길 기다리는 가운데<br>
+<ruby class="hanja api grade30"><rb>只今</rb><rp>(</rp><rt>지금</rt><rp>)</rp></ruby> 고요한 밤 한가운데서<br>
+우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를 부르리라.<br>
+</p>
 </td></tr>
 <tr>
 <th>
@@ -97,7 +105,18 @@ In Erin's cause, come woe or weal<br>
 We'll chant a soldier's song
 </p>
 </td>
-<td>
+<td>우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>다,<br>
+<p>우리의 삶을 <ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>에 건<br>
+우리들 <ruby class="hanja api grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby> 누군가는<br>
+<ruby class="hanja api grade10"><rb>波濤</rb><rp>(</rp><rt>파도</rt><rp>)</rp></ruby> 너머의 땅으로부터 찾아왔다<br>
+<ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爭取</rb><rp>(</rp><rt>쟁취</rt><rp>)</rp></ruby>하리라 <ruby class="hanja api grade30"><rb>盟誓</rb><rp>(</rp><rt>맹서</rt><rp>)</rp></ruby>하였으니<br>
+우리의 옛 <ruby class="hanja api grade42"><rb>故鄕</rb><rp>(</rp><rt>고향</rt><rp>)</rp></ruby> 땅에는 더 <ruby class="hanja api grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby><br>
+<ruby class="hanja api grade42"><rb>壓制者</rb><rp>(</rp><rt>압제자</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>度</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby>, <ruby class="hanja api grade30"><rb>奴隸</rb><rp>(</rp><rt>노예</rt><rp>)</rp></ruby>도 없으리라<br>
+오늘 밤 우리는 '<ruby class="hanja api grade40"><rb>危險</rb><rp>(</rp><rt>위험</rt><rp>)</rp></ruby>한 골짜기'에 이르렀으니<br>
+<ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>해서라면, 두려움이든 기쁨이든 오라<br>
+<ruby class="hanja api grade42"><rb>大砲</rb><rp>(</rp><rt>대포</rt><rp>)</rp></ruby>와 <ruby class="hanja api grade42"><rb>小銃</rb><rp>(</rp><rt>소총</rt><rp>)</rp></ruby> 소리 가운데에서<br>
+우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를 부르리라
+</p>
 </td></tr>
 <tr>
 <th>2
@@ -122,7 +141,15 @@ And as we march, the foe to face<br>
 We'll chant a soldier's song
 </p>
 </td>
-<td>
+<td>푸른 골짜기에서, 우뚝 솟은 바위<ruby class="hanja api grade80"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby>에서<br>
+<p>우리보다 먼저 우리 아버지들이 <ruby class="hanja api grade40"><rb>鬪爭</rb><rp>(</rp><rt>투쟁</rt><rp>)</rp></ruby>했노라.<br>
+그리고 같은 옛 <ruby class="hanja api grade0"><rb>旗발</rb><rp>(</rp><rt>깃발</rt><rp>)</rp></ruby> 아래 <ruby class="hanja api grade60"><rb>勝利</rb><rp>(</rp><rt>승리</rt><rp>)</rp></ruby>했노라,<br>
+<ruby class="hanja api grade30"><rb>只今</rb><rp>(</rp><rt>지금</rt><rp>)</rp></ruby> 자랑스럽게 우리 앞에서 펄럭이는.<br>
+우리는 <ruby class="hanja api grade32"><rb>不名譽</rb><rp>(</rp><rt>불명예</rt><rp>)</rp></ruby>란 것 <ruby class="hanja api grade62"><rb>自體</rb><rp>(</rp><rt>자체</rt><rp>)</rp></ruby>를 모르는<br>
+<ruby class="hanja api grade40"><rb>鬪志</rb><rp>(</rp><rt>투지</rt><rp>)</rp></ruby>로 가득한 <ruby class="hanja api grade60"><rb>民族</rb><rp>(</rp><rt>민족</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade10"><rb>後裔</rb><rp>(</rp><rt>후예</rt><rp>)</rp></ruby>이니<br>
+<ruby class="hanja api grade42"><rb>敵</rb><rp>(</rp><rt>적</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade60"><rb>向</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby>하여 <ruby class="hanja api grade42"><rb>進軍</rb><rp>(</rp><rt>진군</rt><rp>)</rp></ruby>하는 가운데<br>
+우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를 부르리라.
+</p>
 </td></tr>
 <tr>
 <th>
@@ -153,7 +180,18 @@ In Erin's cause, come woe or weal<br>
 We'll chant a soldier's song
 </p>
 </td>
-<td>
+<td>우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>다,<br>
+<p>우리의 삶을 <ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>에 건<br>
+우리들 <ruby class="hanja api grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby> 누군가는<br>
+<ruby class="hanja api grade10"><rb>波濤</rb><rp>(</rp><rt>파도</rt><rp>)</rp></ruby> 너머의 땅으로부터 찾아왔다<br>
+<ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爭取</rb><rp>(</rp><rt>쟁취</rt><rp>)</rp></ruby>하리라 <ruby class="hanja api grade30"><rb>盟誓</rb><rp>(</rp><rt>맹서</rt><rp>)</rp></ruby>하였으니<br>
+우리의 옛 <ruby class="hanja api grade42"><rb>故鄕</rb><rp>(</rp><rt>고향</rt><rp>)</rp></ruby> 땅에는 더 <ruby class="hanja api grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby><br>
+<ruby class="hanja api grade42"><rb>壓制者</rb><rp>(</rp><rt>압제자</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>度</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby>, <ruby class="hanja api grade30"><rb>奴隸</rb><rp>(</rp><rt>노예</rt><rp>)</rp></ruby>도 없으리라<br>
+오늘 밤 우리는 '<ruby class="hanja api grade40"><rb>危險</rb><rp>(</rp><rt>위험</rt><rp>)</rp></ruby>한 골짜기'에 이르렀으니<br>
+<ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>해서라면, 두려움이든 기쁨이든 오라<br>
+<ruby class="hanja api grade42"><rb>大砲</rb><rp>(</rp><rt>대포</rt><rp>)</rp></ruby>와 <ruby class="hanja api grade42"><rb>小銃</rb><rp>(</rp><rt>소총</rt><rp>)</rp></ruby> 소리 가운데에서<br>
+우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를 부르리라
+</p>
 </td></tr>
 <tr>
 <th>3
@@ -178,7 +216,15 @@ Out yonder waits the Saxon foe<br>
 So chant a soldier's song
 </p>
 </td>
-<td>
+<td>게일의 <ruby class="hanja api grade10"><rb>後裔</rb><rp>(</rp><rt>후예</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>餘</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>! 페일<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby>들이여!<br>
+<p>오랫동안 기다렸던 날이 밝아온다.<br>
+<ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>들이 이리도 빽빽하게 모였으니<br>
+<ruby class="hanja api grade40"><rb>暴君</rb><rp>(</rp><rt>폭군</rt><rp>)</rp></ruby>은 부들부들 떨게 되리라.<br>
+이제 캠프파이어는 꺼져 가고<br>
+<ruby class="hanja api grade80"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby>쪽 하늘은 <ruby class="hanja api grade60"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby>빛으로 빛나는데<br>
+저 멀리서 색슨족 <ruby class="hanja api grade42"><rb>敵軍</rb><rp>(</rp><rt>적군</rt><rp>)</rp></ruby>이 기다리고 있다.<br>
+그러니 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를 부르자.
+</p>
 </td></tr>
 <tr>
 <th>
@@ -209,6 +255,17 @@ In Erin's cause, come woe or weal<br>
 We'll chant a soldier's song
 </p>
 </td>
-<td>
+<td>우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>다,<br>
+<p>우리의 삶을 <ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>에 건<br>
+우리들 <ruby class="hanja api grade80"><rb>中</rb><rp>(</rp><rt>중</rt><rp>)</rp></ruby> 누군가는<br>
+<ruby class="hanja api grade10"><rb>波濤</rb><rp>(</rp><rt>파도</rt><rp>)</rp></ruby> 너머의 땅으로부터 찾아왔다<br>
+<ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爭取</rb><rp>(</rp><rt>쟁취</rt><rp>)</rp></ruby>하리라 <ruby class="hanja api grade30"><rb>盟誓</rb><rp>(</rp><rt>맹서</rt><rp>)</rp></ruby>하였으니<br>
+우리의 옛 <ruby class="hanja api grade42"><rb>故鄕</rb><rp>(</rp><rt>고향</rt><rp>)</rp></ruby> 땅에는 더 <ruby class="hanja api grade52"><rb>以上</rb><rp>(</rp><rt>이상</rt><rp>)</rp></ruby><br>
+<ruby class="hanja api grade42"><rb>壓制者</rb><rp>(</rp><rt>압제자</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>度</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby>, <ruby class="hanja api grade30"><rb>奴隸</rb><rp>(</rp><rt>노예</rt><rp>)</rp></ruby>도 없으리라<br>
+오늘 밤 우리는 '<ruby class="hanja api grade40"><rb>危險</rb><rp>(</rp><rt>위험</rt><rp>)</rp></ruby>한 골짜기'에 이르렀으니<br>
+<ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>해서라면, 두려움이든 기쁨이든 오라<br>
+<ruby class="hanja api grade42"><rb>大砲</rb><rp>(</rp><rt>대포</rt><rp>)</rp></ruby>와 <ruby class="hanja api grade42"><rb>小銃</rb><rp>(</rp><rt>소총</rt><rp>)</rp></ruby> 소리 가운데에서<br>
+우리는 <ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래를 부르리라
+</p>
 </td></tr></tbody></table>
 </div></body></html>
