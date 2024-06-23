@@ -107,6 +107,11 @@
       "count": 2
     },
     {
+      "title": "英聯邦",
+      "surrounding": "NationsThe CommonwealthThe British Commonwealth ... of the British Commonwealth",
+      "count": 2
+    },
+    {
       "title": "金빛 모자이크",
       "surrounding": "모자이크 Best Wishes에 對(대)해서도 ... 『金(김)빛모자이크 Best Wishes 』",
       "count": 2
@@ -219,11 +224,6 @@
     {
       "title": "英國",
       "surrounding": "있었는데 바로 大英帝國(대영제국)(British Empire)이다",
-      "count": 1
-    },
-    {
-      "title": "英聯邦",
-      "surrounding": "NationsThe CommonwealthThe British Commonwealth",
       "count": 1
     },
     {
