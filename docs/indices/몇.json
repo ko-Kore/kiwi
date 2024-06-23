@@ -277,6 +277,11 @@
       "count": 1
     },
     {
+      "title": "魚雷",
+      "surrounding": "水面(수면) 아래 몇 미터",
+      "count": 1
+    },
+    {
       "title": "게임보이",
       "surrounding": "매퍼 칩 몇가지로 定型化(정형화)되었다",
       "count": 1
