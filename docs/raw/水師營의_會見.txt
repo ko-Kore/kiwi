@@ -1,4 +1,4 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <caption>
 </caption>
 <tbody><tr>
@@ -61,6 +61,6 @@
 </p>
 <h3><span id=".E4.B9.9D.28.EA.B5.AC.29"></span><span class="mw-headline" id="九(구)"><b><ruby class="hanja api grade80"><rb>九</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></b></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B0%B4%E5%B8%AB%E7%87%9F%EC%9D%98_%E6%9C%83%E8%A6%8B&amp;action=edit&amp;section=10" title="部分 編輯: 九(구)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
 <p>「さらば」と<ruby><rb>握手懇</rb><rp>(</rp><rt>あくしゆねん</rt><rp>)</rp></ruby>ろに　<ruby><rb>別</rb><rp>(</rp><rt>わかれ</rt><rp>)</rp></ruby>て<ruby><rb>行</rb><rp>(</rp><rt>い</rt><rp>)</rp></ruby>くや<ruby><rb>右</rb><rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby><ruby><rb>左</rb><rp>(</rp><rt>ひだり</rt><rp>)</rp></ruby><br>
-<ruby><rb>砲音</rb><rp>(</rp><rt>つゝおと</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>絶</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby>えし<ruby><rb>砲台</rb><rp>(</rp><rt>ほうだい</rt><rp>)</rp></ruby>に　<ruby><rb>閃</rb><rp>(</rp><rt>ひらめき</rt><rp>)</rp></ruby><ruby><rb>立</rb><rp>(</rp><rt>たて</rt><rp>)</rp></ruby>り<ruby><rb>日之御</rb><rp>(</rp><rt>ひのみ</rt><rp>)</rp></ruby><ruby><rb>旗</rb><rp>(</rp><rt>はた</rt><rp>)</rp></ruby>
+<ruby><rb>砲音</rb><rp>(</rp><rt>つゝおと</rt><rp>)</rp></ruby><ruby><rb>絶</rb><rp>(</rp><rt>たえ</rt><rp>)</rp></ruby>し<ruby><rb>砲台</rb><rp>(</rp><rt>ほうだい</rt><rp>)</rp></ruby>に　<ruby><rb>閃</rb><rp>(</rp><rt>ひらめき</rt><rp>)</rp></ruby><ruby><rb>立</rb><rp>(</rp><rt>たて</rt><rp>)</rp></ruby>り<ruby><rb>日之御</rb><rp>(</rp><rt>ひのみ</rt><rp>)</rp></ruby><ruby><rb>旗</rb><rp>(</rp><rt>はた</rt><rp>)</rp></ruby>
 </p>
 </div></body></html>
