@@ -1,0 +1,77 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th>
+<td>서정모
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby>
+</th>
+<td>라화랑<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=1975%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1975年 (없는 文書)">1975<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<p><b><ruby class="hanja api grade32"><rb>滅共</rb><rp>(</rp><rt>멸공</rt><rp>)</rp></ruby>의 횃불</b>은 <a href="/index.php?title=%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9C%8B%E9%99%B8%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="大韓民國陸軍 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>大韓民國</rb><rp>(</rp><rt>대한민국</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>陸軍</rb><rp>(</rp><rt>육군</rt><rp>)</rp></ruby></a>의 <a href="/wiki/%E8%BB%8D%E6%AD%8C" title="軍歌"><ruby class="hanja api grade70"><rb>軍歌</rb><rp>(</rp><rt>군가</rt><rp>)</rp></ruby></a>이다. <ruby class="hanja api grade62"><rb>各</rb><rp>(</rp><rt>각</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>節</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby>마다 <ruby class="hanja api grade52"><rb>陸海空</rb><rp>(</rp><rt>육해공</rt><rp>)</rp></ruby> <a href="/index.php?title=%E4%B8%89%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="三軍 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>三軍</rb><rp>(</rp><rt>삼군</rt><rp>)</rp></ruby></a>을 <ruby class="hanja api grade32"><rb>包含</rb><rp>(</rp><rt>포함</rt><rp>)</rp></ruby>하여 <ruby class="hanja api grade32"><rb>兵役</rb><rp>(</rp><rt>병역</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>義務</rb><rp>(</rp><rt>의무</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade30"><rb>遂行</rb><rp>(</rp><rt>수행</rt><rp>)</rp></ruby>하는 이들에게 <ruby class="hanja api grade50"><rb>比重</rb><rp>(</rp><rt>비중</rt><rp>)</rp></ruby>을 두고 있다.
+</p>
+<h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%BB%85%E5%85%B1%EC%9D%98_%ED%9A%83%EB%B6%88&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th><ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>아름다운 이 <ruby class="hanja api grade72"><rb>江山</rb><rp>(</rp><rt>강산</rt><rp>)</rp></ruby>을 지키는 우리<br>
+<p>사나이 <ruby class="hanja api grade10"><rb>氣魄</rb><rp>(</rp><rt>기백</rt><rp>)</rp></ruby>으로 오늘을 산다<br>
+<ruby class="hanja api grade40"><rb>砲彈</rb><rp>(</rp><rt>포탄</rt><rp>)</rp></ruby>의 불바다를 무릅쓰면서<br>
+<ruby class="hanja api grade42"><rb>故鄕</rb><rp>(</rp><rt>고향</rt><rp>)</rp></ruby> 땅 <ruby class="hanja api grade80"><rb>父母</rb><rp>(</rp><rt>부모</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>兄弟</rb><rp>(</rp><rt>형제</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>平和</rb><rp>(</rp><rt>평화</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>해
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>二</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>의 푸른 바다 지키는 우리<br>
+<p>젊음의 <ruby class="hanja api grade50"><rb>情熱</rb><rp>(</rp><rt>정열</rt><rp>)</rp></ruby>바쳐 오늘을 산다<br>
+<ruby class="hanja api grade20"><rb>艦砲</rb><rp>(</rp><rt>함포</rt><rp>)</rp></ruby>의 벼락불을 쏘아붙이며<br>
+겨레의 <ruby class="hanja api grade62"><rb>生命線</rb><rp>(</rp><rt>생명선</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade70"><rb>來日</rb><rp>(</rp><rt>내일</rt><rp>)</rp></ruby>을 걸고
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>三</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>의 푸른 하늘 지키는 우리<br>
+<p><ruby class="hanja api grade42"><rb>忠情</rb><rp>(</rp><rt>충정</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade40"><rb>鬪志</rb><rp>(</rp><rt>투지</rt><rp>)</rp></ruby>로서 오늘을 산다<br>
+번갯불 <ruby class="hanja api grade60"><rb>銀</rb><rp>(</rp><rt>은</rt><rp>)</rp></ruby>빛 날개 구름을 뚫고<br>
+<ruby class="hanja api grade12"><rb>燦爛</rb><rp>(</rp><rt>찬란</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade60"><rb>使命感</rb><rp>(</rp><rt>사명감</rt><rp>)</rp></ruby>에 날개를 편다
+</p>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>四</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>의 빛난 얼을 지키는 우리<br>
+<p>자랑과 보람으로 오늘을 산다<br>
+새 <ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>創造</rb><rp>(</rp><rt>창조</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade32"><rb>繁榮</rb><rp>(</rp><rt>번영</rt><rp>)</rp></ruby>의 이 땅<br>
+지키고 싸워 이겨 잘 살아가자
+</p>
+</td></tr>
+<tr>
+<th>코러스
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade52"><rb>戰友</rb><rp>(</rp><rt>전우</rt><rp>)</rp></ruby>여 내 나라는 내가 지킨다<br>
+<p><ruby class="hanja api grade32"><rb>滅共</rb><rp>(</rp><rt>멸공</rt><rp>)</rp></ruby>의 횃불 아래 목숨을 건다
+</p>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade72"><rb>一名</rb><rp>(</rp><rt>일명</rt><rp>)</rp></ruby> "나화랑"</span>
+</li>
+</ol></div>
+</div></body></html>
