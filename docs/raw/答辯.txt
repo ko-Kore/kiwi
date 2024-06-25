@@ -1,0 +1,3 @@
+<html><head></head><body><div class="mw-parser-output"><p><ruby class="hanja api grade52"><rb>質問</rb><rp>(</rp><rt>질문</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade72"><rb>答</rb><rp>(</rp><rt>답</rt><rp>)</rp></ruby>하고 <ruby class="hanja api grade30"><rb>辨明</rb><rp>(</rp><rt>변명</rt><rp>)</rp></ruby>하십시오. <ruby class="hanja api grade52"><rb>說明</rb><rp>(</rp><rt>설명</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade42"><rb>要請</rb><rp>(</rp><rt>요청</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade42"><rb>內容</rb><rp>(</rp><rt>내용</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade42"><rb>應答</rb><rp>(</rp><rt>응답</rt><rp>)</rp></ruby>합니다.
+</p>
+</div></body></html>
