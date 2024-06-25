@@ -1,0 +1,31 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">해리 S. 트루먼
+</th></tr>
+<tr>
+<th colspan="2">Harry S. Truman
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Harry_S._Truman.jpg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harry_S._Truman.jpg/235px-Harry_S._Truman.jpg" decoding="async" width="235" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/Harry_S._Truman.jpg 1.5x"></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1884<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>5<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>8<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_States.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-25px-Flag_of_the_United_States.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-38px-Flag_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-50px-Flag_of_the_United_States.svg.png 2x"></a></span><a href="/wiki/%E7%BE%8E%E5%90%88%E8%A1%86%E5%9C%8B" title="美合衆國"><ruby class="hanja api grade42"><rb>美合衆國</rb><rp>(</rp><rt>미합중국</rt><rp>)</rp></ruby></a><a href="/index.php?title=%EB%AF%B8%EC%A3%BC%EB%A6%AC%E5%B7%9E&amp;action=edit&amp;redlink=1" class="new" title="미주리州 (없는 文書)">미주리<ruby class="hanja api grade52 unknown"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby></a><a href="/index.php?title=%EB%9D%BC%EB%A7%88%EB%A5%B4%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="라마르市 (없는 文書)">라마르<ruby class="hanja api grade72 unknown"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>死亡</rb><rp>(</rp><rt>사망</rt><rp>)</rp></ruby>
+</th>
+<td>1972<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>26<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><br><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_States.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-25px-Flag_of_the_United_States.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-38px-Flag_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-50px-Flag_of_the_United_States.svg.png 2x"></a></span><a href="/wiki/%E7%BE%8E%E5%90%88%E8%A1%86%E5%9C%8B" title="美合衆國"><ruby class="hanja api grade42"><rb>美合衆國</rb><rp>(</rp><rt>미합중국</rt><rp>)</rp></ruby></a><a href="/index.php?title=%EB%AF%B8%EC%A3%BC%EB%A6%AC%E5%B7%9E&amp;action=edit&amp;redlink=1" class="new" title="미주리州 (없는 文書)">미주리<ruby class="hanja api grade52 unknown"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby></a><a href="/index.php?title=%EC%BA%94%EC%9E%90%EC%8A%A4%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="캔자스市 (없는 文書)">캔자스<ruby class="hanja api grade72 unknown"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>宗敎</rb><rp>(</rp><rt>종교</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E5%9F%BA%E7%9D%A3%E6%95%8E" title="基督敎"><ruby class="hanja api grade42"><rb>基督敎</rb><rp>(</rp><rt>기독교</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>政黨</rb><rp>(</rp><rt>정당</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E7%BE%8E%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" title="美國民主黨"><ruby class="hanja api grade42"><rb>民主黨</rb><rp>(</rp><rt>민주당</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+</div></body></html>
