@@ -47,6 +47,11 @@
       "count": 2
     },
     {
+      "title": "해리 S. 트루먼",
+      "surrounding": "Harry S Truman 出生(출생) ... Harry S Truman 1884年(년)",
+      "count": 2
+    },
+    {
       "title": "一伊那爾栖",
       "surrounding": "checks on humanity as",
       "count": 1
@@ -194,11 +199,6 @@
     {
       "title": "타르만 샨무가라트남",
       "surrounding": "தர்மன் சண்முகரத்தினம் Tharman Shanmugaratnam",
-      "count": 1
-    },
-    {
-      "title": "해리 S. 트루먼",
-      "surrounding": "Harry S Truman 出生(출생)",
       "count": 1
     }
   ]
