@@ -1,0 +1,37 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade40"><rb>華府</rb><rp>(</rp><rt>화부</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Washington District of Columbia, Washington D.C.
+</th></tr>
+<tr>
+<td colspan="2">
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_States.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-25px-Flag_of_the_United_States.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-38px-Flag_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-50px-Flag_of_the_United_States.svg.png 2x"></a></span><a href="/wiki/%E7%BE%8E%E5%90%88%E8%A1%86%E5%9C%8B" title="美合衆國"><ruby class="hanja api grade42"><rb>美合衆國</rb><rp>(</rp><rt>미합중국</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>呼稱</rb><rp>(</rp><rt>호칭</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>直轄地</rb><rp>(</rp><rt>직할지</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>域</rb><rp>(</rp><rt>역</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>政府</rb><rp>(</rp><rt>정부</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%A7%88%ED%8B%B4_%EB%A3%A8%ED%84%B0_%ED%82%B9&amp;action=edit&amp;redlink=1" class="new" title="마틴 루터 킹 (없는 文書)">마틴 루터 킹</a> 애비뉴(<ruby class="hanja api grade80"><rb>南東</rb><rp>(</rp><rt>남동</rt><rp>)</rp></ruby>쪽) 2720<ruby class="hanja api grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>690,000 <ruby class="hanja api grade42"><rb>餘</rb><rp>(</rp><rt>여</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><ruby class="hanja api grade50"><rb>原語</rb><rp>(</rp><rt>원어</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>表記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby> "District of Columbia"</span>
+</li>
+</ol></div>
+</div></body></html>
