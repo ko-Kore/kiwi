@@ -867,6 +867,11 @@
       "count": 1
     },
     {
+      "title": "帝國摩天樓",
+      "surrounding": "올라가기 위해 줄을 서서",
+      "count": 1
+    },
+    {
       "title": "帝王敎育",
       "surrounding": "좀 더 가르쳐줄래 비웃지",
       "count": 1
@@ -2289,6 +2294,11 @@
     {
       "title": "에모지",
       "surrounding": "넘겨줄 대상:繪文字",
+      "count": 1
+    },
+    {
+      "title": "엠파이어 스테이트 빌딩",
+      "surrounding": "넘겨줄 對象:帝國摩天樓",
       "count": 1
     },
     {
