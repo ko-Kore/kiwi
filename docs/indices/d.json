@@ -263,7 +263,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération suisse/Confederazione ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
+      "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer BundConfédération suisseConfederazione ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
       "count": 6
     },
     {
@@ -424,6 +424,11 @@
     {
       "title": "愛蘭",
       "surrounding": " 愛蘭(애란)共和國(공화국) Ireland Éirinn ... 인디펜던트(The Irish Independent) 옵저버(The",
+      "count": 3
+    },
+    {
+      "title": "氷島",
+      "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands ... NATOÉtats membres de l'OTAN",
       "count": 3
     },
     {
@@ -652,11 +657,6 @@
       "count": 2
     },
     {
-      "title": "氷島",
-      "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands ... 氷島(빙도)共和國(공화국) Lýðveldi Íslands 國旗(국기)",
-      "count": 2
-    },
-    {
       "title": "漢字直接入力",
       "surrounding": "配列(배열)한 方式(방식)이다 T-Code나 TUT-Code가 ... 方式(방식)이다 T-Code나 TUT-Code가 여기에",
       "count": 2
@@ -873,6 +873,11 @@
     },
     {
       "title": "伊太利",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
+      "title": "佛蘭西",
       "surrounding": "NATOÉtats membres de l'OTAN",
       "count": 1
     },

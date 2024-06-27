@@ -582,6 +582,11 @@
       "count": 3
     },
     {
+      "title": "氷島",
+      "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands ... membres de l'OTAN 創立(창립)國(국)",
+      "count": 3
+    },
+    {
       "title": "漢語拼音",
       "surrounding": "j k l m ... (risk one's life)이다 이",
       "count": 3
@@ -719,6 +724,11 @@
     {
       "title": "伯林",
       "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[一(일)] ... 都(도)伯林(백림) ↑ Bundesland ↑",
+      "count": 2
+    },
+    {
+      "title": "佛蘭西",
+      "surrounding": " 佛蘭西(불란서)共和國(공화국) République française ... membres de l'OTAN 創立(창립)國(국)",
       "count": 2
     },
     {
@@ -872,11 +882,6 @@
       "count": 2
     },
     {
-      "title": "氷島",
-      "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands ... 氷島(빙도)共和國(공화국) Lýðveldi Íslands 國旗(국기)",
-      "count": 2
-    },
-    {
       "title": "洪牙利",
       "surrounding": "議會(의회)內閣制(내각제) 大統領(대통령) Sulyok Tamas ... membres de l'OTAN 創立(창립)國(국)",
       "count": 2
@@ -898,7 +903,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": "國家(국가)象徵(상징) 國歌(국가) Schweizpsalm (瑞西(서서)의 ... 우리(Uri) 슈비츠(Schwyz) 니드발덴(Nidwalden) 州(주)는",
+      "surrounding": "國家(국가)象徵(상징) 國歌(국가) Schweizpsalm 瑞西(서서)의 ... 우리(Uri) 슈비츠(Schwyz) 니드발덴(Nidwalden) 州(주)는",
       "count": 2
     },
     {
@@ -1124,11 +1129,6 @@
     {
       "title": "伊比利亞半島",
       "surrounding": "伊(이)比(비)利(리)亞(아)半島(반도)(스페인語: Ibérian(이빨리안) Peninsula(펫닝숙락))는 比利牛斯半島南西(남서)쪽에",
-      "count": 1
-    },
-    {
-      "title": "佛蘭西",
-      "surrounding": " 佛蘭西(불란서)共和國(공화국) République française",
       "count": 1
     },
     {
@@ -1449,6 +1449,11 @@
     {
       "title": "電子娛樂",
       "surrounding": "一種(일종)이다 西洋(서양)에서는 電子娛樂(전자오락)(electronic game)은",
+      "count": 1
+    },
+    {
+      "title": "露西亞",
+      "surrounding": "國旗(국기) 國章(국장) 파일:Emblem of",
       "count": 1
     },
     {

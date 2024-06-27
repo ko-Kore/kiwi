@@ -268,7 +268,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération suisse/Confederazione ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
+      "surrounding": "瑞西(서서)聯邦(연방) Schweizerischer BundConfédération suisseConfederazione ... 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스 코프레이션))은",
       "count": 3
     },
     {
@@ -324,6 +324,11 @@
     {
       "title": "伯剌西爾",
       "surrounding": "體育部(체육부)長(장) André Fufuca 管理部長(관리부장) ... 會議(회의)(United Nations Conference on",
+      "count": 2
+    },
+    {
+      "title": "佛蘭西",
+      "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기) ... 成員國(성원국)Member States of NATOÉtats",
       "count": 2
     },
     {
@@ -422,11 +427,6 @@
       "count": 2
     },
     {
-      "title": "露西亞",
-      "surrounding": "國章(국장) 파일:Coat of arms ... of arms of Russia",
-      "count": 2
-    },
-    {
       "title": "님의代",
       "surrounding": "thousand years of happy ... of happy life be",
       "count": 2
@@ -484,11 +484,6 @@
     {
       "title": "伊太利",
       "surrounding": "成員國(성원국)Member States of NATOÉtats",
-      "count": 1
-    },
-    {
-      "title": "佛蘭西",
-      "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기)",
       "count": 1
     },
     {
@@ -657,6 +652,11 @@
       "count": 1
     },
     {
+      "title": "氷島",
+      "surrounding": "成員國(성원국)Member States of NATOÉtats",
+      "count": 1
+    },
+    {
       "title": "洪牙利",
       "surrounding": "成員國(성원국)Member States of NATOÉtats",
       "count": 1
@@ -774,6 +774,11 @@
     {
       "title": "軍歌",
       "surrounding": "mín jiě fàng jūn",
+      "count": 1
+    },
+    {
+      "title": "露西亞",
+      "surrounding": "國章(국장) 파일:Emblem of Russia",
       "count": 1
     },
     {

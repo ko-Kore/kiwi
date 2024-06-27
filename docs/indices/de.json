@@ -103,7 +103,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": "Schweizerischer Bund/Confédération suisse/Confederazione svizzera ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
+      "surrounding": "Schweizerischer BundConfédération suisseConfederazione svizzera ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
       "count": 5
     },
     {
@@ -342,6 +342,11 @@
       "count": 1
     },
     {
+      "title": "佛蘭西",
+      "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
       "title": "共産黨이 없으면 新中國도 없다.",
       "surrounding": "rénmín jiěfàng de dàolù",
       "count": 1
@@ -434,6 +439,11 @@
     {
       "title": "歐羅巴聯合",
       "surrounding": "國家(국가)象徵(상징) 國歌(국가) Ode to",
+      "count": 1
+    },
+    {
+      "title": "氷島",
+      "surrounding": "NATOÉtats membres de l'OTAN",
       "count": 1
     },
     {

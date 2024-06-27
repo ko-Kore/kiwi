@@ -413,7 +413,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... 槪述(개술)[編輯] 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스",
+      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer BundConfédération ... 槪述(개술)[編輯] 瑞西(서서)聯邦(연방)(英語: Swiss Confederation(스위스",
       "count": 5
     },
     {
@@ -464,6 +464,11 @@
     {
       "title": "中東",
       "surrounding": "中東(중동)(英語: Middle East)는 歐洲(구주)보다 ... 極東(극동) Far East와 짝을",
+      "count": 4
+    },
+    {
+      "title": "佛蘭西",
+      "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기) ... of NATOÉtats membres de",
       "count": 4
     },
     {
@@ -524,6 +529,11 @@
     {
       "title": "月卽別",
       "surrounding": " 月卽別(월즉별)共和國(공화국) Oʻzbekiston Respublikasi ... 月卽別(월즉별)共和國(공화국)(우즈베크語: Oʻzbekiston Respublikasi) 中(중)亞(아)에",
+      "count": 4
+    },
+    {
+      "title": "氷島",
+      "surrounding": "氷島(빙도)共和國(공화국) Lýðveldi Íslands 國旗(국기) ... of NATOÉtats membres de",
       "count": 4
     },
     {
@@ -769,11 +779,6 @@
     {
       "title": "野獸先輩",
       "surrounding": "17(撮影(촬영)은99年頃(년경)) 2001年(년)5月(월) scooop 第(제)1彈(탄) ... 靑年(청년)TYPHOON(자・훼치未公開場面(미공개장면)) 2002年(년)12月(월) Discovery 第拾號(제습호)",
-      "count": 3
-    },
-    {
-      "title": "露西亞",
-      "surrounding": "파일:Coat of arms of ... of Russia svg 國家(국가)象徵(상징)",
       "count": 3
     },
     {
@@ -1092,6 +1097,11 @@
       "count": 2
     },
     {
+      "title": "露西亞",
+      "surrounding": "파일:Emblem of Russia svg ... of Russia svg 國家(국가)象徵(상징)",
+      "count": 2
+    },
+    {
       "title": "音盤",
       "surrounding": "그 新曲(신곡)의 伴奏(반주)(inst)인 境遇(경우)가 ... 그 新曲(신곡)의 伴奏(반주)(inst) 2曲(곡)으로",
       "count": 2
@@ -1274,11 +1284,6 @@
     {
       "title": "伊比利亞半島",
       "surrounding": "伊(이)比(비)利(리)亞(아)半島(반도)(스페인語: Ibérian(이빨리안) Peninsula(펫닝숙락))는 比利牛斯半島南西(남서)쪽에",
-      "count": 1
-    },
-    {
-      "title": "佛蘭西",
-      "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기)",
       "count": 1
     },
     {
@@ -1469,11 +1474,6 @@
     {
       "title": "歷史",
       "surrounding": "日本(일본)에서 英語(영어) 'history'의 飜譯語(번역어)로",
-      "count": 1
-    },
-    {
-      "title": "氷島",
-      "surrounding": "氷島(빙도)共和國(공화국) Lýðveldi Íslands 國旗(국기)",
       "count": 1
     },
     {

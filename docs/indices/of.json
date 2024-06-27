@@ -167,11 +167,6 @@
       "count": 2
     },
     {
-      "title": "露西亞",
-      "surrounding": "國章(국장) 파일:Coat of arms ... of arms of Russia",
-      "count": 2
-    },
-    {
       "title": "나치獨逸의 노래",
       "surrounding": "Hakenkreuz voll Hoffnung schon ... Hakenkreuz voll Hoffnung schon",
       "count": 2
@@ -218,6 +213,11 @@
     },
     {
       "title": "伊太利",
+      "surrounding": "成員國(성원국)Member States of NATOÉtats",
+      "count": 1
+    },
+    {
+      "title": "佛蘭西",
       "surrounding": "成員國(성원국)Member States of NATOÉtats",
       "count": 1
     },
@@ -309,6 +309,11 @@
     {
       "title": "東京都 爆擊",
       "surrounding": "https://www goodfreephotos com/cache/japan/tokyo/fire-bombing-of-tokyo-in-wwii jpg",
+      "count": 1
+    },
+    {
+      "title": "氷島",
+      "surrounding": "成員國(성원국)Member States of NATOÉtats",
       "count": 1
     },
     {
@@ -404,6 +409,11 @@
     {
       "title": "諾威",
       "surrounding": "成員國(성원국)Member States of NATOÉtats",
+      "count": 1
+    },
+    {
+      "title": "露西亞",
+      "surrounding": "國章(국장) 파일:Emblem of Russia",
       "count": 1
     },
     {

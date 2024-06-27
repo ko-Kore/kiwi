@@ -142,6 +142,11 @@
       "count": 2
     },
     {
+      "title": "佛蘭西",
+      "surrounding": "République française 國旗(국기) 國章(국장) ... 모두 現用(현용) 國旗(국기)를 採擇(채택)해요",
+      "count": 2
+    },
+    {
       "title": "勃牙利",
       "surrounding": "Република България 國旗(국기) 國章(국장) ... 모두 現用(현용) 國旗(국기)를 採擇(채택)해요",
       "count": 2
@@ -189,6 +194,11 @@
     {
       "title": "日本軍",
       "surrounding": "日本(일본)의 軍隊(군대) 陸軍(육군)旗(기) 海軍(해군)의 ... 陸軍(육군)旗(기) 海軍(해군)의 軍艦旗(군함기) 創設(창설)",
+      "count": 2
+    },
+    {
+      "title": "氷島",
+      "surrounding": "Lýðveldi Íslands 國旗(국기) 國章(국장) ... 모두 現用(현용) 國旗(국기)를 採擇(채택)해요",
       "count": 2
     },
     {
@@ -294,11 +304,6 @@
     {
       "title": "亞美尼亞",
       "surrounding": "Հայաստանի Հանրապետություն 國旗(국기) 國章(국장)",
-      "count": 1
-    },
-    {
-      "title": "佛蘭西",
-      "surrounding": "République française 國旗(국기) 國章(국장)",
       "count": 1
     },
     {
@@ -522,11 +527,6 @@
       "count": 1
     },
     {
-      "title": "氷島",
-      "surrounding": "Lýðveldi Íslands 國旗(국기) 國章(국장)",
-      "count": 1
-    },
-    {
       "title": "江田島健兒의 노래",
       "surrounding": "明(あけ)離(はなれ)行(ゆ)く能(のう)美(み)島(じま)之(の) 影(かげ)紫(むらさき)に霞(かす)む時(とき) 進取(しんしゆ)尚(しやう)武(ぶ)之(の)旗上(はたあげ)て 送(おくり)迎(むかえ)ん四(よ)ツ之(の)年(ねん)",
       "count": 1
@@ -573,7 +573,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": "suisse/Confederazione svizzera 國旗(국기) 國章(국장)",
+      "surrounding": "suisseConfederazione svizzera 國旗(국기) 國章(국장)",
       "count": 1
     },
     {

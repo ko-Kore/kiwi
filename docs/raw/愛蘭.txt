@@ -25,7 +25,7 @@
 <tr>
 <th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E6%88%B0%E5%A3%AB%EC%9D%98_%EB%85%B8%EB%9E%98&amp;action=edit&amp;redlink=1" class="new" title="戰士의 노래 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래</a>
+<td><a href="/wiki/%E6%88%B0%E5%A3%AB%EC%9D%98_%EB%85%B8%EB%9E%98" title="戰士의 노래"><ruby class="hanja api grade52"><rb>戰士</rb><rp>(</rp><rt>전사</rt><rp>)</rp></ruby>의 노래</a>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>

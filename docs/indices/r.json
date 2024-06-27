@@ -283,7 +283,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... 傘下(산하) ETH Zurich 및",
+      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer BundConfédération ... 傘下(산하) ETH Zurich 및",
       "count": 9
     },
     {
@@ -484,6 +484,11 @@
     {
       "title": "伯林",
       "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[一(일)] ... Rathaus ↑ Ostniederdeutsch ",
+      "count": 4
+    },
+    {
+      "title": "佛蘭西",
+      "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기) ... of NATOÉtats membres de",
       "count": 4
     },
     {
@@ -877,11 +882,6 @@
       "count": 2
     },
     {
-      "title": "佛蘭西",
-      "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기) ... 國際電話(국제전화)番號(번호) 33 佛蘭西(불란서)(France 프랑스)는",
-      "count": 2
-    },
-    {
       "title": "俗라틴語",
       "surrounding": "民衆(민중) 라틴語(어)(라틴語: Sermo vulgaris)는 ... 라틴語(어)(라틴語: Sermo vulgaris)는 文語(문어)의",
       "count": 2
@@ -1009,6 +1009,11 @@
     {
       "title": "朴璐美",
       "surrounding": "받아 “브레인 파워드”(Brain Powerd)의 ... “브레인 파워드”(Brain Powerd)의 카난",
+      "count": 2
+    },
+    {
+      "title": "氷島",
+      "surrounding": "• 編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States ... of NATOÉtats membres de",
       "count": 2
     },
     {
@@ -1764,11 +1769,6 @@
     {
       "title": "電子娛樂",
       "surrounding": "一種(일종)이다 西洋(서양)에서는 電子娛樂(전자오락)(electronic game)은",
-      "count": 1
-    },
-    {
-      "title": "露西亞",
-      "surrounding": "파일:Coat of arms of",
       "count": 1
     },
     {

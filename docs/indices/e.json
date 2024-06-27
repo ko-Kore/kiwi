@@ -378,7 +378,7 @@
     },
     {
       "title": "瑞西",
-      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer Bund/Confédération ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
+      "surrounding": " 瑞西(서서)聯邦(연방) Schweizerischer BundConfédération ... Lander에서 管理(관리)하며 Lander는 自體(자체)",
       "count": 8
     },
     {
@@ -434,6 +434,11 @@
     {
       "title": "伯法斯督",
       "surrounding": " 伯(백)法(법)斯(사)督(독) Belfast/Béal Feirste ... : Beal Feirste)는 伯(백)法(법)斯(사)督(독)",
+      "count": 7
+    },
+    {
+      "title": "佛蘭西",
+      "surrounding": " 佛蘭西(불란서)共和國(공화국) République française ... NATOÉtats membres de l'OTAN",
       "count": 7
     },
     {
@@ -624,6 +629,11 @@
     {
       "title": "希臘文字",
       "surrounding": "Β β Beta Γ ... Ω ω Omega ",
+      "count": 5
+    },
+    {
+      "title": "氷島",
+      "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands ... NATOÉtats membres de l'OTAN",
       "count": 5
     },
     {
@@ -859,11 +869,6 @@
     {
       "title": "中華民國",
       "surrounding": "또 英語(영어)로는 Republic of ... Truku(太(태)魯(로)閣(각))語(어) Sakizaya(撒(살)奇(기)萊(래)雅(아))語(어) Seediq(賽(새)德(덕)克(극))語(어) Hla’alua(拉(랍)阿(아)魯(로)哇(와))語(어)",
-      "count": 3
-    },
-    {
-      "title": "佛蘭西",
-      "surrounding": " 佛蘭西(불란서)共和國(공화국) République française ... 國際電話(국제전화)番號(번호) 33 佛蘭西(불란서)(France 프랑스)는",
       "count": 3
     },
     {
@@ -1822,11 +1827,6 @@
       "count": 1
     },
     {
-      "title": "氷島",
-      "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands",
-      "count": 1
-    },
-    {
       "title": "法羅諸島",
       "surrounding": " 法(법)羅(라)諸島(제도) Føroyar/Færøerne 自治體(자치체)",
       "count": 1
@@ -2029,6 +2029,11 @@
     {
       "title": "階級調和論",
       "surrounding": "佛蘭西(불란서) 資本主義(자본주의)學者(학자) Conde는 계급",
+      "count": 1
+    },
+    {
+      "title": "露西亞",
+      "surrounding": "國旗(국기) 國章(국장) 파일:Emblem of",
       "count": 1
     },
     {

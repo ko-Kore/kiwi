@@ -38,6 +38,9 @@
 <td>In God We Trust <br> (“우리는<ruby class="hanja api grade62"><rb>神</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby>을믿는다”)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr>
 <tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:United_States_(orthographic_projection).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/United_States_%28orthographic_projection%29.svg/langko-kore-300px-United_States_%28orthographic_projection%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/United_States_%28orthographic_projection%29.svg/langko-kore-450px-United_States_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/United_States_%28orthographic_projection%29.svg/langko-kore-600px-United_States_%28orthographic_projection%29.svg.png 2x"></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
