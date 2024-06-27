@@ -42,14 +42,14 @@
       "count": 26
     },
     {
-      "title": "마르세유의 노래",
-      "surrounding": "dans les campagnes Mugir ... Qu'un sang impur Abreuve",
+      "title": "美合衆國",
+      "surrounding": "States of America 國旗(국기) ... States of America' ↑",
       "count": 26
     },
     {
-      "title": "美合衆國",
-      "surrounding": "States of America 國旗(국기) ... States of America' ↑",
-      "count": 24
+      "title": "마르세유의 노래",
+      "surrounding": "dans les campagnes Mugir ... Qu'un sang impur Abreuve",
+      "count": 26
     },
     {
       "title": "젊은 라인江에서",
@@ -207,6 +207,11 @@
       "count": 9
     },
     {
+      "title": "英國",
+      "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[1] United Kingdom of ... of NATOÉtats membres de",
+      "count": 9
+    },
+    {
       "title": "丁抹",
       "surrounding": "丁抹(정말)王國(왕국) Kongeriget Danmark 國旗(국기) ... of NATOÉtats membres de",
       "count": 8
@@ -274,11 +279,6 @@
     {
       "title": "義勇軍進行曲",
       "surrounding": "+ 漢語拼音(한어평음) 起来(기래)(Qǐlái)！不(부)(Bù)愿(원)(yuàn)做(주)(zuò)奴隶(노이)(núlì)的(적)(de)人们(인문)(rénmen)！ 把(파)(Bǎ)我们(아문)(wǒmen)的(적)(de)血肉(혈육)(xiěròu)筑(축)(zhú)成(성)(chéng)我们(아문)(wǒmen)新(신)(xīn)的(적)(de)长城(장성)(chángchéng)！ ... 起来(기래)(Qǐlái)！起来(기래)(Qǐlái)！起来(기래)(Qǐlái)！我们(아문)(Wǒmen)万众(만중)(wànzhòng)一心(일심)(yīxīn)， 冒着(모착)(màozhe)敌人(활인)(dírén)的(적)(de)炮火(포화)(pàohuǒ)，前进(전진)(qiánjìn)！ 冒着(모착)(màozhe)敌人(활인)(dírén)的(적)(de)炮火(포화)(pàohuǒ)，前进(전진)(qiánjìn)！ 前进(전진)(Qiánjìn)！前进(전진)(Qiánjìn)！进(진)(Jìn)！",
-      "count": 7
-    },
-    {
-      "title": "英國",
-      "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[1] United Kingdom of ... 바로 大英帝國(대영제국)(British Empire)이다 公式(공식)",
       "count": 7
     },
     {
@@ -1724,11 +1724,6 @@
     {
       "title": "蕭美琴",
       "surrounding": "白話(백화)字(자): Siau Bí-khîm 1971年(년)8月(월)7日(일)",
-      "count": 1
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "파일:Coat of arms of",
       "count": 1
     },
     {

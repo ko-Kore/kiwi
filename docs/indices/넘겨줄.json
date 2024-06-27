@@ -1707,6 +1707,11 @@
       "count": 1
     },
     {
+      "title": "시릴字",
+      "surrounding": "넘겨줄 對象:키릴文字",
+      "count": 1
+    },
+    {
       "title": "신칸센",
       "surrounding": "넘겨줄 대상:新幹線",
       "count": 1

@@ -57,14 +57,14 @@
       "count": 55
     },
     {
+      "title": "美合衆國",
+      "surrounding": "States of America 國旗(국기) ... God we trust”以外(이외)의 慣例(관례)上(상)標語(표어)는모두",
+      "count": 52
+    },
+    {
       "title": "젊은 라인江에서",
       "surrounding": "Im deutschen Vaterland Hat ... du mein Vaterland (1850-1961)",
       "count": 51
-    },
-    {
-      "title": "美合衆國",
-      "surrounding": "States of America 國旗(국기) ... God we trust”以外(이외)의 慣例(관례)上(상)標語(표어)는모두",
-      "count": 50
     },
     {
       "title": "伯剌西爾",
@@ -187,6 +187,11 @@
       "count": 16
     },
     {
+      "title": "英國",
+      "surrounding": "Kingdom of Great Britain ... of NATOÉtats membres de",
+      "count": 16
+    },
+    {
       "title": "Grand Dieu Sauve le Roi",
       "surrounding": "Grand Dieu ... du mein Vaterland (1850-1961)",
       "count": 15
@@ -209,11 +214,6 @@
     {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot ... carrot regime problem ",
-      "count": 14
-    },
-    {
-      "title": "英國",
-      "surrounding": "Kingdom of Great Britain ... 바로 大英帝國(대영제국)(British Empire)이다 公式(공식)",
       "count": 14
     },
     {
@@ -1714,11 +1714,6 @@
     {
       "title": "萬國郵便聯合",
       "surrounding": " 萬國郵便聯合(만국우편연합)(英語: Universal Postal",
-      "count": 1
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "파일:Coat of arms of",
       "count": 1
     },
     {

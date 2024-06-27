@@ -19,7 +19,7 @@
     {
       "title": "美合衆國",
       "surrounding": "美合衆國(미합중국) United States of ... 'The United States of",
-      "count": 19
+      "count": 21
     },
     {
       "title": "나치獨逸의 노래",
@@ -313,6 +313,11 @@
     },
     {
       "title": "芬蘭",
+      "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... of NATOÉtats membres de",
+      "count": 2
+    },
+    {
+      "title": "英國",
       "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... of NATOÉtats membres de",
       "count": 2
     },

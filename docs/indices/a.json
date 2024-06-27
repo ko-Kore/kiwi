@@ -64,7 +64,7 @@
     {
       "title": "美合衆國",
       "surrounding": "美合衆國(미합중국) United States of ... States of America' ↑",
-      "count": 63
+      "count": 65
     },
     {
       "title": "主祈禱文",
@@ -267,6 +267,11 @@
       "count": 13
     },
     {
+      "title": "英國",
+      "surrounding": "Kingdom of Great Britain ... States of NATOÉtats membres",
+      "count": 13
+    },
+    {
       "title": "創價學會",
       "surrounding": "國際(국제)創價學會(창가학회) 英語(영어)名(명)은 SGI(Soka Gakkai ... ‘Soka Gakkai International(國際(국제)創價學會(창가학회))’의 이니셜人(인)",
       "count": 12
@@ -279,11 +284,6 @@
     {
       "title": "暮國",
       "surrounding": " 暮國(모국) Estado Plurinacional ... The News; \"Change\" 12",
-      "count": 11
-    },
-    {
-      "title": "英國",
-      "surrounding": "Kingdom of Great Britain ... 또는 簡單(간단)히 Britain이라고도 합니다",
       "count": 11
     },
     {
@@ -1434,11 +1434,6 @@
     {
       "title": "萬國郵便聯合",
       "surrounding": " 萬國郵便聯合(만국우편연합)(英語: Universal Postal ... 萬國郵便聯合(만국우편연합)(英語: Universal Postal Union",
-      "count": 2
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "國旗(국기) 國章(국장) 파일:Coat of ... 파일:Coat of arms of",
       "count": 2
     },
     {

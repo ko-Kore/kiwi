@@ -57,13 +57,13 @@
       "count": 37
     },
     {
-      "title": "國際聯合總會 決議 第2758號",
-      "surrounding": "United Nations general assembly ... it 1976th plenary meeting",
-      "count": 29
-    },
-    {
       "title": "美合衆國",
       "surrounding": "스티븐 모일란(Stephen Moylan)이 조세프 ... this Confederacy shall be",
+      "count": 30
+    },
+    {
+      "title": "國際聯合總會 決議 第2758號",
+      "surrounding": "United Nations general assembly ... it 1976th plenary meeting",
       "count": 29
     },
     {
@@ -617,6 +617,11 @@
       "count": 3
     },
     {
+      "title": "英國",
+      "surrounding": "and Northern Ireland 國旗(국기) ... membres de l'OTAN 創立(창립)國(국)",
+      "count": 3
+    },
+    {
       "title": "華盛頓州",
       "surrounding": "Washington State Capitol Building ... Ave SW Olympia WA",
       "count": 3
@@ -944,11 +949,6 @@
     {
       "title": "自由 소프트웨어",
       "surrounding": "software 또는 libre software[2])는 ... GNU 프로젝트 〈Selling Free",
-      "count": 2
-    },
-    {
-      "title": "英國",
-      "surrounding": "and Northern Ireland 國旗(국기) ... and Northern Ireland로 現存(현존)",
       "count": 2
     },
     {

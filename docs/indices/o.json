@@ -74,7 +74,7 @@
     {
       "title": "美合衆國",
       "surrounding": "United States of America ... 星條旗(성조기)에있어 이 캔톤은特別(특별)히“union”이라는名稱(명칭)으로 불리는境遇(경우)도있다",
-      "count": 56
+      "count": 57
     },
     {
       "title": "크툴루",
@@ -262,6 +262,11 @@
       "count": 10
     },
     {
+      "title": "英國",
+      "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[1] United Kingdom of ... 成員國(성원국)Member States of NATOÉtats",
+      "count": 10
+    },
+    {
       "title": "베스터발트의 노래",
       "surrounding": "Münker(1932年(년)) 曲(곡) Joseph Neuhäuser(1935年(년)) ... der kleinste Sonnenschein Dringt",
       "count": 10
@@ -274,11 +279,6 @@
     {
       "title": "暮國",
       "surrounding": " 暮國(모국) Estado Plurinacional ... 000 部(부); \"Responsibility Daily\"",
-      "count": 9
-    },
-    {
-      "title": "英國",
-      "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[1] United Kingdom of ... 따서 United Kingdom 頭文字(두문자)로는",
       "count": 9
     },
     {
@@ -839,11 +839,6 @@
     {
       "title": "蘇格蘭",
       "surrounding": " 蘇格蘭(소격란)王國(왕국) Kingdom of ... Kingdom of Scotland/Rìoghachd na",
-      "count": 3
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "國旗(국기) 國章(국장) 파일:Coat of ... of arms of the",
       "count": 3
     },
     {

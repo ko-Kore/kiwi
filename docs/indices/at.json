@@ -17,14 +17,14 @@
       "count": 21
     },
     {
+      "title": "美合衆國",
+      "surrounding": "美合衆國(미합중국) United States of ... 'The United States of",
+      "count": 20
+    },
+    {
       "title": "Steins;Gate",
       "surrounding": " Steins;Gate 分類(분류) ... Nitroplus 5pb 《Steins;Gate》(シュタインズ・ゲート 슈타인즈",
       "count": 19
-    },
-    {
-      "title": "美合衆國",
-      "surrounding": "美合衆國(미합중국) United States of ... 'The United States of",
-      "count": 18
     },
     {
       "title": "星條旗 (國歌)",
@@ -107,6 +107,11 @@
       "count": 5
     },
     {
+      "title": "英國",
+      "surrounding": "Kingdom of Great Britain ... States of NATOÉtats membres",
+      "count": 5
+    },
+    {
       "title": "英國의 國歌",
       "surrounding": "God arise Scatter thine ... du mein Vaterland (1850-1961)",
       "count": 5
@@ -159,11 +164,6 @@
     {
       "title": "波蘭",
       "surrounding": "國旗(국기) 國章(국장) 파일:Coat of ... States of NATOÉtats membres",
-      "count": 3
-    },
-    {
-      "title": "英國",
-      "surrounding": "Kingdom of Great Britain ... 大(대)브리튼섬이기 때문에 Great Britain",
       "count": 3
     },
     {
@@ -649,11 +649,6 @@
     {
       "title": "葡萄",
       "surrounding": "in 2012 faostat fao",
-      "count": 1
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "國旗(국기) 國章(국장) 파일:Coat of",
       "count": 1
     },
     {

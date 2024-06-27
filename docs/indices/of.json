@@ -19,7 +19,7 @@
     {
       "title": "美合衆國",
       "surrounding": "United States of America ... United States of America'",
-      "count": 17
+      "count": 18
     },
     {
       "title": "星條旗 (國歌)",
@@ -79,6 +79,11 @@
     {
       "title": "獨立國家聯合",
       "surrounding": "Независимых ГосударствCommonwealth of Independent ... 英語(영어)로 CIS(Commonwealth of Independent",
+      "count": 3
+    },
+    {
+      "title": "英國",
+      "surrounding": "United Kingdom of Great ... 成員國(성원국)Member States of NATOÉtats",
       "count": 3
     },
     {
@@ -142,11 +147,6 @@
       "count": 2
     },
     {
-      "title": "英國",
-      "surrounding": "United Kingdom of Great ... United Kingdom of Great",
-      "count": 2
-    },
-    {
       "title": "英聯邦",
       "surrounding": " 英聯邦(영연방)Commonwealth of NationsThe ... Commonwealth 파일:Flag of the",
       "count": 2
@@ -159,11 +159,6 @@
     {
       "title": "薩摩亞",
       "surrounding": "Independent State of Samoa ... Independent State of Samoa)",
-      "count": 2
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "國章(국장) 파일:Coat of arms ... of arms of the",
       "count": 2
     },
     {

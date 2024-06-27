@@ -29,7 +29,7 @@
     {
       "title": "美合衆國",
       "surrounding": "United States of America ... United States of America'",
-      "count": 27
+      "count": 28
     },
     {
       "title": "國際聯合總會 決議 第2758號",
@@ -282,6 +282,11 @@
       "count": 3
     },
     {
+      "title": "英國",
+      "surrounding": "United Kingdom of Great ... 成員國(성원국)Member States of NATOÉtats",
+      "count": 3
+    },
+    {
       "title": "蟻酸",
       "surrounding": "메탄酸(산)(methanoic acid)이며 通用英稱(통용영칭)은formic acid이다[1] ... 名稱(명칭)의\"formic\"은 개미를意味(의미)하는 라틴語(어)\"formica\"에由來(유래)하며 韓國語(한국어)의\"蟻酸(의산)\"과相通(상통)한다",
       "count": 3
@@ -402,11 +407,6 @@
       "count": 2
     },
     {
-      "title": "英國",
-      "surrounding": "United Kingdom of Great ... United Kingdom of Great",
-      "count": 2
-    },
-    {
       "title": "英聯邦",
       "surrounding": " 英聯邦(영연방)Commonwealth of NationsThe ... Commonwealth 파일:Flag of the",
       "count": 2
@@ -414,11 +414,6 @@
     {
       "title": "華府",
       "surrounding": "Washington District of Columbia ... 原語(원어)表記(표기) \"District of Columbia\"",
-      "count": 2
-    },
-    {
-      "title": "蘇聯",
-      "surrounding": "國章(국장) 파일:Coat of arms ... of arms of the",
       "count": 2
     },
     {
