@@ -1,0 +1,58 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>國際</rb><rp>(</rp><rt>국제</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>飯店</rb><rp>(</rp><rt>반점</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">PARK HOTEL<br>파크 호텔<br><ruby class="hanja api grade0"><rb>国</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>际</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>饭</rb><rp>(</rp><rt>반</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>店</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:File/Thumb"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Shanghai_Park_Hotel.jpg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Shanghai_Park_Hotel.jpg/300px-Shanghai_Park_Hotel.jpg" decoding="async" width="300" height="225" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Shanghai_Park_Hotel.jpg/450px-Shanghai_Park_Hotel.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Shanghai_Park_Hotel.jpg/600px-Shanghai_Park_Hotel.jpg 2x"></a><figcaption></figcaption></figure>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>所在地</rb><rp>(</rp><rt>소재지</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_People%27s_Republic_of_China.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-25px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-38px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-50px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x"></a></span><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja api grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a><a href="/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82" title="上海市"><ruby class="hanja api grade72"><rb>上海</rb><rp>(</rp><rt>상해</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a><ruby class="hanja api grade60"><rb>南京</rb><rp>(</rp><rt>남경</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>西路</rb><rp>(</rp><rt>서로</rt><rp>)</rp></ruby>170<ruby class="hanja api grade60"><rb>號</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>占</rb><rp>(</rp><rt>점</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>地</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby>
+</th>
+<td>1,176<ruby class="hanja api grade72"><rb>平方</rb><rp>(</rp><rt>평방</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>米</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>高度</rb><rp>(</rp><rt>고도</rt><rp>)</rp></ruby>
+</th>
+<td>83.8<ruby class="hanja api grade60"><rb>米</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>樓</rb><rp>(</rp><rt>누</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>層</rb><rp>(</rp><rt>층</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade70"><rb>地上</rb><rp>(</rp><rt>지상</rt><rp>)</rp></ruby> 22<ruby class="hanja api grade40"><rb>層</rb><rp>(</rp><rt>층</rt><rp>)</rp></ruby>, <ruby class="hanja api grade70"><rb>地下</rb><rp>(</rp><rt>지하</rt><rp>)</rp></ruby> 2<ruby class="hanja api grade40"><rb>層</rb><rp>(</rp><rt>층</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>建造</rb><rp>(</rp><rt>건조</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_Republic_of_China.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/langko-kore-25px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/langko-kore-38px-Flag_of_the_Republic_of_China.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/langko-kore-50px-Flag_of_the_Republic_of_China.svg.png 2x"></a></span>1934<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>(<ruby class="hanja api grade80"><rb>民國</rb><rp>(</rp><rt>민국</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>二十</rb><rp>(</rp><rt>이십</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>三年</rb><rp>(</rp><rt>삼년</rt><rp>)</rp></ruby>)12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>1<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>企業</rb><rp>(</rp><rt>기업</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade32"><rb>錦江</rb><rp>(</rp><rt>금강</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>國際</rb><rp>(</rp><rt>국제</rt><rp>)</rp></ruby> (그룹) <ruby class="hanja api grade42"><rb>有限會社</rb><rp>(</rp><rt>유한회사</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>開放</rb><rp>(</rp><rt>개방</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>時間</rb><rp>(</rp><rt>시간</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade50"><rb>年中無休</rb><rp>(</rp><rt>연중무휴</rt><rp>)</rp></ruby> (<ruby class="hanja api grade40"><rb>區域</rb><rp>(</rp><rt>구역</rt><rp>)</rp></ruby>에 따라 다름)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>地位</rb><rp>(</rp><rt>지위</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>6<ruby class="hanja api grade42"><rb>次</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby> <ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>重點</rb><rp>(</rp><rt>중점</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>文物</rb><rp>(</rp><rt>문물</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保護</rb><rp>(</rp><rt>보호</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby><br><ruby class="hanja api grade72"><rb>上海</rb><rp>(</rp><rt>상해</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>建</rb><rp>(</rp><rt>건</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>筑</rb><rp>(</rp><rt>축</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>可</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>閱讀</rb><rp>(</rp><rt>열독</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>公式</rb><rp>(</rp><rt>공식</rt><rp>)</rp></ruby> 웹 사이트
+</th>
+<td><a rel="nofollow" class="external free" href="http://parkshanghaihotel.cn/">http://parkshanghaihotel.cn/</a>
+</td></tr></tbody></table>
+</div></body></html>
