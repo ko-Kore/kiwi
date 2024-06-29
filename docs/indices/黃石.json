@@ -2,9 +2,19 @@
   "word": "黃石",
   "pages": [
     {
-      "title": "黃石國家公園",
+      "title": "黃石國立公園",
       "surrounding": " 黃石(황석)國立公園(국립공원)(英語: Yellowstone ... 있다 \"院內(원내)에는 黃石(황석)湖水(호수) \"院內(원내)에는",
       "count": 7
+    },
+    {
+      "title": "黃石公園",
+      "surrounding": "넘겨줄 對象:黃石國立公園 ",
+      "count": 1
+    },
+    {
+      "title": "黃石國家公園",
+      "surrounding": "넘겨줄 對象:黃石國立公園 ",
+      "count": 1
     }
   ]
 }
