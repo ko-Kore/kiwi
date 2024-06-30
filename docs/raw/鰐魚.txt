@@ -43,21 +43,21 @@
 <tr>
 <th colspan="13" style="background: #2f4f4f; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>
 </span></th>
-<th colspan="13" style="background: black; color: #Ffffff;"><span class="tp_link"> Mecistops<ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>
+<th colspan="13" style="background: #2f4f4f; color: #Ffffff;"><span class="tp_link"> Mecistops<ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>
 </span></th>
-<th style="background: green; color: #Ffffff;"><span class="tp_link">Osteolaemus<ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>
+<th style="background: #2f4f4f; color: #Ffffff;"><span class="tp_link">Osteolaemus<ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby>
 </span></th>
 <th colspan="2" style="background:red; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade0"><rb>鼉</rb><rp>(</rp><rt>타</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
 </th>
-<th colspan="3" style="background: #8b0000; color: #Ffffff;"><span class="tp_link">카이먼<ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
+<th colspan="3" style="background:red; color: #Ffffff;"><span class="tp_link">카이먼<ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
 </th>
 <th colspan="2" style="background:red; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade60"><rb>古</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
 </th>
-<th style="background: #Ff007f; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade50"><rb>黑</rb><rp>(</rp><rt>흑</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
+<th style="background:red; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade50"><rb>黑</rb><rp>(</rp><rt>흑</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
 </th>
-<th style="background: #Ff007f; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade80"><rb>長</rb><rp>(</rp><rt>장</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>吻</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
+<th style="background: blue; color: #Ffffff;"><span class="tp_link"><ruby class="hanja api grade80"><rb>長</rb><rp>(</rp><rt>장</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>吻</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
 </th>
-<th style="background: #Ff007f; color: #Ffffff;"><span class="tp_link"> 부리<ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
+<th style="background: blue; color: #Ffffff;"><span class="tp_link"> 부리<ruby class="hanja api grade0"><rb>鰐</rb><rp>(</rp><rt>악</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>屬</rb><rp>(</rp><rt>속</rt><rp>)</rp></ruby></span>
 </th></tr>
 <tr>
 <td>예시</td>
