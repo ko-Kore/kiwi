@@ -1247,6 +1247,11 @@
       "count": 1
     },
     {
+      "title": "金門大橋",
+      "surrounding": "넘겨줄 對象:金門橋",
+      "count": 1
+    },
+    {
       "title": "鐵道唱歌 (山陽·九州篇)",
       "surrounding": "넘겨줄 對象:鐵道唱歌(山陽-九州篇)",
       "count": 1
@@ -1809,11 +1814,6 @@
     {
       "title": "에모지",
       "surrounding": "넘겨줄 대상:繪文字",
-      "count": 1
-    },
-    {
-      "title": "엠파이어 스테이트 빌딩",
-      "surrounding": "넘겨줄 對象:帝國摩天樓",
       "count": 1
     },
     {
