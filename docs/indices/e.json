@@ -592,11 +592,6 @@
       "count": 6
     },
     {
-      "title": "엠파이어 스테이트 빌딩",
-      "surrounding": "터널 帝國(제국)摩天樓(마천루)(英語: Empire State ... 紐(유)約(약) 랜드마크 委員會(위원회)(New York",
-      "count": 6
-    },
-    {
       "title": "유니코드",
       "surrounding": "유니코드 標準(표준)(英語: Unicode Standard) ... 14 0 Character Counts",
       "count": 6
@@ -1529,6 +1524,11 @@
     {
       "title": "언니코드",
       "surrounding": "언니코드(Unnicode)는 유니코드(Unicode)의 ... 언니코드(Unnicode)는 유니코드(Unicode)의 짝퉁이다",
+      "count": 2
+    },
+    {
+      "title": "엠파이어 스테이트 빌딩",
+      "surrounding": "스테이트 빌딩(英語: Empire State ... 빌딩(英語: Empire State Building)은",
       "count": 2
     },
     {

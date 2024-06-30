@@ -462,11 +462,6 @@
       "count": 5
     },
     {
-      "title": "엠파이어 스테이트 빌딩",
-      "surrounding": "터널 帝國(제국)摩天樓(마천루)(英語: Empire State ... 委員會(위원회)(New York Landmarks Commission)는",
-      "count": 5
-    },
-    {
       "title": "오픈TTD",
       "surrounding": "하는 YACD(Yet Another Cargo ... 만들어버리면 原來(원래)의 豫測(예측)可能(가능)한(deterministic) 시뮬레이션이",
       "count": 5
@@ -1934,6 +1929,11 @@
     {
       "title": "엘리제宮",
       "surrounding": "아르만 클로드 몰레(Armand-Claude Mollet",
+      "count": 1
+    },
+    {
+      "title": "엠파이어 스테이트 빌딩",
+      "surrounding": "스테이트 빌딩(英語: Empire State",
       "count": 1
     },
     {

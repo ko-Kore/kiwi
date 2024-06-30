@@ -1157,11 +1157,6 @@
       "count": 3
     },
     {
-      "title": "엠파이어 스테이트 빌딩",
-      "surrounding": "帝國(제국)摩天樓(마천루)(英語: Empire State Building)은 ... 委員會(위원회)(New York Landmarks Commission)는",
-      "count": 3
-    },
-    {
       "title": "하겐다즈",
       "surrounding": "하겐다즈(獨逸語: Häagen-Dazs)는、美國(미국)의 아이스크림브랜드이다。會社(회사)는 ... 特徵(특징)이다。公式(공식)사이트는 www icecream com으로",
       "count": 3
@@ -2364,6 +2359,11 @@
     {
       "title": "에펠塔",
       "surrounding": "英吉利(영길리)海峽(해협)隧(수)道(도) 에펠塔(탑)(佛蘭西語: La tour",
+      "count": 1
+    },
+    {
+      "title": "엠파이어 스테이트 빌딩",
+      "surrounding": "빌딩(英語: Empire State Building)은",
       "count": 1
     },
     {
