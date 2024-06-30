@@ -1122,11 +1122,6 @@
       "count": 2
     },
     {
-      "title": "鰐魚",
-      "surrounding": "長(장)吻(문)鰐科(악과) 鰐(악)屬(속) Mecistops屬(속) Osteolaemus屬(속) ... 鰐(악)屬(속) Mecistops屬(속) Osteolaemus屬(속) 鼉(타)屬(속)",
-      "count": 2
-    },
-    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "天安門上太陽升 Tiān’ānmén shàng tàiyáng ... shàng tàiyáng shēng 天安門(천안문)",
       "count": 2
@@ -1734,6 +1729,11 @@
     {
       "title": "魚雷",
       "surrounding": "將校(장교) Giovanni Luppis가 構想(구상)했고",
+      "count": 1
+    },
+    {
+      "title": "鰐魚",
+      "surrounding": "부리鰐(악)屬(속) 美洲(미주)鰐(악) Crocodylus halli",
       "count": 1
     },
     {
