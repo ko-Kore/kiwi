@@ -1,4 +1,13 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th style="background:red; color: #Ffffff;"><big><big>⚠️<ruby class="hanja api grade30"><rb>閱覽</rb><rp>(</rp><rt>열람</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>注意</rb><rp>(</rp><rt>주의</rt><rp>)</rp></ruby>⚠️</big></big>
+</th></tr>
+<tr>
+<td><ruby class="hanja api grade60"><rb>本</rb><rp>(</rp><rt>본</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>文書</rb><rp>(</rp><rt>문서</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>內容</rb><rp>(</rp><rt>내용</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade20"><rb>編輯者</rb><rp>(</rp><rt>편집자</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>本人</rb><rp>(</rp><rt>본인</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade72"><rb>立場</rb><rp>(</rp><rt>입장</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade62"><rb>代表</rb><rp>(</rp><rt>대표</rt><rp>)</rp></ruby>하지 않아요.
+</td></tr></tbody></table>
+<table class="wikitable infobox">
 <caption>
 </caption>
 <tbody><tr>
@@ -102,154 +111,4 @@
 </blockquote>
 <p><a href="/index.php?title=%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%B0%E7%88%AD&amp;action=edit&amp;redlink=1" class="new" title="太平洋戰爭 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>太平洋</rb><rp>(</rp><rt>태평양</rt><rp>)</rp></ruby></a>에서 벌어진 <a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0" title="第二次世界大戰"><ruby class="hanja api grade42"><rb>第二次世界大戰</rb><rp>(</rp><rt>제이차세계대전</rt><rp>)</rp></ruby></a>을 생생하게 다룬 이 <a href="/wiki/%E6%98%A0%E7%95%B5" title="映畵"><ruby class="hanja api grade40"><rb>映畵</rb><rp>(</rp><rt>영화</rt><rp>)</rp></ruby></a>는 <ruby class="hanja api grade40"><rb>指揮官</rb><rp>(</rp><rt>지휘관</rt><rp>)</rp></ruby>들이 <ruby class="hanja api grade52"><rb>重要</rb><rp>(</rp><rt>중요</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade40"><rb>戰略的</rb><rp>(</rp><rt>전략적</rt><rp>)</rp></ruby>, <ruby class="hanja api grade52"><rb>戰術的</rb><rp>(</rp><rt>전술적</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>決定</rb><rp>(</rp><rt>결정</rt><rp>)</rp></ruby>을 내리는 <ruby class="hanja api grade42"><rb>過程</rb><rp>(</rp><rt>과정</rt><rp>)</rp></ruby>에서 가장 <ruby class="hanja api grade52"><rb>重要</rb><rp>(</rp><rt>중요</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade32"><rb>瞬間</rb><rp>(</rp><rt>순간</rt><rp>)</rp></ruby>을 다룬다. 이 에피소드는 픽션이 아닌 <ruby class="hanja api grade42"><rb>實際</rb><rp>(</rp><rt>실제</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>事件</rb><rp>(</rp><rt>사건</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>基盤</rb><rp>(</rp><rt>기반</rt><rp>)</rp></ruby>으로 하기 때문에 <ruby class="hanja api grade40"><rb>視聽者</rb><rp>(</rp><rt>시청자</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade42"><rb>平素</rb><rp>(</rp><rt>평소</rt><rp>)</rp></ruby>보다 더 많은 <ruby class="hanja api grade32"><rb>緊張感</rb><rp>(</rp><rt>긴장감</rt><rp>)</rp></ruby>에 휩싸일 것입니다.
 </p>
-<h2><span id=".E5.85.B7.E9.AB.94.28.EA.B5.AC.EC.B2.B4.29.ED.95.9C_.EC.97.90.ED.94.BC.EC.86.8C.EB.93.9C.EC.9D.98_.E6.A8.99.E9.A1.8C.28.ED.91.9C.EC.A0.9C.29.EA.B3.BC_.E7.B4.B9.E4.BB.8B.28.EC.86.8C.EA.B0.9C.29"></span><span class="mw-headline" id="具體(구체)한_에피소드의_標題(표제)과_紹介(소개)"><ruby class="hanja api grade52"><rb>具體</rb><rp>(</rp><rt>구체</rt><rp>)</rp></ruby>한 에피소드의 <ruby class="hanja api grade40"><rb>標題</rb><rp>(</rp><rt>표제</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade20"><rb>紹介</rb><rp>(</rp><rt>소개</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%B1%BA%E6%96%B7&amp;action=edit&amp;section=1" title="部分 編輯: 具體(구체)한 에피소드의 標題(표제)과 紹介(소개)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable">
-<caption>
-</caption>
-<tbody><tr>
-<th>에피소드 <ruby class="hanja api grade70"><rb>數</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby></th>
-<th><ruby class="hanja api grade40"><rb>標題</rb><rp>(</rp><rt>표제</rt><rp>)</rp></ruby></th>
-<th><ruby class="hanja api grade20"><rb>紹介</rb><rp>(</rp><rt>소개</rt><rp>)</rp></ruby>
-</th></tr>
-<tr>
-<th>1.
-</th>
-<td><ruby class="hanja api grade20"><rb>眞珠灣</rb><rp>(</rp><rt>진주만</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>奇襲</rb><rp>(</rp><rt>기습</rt><rp>)</rp></ruby>
-</td>
-<td><a href="/index.php?title=1941%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1941年 (없는 文書)">1941<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a> <a href="/index.php?title=12%E6%9C%88_8%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="12月 8日 (없는 文書)">12<ruby class="hanja api grade80 unknown"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 8<ruby class="hanja api grade80 unknown"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby></a> 6:05에 <ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja api grade42"><rb>次</rb><rp>(</rp><rt>차</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>攻擊隊</rb><rp>(</rp><rt>공격대</rt><rp>)</rp></ruby>, <ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby>350<ruby class="hanja api grade40"><rb>機</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>, 765<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>이 <a href="/index.php?title=%E7%9C%9E%E7%8F%A0%E7%81%A3&amp;action=edit&amp;redlink=1" class="new" title="眞珠灣 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>眞珠灣</rb><rp>(</rp><rt>진주만</rt><rp>)</rp></ruby></a>을 <ruby class="hanja api grade60"><rb>向</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby>해 <ruby class="hanja api grade20"><rb>發艦</rb><rp>(</rp><rt>발함</rt><rp>)</rp></ruby>. <ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja api grade40"><rb>機動部隊</rb><rp>(</rp><rt>기동부대</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>指揮官</rb><rp>(</rp><rt>지휘관</rt><rp>)</rp></ruby>인 <a href="/index.php?title=%E5%8D%97%E9%9B%B2%E5%BF%A0%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="南雲忠ー (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>南</rb><rp>(</rp><rt>남</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>雲</rb><rp>(</rp><rt>운</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade42"><rb>中將</rb><rp>(</rp><rt>중장</rt><rp>)</rp></ruby>과 <a href="/index.php?title=%E7%BE%8E%E5%9C%8B%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%89%A6%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="美國太平洋艦隊 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>太平洋艦隊</rb><rp>(</rp><rt>태평양함대</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade32"><rb>司令長</rb><rp>(</rp><rt>사령장</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>官</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby>인 킴멜 <ruby class="hanja api grade42"><rb>大將</rb><rp>(</rp><rt>대장</rt><rp>)</rp></ruby>. 서로의 <ruby class="hanja api grade40"><rb>狀況</rb><rp>(</rp><rt>상황</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>變化</rb><rp>(</rp><rt>변화</rt><rp>)</rp></ruby>와, 그 <ruby class="hanja api grade42"><rb>決斷</rb><rp>(</rp><rt>결단</rt><rp>)</rp></ruby>의 때를 쫓는다.
-</td></tr>
-<tr>
-<th>2.
-</th>
-<td><a href="/index.php?title=%EB%AF%B8%EB%93%9C%EC%9B%A8%EC%9D%B4_%E6%B5%B7%E6%88%B0&amp;action=edit&amp;redlink=1" class="new" title="미드웨이 海戰 (없는 文書)">미드웨이 <ruby class="hanja api grade62 unknown"><rb>海戰</rb><rp>(</rp><rt>해전</rt><rp>)</rp></ruby></a> (<ruby class="hanja api grade40"><rb>前篇</rb><rp>(</rp><rt>전편</rt><rp>)</rp></ruby>)
-</td>
-<td><a href="/index.php?title=%E6%89%80%E7%BE%85%E9%96%80%E6%B5%B7&amp;action=edit&amp;redlink=1" class="new" title="所羅門海 (없는 文書)"><ruby class="hanja api grade70 unknown"><rb>所</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>羅</rb><rp>(</rp><rt>라</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>門</rb><rp>(</rp><rt>문</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>海</rb><rp>(</rp><rt>해</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E5%8D%B0%E5%BA%A6%E6%B4%8B&amp;action=edit&amp;redlink=1" class="new" title="印度洋 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>印度洋</rb><rp>(</rp><rt>인도양</rt><rp>)</rp></ruby></a>에서의 <a href="/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8D" title="日本軍"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade42"><rb>快</rb><rp>(</rp><rt>쾌</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>進擊</rb><rp>(</rp><rt>진격</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade40"><rb>繼續</rb><rp>(</rp><rt>계속</rt><rp>)</rp></ruby>되는 가운데, <ruby class="hanja api grade60"><rb>美</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>太平洋</rb><rp>(</rp><rt>태평양</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>機動部隊</rb><rp>(</rp><rt>기동부대</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade32"><rb>擊滅</rb><rp>(</rp><rt>격멸</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade40"><rb>目標</rb><rp>(</rp><rt>목표</rt><rp>)</rp></ruby>로 하는 미드웨이 <ruby class="hanja api grade32"><rb>作戰計劃</rb><rp>(</rp><rt>작전계획</rt><rp>)</rp></ruby>이 입안된다. 그러나, 1942<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 5<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>, <ruby class="hanja api grade12"><rb>謀甫</rb><rp>(</rp><rt>모보</rt><rp>)</rp></ruby> <ruby class="hanja api grade72"><rb>活動</rb><rp>(</rp><rt>활동</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade40"><rb>依</rb><rp>(</rp><rt>의</rt><rp>)</rp></ruby>해 <ruby class="hanja api grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>太平洋艦隊</rb><rp>(</rp><rt>태평양함대</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>의 움직임을 <ruby class="hanja api grade52"><rb>感知</rb><rp>(</rp><rt>감지</rt><rp>)</rp></ruby>하고 있었다.
-</td></tr>
-<tr>
-<th>3.
-</th>
-<td>미드웨이 <ruby class="hanja api grade62"><rb>海戰</rb><rp>(</rp><rt>해전</rt><rp>)</rp></ruby> (<ruby class="hanja api grade40"><rb>後篇</rb><rp>(</rp><rt>후편</rt><rp>)</rp></ruby>)
-</td>
-<td><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E6%B5%B7%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="日本海軍 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>日本海</rb><rp>(</rp><rt>일본해</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby></a>은 <ruby class="hanja api grade50"><rb>赤</rb><rp>(</rp><rt>적</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>城</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby>, <ruby class="hanja api grade50"><rb>加</rb><rp>(</rp><rt>가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>賀</rb><rp>(</rp><rt>하</rt><rp>)</rp></ruby>, <ruby class="hanja api grade32"><rb>蒼龍</rb><rp>(</rp><rt>창룡</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70"><rb>主力</rb><rp>(</rp><rt>주력</rt><rp>)</rp></ruby> 3<a href="/index.php?title=%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%89%A6&amp;action=edit&amp;redlink=1" class="new" title="航空母艦 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>航空母艦</rb><rp>(</rp><rt>항공모함</rt><rp>)</rp></ruby></a>을 잃었다. 남은 <ruby class="hanja api grade40"><rb>飛龍</rb><rp>(</rp><rt>비룡</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>航空母艦</rb><rp>(</rp><rt>항공모함</rt><rp>)</rp></ruby> 3<ruby class="hanja api grade20"><rb>隻</rb><rp>(</rp><rt>척</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade52"><rb>相對</rb><rp>(</rp><rt>상대</rt><rp>)</rp></ruby>로 마지막 싸움을 벌인다. <a href="/wiki/%E7%BE%8E%E5%9C%8B" class="mw-redirect" title="美國"><ruby class="hanja api grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby></a><ruby class="hanja api grade20"><rb>航空母艦</rb><rp>(</rp><rt>항공모함</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade32"><rb>雷擊</rb><rp>(</rp><rt>뇌격</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>戰</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby>으로 덤벼드는 <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>軍機</rb><rp>(</rp><rt>군기</rt><rp>)</rp></ruby>. 하지만 거기에 본 것은.... <ruby class="hanja api grade60"><rb>美日</rb><rp>(</rp><rt>미일</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade40"><rb>死鬪</rb><rp>(</rp><rt>사투</rt><rp>)</rp></ruby>가 <ruby class="hanja api grade50"><rb>最終</rb><rp>(</rp><rt>최종</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>局面</rb><rp>(</rp><rt>국면</rt><rp>)</rp></ruby>을 맞이한다.
-</td></tr>
-<tr>
-<th>4.
-</th>
-<td><ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>突進</rb><rp>(</rp><rt>돌진</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>作戰</rb><rp>(</rp><rt>작전</rt><rp>)</rp></ruby>
-</td>
-<td><ruby class="hanja api grade72"><rb>南方</rb><rp>(</rp><rt>남방</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>資源</rb><rp>(</rp><rt>자원</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>確保</rb><rp>(</rp><rt>확보</rt><rp>)</rp></ruby>를 위해 <ruby class="hanja api grade42"><rb>南進</rb><rp>(</rp><rt>남진</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>은, <a href="/index.php?title=%E8%8B%B1%E5%9C%8B%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="英國軍 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade80 unknown"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade40"><rb>據點</rb><rp>(</rp><rt>거점</rt><rp>)</rp></ruby>이자 요한<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby> <a href="/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1" title="新加坡"><ruby class="hanja api grade12"><rb>新加坡</rb><rp>(</rp><rt>신가파</rt><rp>)</rp></ruby></a>를 <ruby class="hanja api grade40"><rb>目標</rb><rp>(</rp><rt>목표</rt><rp>)</rp></ruby>로 <a href="/index.php?title=%E9%A6%AC%E4%BE%86%E5%8D%8A%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="馬來半島 (없는 文書)"><ruby class="hanja api grade50 unknown"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>半島</rb><rp>(</rp><rt>반도</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade52"><rb>上陸</rb><rp>(</rp><rt>상륙</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>計劃</rb><rp>(</rp><rt>계획</rt><rp>)</rp></ruby>한다. 12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 8<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> 새벽, <ruby class="hanja api grade60"><rb>先頭</rb><rp>(</rp><rt>선두</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>部隊</rb><rp>(</rp><rt>부대</rt><rp>)</rp></ruby>가 싱고라에 <ruby class="hanja api grade52"><rb>上陸</rb><rp>(</rp><rt>상륙</rt><rp>)</rp></ruby>해, 드디어 <ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>半島</rb><rp>(</rp><rt>반도</rt><rp>)</rp></ruby>에서의 <ruby class="hanja api grade32"><rb>突進</rb><rp>(</rp><rt>돌진</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade62"><rb>始作</rb><rp>(</rp><rt>시작</rt><rp>)</rp></ruby>된다.
-</td></tr>
-<tr>
-<th>5.
-</th>
-<td><ruby class="hanja api grade12"><rb>新加坡</rb><rp>(</rp><rt>신가파</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>攻略</rb><rp>(</rp><rt>공략</rt><rp>)</rp></ruby>
-</td>
-<td><ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>半島</rb><rp>(</rp><rt>반도</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>上陸</rb><rp>(</rp><rt>상륙</rt><rp>)</rp></ruby>으로부터의 <ruby class="hanja api grade32"><rb>突進</rb><rp>(</rp><rt>돌진</rt><rp>)</rp></ruby>으로 <ruby class="hanja api grade32"><rb>疲弊</rb><rp>(</rp><rt>피폐</rt><rp>)</rp></ruby>해진 <ruby class="hanja api grade52"><rb>兵士</rb><rp>(</rp><rt>병사</rt><rp>)</rp></ruby>. <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade40"><rb>彈藥</rb><rp>(</rp><rt>탄약</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>等</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby>도 <ruby class="hanja api grade52"><rb>充分</rb><rp>(</rp><rt>충분</rt><rp>)</rp></ruby>하지 않다. 한<ruby class="hanja api grade70"><rb>便</rb><rp>(</rp><rt>편</rt><rp>)</rp></ruby>, <ruby class="hanja api grade42"><rb>制空權</rb><rp>(</rp><rt>제공권</rt><rp>)</rp></ruby>, <ruby class="hanja api grade42"><rb>制海權</rb><rp>(</rp><rt>제해권</rt><rp>)</rp></ruby>을 탈취당해 <ruby class="hanja api grade40"><rb>孤立</rb><rp>(</rp><rt>고립</rt><rp>)</rp></ruby>되면서도 싱가포르를 <ruby class="hanja api grade10"><rb>防禦</rb><rp>(</rp><rt>방어</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>. <ruby class="hanja api grade42"><rb>防衛</rb><rp>(</rp><rt>방위</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>側</rb><rp>(</rp><rt>측</rt><rp>)</rp></ruby>으로서의 <ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby> 퍼시벌 <ruby class="hanja api grade42"><rb>中將</rb><rp>(</rp><rt>중장</rt><rp>)</rp></ruby>이 내린 <ruby class="hanja api grade42"><rb>決斷</rb><rp>(</rp><rt>결단</rt><rp>)</rp></ruby>이란...
-</td></tr>
-<tr>
-<th>6.
-</th>
-<td><ruby class="hanja api grade42"><rb>香港</rb><rp>(</rp><rt>향항</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>攻略</rb><rp>(</rp><rt>공략</rt><rp>)</rp></ruby>
-</td>
-<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>23<ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>司令官</rb><rp>(</rp><rt>사령관</rt><rp>)</rp></ruby>·<ruby class="hanja api grade40"><rb>酒</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>井</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>中將</rb><rp>(</rp><rt>중장</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade10"><rb>麾下</rb><rp>(</rp><rt>휘하</rt><rp>)</rp></ruby>, <ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>半島</rb><rp>(</rp><rt>반도</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>上陸</rb><rp>(</rp><rt>상륙</rt><rp>)</rp></ruby>에 이어 1<ruby class="hanja api grade80"><rb>萬</rb><rp>(</rp><rt>만</rt><rp>)</rp></ruby> 2000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade52"><rb>兵力</rb><rp>(</rp><rt>병력</rt><rp>)</rp></ruby>이 <ruby class="hanja api grade10"><rb>防禦</rb><rp>(</rp><rt>방어</rt><rp>)</rp></ruby>하는 <a href="/index.php?title=%E8%8B%B1%E5%9C%8B%E9%A0%98%E9%A6%99%E6%B8%AF&amp;action=edit&amp;redlink=1" class="new" title="英國領香港 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>領</rb><rp>(</rp><rt>령</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>香港</rb><rp>(</rp><rt>향항</rt><rp>)</rp></ruby></a>을 <ruby class="hanja api grade40"><rb>攻略</rb><rp>(</rp><rt>공략</rt><rp>)</rp></ruby>. 진·드링커스 라인에서 <ruby class="hanja api grade10"><rb>防禦</rb><rp>(</rp><rt>방어</rt><rp>)</rp></ruby>를 하는 <ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby>-<ruby class="hanja api grade42"><rb>印度</rb><rp>(</rp><rt>인도</rt><rp>)</rp></ruby>-<ruby class="hanja api grade20"><rb>濠洲</rb><rp>(</rp><rt>호주</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>聯合軍</rb><rp>(</rp><rt>연합군</rt><rp>)</rp></ruby>. <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>은 진·드링커스 라인을 <ruby class="hanja api grade32"><rb>突破</rb><rp>(</rp><rt>돌파</rt><rp>)</rp></ruby>할 수 있을까....
-</td></tr>
-<tr>
-<th>7.
-</th>
-<td><ruby class="hanja api grade50"><rb>馬來</rb><rp>(</rp><rt>마래</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>海戰</rb><rp>(</rp><rt>해전</rt><rp>)</rp></ruby>
-</td>
-<td><a href="/index.php?title=Z%E8%89%A6%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="Z艦隊 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>東洋</rb><rp>(</rp><rt>동양</rt><rp>)</rp></ruby><ruby class="hanja api grade20 unknown"><rb>艦隊</rb><rp>(</rp><rt>함대</rt><rp>)</rp></ruby></a>에, <a href="/index.php?title=%E6%88%B0%E8%89%A6&amp;action=edit&amp;redlink=1" class="new" title="戰艦 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>戰艦</rb><rp>(</rp><rt>전함</rt><rp>)</rp></ruby></a> <ruby class="hanja api grade40"><rb>威</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>爾</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>斯</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>親王</rb><rp>(</rp><rt>친왕</rt><rp>)</rp></ruby>, <a href="/index.php?title=%E5%B7%A1%E6%B4%8B%E6%88%B0%E8%89%A6&amp;action=edit&amp;redlink=1" class="new" title="巡洋戰艦 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>巡洋戰艦</rb><rp>(</rp><rt>순양전함</rt><rp>)</rp></ruby></a> 레펄스가 <ruby class="hanja api grade52"><rb>合流</rb><rp>(</rp><rt>합류</rt><rp>)</rp></ruby>하여, <ruby class="hanja api grade42"><rb>鐵壁</rb><rp>(</rp><rt>철벽</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade10"><rb>防禦</rb><rp>(</rp><rt>방어</rt><rp>)</rp></ruby>에 들어가는 <ruby class="hanja api grade12"><rb>新加坡</rb><rp>(</rp><rt>신가파</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>. <ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>東洋</rb><rp>(</rp><rt>동양</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>艦隊</rb><rp>(</rp><rt>함대</rt><rp>)</rp></ruby>의 움직임에 <ruby class="hanja api grade62"><rb>對</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade42"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby>를 얻은 <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>은, <ruby class="hanja api grade52"><rb>陸上</rb><rp>(</rp><rt>육상</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>基地</rb><rp>(</rp><rt>기지</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade32"><rb>雷擊</rb><rp>(</rp><rt>뇌격</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>臺</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>를, <ruby class="hanja api grade72"><rb>海上</rb><rp>(</rp><rt>해상</rt><rp>)</rp></ruby>에서는 <ruby class="hanja api grade20"><rb>艦隊</rb><rp>(</rp><rt>함대</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade60"><rb>向</rb><rp>(</rp><rt>향</rt><rp>)</rp></ruby>하게 한다.
-</td></tr>
-<tr>
-<th>8.
-</th>
-<td><a href="/index.php?title=%E7%8F%8A%E7%91%9A%E6%B5%B7%E6%B5%B7%E6%88%B0&amp;action=edit&amp;redlink=1" class="new" title="珊瑚海海戰 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>珊瑚海</rb><rp>(</rp><rt>산호해</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>海戰</rb><rp>(</rp><rt>해전</rt><rp>)</rp></ruby></a>
-</td>
-<td><ruby class="hanja api grade62"><rb>海戰</rb><rp>(</rp><rt>해전</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>史上</rb><rp>(</rp><rt>사상</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>最初</rb><rp>(</rp><rt>최초</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade20"><rb>航空母艦</rb><rp>(</rp><rt>항공모함</rt><rp>)</rp></ruby>끼리의 싸움. 포트 모레스피 <ruby class="hanja api grade62"><rb>作戰</rb><rp>(</rp><rt>작전</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>援護</rb><rp>(</rp><rt>원호</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade42"><rb>爲</rb><rp>(</rp><rt>위</rt><rp>)</rp></ruby>해, 이노우에 <ruby class="hanja api grade42"><rb>中將</rb><rp>(</rp><rt>중장</rt><rp>)</rp></ruby>이 이끄는 <ruby class="hanja api grade40"><rb>機動部隊</rb><rp>(</rp><rt>기동부대</rt><rp>)</rp></ruby>는, <ruby class="hanja api grade60"><rb>美國</rb><rp>(</rp><rt>미국</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>機動隊</rb><rp>(</rp><rt>기동대</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade32"><rb>擊滅</rb><rp>(</rp><rt>격멸</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade40"><rb>目標</rb><rp>(</rp><rt>목표</rt><rp>)</rp></ruby>로 한다. 무엇이 <ruby class="hanja api grade60"><rb>勝利</rb><rp>(</rp><rt>승리</rt><rp>)</rp></ruby>를 이끌고, 무엇을 가지고 <ruby class="hanja api grade50"><rb>敗戰</rb><rp>(</rp><rt>패전</rt><rp>)</rp></ruby>이 되는가. 그 <ruby class="hanja api grade42"><rb>決斷</rb><rp>(</rp><rt>결단</rt><rp>)</rp></ruby>을 내릴 때까지의 <ruby class="hanja api grade42"><rb>警衛</rb><rp>(</rp><rt>경위</rt><rp>)</rp></ruby>를 그린다.
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr>
-<tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr></tbody></table>
 </div></body></html>
