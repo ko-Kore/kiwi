@@ -52,25 +52,25 @@
 </p>
 </td></tr>
 <tr>
-<th colspan="2"><b><ruby class="hanja api grade62"><rb>主題歌</rb><rp>(</rp><rt>주제가</rt><rp>)</rp></ruby> <a href="/index.php?title=%E3%80%8E%E6%B1%BA%E6%96%B7%E3%80%8F&amp;action=edit&amp;redlink=1" class="new" title="『決斷』 (없는 文書)">『<ruby class="hanja api grade42 unknown"><rb>決斷</rb><rp>(</rp><rt>결단</rt><rp>)</rp></ruby>』</a></b>
-</th></tr>
+<td colspan="3" style="text-align: center;"><b><ruby class="hanja api grade62"><rb>主題歌</rb><rp>(</rp><rt>주제가</rt><rp>)</rp></ruby> <a href="/index.php?title=%E3%80%8E%E6%B1%BA%E6%96%B7%E3%80%8F&amp;action=edit&amp;redlink=1" class="new" title="『決斷』 (없는 文書)">『<ruby class="hanja api grade42 unknown"><rb>決斷</rb><rp>(</rp><rt>결단</rt><rp>)</rp></ruby>』</a></b>
+</td></tr>
 <tr>
-<td><b><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></b>
+<td style="text-align: center;"><b><ruby class="hanja api grade32"><rb>詞</rb><rp>(</rp><rt>사</rt><rp>)</rp></ruby></b>
 </td>
 <td><ruby class="hanja api grade32"><rb>丘</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>燈</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>至</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>夫</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><b><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></b>
+<td style="text-align: center;"><b><ruby class="hanja api grade50"><rb>曲</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby></b>
 </td>
 <td><a href="/index.php?title=%E5%8F%A4%E9%97%9C%E8%A3%95%E8%80%8C&amp;action=edit&amp;redlink=1" class="new" title="古關裕而 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>古</rb><rp>(</rp><rt>고</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>關</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>裕</rb><rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby class="hanja api grade30 unknown"><rb>而</rb><rp>(</rp><rt>이</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td><b><ruby class="hanja api grade10"><rb>唄</rb><rp>(</rp><rt>패</rt><rp>)</rp></ruby></b>
+<td style="text-align: center;"><b><ruby class="hanja api grade10"><rb>唄</rb><rp>(</rp><rt>패</rt><rp>)</rp></ruby></b>
 </td>
 <td><ruby class="hanja api grade32"><rb>幹</rb><rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>和</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>之</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby><br><ruby class="hanja api grade10"><rb>哥倫比亞</rb><rp>(</rp><rt>가륜비아</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>男聲合唱團</rb><rp>(</rp><rt>남성합창단</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
-<td><b><ruby class="hanja api grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby></b>
+<td style="text-align: center;"><b><ruby class="hanja api grade62"><rb>發表</rb><rp>(</rp><rt>발표</rt><rp>)</rp></ruby></b>
 </td>
 <td><a href="/index.php?title=1971%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1971年 (없는 文書)">1971<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
 </td></tr>
