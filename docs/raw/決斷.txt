@@ -13,6 +13,11 @@
 <td><a href="/index.php?title=%E6%97%A5%E6%9C%ACTV&amp;action=edit&amp;redlink=1" class="new" title="日本TV (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby>TV</a>1974<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> - 1974<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>9<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>
 </td></tr>
 <tr>
+<th>에피소드 <ruby class="hanja api grade70"><rb>數</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade42"><rb>總</rb><rp>(</rp><rt>총</rt><rp>)</rp></ruby> 25<ruby class="hanja api grade42"><rb>回</rb><rp>(</rp><rt>회</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>製作</rb><rp>(</rp><rt>제작</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>人員</rb><rp>(</rp><rt>인원</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>名單</rb><rp>(</rp><rt>명단</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
@@ -23,7 +28,7 @@
 <tr>
 <th><ruby class="hanja api grade42"><rb>製作</rb><rp>(</rp><rt>제작</rt><rp>)</rp></ruby>
 </th>
-<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-25px-Flag_of_Japan.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-38px-Flag_of_Japan.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langko-kore-50px-Flag_of_Japan.svg.png 2x"></a></span>㍿<ruby class="hanja api grade40"><rb>龍</rb><rp>(</rp><rt>룡</rt><rp>)</rp></ruby>의 아들 프로덕션 (<ruby class="hanja api grade62"><rb>現</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby> 다쓰노코 프로)
+<td>㍿<ruby class="hanja api grade40"><rb>龍</rb><rp>(</rp><rt>룡</rt><rp>)</rp></ruby>의 아들 프로덕션 (<ruby class="hanja api grade62"><rb>現</rb><rp>(</rp><rt>현</rt><rp>)</rp></ruby> 다쓰노코 프로)
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade62"><rb>角色</rb><rp>(</rp><rt>각색</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>設計</rb><rp>(</rp><rt>설계</rt><rp>)</rp></ruby>
@@ -86,4 +91,10 @@
 <p><ruby class="hanja api grade70"><rb>九里</rb><rp>(</rp><rt>구리</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>平</rb><rp>(</rp><rt>평</rt><rp>)</rp></ruby>
 </p>
 </td></tr></tbody></table>
+<blockquote>
+<p><b><ruby><rb>人生</rb><rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>で<br><ruby><rb>最</rb><rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby><rb>貴</rb><rp>(</rp><rt>き</rt><rp>)</rp></ruby><ruby><rb>重</rb><rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>な<ruby><rb>瞬</rb><rp>(</rp><rt>しゅん</rt><rp>)</rp></ruby><ruby><rb>間</rb><rp>(</rp><rt>かん</rt><rp>)</rp></ruby><br>それは<br><ruby><rb>決斷</rb><rp>(</rp><rt>けつだん</rt><rp>)</rp></ruby>の<ruby><rb>時</rb><rp>(</rp><rt>とき</rt><rp>)</rp></ruby>である<br><ruby><rb>太平洋戰爭</rb><rp>(</rp><rt>たいへいようせんそう</rt><rp>)</rp></ruby>は<br><ruby><rb>我々</rb><rp>(</rp><rt>われわれ</rt><rp>)</rp></ruby>に<br><ruby><rb>平</rb><rp>(</rp><rt>へい</rt><rp>)</rp></ruby><ruby><rb>和</rb><rp>(</rp><rt>わ</rt><rp>)</rp></ruby>の<ruby><rb>尊</rb><rp>(</rp><rt>とうと</rt><rp>)</rp></ruby>さを<ruby><rb>敎</rb><rp>(</rp><rt>おしえ</rt><rp>)</rp></ruby>たが<br>また<br><ruby><rb>生</rb><rp>(</rp><rt>いき</rt><rp>)</rp></ruby>る<ruby><rb>爲</rb><rp>(</rp><rt>ため</rt><rp>)</rp></ruby>の<ruby><rb>敎</rb><rp>(</rp><rt>きょう</rt><rp>)</rp></ruby><ruby><rb>訓</rb><rp>(</rp><rt>くん</rt><rp>)</rp></ruby>を<br><ruby><rb>數多</rb><rp>(</rp><rt>かずおお</rt><rp>)</rp></ruby>くのこしている</b>
+</p>
+</blockquote>
+<p><a href="/index.php?title=%E5%A4%AA%E5%B9%B3%E6%B4%8B&amp;action=edit&amp;redlink=1" class="new" title="太平洋 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>太平洋</rb><rp>(</rp><rt>태평양</rt><rp>)</rp></ruby></a>에서 벌어진 <a href="/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%B0" title="第二次世界大戰"><ruby class="hanja api grade42"><rb>第二次世界大戰</rb><rp>(</rp><rt>제이차세계대전</rt><rp>)</rp></ruby></a>을 생생하게 다룬 이 <a href="/wiki/%E6%98%A0%E7%95%B5" title="映畵"><ruby class="hanja api grade40"><rb>映畵</rb><rp>(</rp><rt>영화</rt><rp>)</rp></ruby></a>는 <ruby class="hanja api grade40"><rb>指揮官</rb><rp>(</rp><rt>지휘관</rt><rp>)</rp></ruby>들이 <ruby class="hanja api grade52"><rb>重要</rb><rp>(</rp><rt>중요</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade40"><rb>戰略的</rb><rp>(</rp><rt>전략적</rt><rp>)</rp></ruby>, <ruby class="hanja api grade52"><rb>戰術的</rb><rp>(</rp><rt>전술적</rt><rp>)</rp></ruby> <ruby class="hanja api grade52"><rb>決定</rb><rp>(</rp><rt>결정</rt><rp>)</rp></ruby>을 내리는 <ruby class="hanja api grade42"><rb>過程</rb><rp>(</rp><rt>과정</rt><rp>)</rp></ruby>에서 가장 <ruby class="hanja api grade52"><rb>重要</rb><rp>(</rp><rt>중요</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade32"><rb>瞬間</rb><rp>(</rp><rt>순간</rt><rp>)</rp></ruby>을 다룬다. 이 에피소드는 픽션이 아닌 <ruby class="hanja api grade42"><rb>實際</rb><rp>(</rp><rt>실제</rt><rp>)</rp></ruby> <ruby class="hanja api grade50"><rb>事件</rb><rp>(</rp><rt>사건</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>基盤</rb><rp>(</rp><rt>기반</rt><rp>)</rp></ruby>으로 하기 때문에 <ruby class="hanja api grade40"><rb>視聽者</rb><rp>(</rp><rt>시청자</rt><rp>)</rp></ruby>는 <ruby class="hanja api grade42"><rb>平素</rb><rp>(</rp><rt>평소</rt><rp>)</rp></ruby>보다 더 많은 <ruby class="hanja api grade32"><rb>緊張感</rb><rp>(</rp><rt>긴장감</rt><rp>)</rp></ruby>에 휩싸일 것입니다.
+</p>
 </div></body></html>
