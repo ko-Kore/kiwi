@@ -22,7 +22,7 @@
 <tr>
 <th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%EB%82%98%EC%9D%98_%E7%A5%96%E5%9C%8B" title="나의 祖國">나의 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%EB%82%98%EC%9D%98_%E7%A5%96%E5%9C%8B_(%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E)&amp;action=edit&amp;redlink=1" class="new" title="나의 祖國 (馬來西亞) (없는 文書)">나의 <ruby class="hanja api grade70 unknown"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
