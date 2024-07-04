@@ -127,11 +127,6 @@
       "count": 7
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
-      "count": 6
-    },
-    {
       "title": "드골主義",
       "surrounding": "發展(발전)했지만 액션 프랑세즈(Action Francaise)에서 ... la Republique Union for",
       "count": 6
@@ -149,6 +144,11 @@
     {
       "title": "國際聯合 安全保障理事會",
       "surrounding": "安全保障理事會(안전보장이사회)유엔 安保(안보)理(리)United Nations Security ... 것 實際(실제)로 Resolution 82부터",
+      "count": 5
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
       "count": 5
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "title": "東南亞國家聯合",
-      "surrounding": " 東南亞(동남아)國家聯合(국가연합)(英語: Association of ... South-East Asian Nations 略稱(약칭)",
+      "surrounding": "東南亞(동남아)國家聯合(국가연합)(英語: Association of ... South-East Asian Nations 略稱(약칭)",
       "count": 2
     },
     {

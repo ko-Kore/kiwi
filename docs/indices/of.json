@@ -147,11 +147,6 @@
       "count": 2
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방)Commonwealth of NationsThe ... Commonwealth 파일:Flag of the",
-      "count": 2
-    },
-    {
       "title": "華府",
       "surrounding": "Washington District of Columbia ... 原語(원어)表記(표기) \"District of Columbia\"",
       "count": 2
@@ -379,6 +374,11 @@
     {
       "title": "英國의 國歌",
       "surrounding": "Country tis of thee",
+      "count": 1
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of NationsThe",
       "count": 1
     },
     {

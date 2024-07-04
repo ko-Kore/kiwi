@@ -232,11 +232,6 @@
       "count": 2
     },
     {
-      "title": "英聯邦",
-      "surrounding": "NationsThe CommonwealthThe British Commonwealth ... of the British Commonwealth",
-      "count": 2
-    },
-    {
       "title": "華府",
       "surrounding": "華府(화부) Washington District of ... ↑ 原語(원어)表記(표기) \"District of",
       "count": 2
@@ -484,6 +479,11 @@
     {
       "title": "英國",
       "surrounding": "있었는데 바로 大英帝國(대영제국)(British Empire)이다",
+      "count": 1
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": "NationsThe CommonwealthThe British Commonwealth",
       "count": 1
     },
     {

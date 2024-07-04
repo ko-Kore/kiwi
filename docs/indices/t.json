@@ -307,11 +307,6 @@
       "count": 9
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
-      "count": 9
-    },
-    {
       "title": "Foreign carrot regime",
       "surrounding": "foreign carrot regime(外國(외국) ... of foreign carrot regime",
       "count": 8
@@ -449,6 +444,11 @@
     {
       "title": "芬蘭",
       "surrounding": "芬蘭(분란)共和國(공화국) Suomen tasavaltaRepubliken Finland ... 芬蘭(분란)共和國(공화국)(2022年(년)7月(월)5日(일)) ↑ 瑞典語(서전어):Vårt land",
+      "count": 6
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
       "count": 6
     },
     {
@@ -768,7 +768,7 @@
     },
     {
       "title": "東南亞國家聯合",
-      "surrounding": " 東南亞(동남아)國家聯合(국가연합)(英語: Association of ... South-East Asian Nations 略稱(약칭)",
+      "surrounding": "東南亞(동남아)國家聯合(국가연합)(英語: Association of ... South-East Asian Nations 略稱(약칭)",
       "count": 3
     },
     {
