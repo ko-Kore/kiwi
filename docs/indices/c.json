@@ -392,6 +392,11 @@
       "count": 3
     },
     {
+      "title": "日本國航空宇宙自衛隊",
+      "surrounding": "Air Self-Defense Force 創設(창설) ... Aerospace Self-Defense Force 略稱(약칭)",
+      "count": 3
+    },
+    {
       "title": "漢字模樣說明式",
       "surrounding": "漢字模樣說明式(한자모양설명식)(Ideographic Description ... 漢字模樣說明式(한자모양설명식)(Ideographic Description Sequence IDS)은",
       "count": 3
@@ -984,11 +989,6 @@
     {
       "title": "日本國海上自衛隊",
       "surrounding": "Maritime Self-Defense Force 創設(창설)",
-      "count": 1
-    },
-    {
-      "title": "日本國航空宇宙自衛隊",
-      "surrounding": "Air Self-Defense Force 創設(창설)",
       "count": 1
     },
     {
