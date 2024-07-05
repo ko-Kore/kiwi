@@ -52,6 +52,11 @@
       "count": 8
     },
     {
+      "title": "獨逸民主共和國",
+      "surrounding": "國歌(국가) 廢墟(폐허)에서 일어나요Auferstanden aus ... 地上部隊(지상부대)(Landstreitkräfte) 人民(인민)海軍(해군)(Volksmarine) 航空(항공)部隊(부대)(Luftstreitkräfte) 國境(국경)警備隊(경비대)(Grenztruppen)",
+      "count": 7
+    },
+    {
       "title": "美合衆國",
       "surrounding": "God We Trust (“우리는神(신)을믿는다”)[1] ... God we trust”以外(이외)의 慣例(관례)上(상)標語(표어)는모두",
       "count": 7
@@ -65,11 +70,6 @@
       "title": "베스터발트의 노래",
       "surrounding": " 原語(원어) WesterwaldliedOh Du ... Jedoch der kleinste Sonnenschein",
       "count": 7
-    },
-    {
-      "title": "獨逸民主共和國",
-      "surrounding": "\"勞農(노농) 社會主義(사회주의) 國家(국가)\"(sozialistischen Staat ... 地上部隊(지상부대)(Landstreitkräfte) 人民(인민)海軍(해군)(Volksmarine) 航空(항공)部隊(부대)(Luftstreitkräfte) 國境(국경)警備隊(경비대)(Grenztruppen)",
-      "count": 6
     },
     {
       "title": "마르세유의 노래",
