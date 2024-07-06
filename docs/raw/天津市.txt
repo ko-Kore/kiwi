@@ -1,12 +1,17 @@
-<html><head></head><body><div class="mw-parser-output">
-[[파일:{{{로고}}}|200px]]
-<table class="wikitable infobox" style="text-align: center;">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox" style="text-align: center;">
 <tbody><tr>
 <th colspan="2"><b><ruby class="hanja api grade20"><rb>天津</rb><rp>(</rp><rt>천진</rt><rp>)</rp></ruby></b>
 </th></tr>
 <tr>
 <th colspan="2" style="background: #CDDEFF;"><a href="/index.php?title=%E7%9B%B4%E8%BD%84%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="直轄市 (없는 文書)"><ruby class="hanja api grade10 unknown"><rb>直轄市</rb><rp>(</rp><rt>직할시</rt><rp>)</rp></ruby></a>
-</th></tr><tr>
+</th></tr>
+<tr>
+<td colspan="2"><span typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Emblem_of_Tianjin.png" class="new" title="파일:Emblem of Tianjin.png"><span class="mw-broken-media" data-width="200">파일:Emblem of Tianjin.png</span></a></span>
+</td></tr>
+<tr>
+<td colspan="2"><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Tianjin_in_China_(%2Ball_claims_hatched).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tianjin_in_China_%28%2Ball_claims_hatched%29.svg/langko-kore-150px-Tianjin_in_China_%28%2Ball_claims_hatched%29.svg.png" decoding="async" width="150" height="119" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tianjin_in_China_%28%2Ball_claims_hatched%29.svg/langko-kore-225px-Tianjin_in_China_%28%2Ball_claims_hatched%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tianjin_in_China_%28%2Ball_claims_hatched%29.svg/langko-kore-300px-Tianjin_in_China_%28%2Ball_claims_hatched%29.svg.png 2x"></a></span>
+</td></tr>
+<tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
