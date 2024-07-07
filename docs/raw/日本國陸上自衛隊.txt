@@ -1,0 +1,44 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="99"><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Japan_(1870%E2%80%931999).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/langko-kore-30px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png" decoding="async" width="30" height="21" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/langko-kore-45px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Japan_%281870%E2%80%931999%29.svg/langko-kore-60px-Flag_of_Japan_%281870%E2%80%931999%29.svg.png 2x"></a></span> <ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>陸上自衛隊</rb><rp>(</rp><rt>육상자위대</rt><rp>)</rp></ruby><br><ruby><rb>日本國</rb><rp>(</rp><rt>にっぽんこく</rt><rp>)</rp></ruby><ruby><rb>陸</rb><rp>(</rp><rt>りく</rt><rp>)</rp></ruby> <ruby><rb>上</rb><rp>(</rp><rt>じやう</rt><rp>)</rp></ruby><ruby><rb>自</rb><rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby><rb>衞</rb><rp>(</rp><rt>ゑい</rt><rp>)</rp></ruby><ruby><rb>隊</rb><rp>(</rp><rt>たい</rt><rp>)</rp></ruby><br>Japan Maritime Self-Defense Force
+</th></tr>
+<tr>
+<td colspan="2" style="width: 50%; text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_Japan_Ground_Self-Defense_Force.svg" class="new" title="파일:Flag of Japan Ground Self-Defense Force.svg"><span class="mw-broken-media" data-height="200">파일:Flag of Japan Ground Self-Defense Force.svg</span></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>創設</rb><rp>(</rp><rt>창설</rt><rp>)</rp></ruby>
+</th>
+<td>1950<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>本部</rb><rp>(</rp><rt>본부</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都"><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>都</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%96%B0%E5%AE%BF%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="新宿區 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>新</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>宿</rb><rp>(</rp><rt>숙</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E5%B8%82%E8%B0%B7%E6%9C%AC%E6%9D%91%E7%94%BA&amp;action=edit&amp;redlink=1" class="new" title="市谷本村町 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>谷</rb><rp>(</rp><rt>곡</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>本村</rb><rp>(</rp><rt>본촌</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>町</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>編制</rb><rp>(</rp><rt>편제</rt><rp>)</rp></ruby>
+</th>
+<td><b><ruby class="hanja api grade42"><rb>人員</rb><rp>(</rp><rt>인원</rt><rp>)</rp></ruby></b> 150,070<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby> (2011<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><b><ruby class="hanja api grade62"><rb>戰車</rb><rp>(</rp><rt>전차</rt><rp>)</rp></ruby></b> 1100<ruby class="hanja api grade20"><rb>輛</rb><rp>(</rp><rt>량</rt><rp>)</rp></ruby> (2013<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><b><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>裝甲車</rb><rp>(</rp><rt>장갑차</rt><rp>)</rp></ruby></b> 1030<ruby class="hanja api grade20"><rb>輛</rb><rp>(</rp><rt>량</rt><rp>)</rp></ruby> (2013<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>總司令</rb><rp>(</rp><rt>총사령</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%A3%AE%E4%B8%8B%E6%B3%B0%E8%87%A3&amp;action=edit&amp;redlink=1" class="new" title="森下泰臣 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>森</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>下</rb><rp>(</rp><rt>하</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>泰</rb><rp>(</rp><rt>태</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>臣</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby></a>(모리시타 야스미)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>單位</rb><rp>(</rp><rt>단위</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E9%98%B2%E8%A1%9B%E7%9C%81&amp;action=edit&amp;redlink=1" class="new" title="防衛省 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>防衛</rb><rp>(</rp><rt>방위</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>省</rb><rp>(</rp><rt>성</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<table class="wikitable" style="margin: auto; text-align: center;">
+<tbody><tr>
+<th colspan="99" style="background: #ffffff; color: #bc002d;"><span class="tp_link"><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本"><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby></a>의 <ruby class="hanja api grade42"><rb>自衛隊</rb><rp>(</rp><rt>자위대</rt><rp>)</rp></ruby></span>
+</th></tr>
+<tr>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A" title="日本國海上自衛隊"><ruby class="hanja api grade42"><rb>海上自衛隊</rb><rp>(</rp><rt>해상자위대</rt><rp>)</rp></ruby></a>
+</td>
+<td><a class="mw-selflink selflink">陸上自衛隊</a>
+</td>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9C%8B%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E8%87%AA%E8%A1%9B%E9%9A%8A" title="日本國航空宇宙自衛隊"><ruby class="hanja api grade42"><rb>航空自衛隊</rb><rp>(</rp><rt>항공자위대</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+</div></body></html>
