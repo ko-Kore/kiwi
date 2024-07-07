@@ -472,11 +472,6 @@
       "count": 2
     },
     {
-      "title": "日本國陸上自衛隊",
-      "surrounding": " 日本(일본)國(국)陸上自衛隊(육상자위대)日本國(にっぽんこく)陸(りく) 上(じやう)自(じ)衞(ゑい)隊(たい)Japan Maritime ... 파일:Flag of Japan Ground",
-      "count": 2
-    },
-    {
       "title": "日本語의 漢字",
       "surrounding": "↑ sci lang japan ... sci lang japan AFAQ",
       "count": 2
@@ -794,6 +789,11 @@
     {
       "title": "日本國海上自衛隊",
       "surrounding": " 日本(일본)國(국)海上自衛隊(해상자위대)日本國(にっぽんこく)海(かい) 上(じやう)自(じ)衞(ゑい)隊(たい)Japan Maritime",
+      "count": 1
+    },
+    {
+      "title": "日本國陸上自衛隊",
+      "surrounding": " 日本(일본)國(국)陸上自衛隊(육상자위대)日本國(にっぽんこく)陸(りく) 上(じやう)自(じ)衞(ゑい)隊(たい)Japan Ground",
       "count": 1
     },
     {

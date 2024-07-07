@@ -297,11 +297,6 @@
       "count": 2
     },
     {
-      "title": "日本國陸上自衛隊",
-      "surrounding": "上(じやう)自(じ)衞(ゑい)隊(たい)Japan Maritime Self-Defense Force ... Japan Ground Self-Defense Force",
-      "count": 2
-    },
-    {
       "title": "歐羅巴聯合",
       "surrounding": "Europäische Union/Union Européenne/European Union ... 프랑스語: Union(오잉) européenne(왜랩뭐)) 略稱(약칭)",
       "count": 2
@@ -559,6 +554,11 @@
     {
       "title": "日本國海上自衛隊",
       "surrounding": "上(じやう)自(じ)衞(ゑい)隊(たい)Japan Maritime Self-Defense Force",
+      "count": 1
+    },
+    {
+      "title": "日本國陸上自衛隊",
+      "surrounding": "上(じやう)自(じ)衞(ゑい)隊(たい)Japan Ground Self-Defense Force",
       "count": 1
     },
     {

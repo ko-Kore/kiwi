@@ -582,11 +582,6 @@
       "count": 2
     },
     {
-      "title": "日本國陸上自衛隊",
-      "surrounding": "Maritime Self-Defense Force 파일:Flag ... Ground Self-Defense Force svg",
-      "count": 2
-    },
-    {
       "title": "梵蒂岡",
       "surrounding": "Città del Vaticano 國旗(국기) ... 梵蒂岡 敎皇(교황) 프란치스코(Franciscus) 地理(지리)",
       "count": 2
@@ -999,6 +994,11 @@
     {
       "title": "日本國海上自衛隊",
       "surrounding": "Maritime Self-Defense Force 創設(창설)",
+      "count": 1
+    },
+    {
+      "title": "日本國陸上自衛隊",
+      "surrounding": "Ground Self-Defense Force 創設(창설)",
       "count": 1
     },
     {
