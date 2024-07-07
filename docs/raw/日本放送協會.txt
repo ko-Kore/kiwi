@@ -1,0 +1,23 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>日本放送協會</rb><rp>(</rp><rt>일본방송협회</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2"><ruby><rb>日本</rb><rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby><ruby><rb>放送</rb><rp>(</rp><rt>はうそう</rt><rp>)</rp></ruby><ruby><rb>協</rb><rp>(</rp><rt>けふ</rt><rp>)</rp></ruby><ruby><rb>會</rb><rp>(</rp><rt>くあい</rt><rp>)</rp></ruby><br>Nippon Hōsō Kyōkai (NHK)<br>Japan Broadcasting Corporation (JBC)
+</th></tr>
+<tr>
+<td colspan="2" style="width: 50%; text-align: center;">
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建立</rb><rp>(</rp><rt>건립</rt><rp>)</rp></ruby>
+</th>
+<td>1925<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> (<a href="/wiki/%E6%9D%B1%E4%BA%AC" title="東京"><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby></a> <a href="/wiki/%E5%A4%A7%E9%98%AA" class="mw-redirect" title="大阪"><ruby class="hanja api grade12"><rb>大阪</rb><rp>(</rp><rt>대판</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E5%90%8D%E5%8F%A4%E5%B1%8B&amp;action=edit&amp;redlink=1" class="new" title="名古屋 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>古屋</rb><rp>(</rp><rt>고옥</rt><rp>)</rp></ruby></a> 3<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby> <a href="/index.php?title=%EB%9D%BC%EB%94%94%EC%98%A4&amp;action=edit&amp;redlink=1" class="new" title="라디오 (없는 文書)">라디오</a> <ruby class="hanja api grade42"><rb>放送局</rb><rp>(</rp><rt>방송국</rt><rp>)</rp></ruby>)<br>1926<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> (<ruby class="hanja api grade42"><rb>日本放送協會</rb><rp>(</rp><rt>일본방송협회</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>下位</rb><rp>(</rp><rt>하위</rt><rp>)</rp></ruby> 채널
+</th>
+<td>(디지털)<ruby class="hanja api grade20"><rb>綜合</rb><rp>(</rp><rt>종합</rt><rp>)</rp></ruby> 채널<br>(디지털)<ruby class="hanja api grade70"><rb>敎育</rb><rp>(</rp><rt>교육</rt><rp>)</rp></ruby> 채널<br>BS 1<br>BS Premium<br>BS 4K<br>BS 8K<br>NHK World<br>NHK World Premium
+</td></tr></tbody></table>
+</div></body></html>
