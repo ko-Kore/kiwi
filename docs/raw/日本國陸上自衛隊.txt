@@ -124,69 +124,268 @@
 <caption>
 </caption>
 <tbody><tr>
-<th>표 제목</th>
-<th>표 제목</th>
-<th>표 제목</th>
-<th>표 제목
+<th colspan="3"><ruby class="hanja api grade52"><rb>陸上</rb><rp>(</rp><rt>육상</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>銃隊</rb><rp>(</rp><rt>총대</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>日本</rb><rp>(</rp><rt>일본</rt><rp>)</rp></ruby> <ruby class="hanja api grade62"><rb>全體</rb><rp>(</rp><rt>전체</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja api grade10"><rb>空挺</rb><rp>(</rp><rt>공정</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade52"><rb>水陸</rb><rp>(</rp><rt>수륙</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>機動</rb><rp>(</rp><rt>기동</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1헬리콥터<ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td>시스템<ruby class="hanja api grade52"><rb>通信團</rb><rp>(</rp><rt>통신단</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都"><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>都</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%96%B0%E5%AE%BF%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="新宿區 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>新</rb><rp>(</rp><rt>신</rt><rp>)</rp></ruby><ruby class="hanja api grade52 unknown"><rb>宿</rb><rp>(</rp><rt>숙</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade32"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>卽應</rb><rp>(</rp><rt>즉응</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>連</rb><rp>(</rp><rt>련</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade32"><rb>特殊作戰</rb><rp>(</rp><rt>특수작전</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>群</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade32"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>情報</rb><rp>(</rp><rt>정보</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade32"><rb>中央</rb><rp>(</rp><rt>중앙</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>特需</rb><rp>(</rp><rt>특수</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>武器</rb><rp>(</rp><rt>무기</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>防護</rb><rp>(</rp><rt>방호</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade80"><rb>大</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>特殊</rb><rp>(</rp><rt>특수</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>武器</rb><rp>(</rp><rt>무기</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>衛生</rb><rp>(</rp><rt>위생</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</td>
+<td>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시</td>
-<td>예시
-</td></tr></tbody></table>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade42"><rb>國際</rb><rp>(</rp><rt>국제</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>活動</rb><rp>(</rp><rt>활동</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>敎育隊</rb><rp>(</rp><rt>교육대</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="3"><ruby class="hanja api grade62"><rb>北部</rb><rp>(</rp><rt>북부</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>方面</rb><rp>(</rp><rt>방면</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</th>
+<th><a href="/index.php?title=%E5%8C%97%E6%B5%B7%E9%81%93&amp;action=edit&amp;redlink=1" class="new" title="北海道 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>北海道</rb><rp>(</rp><rt>북해도</rt><rp>)</rp></ruby></a><ruby class="hanja api grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>·
+</td>
+<td colspan="2"><ruby class="hanja api grade62"><rb>北部</rb><rp>(</rp><rt>북부</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>方面</rb><rp>(</rp><rt>방면</rt><rp>)</rp></ruby> <ruby class="hanja api grade0"><rb>摠監</rb><rp>(</rp><rt>총감</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E6%9C%AD%E5%B9%8C&amp;action=edit&amp;redlink=1" class="new" title="札幌 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>札</rb><rp>(</rp><rt>찰</rt><rp>)</rp></ruby><ruby class="hanja api grade0 unknown"><rb>幌</rb><rp>(</rp><rt>황</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>2<a href="/index.php?title=%E5%B8%AB%E5%9C%98&amp;action=edit&amp;redlink=1" class="new" title="師團 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>師團</rb><rp>(</rp><rt>사단</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E6%97%AD%E5%B7%9D&amp;action=edit&amp;redlink=1" class="new" title="旭川 (없는 文書)"><ruby class="hanja api grade12 unknown"><rb>旭</rb><rp>(</rp><rt>욱</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>川</rb><rp>(</rp><rt>천</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>5<ruby class="hanja api grade52"><rb>旅團</rb><rp>(</rp><rt>여단</rt><rp>)</rp></ruby>
+</td>
+<td>오비히로
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>7<ruby class="hanja api grade40"><rb>機甲師團</rb><rp>(</rp><rt>기갑사단</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E5%8D%83%E6%AD%B2&amp;action=edit&amp;redlink=1" class="new" title="千歲 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>千歲</rb><rp>(</rp><rt>천세</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>11<ruby class="hanja api grade52"><rb>旅團</rb><rp>(</rp><rt>여단</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/index.php?title=%E6%9C%AD%E5%B9%8C&amp;action=edit&amp;redlink=1" class="new" title="札幌 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>札</rb><rp>(</rp><rt>찰</rt><rp>)</rp></ruby><ruby class="hanja api grade0 unknown"><rb>幌</rb><rp>(</rp><rt>황</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1<ruby class="hanja api grade60"><rb>特科</rb><rp>(</rp><rt>특과</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>1고사<ruby class="hanja api grade60"><rb>特科</rb><rp>(</rp><rt>특과</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>3<ruby class="hanja api grade42"><rb>施設</rb><rp>(</rp><rt>시설</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>北部</rb><rp>(</rp><rt>북부</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>方面</rb><rp>(</rp><rt>방면</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>混聲</rb><rp>(</rp><rt>혼성</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>北部</rb><rp>(</rp><rt>북부</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>方面</rb><rp>(</rp><rt>방면</rt><rp>)</rp></ruby> <ruby class="hanja api grade10"><rb>直轄隊</rb><rp>(</rp><rt>직할대</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="3"><ruby class="hanja api grade62"><rb>中部</rb><rp>(</rp><rt>중부</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>方面</rb><rp>(</rp><rt>방면</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>隊</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby>
+</th>
+<th><a href="/index.php?title=%E6%9C%AC%E5%B7%9E%E5%B3%B6&amp;action=edit&amp;redlink=1" class="new" title="本州島 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>本州</rb><rp>(</rp><rt>본주</rt><rp>)</rp></ruby><ruby class="hanja api grade50 unknown"><rb>島</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a><ruby class="hanja api grade62"><rb>東部</rb><rp>(</rp><rt>동부</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>地域</rb><rp>(</rp><rt>지역</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td>·
+</td>
+<td colspan="2"><ruby class="hanja api grade62"><rb>東部</rb><rp>(</rp><rt>동부</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>方面</rb><rp>(</rp><rt>방면</rt><rp>)</rp></ruby> <ruby class="hanja api grade0"><rb>摠監</rb><rp>(</rp><rt>총감</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>部</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby>
+</td>
+<td><a href="/wiki/%E4%BB%99%E8%87%BA" title="仙臺"><ruby class="hanja api grade52"><rb>仙</rb><rp>(</rp><rt>선</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>臺</rb><rp>(</rp><rt>대</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>6<a href="/index.php?title=%E5%B8%AB%E5%9C%98&amp;action=edit&amp;redlink=1" class="new" title="師團 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>師團</rb><rp>(</rp><rt>사단</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E6%9D%B1%E6%A0%B9&amp;action=edit&amp;redlink=1" class="new" title="東根 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>東</rb><rp>(</rp><rt>동</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>根</rb><rp>(</rp><rt>근</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>9<a href="/index.php?title=%E5%B8%AB%E5%9C%98&amp;action=edit&amp;redlink=1" class="new" title="師團 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>師團</rb><rp>(</rp><rt>사단</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/index.php?title=%E9%9D%91%E6%A3%AE&amp;action=edit&amp;redlink=1" class="new" title="靑森 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>靑</rb><rp>(</rp><rt>청</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>森</rb><rp>(</rp><rt>삼</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>2<ruby class="hanja api grade60"><rb>特科</rb><rp>(</rp><rt>특과</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>群</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>5고사<ruby class="hanja api grade60"><rb>特科</rb><rp>(</rp><rt>특과</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>群</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>2<ruby class="hanja api grade42"><rb>施設</rb><rp>(</rp><rt>시설</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade72"><rb>東北方</rb><rp>(</rp><rt>동북방</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>面</rb><rp>(</rp><rt>면</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>混聲</rb><rp>(</rp><rt>혼성</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>團</rb><rp>(</rp><rt>단</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td><ruby class="hanja api grade72"><rb>東北方</rb><rp>(</rp><rt>동북방</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>面</rb><rp>(</rp><rt>면</rt><rp>)</rp></ruby> <ruby class="hanja api grade10"><rb>直轄隊</rb><rp>(</rp><rt>직할대</rt><rp>)</rp></ruby>
+</td>
+<td>
+</td>
+</tr>
+</tbody></table>
 </div></body></html>
