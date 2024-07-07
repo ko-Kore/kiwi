@@ -47,6 +47,7 @@
 <li class="toclevel-2 tocsection-4"><a href="#部隊(부대)編制(편제)"><span class="tocnumber">2.2</span> <span class="toctext">部隊(부대)編制(편제)</span></a></li>
 </ul>
 </li>
+<li class="toclevel-1 tocsection-5"><a href="#任務(임무)"><span class="tocnumber">3</span> <span class="toctext">任務(임무)</span></a></li>
 </ul>
 </div>
 <h2><span id=".E6.AD.B7.E5.8F.B2.28.EC.97.AD.EC.82.AC.29"></span><span class="mw-headline" id="歷史(역사)"><ruby class="hanja api grade52"><rb>歷史</rb><rp>(</rp><rt>역사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E5%9C%8B%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A&amp;action=edit&amp;section=1" title="部分 編輯: 歷史(역사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
@@ -355,7 +356,7 @@
 </td>
 <td>
 </td>
-<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>5고사<ruby class="hanja api grade60"><rb>特科</rb><rp>(</rp><rt>특과</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>群</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>
+<td><ruby class="hanja api grade62"><rb>第</rb><rp>(</rp><rt>제</rt><rp>)</rp></ruby>5<ruby class="hanja api grade42"><rb>試驗</rb><rp>(</rp><rt>시험</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>特科</rb><rp>(</rp><rt>특과</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>群</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>
 </td>
 <td>
 </td></tr>
@@ -684,4 +685,5 @@
 </td>
 <td>
 </td></tr></tbody></table>
+<h2><span id=".E4.BB.BB.E5.8B.99.28.EC.9E.84.EB.AC.B4.29"></span><span class="mw-headline" id="任務(임무)"><ruby class="hanja api grade42"><rb>任務</rb><rp>(</rp><rt>임무</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E5%9C%8B%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A&amp;action=edit&amp;section=5" title="部分 編輯: 任務(임무)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 </div></body></html>
