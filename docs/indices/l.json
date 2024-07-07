@@ -352,11 +352,6 @@
       "count": 5
     },
     {
-      "title": "日本國航空宇宙自衛隊",
-      "surrounding": "日本(일본)國(국)航空(항공)宇宙(우주)自衛隊(자위대)日本國航空(にっぽんこくかうくう)宇(う)宙(ちう)自(じ)衞隊(ゑいたい)Japan Air Self-Defense Force ... Japan Aerospace Self-Defense Force",
-      "count": 5
-    },
-    {
       "title": "獨立國家聯合",
       "surrounding": "獨立國(독립국)家(가)聯合(연합)Содружество Независимых ГосударствCommonwealth of ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
       "count": 5
@@ -884,6 +879,11 @@
     {
       "title": "新自由主義",
       "surrounding": "新自由主義(신자유주의)(Neo-Liberalism)는 20世紀(세기) ... 뷰캐넌 敎授(교수)의 公共(공공)選擇(선택)論(론)(public choice",
+      "count": 2
+    },
+    {
+      "title": "日本國航空宇宙自衛隊",
+      "surrounding": "日本(일본)國(국)航空(항공)宇宙(우주)自衛隊(자위대)日本國航空(にっぽんこくかうくう)宇(う)宙(ちう)自(じ)衞隊(ゑいたい)Japan Air Self-Defense Force ... Japan Aerospace Self-Defense Force",
       "count": 2
     },
     {
