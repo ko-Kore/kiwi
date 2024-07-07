@@ -8,7 +8,7 @@
 <tr>
 <th><ruby class="hanja api grade42"><rb>創設</rb><rp>(</rp><rt>창설</rt><rp>)</rp></ruby>
 </th>
-<td>1950<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>
+<td>1950<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby> 8<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby> 10<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> (<ruby class="hanja api grade42"><rb>警察</rb><rp>(</rp><rt>경찰</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>豫備隊</rb><rp>(</rp><rt>예비대</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>令</rb><rp>(</rp><rt>령</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>發布</rb><rp>(</rp><rt>발포</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade60"><rb>本部</rb><rp>(</rp><rt>본부</rt><rp>)</rp></ruby>
@@ -18,7 +18,7 @@
 <tr>
 <th><ruby class="hanja api grade32"><rb>編制</rb><rp>(</rp><rt>편제</rt><rp>)</rp></ruby>
 </th>
-<td><b><ruby class="hanja api grade42"><rb>人員</rb><rp>(</rp><rt>인원</rt><rp>)</rp></ruby></b> 150,070<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby> (2011<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><b><a href="/index.php?title=%E6%88%B0%E8%BB%8A&amp;action=edit&amp;redlink=1" class="new" title="戰車 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>戰車</rb><rp>(</rp><rt>전차</rt><rp>)</rp></ruby></a></b> 1100<ruby class="hanja api grade20"><rb>輛</rb><rp>(</rp><rt>량</rt><rp>)</rp></ruby> (2013<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><b><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>裝甲車</rb><rp>(</rp><rt>장갑차</rt><rp>)</rp></ruby></b> 1030<ruby class="hanja api grade20"><rb>輛</rb><rp>(</rp><rt>량</rt><rp>)</rp></ruby> (2013<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)
+<td><b><ruby class="hanja api grade42"><rb>人員</rb><rp>(</rp><rt>인원</rt><rp>)</rp></ruby></b> 145,000<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby> (15,000<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade40"><rb>豫備</rb><rp>(</rp><rt>예비</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>自衛隊</rb><rp>(</rp><rt>자위대</rt><rp>)</rp></ruby>)<br><b><a href="/index.php?title=%E6%88%B0%E8%BB%8A&amp;action=edit&amp;redlink=1" class="new" title="戰車 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>戰車</rb><rp>(</rp><rt>전차</rt><rp>)</rp></ruby></a></b> 1100<ruby class="hanja api grade20"><rb>輛</rb><rp>(</rp><rt>량</rt><rp>)</rp></ruby> (2013<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)<br><b><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>裝甲車</rb><rp>(</rp><rt>장갑차</rt><rp>)</rp></ruby></b> 1030<ruby class="hanja api grade20"><rb>輛</rb><rp>(</rp><rt>량</rt><rp>)</rp></ruby> (2013<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade32"><rb>總司令</rb><rp>(</rp><rt>총사령</rt><rp>)</rp></ruby>
@@ -41,4 +41,6 @@
 </td>
 <td><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9C%8B%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E8%87%AA%E8%A1%9B%E9%9A%8A" title="日本國航空宇宙自衛隊"><ruby class="hanja api grade42"><rb>航空自衛隊</rb><rp>(</rp><rt>항공자위대</rt><rp>)</rp></ruby></a>
 </td></tr></tbody></table>
+<p><ruby class="hanja api grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>로 <ruby class="hanja api grade52"><rb>陸地</rb><rp>(</rp><rt>육지</rt><rp>)</rp></ruby>에서 <ruby class="hanja api grade62"><rb>作戰</rb><rp>(</rp><rt>작전</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade30"><rb>遂行</rb><rp>(</rp><rt>수행</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade42"><rb>任務</rb><rp>(</rp><rt>임무</rt><rp>)</rp></ruby>를 맡은 <ruby class="hanja api grade42"><rb>自衛隊</rb><rp>(</rp><rt>자위대</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>部隊</rb><rp>(</rp><rt>부대</rt><rp>)</rp></ruby>를 <ruby class="hanja api grade40"><rb>總稱</rb><rp>(</rp><rt>총칭</rt><rp>)</rp></ruby>하는 <ruby class="hanja api grade62"><rb>用語</rb><rp>(</rp><rt>용어</rt><rp>)</rp></ruby>로 다른 나라의 <ruby class="hanja api grade42"><rb>軍隊</rb><rp>(</rp><rt>군대</rt><rp>)</rp></ruby>와 <ruby class="hanja api grade70"><rb>同一</rb><rp>(</rp><rt>동일</rt><rp>)</rp></ruby>합니다.
+</p>
 </div></body></html>
