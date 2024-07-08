@@ -1,8 +1,10 @@
 {
   "title": "日本放送協會",
   "namespace": 0,
-  "timestamp": 1720370762000,
-  "categories": [],
+  "timestamp": 1720431563000,
+  "categories": [
+    "日本의 放送局"
+  ],
   "members": [],
   "file": null
 }
