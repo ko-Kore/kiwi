@@ -80,6 +80,11 @@
       "title": "테레비 朝日",
       "surrounding": "呼號(호호) JOEX-DTV 채널 5ch",
       "count": 1
+    },
+    {
+      "title": "테레비 東京",
+      "surrounding": "呼號(호호) JOTX-DTV 채널 5ch",
+      "count": 1
     }
   ]
 }

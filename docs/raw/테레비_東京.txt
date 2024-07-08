@@ -1,0 +1,40 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2">테레비 <ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2"><ruby><rb>㍿</rb><rp>(</rp><rt>かぶしきぐあいしや</rt><rp>)</rp></ruby>テレビ<ruby><rb>東</rb><rp>(</rp><rt>とう</rt><rp>)</rp></ruby><ruby><rb>京</rb><rp>(</rp><rt>きやう</rt><rp>)</rp></ruby><br>TV TOKYO Corporation
+</th></tr>
+<tr>
+<td colspan="2" style="width: 50%; text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=TV_TOKYO_logo.svg" class="new" title="파일:TV TOKYO logo.svg"><span class="mw-broken-media" data-height="150">파일:TV TOKYO logo.svg</span></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>呼號</rb><rp>(</rp><rt>호호</rt><rp>)</rp></ruby>
+</th>
+<td>JOTX-DTV
+</td></tr>
+<tr>
+<th>채널
+</th>
+<td>5ch (디지털 <ruby class="hanja api grade42"><rb>放送</rb><rp>(</rp><rt>방송</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建立</rb><rp>(</rp><rt>건립</rt><rp>)</rp></ruby>
+</th>
+<td>1964<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>12<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>本部</rb><rp>(</rp><rt>본부</rt><rp>)</rp></ruby>
+</th>
+<td><b><ruby class="hanja api grade60"><rb>本社</rb><rp>(</rp><rt>본사</rt><rp>)</rp></ruby></b> <a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都"><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>都</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%B8%AF%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="港區 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>港</rb><rp>(</rp><rt>항</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a><ruby class="hanja api grade80"><rb>六</rb><rp>(</rp><rt>륙</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>本木</rb><rp>(</rp><rt>본목</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>六</rb><rp>(</rp><rt>륙</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>丁</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>目</rb><rp>(</rp><rt>목</rt><rp>)</rp></ruby>2-1<br><b><ruby class="hanja api grade52"><rb>關西</rb><rp>(</rp><rt>관서</rt><rp>)</rp></ruby></b> <a href="/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82" title="大阪市"><ruby class="hanja api grade12"><rb>大阪</rb><rp>(</rp><rt>대판</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a><ruby class="hanja api grade60"><rb>北區</rb><rp>(</rp><rt>북구</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>堂</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>島</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>濱</rb><rp>(</rp><rt>빈</rt><rp>)</rp></ruby><br><b><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>古屋</rb><rp>(</rp><rt>고옥</rt><rp>)</rp></ruby></b> <a href="/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82" title="名古屋市"><ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>古屋</rb><rp>(</rp><rt>고옥</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>市</rb><rp>(</rp><rt>시</rt><rp>)</rp></ruby></a><ruby class="hanja api grade60"><rb>中區</rb><rp>(</rp><rt>중구</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>公式</rb><rp>(</rp><rt>공식</rt><rp>)</rp></ruby> 웹 사이트
+</th>
+<td>
+<p><a rel="nofollow" class="external text" href="https://www.tv-tokyo.co.jp/%7C">テレビ<ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby></a>
+</p>
+</td></tr></tbody></table>
+</div></body></html>
