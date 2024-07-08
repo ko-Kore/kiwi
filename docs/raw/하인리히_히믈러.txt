@@ -1,0 +1,21 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">하인리히 루이폴트 히믈러
+</th></tr>
+<tr>
+<th colspan="2">Heinrich Luitpold Himmler
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=H._Himmler.jpg" class="new" title="파일:H. Himmler.jpg"><span class="mw-broken-media" data-height="300">파일:H. Himmler.jpg</span></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1900<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>7<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Germany_(1867%E2%80%931918).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Germany_%281867%E2%80%931918%29.svg/langko-kore-25px-Flag_of_Germany_%281867%E2%80%931918%29.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Germany_%281867%E2%80%931918%29.svg/langko-kore-38px-Flag_of_Germany_%281867%E2%80%931918%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Germany_%281867%E2%80%931918%29.svg/langko-kore-50px-Flag_of_Germany_%281867%E2%80%931918%29.svg.png 2x"></a></span> <a href="/index.php?title=%E7%8D%A8%E9%80%B8%E5%B8%9D%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="獨逸帝國 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>獨逸帝國</rb><rp>(</rp><rt>독일제국</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%98%8E%E8%88%88&amp;action=edit&amp;redlink=1" class="new" title="明興 (없는 文書)"><ruby class="hanja api grade62 unknown"><rb>明</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>興</rb><rp>(</rp><rt>흥</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>死去</rb><rp>(</rp><rt>사거</rt><rp>)</rp></ruby>
+</th>
+<td>1945<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>5<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>23<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Merchant_flag_of_Germany_(1946%E2%80%931949).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Merchant_flag_of_Germany_%281946%E2%80%931949%29.svg/langko-kore-25px-Merchant_flag_of_Germany_%281946%E2%80%931949%29.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Merchant_flag_of_Germany_%281946%E2%80%931949%29.svg/langko-kore-38px-Merchant_flag_of_Germany_%281946%E2%80%931949%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Merchant_flag_of_Germany_%281946%E2%80%931949%29.svg/langko-kore-50px-Merchant_flag_of_Germany_%281946%E2%80%931949%29.svg.png 2x"></a></span> <a href="/wiki/%E7%8D%A8%E9%80%B8%E5%9C%8B" title="獨逸國"><ruby class="hanja api grade32"><rb>獨逸</rb><rp>(</rp><rt>독일</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby></a><ruby class="hanja api grade32"><rb>聯合國</rb><rp>(</rp><rt>연합국</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>戰</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade0"><rb>俘</rb><rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>管理所</rb><rp>(</rp><rt>관리소</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+</div></body></html>
