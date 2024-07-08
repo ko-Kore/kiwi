@@ -57,6 +57,11 @@
       "count": 2
     },
     {
+      "title": "하인리히 히믈러",
+      "surrounding": "루이폴트 히믈러 Heinrich Luitpold ... Luitpold Himmler 파일:Heinrich Himmler",
+      "count": 2
+    },
+    {
       "title": "Grand Dieu Sauve le Roi",
       "surrounding": "Rufst du mein Vaterland",
       "count": 1
@@ -104,11 +109,6 @@
     {
       "title": "오, 加奈陀",
       "surrounding": "front est ceint de",
-      "count": 1
-    },
-    {
-      "title": "하인리히 히믈러",
-      "surrounding": "루이폴트 히믈러 Heinrich Luitpold",
       "count": 1
     }
   ]
