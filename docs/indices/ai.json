@@ -102,11 +102,6 @@
       "count": 2
     },
     {
-      "title": "大政翼贊會",
-      "surrounding": "of the Taisei Yokusan ... Taisei Yokusan Kai캡션 텍스트",
-      "count": 2
-    },
-    {
       "title": "廣東語",
       "surrounding": "kan4 睇 tai2 없다 ... ma？ 你係南韓人呀nei5 hai2 naam4",
       "count": 2
@@ -174,6 +169,11 @@
     {
       "title": "佛蘭西",
       "surrounding": "佛蘭西(불란서)共和國(공화국) République française 國旗(국기)",
+      "count": 1
+    },
+    {
+      "title": "佛領印度",
+      "surrounding": "佛領(불령)印度(인도)(佛(불): Etablissements francais dans",
       "count": 1
     },
     {
