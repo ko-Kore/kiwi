@@ -562,11 +562,6 @@
       "count": 6
     },
     {
-      "title": "獨逸民族의 大日耳曼國",
-      "surrounding": "獨逸(독일)民族(민족)의 大日(대일)耳(이)曼(만)國(국) Großdeutsches Reich ... 日耳曼(일이만)尼(니)亞(아) Welthauptstadt Germania) ↑",
-      "count": 6
-    },
-    {
       "title": "葡萄牙",
       "surrounding": " 葡萄牙(포도아)共和國(공화국) República Portuguesa ... NATOÉtats membres de l'OTAN",
       "count": 6
@@ -644,6 +639,11 @@
     {
       "title": "氷島",
       "surrounding": " 氷島(빙도)共和國(공화국) Lýðveldi Íslands ... NATOÉtats membres de l'OTAN",
+      "count": 5
+    },
+    {
+      "title": "獨逸民族의 大日耳曼國",
+      "surrounding": "獨逸(독일)民族(민족)의 大日(대일)耳(이)曼(만)國(국) Großdeutsches Reich ... 日耳曼(일이만)尼(니)亞(아) Welthauptstadt Germania) ↑",
       "count": 5
     },
     {
