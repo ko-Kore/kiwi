@@ -102,11 +102,6 @@
       "count": 2
     },
     {
-      "title": "馬德里",
-      "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시) ... 市(시) 파일:Insigne Madrid svg",
-      "count": 2
-    },
-    {
       "title": "마르세유의 노래",
       "surrounding": "et vous perfides L'opprobre ... vos projets parricides Vont",
       "count": 2
@@ -254,6 +249,11 @@
     {
       "title": "馬來西亞",
       "surrounding": "長官(장관) Ahmad Zahid 副總理(부총리)",
+      "count": 1
+    },
+    {
+      "title": "馬德里",
+      "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시)",
       "count": 1
     },
     {

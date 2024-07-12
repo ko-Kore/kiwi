@@ -572,11 +572,6 @@
       "count": 4
     },
     {
-      "title": "馬德里",
-      "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시) ... Puerta de Europa歐羅巴(구라파)의 門(문)",
-      "count": 4
-    },
-    {
       "title": "빌 클린턴",
       "surrounding": "클린턴 William Jefferson ClintonBill ... 클린턴 (William Jefferson Clinton)으로",
       "count": 4
@@ -799,6 +794,11 @@
     {
       "title": "韓國高速鐵道",
       "surrounding": "沿革(연혁) 槪要(개요)[편집] KTX(Korean Train ... KTX(Korean Train eXpress 韓國高速鐵道(한국고속철도))는",
+      "count": 3
+    },
+    {
+      "title": "馬德里",
+      "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시) ... Puerta de Europa歐羅巴(구라파)의 門(문)",
       "count": 3
     },
     {

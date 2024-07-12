@@ -672,11 +672,6 @@
       "count": 5
     },
     {
-      "title": "馬德里",
-      "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시) ... Puerta de Europa歐羅巴(구라파)의 門(문)",
-      "count": 5
-    },
-    {
       "title": "마이테츠",
       "surrounding": "마이테츠 -pure station- まいてつ ... Lose 作畵(작화) cura 시나리오",
       "count": 5
@@ -914,6 +909,11 @@
     {
       "title": "靑年蹴球俱樂部",
       "surrounding": "官方(관방)歌(가) Juve Storia Di ... 하나이며 主(주)場(장)은 多(다)靈(령)Allianz競技場(경기장)입니다 보기",
+      "count": 4
+    },
+    {
+      "title": "馬德里",
+      "surrounding": " 馬(마)德(덕)里(리) Madrid 市(시) ... Puerta de Europa歐羅巴(구라파)의 門(문)",
       "count": 4
     },
     {
