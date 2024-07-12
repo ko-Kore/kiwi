@@ -757,11 +757,6 @@
       "count": 3
     },
     {
-      "title": "維納",
-      "surrounding": "파일:Wiener Stadtabzeichen svg 行政(행정) ... 1010 Vienna Austria 人口(인구)",
-      "count": 3
-    },
-    {
       "title": "羅馬尼",
       "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... of NATOÉtats membres de",
       "count": 3
@@ -1094,6 +1089,11 @@
     {
       "title": "第一空輸特戰旅團",
       "surrounding": "Army the 1st Special ... 1st Special Forces Group",
+      "count": 2
+    },
+    {
+      "title": "維納",
+      "surrounding": "市廳(시청) 所在地(소재지) Rathausplatz 1 ... 1010 Vienna Austria 人口(인구)",
       "count": 2
     },
     {

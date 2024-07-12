@@ -822,11 +822,6 @@
       "count": 2
     },
     {
-      "title": "維納",
-      "surrounding": "市(시)[一(일)] 파일:Wiener Stadtabzeichen svg ... 市廳(시청) 所在地(소재지) Rathausplatz 1",
-      "count": 2
-    },
-    {
       "title": "美國달러",
       "surrounding": "美合衆國(미합중국)聯邦(연방)盾(순) (Union Shield) Penny ... 샬보노(Jean Baptiste Charbonneau) 多數存在(다수존재)",
       "count": 2
@@ -1384,6 +1379,11 @@
     {
       "title": "粵語諺文",
       "surrounding": "卡(잡) 카 h 哈(합)",
+      "count": 1
+    },
+    {
+      "title": "維納",
+      "surrounding": "市廳(시청) 所在地(소재지) Rathausplatz 1",
       "count": 1
     },
     {

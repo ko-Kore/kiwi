@@ -632,11 +632,6 @@
       "count": 5
     },
     {
-      "title": "維納",
-      "surrounding": " 維(유)納(납) Wien 市(시)[一(일)] ... 都(도)伯林(백림) ↑ commune ",
-      "count": 5
-    },
-    {
       "title": "英吉利海峽隧道",
       "surrounding": "英吉利海峽隧道 英吉利(영길리)海峽(해협)隧(수)道(도)(英語: Channel Tunnel ... 條約(조약)\"(Treaty of Kanterbury)을 締結(체결)한",
       "count": 5
@@ -1069,6 +1064,11 @@
     {
       "title": "米蘭",
       "surrounding": " 米(미)蘭(란) Milan/Milano 市(시) ... ↑ Palazzo Marino ↑",
+      "count": 3
+    },
+    {
+      "title": "維納",
+      "surrounding": " 維(유)納(납) Wien 市(시)[1] ... 尼(이)布(포)楚(초) ↑ commune ",
       "count": 3
     },
     {
