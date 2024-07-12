@@ -1,4 +1,30 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable" style="margin: auto; text-align: center;">
+<tbody><tr>
+<th colspan="99" style="background: #4B92DB; color: #FFFFFF;"><span class="tp_link"><a href="/wiki/%E5%9C%8B%E9%9A%9B%E8%81%AF%E5%90%88" title="國際聯合"><ruby class="hanja api grade32"><rb>國際聯合</rb><rp>(</rp><rt>국제연합</rt><rp>)</rp></ruby></a> 5<ruby class="hanja api grade42"><rb>個</rb><rp>(</rp><rt>개</rt><rp>)</rp></ruby> <a href="/index.php?title=%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9C%8B&amp;action=edit&amp;redlink=1" class="new" title="常任理事國 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>常任理事國</rb><rp>(</rp><rt>상임이사국</rt><rp>)</rp></ruby></a></span>
+</th></tr>
+<tr>
+<td><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_People%27s_Republic_of_China.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-125px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="125" height="83" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-188px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langko-kore-250px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x"></a><figcaption></figcaption></figure>
+</td>
+<td><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Russia.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-125px-Flag_of_Russia.svg.png" decoding="async" width="125" height="83" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-188px-Flag_of_Russia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langko-kore-250px-Flag_of_Russia.svg.png 2x"></a><figcaption></figcaption></figure>
+</td>
+<td><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Kingdom_(1-2).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-125px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" decoding="async" width="125" height="63" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-188px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-250px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 2x"></a><figcaption></figcaption></figure>
+</td>
+<td><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_France.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-125px-Flag_of_France.svg.png" decoding="async" width="125" height="83" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-188px-Flag_of_France.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langko-kore-250px-Flag_of_France.svg.png 2x"></a><figcaption></figcaption></figure>
+</td>
+<td><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_States.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-125px-Flag_of_the_United_States.svg.png" decoding="async" width="125" height="66" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-188px-Flag_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/langko-kore-250px-Flag_of_the_United_States.svg.png 2x"></a><figcaption></figcaption></figure>
+</td></tr>
+<tr>
+<td><a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" title="中華人民共和國"><ruby class="hanja api grade40"><rb>中華人民共和國</rb><rp>(</rp><rt>중화인민공화국</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/wiki/%E9%9C%B2%E8%A5%BF%E4%BA%9E%E8%81%AF%E9%82%A6" class="mw-redirect" title="露西亞聯邦"><ruby class="hanja api grade32"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby><ruby class="hanja api grade30"><rb>聯邦</rb><rp>(</rp><rt>연방</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/wiki/%E8%81%AF%E5%90%88%E7%8E%8B%E5%9C%8B" class="mw-redirect" title="聯合王國"><ruby class="hanja api grade32"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/wiki/%E4%BD%9B%E8%98%AD%E8%A5%BF%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="佛蘭西共和國"><ruby class="hanja api grade32"><rb>佛蘭西</rb><rp>(</rp><rt>불란서</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby></a>
+</td>
+<td><a href="/wiki/%E7%BE%8E%E5%88%A9%E5%A0%85%E5%90%88%E8%A1%86%E5%9C%8B" class="mw-redirect" title="美利堅合衆國"><ruby class="hanja api grade40"><rb>美利堅</rb><rp>(</rp><rt>미리견</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>合衆國</rb><rp>(</rp><rt>합중국</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+<table class="wikitable infobox">
 <tbody><tr>
 <th colspan="2"><ruby class="hanja api grade12"><rb>大不列頓</rb><rp>(</rp><rt>대불렬돈</rt><rp>)</rp></ruby> 및 <ruby class="hanja api grade80"><rb>北</rb><rp>(</rp><rt>북</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>聯合</rb><rp>(</rp><rt>연합</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </th></tr>
