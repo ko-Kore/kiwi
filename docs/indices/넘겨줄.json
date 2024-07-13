@@ -42,6 +42,11 @@
       "count": 1
     },
     {
+      "title": "B. 무솔리니",
+      "surrounding": "넘겨줄 對象:베니토",
+      "count": 1
+    },
+    {
       "title": "BMP (유니코드)",
       "surrounding": "넘겨줄 대상:多國語基本平面",
       "count": 1
@@ -1929,6 +1934,11 @@
     {
       "title": "우크라이나",
       "surrounding": "넘겨줄 對象:烏克蘭",
+      "count": 1
+    },
+    {
+      "title": "워싱턴D.C.",
+      "surrounding": "넘겨줄 對象:華府",
       "count": 1
     },
     {
