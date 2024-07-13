@@ -173,7 +173,7 @@
     },
     {
       "title": "羅馬",
-      "surrounding": " 羅馬(나마) Roma 市(시)[一(일)] ... regione ↑ municcipio ",
+      "surrounding": " 羅馬(나마) Roma 市(시)[1] ... regione ↑ municcipio ",
       "count": 10
     },
     {
@@ -1574,6 +1574,11 @@
     {
       "title": "國際單位系의 漢字表記",
       "surrounding": "厘(이)秒(초) 밀리세컨드(無(무)) m秒(초)(ミリびょう) 毫(호)秒(초)",
+      "count": 1
+    },
+    {
+      "title": "國際海事機構",
+      "surrounding": "國際海事機構(국제해사기구)(英語: International Maritime Organization",
       "count": 1
     },
     {

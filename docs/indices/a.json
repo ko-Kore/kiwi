@@ -753,7 +753,7 @@
     },
     {
       "title": "倫敦",
-      "surrounding": "London 首都(수도)[一(일)] 파일:Flag of ... ↑ borough and city",
+      "surrounding": "London 首都(수도)[1] 파일:Flag of ... ↑ borough and city",
       "count": 4
     },
     {
@@ -963,7 +963,7 @@
     },
     {
       "title": "伯林",
-      "surrounding": "都(도)伯林(백림) ↑ Bundesland ↑ ... ↑ Rotes Rathaus ↑",
+      "surrounding": "尼(이)布(포)楚(초) ↑ Bundesland ↑ ... ↑ Rotes Rathaus ↑",
       "count": 3
     },
     {
@@ -1004,6 +1004,11 @@
     {
       "title": "國際民間航空機構",
       "surrounding": " 國際民間航空機構(국제민간항공기구)(英語: International Civil ... Civil Aviation Organization ICAO)는",
+      "count": 3
+    },
+    {
+      "title": "國際海事機構",
+      "surrounding": " 國際海事機構(국제해사기구)(英語: International Maritime ... International Maritime Organization 略稱(약칭)",
       "count": 3
     },
     {
@@ -1113,7 +1118,7 @@
     },
     {
       "title": "羅馬",
-      "surrounding": " 羅馬(나마) Roma 市(시)[一(일)] ... 가진 𐌓𐌖𐌌𐌀 (ruma)라는 單語(단어)에서",
+      "surrounding": " 羅馬(나마) Roma 市(시)[1] ... 가진 𐌓𐌖𐌌𐌀 (ruma)라는 單語(단어)에서",
       "count": 3
     },
     {

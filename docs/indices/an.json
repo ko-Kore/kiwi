@@ -688,7 +688,7 @@
     },
     {
       "title": "伯林",
-      "surrounding": "都(도)伯林(백림) ↑ Bundesland ↑",
+      "surrounding": "尼(이)布(포)楚(초) ↑ Bundesland ↑",
       "count": 1
     },
     {
@@ -739,6 +739,11 @@
     {
       "title": "國際民間航空機構",
       "surrounding": "Civil Aviation Organization ICAO)는",
+      "count": 1
+    },
+    {
+      "title": "國際海事機構",
+      "surrounding": "International Maritime Organization 略稱(약칭)",
       "count": 1
     },
     {

@@ -338,12 +338,17 @@
     },
     {
       "title": "倫敦",
-      "surrounding": " 倫敦(윤돈) London 首都(수도)[一(일)] ... 파일:Flag of London svg",
+      "surrounding": " 倫敦(윤돈) London 首都(수도)[1] ... 파일:Flag of London svg",
       "count": 2
     },
     {
       "title": "創價學會",
       "surrounding": "SGI(Soka Gakkai International)다 1930年(년) ... ‘Soka Gakkai International(國際(국제)創價學會(창가학회))’의 이니셜人(인)",
+      "count": 2
+    },
+    {
+      "title": "國際海事機構",
+      "surrounding": " 國際海事機構(국제해사기구)(英語: International Maritime ... International Maritime Organization 略稱(약칭)",
       "count": 2
     },
     {

@@ -398,7 +398,7 @@
     },
     {
       "title": "倫敦",
-      "surrounding": "London 首都(수도)[一(일)] 파일:Flag of ... area ↑ borough and",
+      "surrounding": "London 首都(수도)[1] 파일:Flag of ... area ↑ borough and",
       "count": 3
     },
     {
@@ -929,6 +929,11 @@
     {
       "title": "國際民間航空機構",
       "surrounding": "Civil Aviation Organization ICAO)는",
+      "count": 1
+    },
+    {
+      "title": "國際海事機構",
+      "surrounding": "International Maritime Organization 略稱(약칭)",
       "count": 1
     },
     {

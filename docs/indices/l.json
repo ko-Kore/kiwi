@@ -763,7 +763,7 @@
     },
     {
       "title": "伯林",
-      "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[一(일)] ... 都(도)伯林(백림) ↑ Bundesland ↑",
+      "surrounding": " 伯林(백림) Berlin 聯邦州(연방주)[1] ... 尼(이)布(포)楚(초) ↑ Bundesland ↑",
       "count": 2
     },
     {
@@ -783,7 +783,7 @@
     },
     {
       "title": "倫敦",
-      "surrounding": "London 首都(수도)[一(일)] 파일:Flag of ... 都(도)伯林(백림) ↑ capital city",
+      "surrounding": "London 首都(수도)[1] 파일:Flag of ... 尼(이)布(포)楚(초) ↑ capital city",
       "count": 2
     },
     {
@@ -1294,6 +1294,11 @@
     {
       "title": "國漢大百科토론:텔레그램 對話房",
       "surrounding": "(KST) 解決(해결)됐습니다~ --EighteenChild (토론)",
+      "count": 1
+    },
+    {
+      "title": "國際海事機構",
+      "surrounding": " 國際海事機構(국제해사기구)(英語: International Maritime",
       "count": 1
     },
     {
