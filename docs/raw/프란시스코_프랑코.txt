@@ -1,0 +1,21 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">프란시스코 파울리노 에메네힐도 테오두로 프랑코 이 바하몬드 살가도 파르도 데 안드라데
+</th></tr>
+<tr>
+<th colspan="2">Francisco Paulino Hermenegildo Teódulo Franco y Bahamonde Salgado Pardo de Andrade
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Francisco_Franco_1959_(cropped).jpg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Francisco_Franco_1959_%28cropped%29.jpg" decoding="async" width="201" height="268"></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1892<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>12<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Spain.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/langko-kore-25px-Flag_of_Spain.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/langko-kore-38px-Flag_of_Spain.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/langko-kore-50px-Flag_of_Spain.svg.png 2x"></a></span> <a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99" title="西班牙"><ruby class="hanja api grade32"><rb>西班牙</rb><rp>(</rp><rt>서반아</rt><rp>)</rp></ruby></a> 코레나<ruby class="hanja api grade52"><rb>州</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby> 페롤
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>死去</rb><rp>(</rp><rt>사거</rt><rp>)</rp></ruby>
+</th>
+<td>1975<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>11<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>20<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Spain_(1945%E2%80%931977).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/langko-kore-25px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" decoding="async" width="25" height="17" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/langko-kore-38px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/langko-kore-50px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x"></a></span> <a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99" title="西班牙"><ruby class="hanja api grade32"><rb>西班牙</rb><rp>(</rp><rt>서반아</rt><rp>)</rp></ruby></a><a href="/wiki/%E9%A6%AC%E5%BE%B7%E9%87%8C" title="馬德里"><ruby class="hanja api grade50"><rb>馬</rb><rp>(</rp><rt>마</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>德</rb><rp>(</rp><rt>덕</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>里</rb><rp>(</rp><rt>리</rt><rp>)</rp></ruby></a>
+</td></tr></tbody></table>
+</div></body></html>
