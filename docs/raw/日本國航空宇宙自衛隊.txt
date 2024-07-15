@@ -37,7 +37,7 @@
 <tr>
 <td><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A" title="日本國海上自衛隊"><ruby class="hanja api grade42"><rb>海上自衛隊</rb><rp>(</rp><rt>해상자위대</rt><rp>)</rp></ruby></a>
 </td>
-<td><a href="/index.php?title=%E6%97%A5%E6%9C%AC%E5%9C%8B%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="日本國陸上自衛隊 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>陸上自衛隊</rb><rp>(</rp><rt>육상자위대</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E6%97%A5%E6%9C%AC%E5%9C%8B%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A" title="日本國陸上自衛隊"><ruby class="hanja api grade42"><rb>陸上自衛隊</rb><rp>(</rp><rt>육상자위대</rt><rp>)</rp></ruby></a>
 </td>
 <td><a class="mw-selflink selflink">航空自衛隊</a>
 </td></tr></tbody></table>
