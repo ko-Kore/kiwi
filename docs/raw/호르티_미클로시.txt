@@ -6,7 +6,7 @@
 <th colspan="2">Vitéz nagybányai Horthy Miklós<br>Nikolaus Horthy Ritter von Nagybánya
 </th></tr>
 <tr>
-<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Horthy_Miklos.jpg" class="new" title="파일:Horthy Miklos.jpg"><span class="mw-broken-media" data-height="300">파일:Horthy Miklos.jpg</span></a></span>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Mikl%C3%B3sihorty.webp" class="new" title="파일:Miklósihorty.webp"><span class="mw-broken-media" data-height="300">파일:Miklósihorty.webp</span></a></span>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
