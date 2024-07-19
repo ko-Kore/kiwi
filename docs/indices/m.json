@@ -877,11 +877,6 @@
       "count": 3
     },
     {
-      "title": "DailyNK",
-      "surrounding": "LOGO 파일:DailyNK wordmark svg ... https://www dailynk com/ 槪要(개요)[編輯]",
-      "count": 2
-    },
-    {
       "title": "中華人民共和國",
       "surrounding": "9 634 057km² 內水面(내수면) ... 852名(명) 人口密度(인구밀도) 145名(명)/km² 公用語(공용어)",
       "count": 2
@@ -1434,6 +1429,11 @@
     {
       "title": "Clbuttic",
       "surrounding": "現象(현상)을 clbuttic mistake라고 부르기도",
+      "count": 1
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": "https://www dailynk com/ 槪要(개요)[編輯]",
       "count": 1
     },
     {

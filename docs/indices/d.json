@@ -412,11 +412,6 @@
       "count": 4
     },
     {
-      "title": "DailyNK",
-      "surrounding": "LOGO 파일:DailyNK wordmark svg ... 프로그램인 Our World의 北韓(북한)",
-      "count": 3
-    },
-    {
       "title": "SC第一銀行",
       "surrounding": " SC第一銀行(제일은행)Standard Chartered ... Chartered Bank渣打銀行(zaa1 daa2 ngan4",
       "count": 3
@@ -565,6 +560,11 @@
       "title": "𡨸國語",
       "surrounding": "b c d đ ... Latin Extended Additional 領域(영역)에",
       "count": 3
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": "웹사이트 https://www dailynk com/ ... 프로그램인 Our World의 北韓(북한)",
+      "count": 2
     },
     {
       "title": "IOS",

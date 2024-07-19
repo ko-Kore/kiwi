@@ -472,6 +472,11 @@
       "count": 3
     },
     {
+      "title": "DailyNK",
+      "surrounding": "파일:Daily NK logo png ... NK logo png 成立(성립)日(일)",
+      "count": 2
+    },
+    {
       "title": "SC第一銀行",
       "surrounding": "Bank渣打銀行(zaa1 daa2 ngan4 hong4) ... daa2 ngan4 hong4) 國家(국가)",
       "count": 2
@@ -804,11 +809,6 @@
     {
       "title": "CJK",
       "surrounding": "다음과 같다 Big5 EUC-JP",
-      "count": 1
-    },
-    {
-      "title": "DailyNK",
-      "surrounding": "파일:DailyNK wordmark svg 成立(성립)日(일)",
       "count": 1
     },
     {

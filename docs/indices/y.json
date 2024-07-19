@@ -197,11 +197,6 @@
       "count": 5
     },
     {
-      "title": "DailyNK",
-      "surrounding": " LOGO 파일:DailyNK wordmark ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
-      "count": 4
-    },
-    {
       "title": "中華民國",
       "surrounding": "Pangcah(Amis 阿(아)美(미))語(어) Atayal(泰(태)雅(아))語(어) Paiwan(排(배)灣(만))語(어) ... Kavalan(噶(갈)瑪(마)蘭(란))語(어) Truku(太(태)魯(로)閣(각))語(어) Sakizaya(撒(살)奇(기)萊(래)雅(아))語(어) Seediq(賽(새)德(덕)克(극))語(어)",
       "count": 4
@@ -319,6 +314,11 @@
     {
       "title": "CIS(獨立國家聯合)",
       "surrounding": "CIS 議會(의회)總會(총회)(CIS Interparliamentary Assembly) ... 議會(의회)總會(총회)(CIS Interparliamentary Assembly) 設立(설립)",
+      "count": 2
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": " LOGO 파일:Daily NK ... 웹사이트 https://www dailynk com/",
       "count": 2
     },
     {

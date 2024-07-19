@@ -177,11 +177,6 @@
       "count": 3
     },
     {
-      "title": "DailyNK",
-      "surrounding": "LOGO 파일:DailyNK wordmark svg ... 프로그램인 Our World의 北韓(북한)",
-      "count": 2
-    },
-    {
       "title": "Steins;Gate",
       "surrounding": "3PlayStation VitaPlayStation PortableiOS AndroidPlayStation ... Xbox 360PlayStation PortablePlayStation 3PlayStation",
       "count": 2
@@ -304,6 +299,11 @@
     {
       "title": "CJK",
       "surrounding": "槪要(개요)[편집] CJK(ChineseJapaneseKorean 또는",
+      "count": 1
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": "프로그램인 Our World의 北韓(북한)",
       "count": 1
     },
     {

@@ -882,11 +882,6 @@
       "count": 3
     },
     {
-      "title": "DailyNK",
-      "surrounding": " LOGO 파일:DailyNK wordmark ... 中央日報(중앙일보) 朝鮮日報(조선일보) DailyNK 中間派(중간파)",
-      "count": 3
-    },
-    {
       "title": "任天堂",
       "surrounding": "게임큐브 닌텐도 Wii 닌텐도 ... 이를 利用(이용)해 Wii/DS 以後(이후)로",
       "count": 3
@@ -1190,6 +1185,11 @@
       "title": "𡨸喃",
       "surrounding": "몇 存在한다 𡗶(trời): 天과 ... giời 或은 trời를 表記한다",
       "count": 3
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": " LOGO 파일:Daily NK ... 웹사이트 https://www dailynk com/",
+      "count": 2
     },
     {
       "title": "IBM 셀렉트릭",

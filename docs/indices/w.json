@@ -197,11 +197,6 @@
       "count": 3
     },
     {
-      "title": "DailyNK",
-      "surrounding": "LOGO 파일:DailyNK wordmark svg ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
-      "count": 3
-    },
-    {
       "title": "人名 漢字 表記 一覽",
       "surrounding": "瑪(마)利(리)亞(아)/馬(마)利(리)亞(아)/麻里(마리)亞(아) 英語: Louis/Lewis프랑스語: Louis獨逸語: ... 亞(아)歷(력)/亞(아)歷山(역산)/亞(아)歷山(역산)大(대)/伊(이)斯(사)坎(감)達(달)爾(이) 英語: Matthew/Matt이탈리아語: Matteo獨逸語:",
       "count": 3
@@ -365,6 +360,11 @@
       "title": "호르스트 베셀",
       "surrounding": "베셀 Horst Ludwig Georg ... 에리히 베셀(Horst Ludwig Georg",
       "count": 2
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": "이광백 웹사이트 https://www dailynk",
+      "count": 1
     },
     {
       "title": "IBM 셀렉트릭",

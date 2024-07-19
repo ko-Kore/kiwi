@@ -617,11 +617,6 @@
       "count": 2
     },
     {
-      "title": "DailyNK",
-      "surrounding": "이광백 웹사이트 https://www dailynk ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
-      "count": 2
-    },
-    {
       "title": "NLCS Jeju",
       "surrounding": "NLCS Jeju(North London ... London Collegiate School Jeju)는",
       "count": 2
@@ -989,6 +984,11 @@
     {
       "title": "Clbuttic",
       "surrounding": "外部(외부) 링크[편집] The Clbuttic",
+      "count": 1
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": "이광백 웹사이트 https://www dailynk",
       "count": 1
     },
     {

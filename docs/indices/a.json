@@ -722,11 +722,6 @@
       "count": 4
     },
     {
-      "title": "DailyNK",
-      "surrounding": " LOGO 파일:DailyNK wordmark ... 中央日報(중앙일보) 朝鮮日報(조선일보) DailyNK 中間派(중간파)",
-      "count": 4
-    },
-    {
       "title": "J리그",
       "surrounding": "正式(정식)名稱(명칭)은 日本(일본)職業(직업)蹴球(축구)리그(英語: Japan Professional ... Professional Football League 日本語:",
       "count": 4
@@ -1229,6 +1224,11 @@
     {
       "title": "2022 北京올림픽",
       "surrounding": "Together for a Shared ... for a Shared Future",
+      "count": 2
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": " LOGO 파일:Daily NK ... 웹사이트 https://www dailynk com/",
       "count": 2
     },
     {

@@ -1237,6 +1237,11 @@
       "count": 2
     },
     {
+      "title": "DailyNK",
+      "surrounding": "NK logo png 成立(성립)日(일) ... 웹사이트 https://www dailynk com/",
+      "count": 2
+    },
+    {
       "title": "J리그",
       "surrounding": "正式(정식)名稱(명칭)은 日本(일본)職業(직업)蹴球(축구)리그(英語: Japan Professional ... 日本(일본)職業(직업)蹴球(축구)리그(英語: Japan Professional Football",
       "count": 2
@@ -1784,11 +1789,6 @@
     {
       "title": "CJK統合漢字",
       "surrounding": "인코딩되어있던 漢字(한자)코드들을 Unihan 프로젝트를",
-      "count": 1
-    },
-    {
-      "title": "DailyNK",
-      "surrounding": "웹사이트 https://www dailynk com/",
       "count": 1
     },
     {

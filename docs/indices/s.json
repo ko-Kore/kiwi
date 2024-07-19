@@ -622,11 +622,6 @@
       "count": 3
     },
     {
-      "title": "DailyNK",
-      "surrounding": "파일:DailyNK wordmark svg 成立(성립)日(일) ... 韓民族(한민족)日報(일보) 京鄕新聞(경향신문) OhMyNews ",
-      "count": 3
-    },
-    {
       "title": "三星그룹",
       "surrounding": "別名(별명)은 'Sammy'이다 same soon이라고 ... 主人公(주인공)인 社(사)무스 아란(Samus Aran",
       "count": 3
@@ -1279,6 +1274,11 @@
     {
       "title": "CJK",
       "surrounding": "槪要(개요)[편집] CJK(ChineseJapaneseKorean 또는",
+      "count": 1
+    },
+    {
+      "title": "DailyNK",
+      "surrounding": "이광백 웹사이트 https://www dailynk",
       "count": 1
     },
     {
