@@ -197,6 +197,11 @@
       "count": 6
     },
     {
+      "title": "阮富仲",
+      "surrounding": " 阮(완)富(부)仲(중)Nguyễn Phú ... hội chủ nghĩa Việt",
+      "count": 6
+    },
+    {
       "title": "나는 北京 天安門을 사랑해",
       "surrounding": "Wǒ ài Běijīng Tiān’ānmén ... Zhǐyǐn wǒmen xiàng qiánjìn",
       "count": 6
@@ -352,11 +357,6 @@
       "count": 4
     },
     {
-      "title": "阮富仲",
-      "surrounding": " 阮(완)富(부)仲(중)Nguyễn Phú ... Nguyễn Phú Trọng 응우옌푸쫑",
-      "count": 4
-    },
-    {
       "title": "망고",
       "surrounding": "망고 망고(英語: mango 맹고)는 ... '캐리(Carrie)' 美國(미국) '켄싱턴(Kensington)' 美國(미국)",
       "count": 4
@@ -429,6 +429,11 @@
     {
       "title": "東京都 爆擊",
       "surrounding": "爆擊 파일:Fire bombing of ... 爆擊(폭격)(暗號(암호)名(명) \"Operation Meetinghouse (集會所(집회소)",
+      "count": 3
+    },
+    {
+      "title": "武文賞",
+      "surrounding": "Võ Văn Thưởng 1970年(년)12月(월)13日(일) ... hội chủ nghĩa Việt",
       "count": 3
     },
     {
@@ -617,6 +622,11 @@
       "count": 2
     },
     {
+      "title": "武氏映春",
+      "surrounding": "tịch nước Cộng hòa ... hội chủ nghĩa Việt",
+      "count": 2
+    },
+    {
       "title": "江南스타일",
       "surrounding": "what I'm saying 오빤 ... (國語(국어) 注(주)音(음)) Jiāngnán Style",
       "count": 2
@@ -659,6 +669,11 @@
     {
       "title": "美聯合國",
       "surrounding": "國旗(국기) 國章(국장) 파일:Flag of ... Confederate States svg 國家(국가)象徵(상징)",
+      "count": 2
+    },
+    {
+      "title": "胡志明",
+      "surrounding": "tịch nước Cộng hòa ... hội chủ nghĩa Việt",
       "count": 2
     },
     {
@@ -1024,11 +1039,6 @@
     {
       "title": "李明博",
       "surrounding": "表記(표기) Lee Myung-bak 出生(출생)",
-      "count": 1
-    },
-    {
-      "title": "武文賞",
-      "surrounding": "Võ Văn Thưởng 1970年(년)12月(월)13日(일)",
       "count": 1
     },
     {
