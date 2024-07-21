@@ -4,40 +4,61 @@
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="ko-Kore" dir="ltr"><h2 id="mw-toc-heading">目次</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#歌詞(가사)"><span class="tocnumber">1</span> <span class="toctext">歌詞(가사)</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#1節(절)"><span class="tocnumber">2</span> <span class="toctext">1節(절)</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#2節(절)"><span class="tocnumber">3</span> <span class="toctext">2節(절)</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#3節(절)"><span class="tocnumber">4</span> <span class="toctext">3節(절)</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#4節(절)"><span class="tocnumber">5</span> <span class="toctext">4節(절)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#하느님,_阿弗利加(아불리가)를_지켜_주소서"><span class="tocnumber">2</span> <span class="toctext">하느님, 阿弗利加(아불리가)를 지켜 주소서</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#南阿弗利加(남아불리가)의_召喚(소환)"><span class="tocnumber">3</span> <span class="toctext">南阿弗利加(남아불리가)의 召喚(소환)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#韓國語飜譯(번역)"><span class="tocnumber">4</span> <span class="toctext">韓國語飜譯(번역)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#하느님,_阿弗利加(아불리가)를_지켜_주소서_2"><span class="tocnumber">4.1</span> <span class="toctext">하느님, 阿弗利加(아불리가)를 지켜 주소서</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#南阿弗利加(남아불리가)를의_召喚(소환)"><span class="tocnumber">4.2</span> <span class="toctext">南阿弗利加(남아불리가)를의 召喚(소환)</span></a></li>
+</ul>
+</li>
 </ul>
 </div>
 <h2><span id=".E6.AD.8C.E8.A9.9E.28.EA.B0.80.EC.82.AC.29"></span><span class="mw-headline" id="歌詞(가사)"><ruby class="hanja api grade32"><rb>歌詞</rb><rp>(</rp><rt>가사</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=1" title="部分 編輯: 歌詞(가사)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h2><span id="1.E7.AF.80.28.EC.A0.88.29"></span><span class="mw-headline" id="1節(절)">1<ruby class="hanja api grade52"><rb>節</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=2" title="部分 編輯: 1節(절)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".ED.95.98.EB.8A.90.EB.8B.98.2C_.E9.98.BF.E5.BC.97.E5.88.A9.E5.8A.A0.28.EC.95.84.EB.B6.88.EB.A6.AC.EA.B0.80.29.EB.A5.BC_.EC.A7.80.EC.BC.9C_.EC.A3.BC.EC.86.8C.EC.84.9C"></span><span class="mw-headline" id="하느님,_阿弗利加(아불리가)를_지켜_주소서">하느님, <ruby class="hanja api grade20"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby>를 지켜 주소서</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=2" title="部分 編輯: 하느님, 阿弗利加(아불리가)를 지켜 주소서">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><b>코사<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></b><br>
 Nkosi sikelel' iAfrika<br>
 Maluphakanyisw' uphondo lwayo
 </p><p><b>줄루<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></b><br>
 Yizwa mithandazo Yethu<br>
 Nkosi sikelela, thina lusapho lwayo
-</p>
-<h2><span id="2.E7.AF.80.28.EC.A0.88.29"></span><span class="mw-headline" id="2節(절)">2<ruby class="hanja api grade52"><rb>節</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=3" title="部分 編輯: 2節(절)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><b>레소토<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></b><br>
+</p><p><b>레소토<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></b><br>
 Morena boloka setjhaba sa heso<br>
 O fedise dintwa le matshwenyeho<br>
 O se boloke, O se boloke setjhaba sa heso<br>
 Setjhaba sa, South Afrika, South Afrika
 </p>
-<h2><span id="3.E7.AF.80.28.EC.A0.88.29"></span><span class="mw-headline" id="3節(절)">3<ruby class="hanja api grade52"><rb>節</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=4" title="部分 編輯: 3節(절)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id=".E5.8D.97.E9.98.BF.E5.BC.97.E5.88.A9.E5.8A.A0.28.EB.82.A8.EC.95.84.EB.B6.88.EB.A6.AC.EA.B0.80.29.EC.9D.98_.E5.8F.AC.E5.96.9A.28.EC.86.8C.ED.99.98.29"></span><span class="mw-headline" id="南阿弗利加(남아불리가)의_召喚(소환)"><ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade10"><rb>召喚</rb><rp>(</rp><rt>소환</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=3" title="部分 編輯: 南阿弗利加(남아불리가)의 召喚(소환)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p><b>아프리칸스<ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></b><br>
 Uit die blou van onse hemel<br>
 Uit die diepte van ons see<br>
 Oor ons ewige gebergtes<br>
 Waar die kranse antwoord gee
-</p>
-<h2><span id="4.E7.AF.80.28.EC.A0.88.29"></span><span class="mw-headline" id="4節(절)">4<ruby class="hanja api grade52"><rb>節</rb><rp>(</rp><rt>절</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=5" title="部分 編輯: 4節(절)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><b><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></b><br>
+</p><p><b><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></b><br>
 Sounds the call to come together,<br>
 And united we shall stand,<br>
 Let us live and strive for freedom,<br>
 In South Africa our land.
+</p>
+<h2><span id=".E9.9F.93.E5.9C.8B.E8.AA.9E.E9.A3.9C.E8.AD.AF.28.EB.B2.88.EC.97.AD.29"></span><span class="mw-headline" id="韓國語飜譯(번역)"><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a><ruby class="hanja api grade30"><rb>飜譯</rb><rp>(</rp><rt>번역</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=4" title="部分 編輯: 韓國語飜譯(번역)">編輯</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".ED.95.98.EB.8A.90.EB.8B.98.2C_.E9.98.BF.E5.BC.97.E5.88.A9.E5.8A.A0.28.EC.95.84.EB.B6.88.EB.A6.AC.EA.B0.80.29.EB.A5.BC_.EC.A7.80.EC.BC.9C_.EC.A3.BC.EC.86.8C.EC.84.9C_2"></span><span class="mw-headline" id="하느님,_阿弗利加(아불리가)를_지켜_주소서_2">하느님, <ruby class="hanja api grade20"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby>를 지켜 주소서</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=5" title="部分 編輯: 하느님, 阿弗利加(아불리가)를 지켜 주소서">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>하느님, <ruby class="hanja api grade20"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby>를 지켜 주소서 <br>
+<ruby class="hanja api grade42"><rb>榮光</rb><rp>(</rp><rt>영광</rt><rp>)</rp></ruby>을 높이 올리소서, <br>
+우리의 <ruby class="hanja api grade50"><rb>所願</rb><rp>(</rp><rt>소원</rt><rp>)</rp></ruby>을 들어주소서, <br>
+<ruby class="hanja api grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>여, 그대의 아들인 우리를 <ruby class="hanja api grade40"><rb>救援</rb><rp>(</rp><rt>구원</rt><rp>)</rp></ruby>하소서.
+</p><p><ruby class="hanja api grade70"><rb>主</rb><rp>(</rp><rt>주</rt><rp>)</rp></ruby>여 우리에게 <ruby class="hanja api grade52"><rb>福</rb><rp>(</rp><rt>복</rt><rp>)</rp></ruby>을 주시고, <br>
+모든 <ruby class="hanja api grade40"><rb>苦痛</rb><rp>(</rp><rt>고통</rt><rp>)</rp></ruby>과 <ruby class="hanja api grade32"><rb>紛爭</rb><rp>(</rp><rt>분쟁</rt><rp>)</rp></ruby>을 끝내주소서, <br>
+지켜주소서, 우리나라를 지켜주소서, <br>
+<ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby> <ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>을 지켜주소서, <ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>을.
+</p>
+<h3><span id=".E5.8D.97.E9.98.BF.E5.BC.97.E5.88.A9.E5.8A.A0.28.EB.82.A8.EC.95.84.EB.B6.88.EB.A6.AC.EA.B0.80.29.EB.A5.BC.EC.9D.98_.E5.8F.AC.E5.96.9A.28.EC.86.8C.ED.99.98.29"></span><span class="mw-headline" id="南阿弗利加(남아불리가)를의_召喚(소환)"><ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>를의 <ruby class="hanja api grade10"><rb>召喚</rb><rp>(</rp><rt>소환</rt><rp>)</rp></ruby></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%85%B1%E5%9C%8B%E6%AD%8C&amp;action=edit&amp;section=6" title="部分 編輯: 南阿弗利加(남아불리가)를의 召喚(소환)">編輯</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>우리의 푸르른 하늘에서부터, <br>
+우리의 깊은 바다에서부터, <br>
+우리의 <ruby class="hanja api grade60"><rb>永遠</rb><rp>(</rp><rt>영원</rt><rp>)</rp></ruby>한 <ruby class="hanja api grade80"><rb>山</rb><rp>(</rp><rt>산</rt><rp>)</rp></ruby>들을 넘어, <br>
+<ruby class="hanja api grade42"><rb>絶壁</rb><rp>(</rp><rt>절벽</rt><rp>)</rp></ruby>들이 <ruby class="hanja api grade62"><rb>對答</rb><rp>(</rp><rt>대답</rt><rp>)</rp></ruby>하는 곳으로,
+</p><p><ruby class="hanja api grade60"><rb>和合</rb><rp>(</rp><rt>화합</rt><rp>)</rp></ruby>의 외침이 울리네, <br>
+그리고 우리는 <ruby class="hanja api grade52"><rb>團結</rb><rp>(</rp><rt>단결</rt><rp>)</rp></ruby>하여 일어서리, <br>
+우리는 <ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>를 위하여 살며 <ruby class="hanja api grade40"><rb>鬪爭</rb><rp>(</rp><rt>투쟁</rt><rp>)</rp></ruby>하리라<br>
+우리의 <ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby> <ruby class="hanja api grade20"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>에서!
 </p>
 </div></body></html>
