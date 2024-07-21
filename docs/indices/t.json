@@ -1847,11 +1847,6 @@
       "count": 1
     },
     {
-      "title": "獨逸聯邦國防軍陸軍",
-      "surrounding": "陸軍士官學校(육군사관학교) (army cadet academy)",
-      "count": 1
-    },
-    {
       "title": "獨逸語",
       "surrounding": "獨逸語(독일어) 原語(원어) Deutsche 分布(분포)",
       "count": 1
@@ -1969,6 +1964,11 @@
     {
       "title": "賴淸德",
       "surrounding": "客家語(객가어)白話(백화)字(자): Lai Chhîn-tet 1959年(년)10月(월)7日(일)",
+      "count": 1
+    },
+    {
+      "title": "越南共和國軍",
+      "surrounding": "越南(월남)共和國(공화국)軍旗(군기)Quân Kỳ Việt Nam",
       "count": 1
     },
     {

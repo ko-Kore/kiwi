@@ -1072,11 +1072,6 @@
       "count": 3
     },
     {
-      "title": "獨逸聯邦國防軍陸軍",
-      "surrounding": " 獨逸聯邦(독일연방)國防軍(국방군)陸軍(육군)Heer 創設(창설) ... (army cadet academy) UN軍(군)",
-      "count": 3
-    },
-    {
       "title": "碧藍航路",
       "surrounding": " 碧藍航路(벽람항로)碧蓝航线(벽람항선)Azur Lane 開發(개발) ... 名稱(명칭) Azur Lane 流通(유통)",
       "count": 3
@@ -2044,6 +2039,11 @@
     {
       "title": "獨逸杯",
       "surrounding": "당시 이름은 \"Tschammerpokal(샤먼포카)\"이었고 獨逸(독일)杯(배)에서",
+      "count": 1
+    },
+    {
+      "title": "獨逸聯邦國防軍陸軍",
+      "surrounding": " 獨逸聯邦(독일연방)國防軍(국방군)陸軍(육군)Heer 創設(창설)",
       "count": 1
     },
     {

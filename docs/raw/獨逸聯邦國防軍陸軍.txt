@@ -57,8 +57,8 @@
 <li><ruby class="hanja api grade52"><rb>陸軍</rb><rp>(</rp><rt>육군</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>戰鬪</rb><rp>(</rp><rt>전투</rt><rp>)</rp></ruby>시뮬레이션 센터</li>
 <li><ruby class="hanja api grade52"><rb>陸軍</rb><rp>(</rp><rt>육군</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>戰鬪</rb><rp>(</rp><rt>전투</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>訓鍊</rb><rp>(</rp><rt>훈련</rt><rp>)</rp></ruby>센터</li>
 <li><ruby class="hanja api grade42"><rb>陸軍士官學校</rb><rp>(</rp><rt>육군사관학교</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja api grade42"><rb>陸軍士官學校</rb><rp>(</rp><rt>육군사관학교</rt><rp>)</rp></ruby> (army cadet academy)</li>
-<li>UN<ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby> <ruby class="hanja api grade32"><rb>訓鍊</rb><rp>(</rp><rt>훈련</rt><rp>)</rp></ruby>센터</li></ul></li></ul></li></ul>
+<li><ruby class="hanja api grade52"><rb>陸軍</rb><rp>(</rp><rt>육군</rt><rp>)</rp></ruby><ruby class="hanja api grade10"><rb>兵曹</rb><rp>(</rp><rt>병조</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>學校</rb><rp>(</rp><rt>학교</rt><rp>)</rp></ruby></li>
+<li>UN<ruby class="hanja api grade80"><rb>軍</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>訓鍊</rb><rp>(</rp><rt>훈련</rt><rp>)</rp></ruby>센터</li></ul></li></ul></li></ul>
 <table class="wikitable" style="margin: auto; text-align: center;">
 <caption>
 </caption>
@@ -75,7 +75,7 @@
 <tr>
 <td style="text-align: center;"><a class="mw-selflink selflink">陸軍</a>
 </td>
-<td style="text-align: center;"><a href="/index.php?title=%E7%8D%A8%E9%80%B8%E8%81%AF%E9%82%A6%E5%9C%8B%E9%98%B2%E8%BB%8D%E6%B5%B7%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="獨逸聯邦國防軍海軍 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby></a>
+<td style="text-align: center;"><a href="/wiki/%E7%8D%A8%E9%80%B8%E8%81%AF%E9%82%A6%E5%9C%8B%E9%98%B2%E8%BB%8D%E6%B5%B7%E8%BB%8D" title="獨逸聯邦國防軍海軍"><ruby class="hanja api grade72"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby></a>
 </td>
 <td style="text-align: center;"><a href="/index.php?title=%E7%8D%A8%E9%80%B8%E8%81%AF%E9%82%A6%E5%9C%8B%E9%98%B2%E8%BB%8D%E7%A9%BA%E8%BB%8D&amp;action=edit&amp;redlink=1" class="new" title="獨逸聯邦國防軍空軍 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>空軍</rb><rp>(</rp><rt>공군</rt><rp>)</rp></ruby></a>
 </td></tr>
