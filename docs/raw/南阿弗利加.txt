@@ -25,7 +25,7 @@
 <tr>
 <th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%BC%97%E5%88%A9%E5%8A%A0%EC%9D%98_%E5%91%BC%E5%96%9A&amp;action=edit&amp;redlink=1" class="new" title="南阿弗利加의 呼喚 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42 unknown"><rb>呼</rb><rp>(</rp><rt>호</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>喚</rb><rp>(</rp><rt>환</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E5%8D%97%E9%98%BF%E5%BC%97%E5%88%A9%E5%8A%A0%EC%9D%98_%E5%8F%AC%E5%96%9A&amp;action=edit&amp;redlink=1" class="new" title="南阿弗利加의 召喚 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>南阿弗利加</rb><rp>(</rp><rt>남아불리가</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade10 unknown"><rb>召喚</rb><rp>(</rp><rt>소환</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
@@ -57,7 +57,7 @@
 <tr>
 <th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a> <a href="/index.php?title=%E9%98%BF%E5%BC%97%E5%88%A9%E5%8A%A0%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="阿弗利加語 (없는 文書)"><ruby class="hanja api grade20 unknown"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a> <a href="/wiki/%E9%98%BF%E5%BC%97%E5%88%A9%E5%8A%A0%E8%AA%9E" class="mw-redirect" title="阿弗利加語"><ruby class="hanja api grade20"><rb>阿弗利加</rb><rp>(</rp><rt>아불리가</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
 </td></tr>
 </tbody></table>
 </div></body></html>
