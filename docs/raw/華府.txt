@@ -8,7 +8,7 @@
 <th colspan="2">Washington District of Columbia, Washington D.C.
 </th></tr>
 <tr>
-<td colspan="2">
+<td colspan="2"><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Washington,_D.C.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Washington%2C_D.C.svg/langko-kore-150px-Flag_of_Washington%2C_D.C.svg.png" decoding="async" width="150" height="75" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Washington%2C_D.C.svg/langko-kore-225px-Flag_of_Washington%2C_D.C.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Washington%2C_D.C.svg/langko-kore-300px-Flag_of_Washington%2C_D.C.svg.png 2x"></a><figcaption></figcaption></figure>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>國</rb><rp>(</rp><rt>국</rt><rp>)</rp></ruby>
