@@ -1,0 +1,33 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade30"><rb>佐</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>榮</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>作</rb><rp>(</rp><rt>작</rt><rp>)</rp></ruby><br>사토 에이사쿠
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Eisaku_Sato.jpg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Eisaku_Sato.jpg" decoding="async" width="179" height="218"></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1901<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>27<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>死亡</rb><rp>(</rp><rt>사망</rt><rp>)</rp></ruby>
+</th>
+<td>1975<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>6<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>3<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>政黨</rb><rp>(</rp><rt>정당</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="自由民主黨 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>自由民主黨</rb><rp>(</rp><rt>자유민주당</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>父母</rb><rp>(</rp><rt>부모</rt><rp>)</rp></ruby>
+</th>
+<td>아버지:&nbsp;<ruby class="hanja api grade30"><rb>佐</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>秀</rb><rp>(</rp><rt>수</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>助</rb><rp>(</rp><rt>조</rt><rp>)</rp></ruby> <br> 어머니: <ruby class="hanja api grade30"><rb>佐</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>茂</rb><rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>世</rb><rp>(</rp><rt>세</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>配偶者</rb><rp>(</rp><rt>배우자</rt><rp>)</rp></ruby>
+</th>
+<td><ruby class="hanja api grade30"><rb>佐</rb><rp>(</rp><rt>좌</rt><rp>)</rp></ruby><ruby class="hanja api grade20"><rb>藤</rb><rp>(</rp><rt>등</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>寬</rb><rp>(</rp><rt>관</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>子</rb><rp>(</rp><rt>자</rt><rp>)</rp></ruby>
+</td></tr></tbody></table>
+</div></body></html>
