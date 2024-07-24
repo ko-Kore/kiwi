@@ -10,6 +10,9 @@
 <th><a href="/wiki/%E9%9F%93%E5%9C%8B%E8%AA%9E" title="韓國語"><ruby class="hanja api grade70"><rb>韓國語</rb><rp>(</rp><rt>한국어</rt><rp>)</rp></ruby></a><ruby class="hanja api grade30"><rb>飜譯</rb><rp>(</rp><rt>번역</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
+<td colspan="3" style="text-align: center;"><b><big><ruby class="hanja api grade32"><rb>越南</rb><rp>(</rp><rt>월남</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>獨立宣言</rb><rp>(</rp><rt>독립선언</rt><rp>)</rp></ruby></big></b><br><b><big>tuyên ngôn độc lập của nước việt nam dân chủ cộng hòa</big></b><br><b><big><span lang="vi">宣言獨立𧵑渃越南民主共和</span></big></b>
+</td></tr>
+<tr>
 <td><span lang="vi">「悉𪥘󠄁𤗆𠊛調生𫥨平等。造化朱𣱆仍權空埃固体侵犯得、𥪝仍權𧘇、固權得𤯩、權自由吧權謀求幸福。」</span>
 </td>
 <td>«&nbsp;Tất cả mọi người đều sinh ra bình đẳng. Tạo-hóa cho họ những quyền không ai có thể xâm-phạm được, trong những quyền ấy, có quyền được sống, quyền tự-do và quyền mưu cầu hạnh-phúc.&nbsp;»
