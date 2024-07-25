@@ -267,11 +267,6 @@
       "count": 2
     },
     {
-      "title": "美聯合國",
-      "surrounding": "美(미)聯合國(연합국) the Confederate States ... of the Confederate States",
-      "count": 2
-    },
-    {
       "title": "自由의 女神像",
       "surrounding": "女神像(여신상)(佛蘭西語: Statue de la ... 彫刻家(조각가) 프레데릭 바르톨디(Frederic Bartholdi)가",
       "count": 2
@@ -564,6 +559,11 @@
     {
       "title": "羅馬尼",
       "surrounding": "NATOÉtats membres de l'OTAN",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States",
       "count": 1
     },
     {

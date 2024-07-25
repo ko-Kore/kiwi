@@ -277,11 +277,6 @@
       "count": 2
     },
     {
-      "title": "美聯合國",
-      "surrounding": "美(미)聯合國(연합국) the Confederate States ... of the Confederate States",
-      "count": 2
-    },
-    {
       "title": "諾威",
       "surrounding": "議院內閣制(의원내각제) 國王(국왕) Harald V ... 마수드 갈라하니(Masud Gharahkhani 勞動黨(노동당))",
       "count": 2
@@ -514,6 +509,11 @@
     {
       "title": "美國달러",
       "surrounding": "Canadian Dollar)와 濠州(호주)달러(英(영)：Australian Dollar)等(등)에도",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States",
       "count": 1
     },
     {

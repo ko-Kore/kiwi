@@ -3,7 +3,7 @@
 <th colspan="2"><ruby class="hanja api grade60"><rb>美</rb><rp>(</rp><rt>미</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>聯合國</rb><rp>(</rp><rt>연합국</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<th colspan="2">the Confederate States of America
+<th colspan="2">Confederate States of America
 </th></tr>
 <tr>
 <td colspan="2" style="padding: 0;">
@@ -14,9 +14,9 @@
 <th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Flag_of_the_Confederate_States.svg" class="new" title="파일:Flag of the Confederate States.svg"><span class="mw-broken-media" data-height="160">파일:Flag of the Confederate States.svg</span></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_Confederate_States_(1865).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_the_Confederate_States_%281865%29.svg/langko-kore-240px-Flag_of_the_Confederate_States_%281865%29.svg.png" decoding="async" width="240" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_the_Confederate_States_%281865%29.svg/langko-kore-360px-Flag_of_the_Confederate_States_%281865%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_the_Confederate_States_%281865%29.svg/langko-kore-480px-Flag_of_the_Confederate_States_%281865%29.svg.png 2x"></a></span>
 </td>
-<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Coat_of_arms_of_Dixie.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coat_of_arms_of_Dixie.svg/langko-kore-132px-Coat_of_arms_of_Dixie.svg.png" decoding="async" width="132" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coat_of_arms_of_Dixie.svg/langko-kore-198px-Coat_of_arms_of_Dixie.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coat_of_arms_of_Dixie.svg/langko-kore-264px-Coat_of_arms_of_Dixie.svg.png 2x"></a></span>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Seal_of_the_Confederate_States.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Seal_of_the_Confederate_States.svg/langko-kore-160px-Seal_of_the_Confederate_States.svg.png" decoding="async" width="160" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Seal_of_the_Confederate_States.svg/langko-kore-240px-Seal_of_the_Confederate_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Seal_of_the_Confederate_States.svg/langko-kore-320px-Seal_of_the_Confederate_States.svg.png 2x"></a></span>
 </td></tr></tbody></table>
 </td></tr>
 <tr>

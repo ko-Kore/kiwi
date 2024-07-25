@@ -87,11 +87,6 @@
       "count": 2
     },
     {
-      "title": "美聯合國",
-      "surrounding": "美(미)聯合國(연합국) the Confederate States ... of the Confederate States",
-      "count": 2
-    },
-    {
       "title": "알렉산더 폰 훔볼트",
       "surrounding": "폰 훔볼트 Alexander von ... 알렉산더 폰 훔볼트(Alexander von",
       "count": 2
@@ -184,6 +179,11 @@
     {
       "title": "獨逸軍 (獨逸聯邦共和國)",
       "surrounding": " 獨逸聯邦(독일연방)國防軍(국방군)BundeswehrFederal Defence",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States",
       "count": 1
     },
     {

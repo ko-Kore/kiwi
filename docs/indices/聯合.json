@@ -527,6 +527,11 @@
       "count": 1
     },
     {
+      "title": "南部聯合",
+      "surrounding": "넘겨줄 對象:美聯合國 ",
+      "count": 1
+    },
+    {
       "title": "同音의 漢字에 依한 바꿔쓰기",
       "surrounding": "→ 総合(총합)(總合(총합)) 聯合(연합) →",
       "count": 1
@@ -663,7 +668,7 @@
     },
     {
       "title": "美聯合國",
-      "surrounding": " 美(미)聯合國(연합국) the",
+      "surrounding": " 美(미)聯合國(연합국) Confederate",
       "count": 1
     },
     {

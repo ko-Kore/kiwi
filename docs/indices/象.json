@@ -657,6 +657,11 @@
       "count": 1
     },
     {
+      "title": "南部聯合",
+      "surrounding": "넘겨줄 對象:美聯合國 ",
+      "count": 1
+    },
+    {
       "title": "南阿共",
       "surrounding": "넘겨줄 對象:南阿弗利加 共和國",
       "count": 1
@@ -1563,7 +1568,7 @@
     },
     {
       "title": "美聯合國",
-      "surrounding": "States svg 國家(국가)象徵(상징) 國歌(국가)",
+      "surrounding": "國旗(국기) 國章(국장) 國家(국가)象徵(상징) 國歌(국가)",
       "count": 1
     },
     {

@@ -207,11 +207,6 @@
       "count": 4
     },
     {
-      "title": "美聯合國",
-      "surrounding": "美(미)聯合國(연합국) the Confederate States ... of the Confederate States",
-      "count": 4
-    },
-    {
       "title": "英國皇家海軍",
       "surrounding": "Navy 파일:Flag of British ... 참나무의 마음(Heart of Oak)",
       "count": 4
@@ -424,6 +419,11 @@
     {
       "title": "瓦努阿圖",
       "surrounding": "瓦努阿圖(와노아도)共和國(공화국) Republic of Vanuatu ... The Republic of Vanuatu",
+      "count": 2
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States ... Confederate States of America",
       "count": 2
     },
     {

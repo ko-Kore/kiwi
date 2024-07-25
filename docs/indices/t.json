@@ -447,11 +447,6 @@
       "count": 6
     },
     {
-      "title": "美聯合國",
-      "surrounding": " 美(미)聯合國(연합국) the Confederate ... the Confederate States svg",
-      "count": 6
-    },
-    {
       "title": "自由의 女神像",
       "surrounding": "自由(자유)의 女神像(여신상)(佛蘭西語: Statue de ... 강의 퐁 그르넬(Pont Grenelle)",
       "count": 6
@@ -1294,6 +1289,11 @@
     {
       "title": "美國中央情報局",
       "surrounding": "美國中央情報局(미국중앙정보국)(英語: Central Intelligence ... 美國中央情報局(미국중앙정보국)(英語: Central Intelligence Agency)은",
+      "count": 2
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States ... 美(미)聯合國(연합국) Confederate States of",
       "count": 2
     },
     {

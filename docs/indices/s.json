@@ -787,11 +787,6 @@
       "count": 3
     },
     {
-      "title": "美聯合國",
-      "surrounding": "the Confederate States of ... Confederate States svg 國家(국가)象徵(상징)",
-      "count": 3
-    },
-    {
       "title": "英國王室領曼島",
       "surrounding": "獨自的(독자적)인 法律(법률) 議會(의회)(House of ... 오토바이 레이스 (Tourist Trophy",
       "count": 3
@@ -1719,6 +1714,11 @@
     {
       "title": "美國民主黨",
       "surrounding": "윌슨(T W Wilson)의 두",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": "美(미)聯合國(연합국) Confederate States of",
       "count": 1
     },
     {

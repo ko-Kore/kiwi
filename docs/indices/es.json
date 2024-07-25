@@ -342,11 +342,6 @@
       "count": 2
     },
     {
-      "title": "美聯合國",
-      "surrounding": "the Confederate States of ... the Confederate States svg",
-      "count": 2
-    },
-    {
       "title": "芬蘭",
       "surrounding": "編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States of ... of NATOÉtats membres de",
       "count": 2
@@ -534,6 +529,11 @@
     {
       "title": "羅德西亞",
       "surrounding": " 羅(나)德(덕)西(서)亞(아) Rhodesia 國旗(국기)",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": "美(미)聯合國(연합국) Confederate States of",
       "count": 1
     },
     {

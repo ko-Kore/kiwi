@@ -147,11 +147,6 @@
       "count": 2
     },
     {
-      "title": "美聯合國",
-      "surrounding": "Confederate States of America ... 國章(국장) 파일:Flag of the",
-      "count": 2
-    },
-    {
       "title": "華府",
       "surrounding": "Washington District of Columbia ... 原語(원어)表記(표기) \"District of Columbia\"",
       "count": 2
@@ -369,6 +364,11 @@
     {
       "title": "羅馬尼",
       "surrounding": "成員國(성원국)Member States of NATOÉtats",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": "Confederate States of America",
       "count": 1
     },
     {

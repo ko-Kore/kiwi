@@ -312,11 +312,6 @@
       "count": 2
     },
     {
-      "title": "美聯合國",
-      "surrounding": "the Confederate States of ... the Confederate States svg",
-      "count": 2
-    },
-    {
       "title": "自由의 女神像",
       "surrounding": "自由(자유)의 女神像(여신상)(佛蘭西語: Statue de ... liberté 英語: Statue of",
       "count": 2
@@ -514,6 +509,11 @@
     {
       "title": "白左",
       "surrounding": "英語(영어) 單語(단어) libtard와 類似(유사)한",
+      "count": 1
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": "美(미)聯合國(연합국) Confederate States of",
       "count": 1
     },
     {

@@ -277,11 +277,6 @@
       "count": 3
     },
     {
-      "title": "美聯合國",
-      "surrounding": "美(미)聯合國(연합국) the Confederate States ... of the Confederate States",
-      "count": 3
-    },
-    {
       "title": "自由의 女神像",
       "surrounding": "de la liberté 英語: ... 彫刻家(조각가) 프레데릭 바르톨디(Frederic Bartholdi)가",
       "count": 3
@@ -414,6 +409,11 @@
     {
       "title": "濠洲",
       "surrounding": "땅”을 意味(의미)하는 terra australis ... 傳說(전설)의 大陸(대륙) Terra Australis",
+      "count": 2
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States ... States of America 國旗(국기)",
       "count": 2
     },
     {

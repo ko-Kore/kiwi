@@ -782,11 +782,6 @@
       "count": 3
     },
     {
-      "title": "美聯合國",
-      "surrounding": "美(미)聯合國(연합국) the Confederate States ... of the Confederate States",
-      "count": 3
-    },
-    {
       "title": "自由韓國黨",
       "surrounding": "自由(자유)韓國(한국)黨(당)(英語: Liberty Korea ... Liberty Korea Party (LKP))은",
       "count": 3
@@ -1209,6 +1204,11 @@
     {
       "title": "羅馬尼",
       "surrounding": "• 編輯(편집)北大西洋條約機構(북대서양조약기구) 成員國(성원국)Member States ... of NATOÉtats membres de",
+      "count": 2
+    },
+    {
+      "title": "美聯合國",
+      "surrounding": " 美(미)聯合國(연합국) Confederate States ... States of America 國旗(국기)",
       "count": 2
     },
     {
