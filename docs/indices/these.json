@@ -1,0 +1,20 @@
+{
+  "word": "these",
+  "pages": [
+    {
+      "title": "美國獨立宣言",
+      "surrounding": "We hold these truths ... declare That these united",
+      "count": 13
+    },
+    {
+      "title": "美合衆國과 日本國 間의 相互協力 및 安全保障條約",
+      "surrounding": "exercise of these rights ... use of these facilities",
+      "count": 4
+    },
+    {
+      "title": "聯合艦隊解散之辭",
+      "surrounding": "of war these like ... must take these examples",
+      "count": 2
+    }
+  ]
+}

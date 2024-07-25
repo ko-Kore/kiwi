@@ -2,6 +2,11 @@
   "word": "long",
   "pages": [
     {
+      "title": "美國獨立宣言",
+      "surrounding": "that Governments long established ... for a long time",
+      "count": 3
+    },
+    {
       "title": "聯合艦隊解散之辭",
       "surrounding": "in a long series ... throughout the long interval",
       "count": 2

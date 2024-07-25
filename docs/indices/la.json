@@ -2,6 +2,11 @@
   "word": "la",
   "pages": [
     {
+      "title": "美國獨立宣言",
+      "surrounding": "they should declare the ... of this Declaration with",
+      "count": 25
+    },
+    {
       "title": "戰士의 노래",
       "surrounding": "chairde duan Óglaigh Caithréimeach ... or the slave; Tonight",
       "count": 17

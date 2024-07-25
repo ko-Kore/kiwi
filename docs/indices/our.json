@@ -2,6 +2,11 @@
   "word": "our",
   "pages": [
     {
+      "title": "美國獨立宣言",
+      "surrounding": "in the Course of ... Fortunes and our sacred",
+      "count": 30
+    },
+    {
       "title": "聯合艦隊解散之辭",
       "surrounding": "past and our United ... in the hour of",
       "count": 17
