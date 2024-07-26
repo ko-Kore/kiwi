@@ -1122,11 +1122,6 @@
       "count": 3
     },
     {
-      "title": "楊文明",
-      "surrounding": " 楊(양)文明(문명)Dương Van Minh두옹 ... 表記(표기) Duong Van Minh",
-      "count": 3
-    },
-    {
       "title": "武文賞",
       "surrounding": "nước Cộng hòa xã ... nghĩa Việt Nam主席渃共和社會主義越南 越南(월남)民主共和國(민주공화국)",
       "count": 3
@@ -1494,6 +1489,11 @@
     {
       "title": "格陵蘭",
       "surrounding": " 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland ... 格(격)陵(릉)蘭(란) Kalaallit Nunaat/Grønland 自治體(자치체)",
+      "count": 2
+    },
+    {
+      "title": "楊文明",
+      "surrounding": " 楊(양)文明(문명)Dương Van Minh두옹 ... 表記(표기) Duong Van Minh",
       "count": 2
     },
     {

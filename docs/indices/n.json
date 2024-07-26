@@ -337,11 +337,6 @@
       "count": 9
     },
     {
-      "title": "楊文明",
-      "surrounding": " 楊(양)文明(문명)Dương Van ... Duong Van Minh 出生(출생)",
-      "count": 9
-    },
-    {
       "title": "獨逸聯邦國防軍海軍",
       "surrounding": " 獨逸聯邦(독일연방)國防軍(국방군)海軍(해군)Marine 旗(기) ... 東獨(동독)人民(인민)海軍(해군)(Volksmarine)과 合倂(합병)하여 獨逸聯邦(독일연방)國防軍(국방군)海軍(해군)(Marine)으로 알려지게",
       "count": 9
@@ -434,6 +429,11 @@
     {
       "title": "文言文編程語言",
       "surrounding": "아스키아트 文言(문언)(文言文編程語言(문언문편정어언) wenyan-lang)은 漢文(한문)을 ... (온라인 IDE) Esolangs 紹介(소개)",
+      "count": 7
+    },
+    {
+      "title": "楊文明",
+      "surrounding": " 楊(양)文明(문명)Dương Van ... Duong Van Minh 出生(출생)",
       "count": 7
     },
     {
