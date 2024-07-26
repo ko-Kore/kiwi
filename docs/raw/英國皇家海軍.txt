@@ -5,7 +5,7 @@
 <th colspan="2"><b><big><ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>皇家</rb><rp>(</rp><rt>황가</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby></big></b><br><b><big>Royal Navy</big></b>
 </th></tr>
 <tr>
-<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=British_royal_navy_flag.svg" class="new" title="파일:British royal navy flag.svg"><span class="mw-broken-media" data-height="150">파일:British royal navy flag.svg</span></a><figcaption></figcaption></figure>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Royal_navy_flag.svg" class="new" title="파일:Royal navy flag.svg"><span class="mw-broken-media" data-height="150">파일:Royal navy flag.svg</span></a><figcaption></figcaption></figure>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade70"><rb>旗</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>
