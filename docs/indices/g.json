@@ -357,11 +357,6 @@
       "count": 4
     },
     {
-      "title": "英國皇家海軍",
-      "surrounding": "英國(영국)皇家(황가)海軍(해군)Royal Navy 파일:Flag of ... Charles III(名義(명의)) George Zambellas(事實上(사실상))",
-      "count": 4
-    },
-    {
       "title": "軍歌",
       "surrounding": "朝鮮(조선)人民軍(인민군)軍歌(군가) 中華人民共和國(중화인민공화국) 中國人(중국인)民(민)解放軍(해방군)軍歌(군가)(zhōng guó ... jūn jūn gē) 日本(일본)",
       "count": 4
@@ -459,6 +454,11 @@
     {
       "title": "英國",
       "surrounding": "北(북)愛蘭(애란)聯合(연합)王國(왕국)[1] United Kingdom of ... 따서 United Kingdom 頭文字(두문자)로는",
+      "count": 3
+    },
+    {
+      "title": "英國皇家海軍",
+      "surrounding": "royal navy flag svg ... Charles III(名義(명의)) George Zambellas(事實上(사실상))",
       "count": 3
     },
     {
