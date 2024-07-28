@@ -1,0 +1,40 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>王立</rb><rp>(</rp><rt>왕립</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby><br>Royal Navy
+</th></tr>
+<tr>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=File:Naval_ensign_of_the_United_Kingdom.svg" class="new" title="파일:File:Naval ensign of the United Kingdom.svg"><span class="mw-broken-media" data-height="150">파일:File:Naval ensign of the United Kingdom.svg</span></a><figcaption></figcaption></figure>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>旗</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_United_Kingdom_(1-2).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-25px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-38px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/langko-kore-50px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 2x"></a></span> <a href="/wiki/%E8%8B%B1%E5%9C%8B" title="英國"><ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>成立</rb><rp>(</rp><rt>성립</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=1660%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1660年 (없는 文書)">1660<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>最高</rb><rp>(</rp><rt>최고</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>統帥</rb><rp>(</rp><rt>통수</rt><rp>)</rp></ruby>
+</th>
+<td>Charles III(<ruby class="hanja api grade42"><rb>名義</rb><rp>(</rp><rt>명의</rt><rp>)</rp></ruby>)<br>George Zambellas(<ruby class="hanja api grade52"><rb>事實</rb><rp>(</rp><rt>사실</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>公式</rb><rp>(</rp><rt>공식</rt><rp>)</rp></ruby> 노래
+</th>
+<td><a href="/wiki/%EC%B0%B8%EB%82%98%EB%AC%B4%EC%9D%98_%EB%A7%88%EC%9D%8C" title="참나무의 마음">참나무의 마음</a>(Heart of Oak)
+</td></tr>
+<tr>
+<th>홈페이지
+</th>
+<td><a rel="nofollow" class="external free" href="http://www.royalnavy.mod.uk/">http://www.royalnavy.mod.uk/</a>
+</td></tr></tbody></table>
+<p><a href="/index.php?title=%ED%8B%80:%E5%A4%A7%E8%8B%B1%E5%B8%9D%E5%9C%8B%E8%BB%8D%E9%9A%8A&amp;action=edit&amp;redlink=1" class="new" title="틀:大英帝國軍隊 (없는 文書)">틀:<ruby class="hanja api grade40 unknown"><rb>大英帝國</rb><rp>(</rp><rt>대영제국</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>軍隊</rb><rp>(</rp><rt>군대</rt><rp>)</rp></ruby></a>
+</p>
+</div></body></html>

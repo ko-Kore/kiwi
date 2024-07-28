@@ -832,6 +832,11 @@
       "count": 2
     },
     {
+      "title": "英國王立海軍",
+      "surrounding": " 英國(영국)王立(왕립)海軍(해군)Royal Navy ... mod uk/ 틀:大英帝國(대영제국)軍隊(군대) ",
+      "count": 2
+    },
+    {
       "title": "諾威",
       "surrounding": "5月(월) 獨逸(독일) 占領軍(점령군)이 降伏(항복)을 ... 元首(원수) 兼(겸) 國軍(국군) 司令官(사령관)이다",
       "count": 2
@@ -1227,8 +1232,13 @@
       "count": 1
     },
     {
+      "title": "英國海軍",
+      "surrounding": "넘겨줄 對象:英國王立海軍 ",
+      "count": 1
+    },
+    {
       "title": "英國皇家海軍",
-      "surrounding": " 英國(영국)皇家(황가)海軍(해군)Royal Navy",
+      "surrounding": "넘겨줄 對象:英國王立海軍 ",
       "count": 1
     },
     {
