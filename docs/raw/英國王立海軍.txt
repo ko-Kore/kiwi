@@ -18,7 +18,7 @@
 <tr>
 <th><ruby class="hanja api grade62"><rb>成立</rb><rp>(</rp><rt>성립</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=1660%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1660年 (없는 文書)">1660<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=1546%E5%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="1546年 (없는 文書)">1546<ruby class="hanja api grade80 unknown"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade50"><rb>最高</rb><rp>(</rp><rt>최고</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>統帥</rb><rp>(</rp><rt>통수</rt><rp>)</rp></ruby>
