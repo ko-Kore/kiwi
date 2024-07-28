@@ -5,7 +5,7 @@
 <th colspan="2"><ruby class="hanja api grade60"><rb>英國</rb><rp>(</rp><rt>영국</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>王立</rb><rp>(</rp><rt>왕립</rt><rp>)</rp></ruby><ruby class="hanja api grade72"><rb>海軍</rb><rp>(</rp><rt>해군</rt><rp>)</rp></ruby><br>Royal Navy
 </th></tr>
 <tr>
-<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=File:Naval_ensign_of_the_United_Kingdom.svg" class="new" title="파일:File:Naval ensign of the United Kingdom.svg"><span class="mw-broken-media" data-height="150">파일:File:Naval ensign of the United Kingdom.svg</span></a><figcaption></figcaption></figure>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Naval_Ensign_of_the_United_Kingdom.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Naval_Ensign_of_the_United_Kingdom.svg/langko-kore-300px-Naval_Ensign_of_the_United_Kingdom.svg.png" decoding="async" width="300" height="150" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Naval_Ensign_of_the_United_Kingdom.svg/langko-kore-450px-Naval_Ensign_of_the_United_Kingdom.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Naval_Ensign_of_the_United_Kingdom.svg/langko-kore-600px-Naval_Ensign_of_the_United_Kingdom.svg.png 2x"></a><figcaption></figcaption></figure>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade70"><rb>旗</rb><rp>(</rp><rt>기</rt><rp>)</rp></ruby>

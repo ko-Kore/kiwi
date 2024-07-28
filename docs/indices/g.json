@@ -367,11 +367,6 @@
       "count": 4
     },
     {
-      "title": "英國王立海軍",
-      "surrounding": "Navy 파일:File:Naval ensign of ... 最高(최고)統帥(통수) Charles III(名義(명의))George Zambellas(事實(사실))",
-      "count": 4
-    },
-    {
       "title": "軍歌",
       "surrounding": "朝鮮(조선)人民軍(인민군)軍歌(군가) 中華人民共和國(중화인민공화국) 中國人(중국인)民(민)解放軍(해방군)軍歌(군가)(zhōng guó ... jūn jūn gē) 日本(일본)",
       "count": 4
@@ -1219,6 +1214,11 @@
     {
       "title": "花園明朝",
       "surrounding": "902字(자) ↑ Ideographic Variant",
+      "count": 1
+    },
+    {
+      "title": "英國王立海軍",
+      "surrounding": "最高(최고)統帥(통수) Charles III(名義(명의))George Zambellas(事實(사실))",
       "count": 1
     },
     {
