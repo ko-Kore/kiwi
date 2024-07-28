@@ -527,6 +527,11 @@
       "count": 6
     },
     {
+      "title": "英國王立海軍",
+      "surrounding": " 大英帝國(대영제국)軍隊(군대)British Armed ... 라이트 (Jamie Wright) 兵力(병력)",
+      "count": 6
+    },
+    {
       "title": "華府",
       "surrounding": " 華府(화부) Washington District ... \"District of Columbia\" ",
       "count": 6
@@ -624,11 +629,6 @@
     {
       "title": "獨逸",
       "surrounding": " 獨逸聯邦共和國(독일연방공화국) Bundesrepublik Deutschland ... +49 獨逸聯邦共和國(독일연방공화국)(獨(독): Bundesrepublik Deutschland)",
-      "count": 5
-    },
-    {
-      "title": "英國王立海軍",
-      "surrounding": "키 卿(경) (Sir Benjamin ... 라이트 (Jamie Wright) 兵力(병력)",
       "count": 5
     },
     {
@@ -1643,7 +1643,7 @@
     },
     {
       "title": "越南社會主義共和國",
-      "surrounding": "hòa xã hội chủ ... chủ nghĩa Việt Nam",
+      "surrounding": "hòa xã hội chủ ... chủ nghĩa Việt Nam共和社會主義越南",
       "count": 2
     },
     {
