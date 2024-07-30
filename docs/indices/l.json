@@ -547,11 +547,6 @@
       "count": 4
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
-      "count": 4
-    },
-    {
       "title": "英蘭",
       "surrounding": "Kingdom of England 國旗(국기) ... 프랑스語: : Angleterre)은 大(대)不(불)列(렬)顚(전)",
       "count": 4
@@ -1069,6 +1064,11 @@
     {
       "title": "自由 소프트웨어",
       "surrounding": "software 또는 libre software[2])는 ... GNU 프로젝트 〈Selling Free",
+      "count": 2
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
       "count": 2
     },
     {

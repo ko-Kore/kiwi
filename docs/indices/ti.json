@@ -307,11 +307,6 @@
       "count": 2
     },
     {
-      "title": "英聯邦",
-      "surrounding": "英聯邦(영연방)Commonwealth of NationsThe CommonwealthThe ... NationsThe CommonwealthThe British Commonwealth",
-      "count": 2
-    },
-    {
       "title": "裝甲部隊行進曲",
       "surrounding": "stoßen wir tief in ... uns im Stich einst",
       "count": 2
@@ -609,6 +604,11 @@
     {
       "title": "英國",
       "surrounding": "있었는데 바로 大英帝國(대영제국)(British Empire)이다",
+      "count": 1
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": "英聯邦(영연방)Commonwealth of Nations 性質(성질)",
       "count": 1
     },
     {

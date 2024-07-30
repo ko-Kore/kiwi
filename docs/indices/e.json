@@ -717,11 +717,6 @@
       "count": 5
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
-      "count": 5
-    },
-    {
       "title": "華盛頓州",
       "surrounding": " 華盛頓(화성돈)州(주) State of ... 홈페이지 ↑ State ↑",
       "count": 5
@@ -1549,6 +1544,11 @@
     {
       "title": "英國프리미어리그",
       "surrounding": "英蘭(영란)蹴球(축구)優勝(우승)리그 英國(영국)프리미어리그(英語: Premier League)는 ... 英國(영국)프리미어리그(英語: Premier League)는 英蘭(영란)蹴球(축구)聯盟(연맹)",
+      "count": 2
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
       "count": 2
     },
     {

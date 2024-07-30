@@ -632,11 +632,6 @@
       "count": 4
     },
     {
-      "title": "英聯邦",
-      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
-      "count": 4
-    },
-    {
       "title": "華盛頓州",
       "surrounding": "Ave SW Olympia WA ... 800km² 海拔(해발) 520m 홈페이지",
       "count": 4
@@ -1259,6 +1254,11 @@
     {
       "title": "船橋市",
       "surrounding": "人口密度(인구밀도) 7 557名(명)/km² 地理(지리) ... 面積(면적) 85 62km² 象徵(상징)",
+      "count": 2
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": " 英聯邦(영연방)Commonwealth of ... 찰스三世(삼세) 홈페이지 https://thecommonwealth org/",
       "count": 2
     },
     {

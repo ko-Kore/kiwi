@@ -1617,11 +1617,6 @@
       "count": 2
     },
     {
-      "title": "英聯邦",
-      "surrounding": "英聯邦(영연방)Commonwealth of NationsThe CommonwealthThe ... NationsThe CommonwealthThe British Commonwealth",
-      "count": 2
-    },
-    {
       "title": "英領南具琉耳及南三度一致群島",
       "surrounding": " 英領(영령)南(남)具琉耳(구류이)及(급)南(남)三度(삼도)一致(일치)群島(군도)South Georgia and ... the South Sandwich Islands",
       "count": 2
@@ -2294,6 +2289,11 @@
     {
       "title": "英國프리미어리그",
       "surrounding": "英蘭(영란)蹴球(축구)優勝(우승)리그 英國(영국)프리미어리그(英語: Premier League)는",
+      "count": 1
+    },
+    {
+      "title": "英聯邦",
+      "surrounding": "英聯邦(영연방)Commonwealth of Nations 性質(성질)",
       "count": 1
     },
     {

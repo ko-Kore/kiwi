@@ -2,10 +2,10 @@
 <caption>
 </caption>
 <tbody><tr>
-<th colspan="2"><ruby class="hanja api grade30"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby><br>Commonwealth of Nations<br>The Commonwealth<br>The British Commonwealth
+<th colspan="2"><ruby class="hanja api grade30"><rb>英聯邦</rb><rp>(</rp><rt>영연방</rt><rp>)</rp></ruby><br>Commonwealth of Nations
 </th></tr>
 <tr>
-<td colspan="2"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Commonwealth_Flag_1976.png" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Commonwealth_Flag_1976.png" decoding="async" width="828" height="414"></a></span>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Commonwealth_Flag_1976.png" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Commonwealth_Flag_1976.png/300px-Commonwealth_Flag_1976.png" decoding="async" width="300" height="150" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Commonwealth_Flag_1976.png/450px-Commonwealth_Flag_1976.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Commonwealth_Flag_1976.png/600px-Commonwealth_Flag_1976.png 2x"></a><figcaption></figcaption></figure>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade52"><rb>性質</rb><rp>(</rp><rt>성질</rt><rp>)</rp></ruby>
