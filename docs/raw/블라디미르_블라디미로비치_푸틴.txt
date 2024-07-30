@@ -1,0 +1,35 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2">블라디미르 블라디미로비치 푸틴<br>울라지미르 울라지미로비치 뿌찐<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</th></tr>
+<tr>
+<th colspan="2">Владимир Владимирович Путин
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Vladimir_Putin.jpg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vladimir_Putin.jpg/195px-Vladimir_Putin.jpg" decoding="async" width="195" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vladimir_Putin.jpg/293px-Vladimir_Putin.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vladimir_Putin.jpg/391px-Vladimir_Putin.jpg 2x"></a></span>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>出生</rb><rp>(</rp><rt>출생</rt><rp>)</rp></ruby>
+</th>
+<td>1944<ruby class="hanja api grade80"><rb>年</rb><rp>(</rp><rt>년</rt><rp>)</rp></ruby>4<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>14<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby> <br> <span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_the_USSR_(1936-1955).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_the_USSR_%281936-1955%29.svg/langko-kore-25px-Flag_of_the_USSR_%281936-1955%29.svg.png" decoding="async" width="25" height="13" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_the_USSR_%281936-1955%29.svg/langko-kore-38px-Flag_of_the_USSR_%281936-1955%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_the_USSR_%281936-1955%29.svg/langko-kore-50px-Flag_of_the_USSR_%281936-1955%29.svg.png 2x"></a></span> <a href="/wiki/%E8%98%87%E8%81%AF" title="蘇聯"><ruby class="hanja api grade32"><rb>蘇聯</rb><rp>(</rp><rt>소련</rt><rp>)</rp></ruby></a><a href="/index.php?title=%EB%A0%88%EB%8B%8C%EA%B7%B8%EB%9D%BC%EB%93%9C&amp;action=edit&amp;redlink=1" class="new" title="레닌그라드 (없는 文書)">레닌그라드</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>所屬</rb><rp>(</rp><rt>소속</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>政黨</rb><rp>(</rp><rt>정당</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E7%B5%B1%E4%B8%80%E9%9C%B2%E8%A5%BF%E4%BA%9E%E9%BB%A8&amp;action=edit&amp;redlink=1" class="new" title="統一露西亞黨 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>統一</rb><rp>(</rp><rt>통일</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>露西亞</rb><rp>(</rp><rt>노서아</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>黨</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade80"><rb>父母</rb><rp>(</rp><rt>부모</rt><rp>)</rp></ruby>
+</th>
+<td><b>아버지</b> 블라디미르 스피리도노비치 푸틴<br><b>어머니</b> 마리아 이바노브나 푸티나
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade32"><rb>署名</rb><rp>(</rp><rt>서명</rt><rp>)</rp></ruby>
+</th>
+<td><span typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Vladimir_Putin_signature.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vladimir_Putin_signature.svg/langko-kore-128px-Vladimir_Putin_signature.svg.png" decoding="async" width="128" height="43" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vladimir_Putin_signature.svg/langko-kore-192px-Vladimir_Putin_signature.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vladimir_Putin_signature.svg/langko-kore-256px-Vladimir_Putin_signature.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/%E5%8C%97%E9%9F%93" title="北韓"><ruby class="hanja api grade80"><rb>北韓</rb><rp>(</rp><rt>북한</rt><rp>)</rp></ruby></a><ruby class="hanja api grade40"><rb>標記</rb><rp>(</rp><rt>표기</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>法</rb><rp>(</rp><rt>법</rt><rp>)</rp></ruby></span>
+</li>
+</ol></div>
+</div></body></html>
