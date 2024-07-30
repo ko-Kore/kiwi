@@ -63,7 +63,7 @@
 <td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E6%84%9B%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="愛蘭語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<th><ruby class="hanja api grade70"><rb>地</rb><rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>元</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade70"><rb>地方</rb><rp>(</rp><rt>지방</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>言語</rb><rp>(</rp><rt>언어</rt><rp>)</rp></ruby>
 </th>
 <td><a href="/index.php?title=%E6%84%9B%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="愛蘭語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>愛蘭</rb><rp>(</rp><rt>애란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%EC%96%BC%EC%8A%A4%ED%84%B0%E8%98%87%E6%A0%BC%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="얼스터蘇格蘭語 (없는 文書)">얼스터<ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
 </td></tr>
