@@ -462,6 +462,11 @@
       "count": 5
     },
     {
+      "title": "靑年諸君의 노래",
+      "surrounding": "o patria immortale Son ... Giovinezza Giovinezza Primavera di",
+      "count": 5
+    },
+    {
       "title": "구글 日本語入力",
       "surrounding": "變換(변환)性能(성능) 二 mozc 三 ... 오픈소스化(화)한 프로젝트로 mozc가 있다",
       "count": 5
@@ -1334,11 +1339,6 @@
     {
       "title": "露西亞",
       "surrounding": "17 098 200km² 內水面(내수면) ... 人口密度(인구밀도) 8 8名(명)/km² 公用語(공용어)",
-      "count": 2
-    },
-    {
-      "title": "靑年諸君의 노래",
-      "surrounding": "o patria immortale Son ... guerra di domani Per",
       "count": 2
     },
     {
