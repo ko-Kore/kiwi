@@ -34,9 +34,27 @@ Oggi brilla in tutti i cuor
 </p>
 </td></tr>
 <tr>
-<td>예시</td>
-<td>예시</td>
-<td>예시
+<th>2.
+</th>
+<td>Dell'Italia nei confini<br>
+<p>Son rifatti gli italiani;<br>
+Li ha rifatti Mussolini<br>
+Per la guerra di domani<br>
+Per la gloria del lavoro<br>
+Per la pace e per l'alloro,<br>
+Per la gogna di coloro<br>
+Che la patria rinnegano
+</p>
+</td>
+<td>이탈리아의 <ruby class="hanja api grade42"><rb>國境</rb><rp>(</rp><rt>국경</rt><rp>)</rp></ruby>에서<br>
+<p>이탈리아<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby>들은 새롭게 태어났네<br>
+무솔리니가 그들을 새롭게 만들었네<br>
+<ruby class="hanja api grade70"><rb>來日</rb><rp>(</rp><rt>내일</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade40"><rb>戰鬪</rb><rp>(</rp><rt>전투</rt><rp>)</rp></ruby>를 위하여<br>
+<ruby class="hanja api grade52"><rb>勞動</rb><rp>(</rp><rt>노동</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade42"><rb>榮光</rb><rp>(</rp><rt>영광</rt><rp>)</rp></ruby>을 위하여<br>
+<ruby class="hanja api grade62"><rb>平和</rb><rp>(</rp><rt>평화</rt><rp>)</rp></ruby>와 <ruby class="hanja api grade32"><rb>月桂冠</rb><rp>(</rp><rt>월계관</rt><rp>)</rp></ruby>을 위하여<br>
+<ruby class="hanja api grade70"><rb>祖國</rb><rp>(</rp><rt>조국</rt><rp>)</rp></ruby>을 저버린 이들의<br>
+<ruby class="hanja api grade32"><rb>恥辱</rb><rp>(</rp><rt>치욕</rt><rp>)</rp></ruby>을 위하여
+</p>
 </td></tr>
 <tr>
 <td>예시</td>
