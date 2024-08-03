@@ -1,4 +1,4 @@
-<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox<big>큰 글자</big>">
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
 <caption>
 </caption>
 <tbody><tr>
