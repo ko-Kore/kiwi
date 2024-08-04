@@ -26,7 +26,7 @@
 <td><a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都"><ruby class="hanja api grade60"><rb>東京</rb><rp>(</rp><rt>동경</rt><rp>)</rp></ruby><ruby class="hanja api grade50"><rb>都</rb><rp>(</rp><rt>도</rt><rp>)</rp></ruby></a><a href="/wiki/%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8D%80" title="千代田區"><ruby class="hanja api grade62"><rb>千代</rb><rp>(</rp><rt>천대</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>田</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a><a href="/index.php?title=%E6%B0%B8%E7%94%B0%E7%94%BA&amp;action=edit&amp;redlink=1" class="new" title="永田町 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>永</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>田</rb><rp>(</rp><rt>전</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>町</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby></a><ruby class="hanja api grade80"><rb>一</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>丁</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>目</rb><rp>(</rp><rt>목</rt><rp>)</rp></ruby>11-23
 </td></tr>
 <tr>
-<th><ruby class="hanja api grade42"><rb>思想</rb><rp>(</rp><rt>사상</rt><rp>)</rp></ruby>
+<th><ruby class="hanja api grade42"><rb>思想</rb><rp>(</rp><rt>사상</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>系派</rb><rp>(</rp><rt>계파</rt><rp>)</rp></ruby>
 </th>
 <td><b><ruby class="hanja api grade52"><rb>基本</rb><rp>(</rp><rt>기본</rt><rp>)</rp></ruby></b>
 <ul><li><a href="/index.php?title=%E4%BF%9D%E5%AE%88%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="保守主義 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></a></li>
@@ -39,8 +39,8 @@
 <li><a href="/index.php?title=%E5%8F%B3%E7%BF%BC%E5%A4%A7%E8%A1%86%E4%B8%BB%E7%BE%A9&amp;action=edit&amp;redlink=1" class="new" title="右翼大衆主義 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>右翼</rb><rp>(</rp><rt>우익</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>大衆</rb><rp>(</rp><rt>대중</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>主義</rb><rp>(</rp><rt>주의</rt><rp>)</rp></ruby></a></li>
 <li><ruby class="hanja api grade62"><rb>社會</rb><rp>(</rp><rt>사회</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></li>
 <li><ruby class="hanja api grade20"><rb>穩健</rb><rp>(</rp><rt>온건</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja api grade32"><rb>超</rb><rp>(</rp><rt>초</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保守</rb><rp>(</rp><rt>보수</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>注意</rb><rp>(</rp><rt>주의</rt><rp>)</rp></ruby></li>
-<li><ruby class="hanja api grade52"><rb>家父長的</rb><rp>(</rp><rt>가부장적</rt><rp>)</rp></ruby> <ruby class="hanja api grade42"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></li></ul>
+<li><ruby class="hanja api grade32"><rb>超</rb><rp>(</rp><rt>초</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></li>
+<li><ruby class="hanja api grade52"><rb>家父長的</rb><rp>(</rp><rt>가부장적</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></li></ul>
 <p><b><ruby class="hanja api grade52"><rb>歷史的</rb><rp>(</rp><rt>역사적</rt><rp>)</rp></ruby> <ruby class="hanja api grade40"><rb>系派</rb><rp>(</rp><rt>계파</rt><rp>)</rp></ruby></b>
 </p>
 <ul><li><ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby><ruby class="hanja api grade42"><rb>保守主義</rb><rp>(</rp><rt>보수주의</rt><rp>)</rp></ruby></li>
