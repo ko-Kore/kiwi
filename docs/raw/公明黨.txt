@@ -8,7 +8,7 @@
 <th colspan="2"><span lang="ja"><ruby><rb>公明党</rb><rp>(</rp><rt>こうめいとう</rt><rp>)</rp></ruby></span><br>Komeito
 </th></tr>
 <tr>
-<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Komeito_logo.svg" class="new" title="파일:Komeito logo.svg"><span class="mw-broken-media" data-height="150">파일:Komeito logo.svg</span></a><figcaption></figcaption></figure>
+<td colspan="2"><figure class="mw-default-size mw-halign-center" typeof="mw:Error mw:File"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%EC%98%AC%EB%A6%AC%EA%B8%B0&amp;wpDestFile=Our_senkyo_01.pdf" class="new" title="파일:Our senkyo 01.pdf"><span class="mw-broken-media" data-height="100">파일:Our senkyo 01.pdf</span></a><figcaption></figcaption></figure>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade42"><rb>創立</rb><rp>(</rp><rt>창립</rt><rp>)</rp></ruby>
