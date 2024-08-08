@@ -1,8 +1,10 @@
 {
   "title": "1969年 標準 네벌式",
   "namespace": 0,
-  "timestamp": 1723154629000,
-  "categories": [],
+  "timestamp": 1723155312000,
+  "categories": [
+    "한글打字機"
+  ],
   "members": [],
   "file": null
 }
