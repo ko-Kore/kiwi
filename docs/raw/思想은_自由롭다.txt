@@ -25,7 +25,7 @@ Kein Jäger sie schießen <br>
 <b>Die Gedanken sind frei!</b>
 </p>
 </td>
-<td><ruby class="hanja api grade42"><rb>思想</rb><rp>(</rp><rt>사상</rt><rp>)</rp></ruby>은 자유롭네, <br>
+<td><ruby class="hanja api grade42"><rb>思想</rb><rp>(</rp><rt>사상</rt><rp>)</rp></ruby>은 <ruby class="hanja api grade60"><rb>自由</rb><rp>(</rp><rt>자유</rt><rp>)</rp></ruby>롭네, <br>
 <p>누가 그것을 <ruby class="hanja api grade40"><rb>豫測</rb><rp>(</rp><rt>예측</rt><rp>)</rp></ruby>할 수 있으리, <br>
 그것은 일어서네, <br>
 마치 밤의 그림자처럼. <br>
