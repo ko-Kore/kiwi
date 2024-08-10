@@ -1,0 +1,35 @@
+{
+  "word": "mein",
+  "pages": [
+    {
+      "title": "애리가 (軍歌)",
+      "surrounding": "Mädel ist mein treues ... 3 In mein'm Kämmerlein",
+      "count": 3
+    },
+    {
+      "title": "에리카 (軍歌)",
+      "surrounding": "Mädel ist mein treues ... 3 In mein'm Kämmerlein",
+      "count": 3
+    },
+    {
+      "title": "Grand Dieu Sauve le Roi",
+      "surrounding": "Rufst du mein Vaterland",
+      "count": 1
+    },
+    {
+      "title": "思想은 自由롭다",
+      "surrounding": "Werke Denn meine Gedanken",
+      "count": 1
+    },
+    {
+      "title": "英國의 國歌",
+      "surrounding": "Rufst du mein Vaterland",
+      "count": 1
+    },
+    {
+      "title": "젊은 라인江에서",
+      "surrounding": "Rufst du mein Vaterland",
+      "count": 1
+    }
+  ]
+}
