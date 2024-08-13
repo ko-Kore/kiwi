@@ -1822,11 +1822,6 @@
       "count": 2
     },
     {
-      "title": "로널드 W. 레이건",
-      "surrounding": "레이건 Ronald Wilson Reagan ... 파일:Ronald Reagan signature svg",
-      "count": 2
-    },
-    {
       "title": "마거릿 대처",
       "surrounding": "Margaret ThatcherMargaret Hilda Thatcher ... 대처男爵(남작)夫人(부인)(英語: Margaret Hilda Thatcher",
       "count": 2
@@ -2639,6 +2634,11 @@
     {
       "title": "디스코드",
       "surrounding": "리눅스 안드로이드 iOS에 더하여",
+      "count": 1
+    },
+    {
+      "title": "로널드 W. 레이건",
+      "surrounding": "레이건 Ronald Wilson Reagan",
       "count": 1
     },
     {

@@ -632,11 +632,6 @@
       "count": 2
     },
     {
-      "title": "로널드 W. 레이건",
-      "surrounding": "Ronald Wilson Reagan 出生(출생) ... 署名(서명) 파일:Ronald Reagan signature",
-      "count": 2
-    },
-    {
       "title": "로마字",
       "surrounding": "로마字(자)(英語: Roman script) ... 쓰이기도 한다 Hangul(한글)이나 Nippon(日本語(일본어):日本(일본))이",
       "count": 2
@@ -1119,6 +1114,11 @@
     {
       "title": "돼지와 뱀과 비둘기",
       "surrounding": "The Snake and The",
+      "count": 1
+    },
+    {
+      "title": "로널드 W. 레이건",
+      "surrounding": "Ronald Wilson Reagan 出生(출생)",
       "count": 1
     },
     {

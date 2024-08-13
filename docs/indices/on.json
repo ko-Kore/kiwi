@@ -322,11 +322,6 @@
       "count": 3
     },
     {
-      "title": "로널드 W. 레이건",
-      "surrounding": "W 레이건 Ronald Wilson ... 共和黨(공화당) 署名(서명) 파일:Ronald Reagan",
-      "count": 3
-    },
-    {
       "title": "마거릿 대처",
       "surrounding": "Hilda Thatcher Baroness Thatcher ... Hilda Thatcher Baroness Thatcher",
       "count": 3
@@ -504,6 +499,11 @@
     {
       "title": "黃石國立公園",
       "surrounding": " 黃石(황석)國立公園(국립공원)(英語: Yellowstone National ... 黃石(황석)國立公園(국립공원)(英語: Yellowstone National Park)는",
+      "count": 2
+    },
+    {
+      "title": "로널드 W. 레이건",
+      "surrounding": "W 레이건 Ronald Wilson ... 레이건 Ronald Wilson Reagan",
       "count": 2
     },
     {
