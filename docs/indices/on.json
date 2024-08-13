@@ -322,6 +322,11 @@
       "count": 3
     },
     {
+      "title": "마거릿 대처",
+      "surrounding": "Hilda Thatcher Baroness Thatcher ... Hilda Thatcher Baroness Thatcher",
+      "count": 3
+    },
+    {
       "title": "미디어위키 선비 擴張機能",
       "surrounding": "선비(Seonbi) 擴張機能(확장기능)은 ... 使用(사용)한다 外部(외부)링크[편집] Seonbi 소스코드",
       "count": 3
@@ -1044,11 +1049,6 @@
     {
       "title": "록펠러 中心",
       "surrounding": "1939年(년)에 完了(완료)되었습니다 Raymond M",
-      "count": 1
-    },
-    {
-      "title": "마거릿 대처",
-      "surrounding": "Hilda Thatcher Baroness Thatcher",
       "count": 1
     },
     {
