@@ -393,7 +393,7 @@
     },
     {
       "title": "참나무의 마음",
-      "surrounding": "노래이다 題目(제목)인 참나무는 航海(항해)의 ... and again 참나무의 心(심)脏(장)은",
+      "surrounding": "노래이다 題目(제목)인 참나무는 航海(항해)의 ... and again 참나무의 心臟(심장)은",
       "count": 6
     },
     {
@@ -1554,6 +1554,11 @@
     {
       "title": "B. 무솔리니",
       "surrounding": "넘겨줄 對象:베니토 무솔리니 ",
+      "count": 1
+    },
+    {
+      "title": "Heart of Oak",
+      "surrounding": "넘겨줄 對象:참나무의 마음",
       "count": 1
     },
     {
