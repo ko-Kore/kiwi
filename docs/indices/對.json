@@ -1697,6 +1697,11 @@
       "count": 1
     },
     {
+      "title": "大統領仙人掌",
+      "surrounding": "다른 뜻에 對(대)해서는 大統領(대통령)",
+      "count": 1
+    },
+    {
       "title": "大英帝國",
       "surrounding": "넘겨줄 對象:英國 ",
       "count": 1
@@ -2404,11 +2409,6 @@
     {
       "title": "米國",
       "surrounding": "넘겨줄 對象:美合衆國 ",
-      "count": 1
-    },
-    {
-      "title": "總統",
-      "surrounding": "넘겨줄 對象:大統領 ",
       "count": 1
     },
     {

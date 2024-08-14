@@ -1,8 +1,11 @@
 {
   "title": "總統",
   "namespace": 0,
-  "timestamp": 1721025137000,
-  "categories": [],
+  "timestamp": 1723656251000,
+  "categories": [
+    "漢字語",
+    "大統領"
+  ],
   "members": [],
   "file": null
 }
