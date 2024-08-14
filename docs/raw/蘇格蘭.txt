@@ -3,7 +3,7 @@
 <th colspan="2"><ruby class="hanja api grade32"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby><ruby class="hanja api grade80"><rb>王國</rb><rp>(</rp><rt>왕국</rt><rp>)</rp></ruby>
 </th></tr>
 <tr>
-<th colspan="2">Kingdom of Scotland/Rìoghachd na h-Alba
+<th colspan="2">Kingdom of Scotland<br>Rìoghachd na h-Alba
 </th></tr>
 <tr>
 <td colspan="2" style="padding: 0;">
@@ -25,7 +25,7 @@
 <tr>
 <th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E8%98%87%E6%A0%BC%E8%98%AD%EC%9D%98_%E8%8A%B1&amp;action=edit&amp;redlink=1" class="new" title="蘇格蘭의 花(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby>의 <ruby class="hanja api grade70 unknown"><rb>花</rb><rp>(</rp><rt>화</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E8%98%87%E6%A0%BC%E8%98%AD%EC%9D%98_%EA%BD%83&amp;action=edit&amp;redlink=1" class="new" title="蘇格蘭의 꽃 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby>의 꽃</a>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade70"><rb>國花</rb><rp>(</rp><rt>국화</rt><rp>)</rp></ruby>
@@ -38,12 +38,12 @@
 <tr>
 <th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E6%84%9B%E4%B8%81%E5%A0%A1&amp;action=edit&amp;redlink=1" class="new" title="愛丁堡(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>愛</rb><rp>(</rp><rt>애</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>丁</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>堡</rb><rp>(</rp><rt>보</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E6%84%9B%E4%B8%81%E5%A0%A1&amp;action=edit&amp;redlink=1" class="new" title="愛丁堡 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>愛</rb><rp>(</rp><rt>애</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>丁</rb><rp>(</rp><rt>정</rt><rp>)</rp></ruby><ruby class="hanja api grade10 unknown"><rb>堡</rb><rp>(</rp><rt>보</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
-<th><a href="/index.php?title=%E5%85%83%E9%A6%96&amp;action=edit&amp;redlink=1" class="new" title="元首(없는　文書）"><ruby class="hanja api grade52 unknown"><rb>元首</rb><rp>(</rp><rt>원수</rt><rp>)</rp></ruby></a>
+<th><a href="/index.php?title=%E5%85%83%E9%A6%96&amp;action=edit&amp;redlink=1" class="new" title="元首 (없는 文書)"><ruby class="hanja api grade52 unknown"><rb>元首</rb><rp>(</rp><rt>원수</rt><rp>)</rp></ruby></a>
 </th>
-<td><a href="/index.php?title=%EC%B0%B0%EC%8A%A4%E4%B8%89%E4%B8%96&amp;action=edit&amp;redlink=1" class="new" title="찰스三世(없는　文書）">찰스<ruby class="hanja api grade72 unknown"><rb>三世</rb><rp>(</rp><rt>삼세</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade80"><rb>國王</rb><rp>(</rp><rt>국왕</rt><rp>)</rp></ruby>), <a href="/index.php?title=%ED%9B%84%EB%AC%B4%EC%9E%90_%EC%9C%A0%EC%88%98%ED%94%84&amp;action=edit&amp;redlink=1" class="new" title="후무자 유수프(없는　文書）">후무자 유수프</a>(<ruby class="hanja api grade52"><rb>首席</rb><rp>(</rp><rt>수석</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>大臣</rb><rp>(</rp><rt>대신</rt><rp>)</rp></ruby>)
+<td><a href="/index.php?title=%EC%B0%B0%EC%8A%A4%E4%B8%89%E4%B8%96&amp;action=edit&amp;redlink=1" class="new" title="찰스三世 (없는 文書)">찰스<ruby class="hanja api grade72 unknown"><rb>三世</rb><rp>(</rp><rt>삼세</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade80"><rb>國王</rb><rp>(</rp><rt>국왕</rt><rp>)</rp></ruby>), <a href="/index.php?title=%ED%9B%84%EB%AC%B4%EC%9E%90_%EC%9C%A0%EC%88%98%ED%94%84&amp;action=edit&amp;redlink=1" class="new" title="후무자 유수프 (없는 文書)">후무자 유수프</a>(<ruby class="hanja api grade52"><rb>首席</rb><rp>(</rp><rt>수석</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>大臣</rb><rp>(</rp><rt>대신</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
@@ -56,12 +56,12 @@
 <tr>
 <th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E5%9C%8B%E9%9A%9B%E6%A8%99%E6%BA%96%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="國際標準時(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>國際</rb><rp>(</rp><rt>국제</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>標準時</rb><rp>(</rp><rt>표준시</rt><rp>)</rp></ruby></a> (UTC +0)
+<td><a href="/index.php?title=%E5%9C%8B%E9%9A%9B%E6%A8%99%E6%BA%96%E6%99%82&amp;action=edit&amp;redlink=1" class="new" title="國際標準時 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>國際</rb><rp>(</rp><rt>국제</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>標準時</rb><rp>(</rp><rt>표준시</rt><rp>)</rp></ruby></a> (UTC +0)
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade40"><rb>行政區域</rb><rp>(</rp><rt>행정구역</rt><rp>)</rp></ruby>
 </th>
-<td>32<a href="/index.php?title=%E8%A1%8C%E6%94%BF%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="行政區(없는　文書）"><ruby class="hanja api grade42 unknown"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a>
+<td>32<a href="/index.php?title=%E8%A1%8C%E6%94%BF%E5%8D%80&amp;action=edit&amp;redlink=1" class="new" title="行政區 (없는 文書)"><ruby class="hanja api grade42 unknown"><rb>行政</rb><rp>(</rp><rt>행정</rt><rp>)</rp></ruby><ruby class="hanja api grade60 unknown"><rb>區</rb><rp>(</rp><rt>구</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
@@ -79,7 +79,7 @@
 <tr>
 <th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E8%98%87%E6%A0%BC%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="蘇格蘭語(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade60"><rb>通用</rb><rp>(</rp><rt>통용</rt><rp>)</rp></ruby>)
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E8%98%87%E6%A0%BC%E8%98%AD%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="蘇格蘭語 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>(<ruby class="hanja api grade60"><rb>通用</rb><rp>(</rp><rt>통용</rt><rp>)</rp></ruby>)
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade62"><rb>公用</rb><rp>(</rp><rt>공용</rt><rp>)</rp></ruby><ruby class="hanja api grade70"><rb>文字</rb><rp>(</rp><rt>문자</rt><rp>)</rp></ruby>
@@ -89,12 +89,12 @@
 <tr>
 <th><ruby class="hanja api grade60"><rb>族</rb><rp>(</rp><rt>족</rt><rp>)</rp></ruby><ruby class="hanja api grade40"><rb>群</rb><rp>(</rp><rt>군</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E7%99%BD%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="白人(없는　文書）"><ruby class="hanja api grade80 unknown"><rb>白人</rb><rp>(</rp><rt>백인</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E7%99%BD%E4%BA%BA&amp;action=edit&amp;redlink=1" class="new" title="白人 (없는 文書)"><ruby class="hanja api grade80 unknown"><rb>白人</rb><rp>(</rp><rt>백인</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th><ruby class="hanja api grade80"><rb>國敎</rb><rp>(</rp><rt>국교</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E5%AE%89%E7%AB%8B%E7%94%98%E5%AE%97&amp;action=edit&amp;redlink=1" class="new" title="安立甘宗(없는　文書）"><ruby class="hanja api grade72 unknown"><rb>安</rb><rp>(</rp><rt>안</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>立</rb><rp>(</rp><rt>립</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>甘</rb><rp>(</rp><rt>감</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>宗</rb><rp>(</rp><rt>종</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E8%98%87%E6%A0%BC%E8%98%AD%E9%95%B7%E8%80%81%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="蘇格蘭長老會(없는　文書）"><ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>長老會</rb><rp>(</rp><rt>장로회</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E5%A4%A9%E4%B8%BB%E6%95%8E" class="mw-redirect" title="天主敎"><ruby class="hanja api grade70"><rb>天主敎</rb><rp>(</rp><rt>천주교</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E5%AE%89%E7%AB%8B%E7%94%98%E5%AE%97&amp;action=edit&amp;redlink=1" class="new" title="安立甘宗 (없는 文書)"><ruby class="hanja api grade72 unknown"><rb>安</rb><rp>(</rp><rt>안</rt><rp>)</rp></ruby><ruby class="hanja api grade72 unknown"><rb>立</rb><rp>(</rp><rt>립</rt><rp>)</rp></ruby><ruby class="hanja api grade40 unknown"><rb>甘</rb><rp>(</rp><rt>감</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>宗</rb><rp>(</rp><rt>종</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E8%98%87%E6%A0%BC%E8%98%AD%E9%95%B7%E8%80%81%E6%9C%83&amp;action=edit&amp;redlink=1" class="new" title="蘇格蘭長老會 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>蘇格蘭</rb><rp>(</rp><rt>소격란</rt><rp>)</rp></ruby><ruby class="hanja api grade62 unknown"><rb>長老會</rb><rp>(</rp><rt>장로회</rt><rp>)</rp></ruby></a>, <a href="/wiki/%E5%A4%A9%E4%B8%BB%E6%95%8E" class="mw-redirect" title="天主敎"><ruby class="hanja api grade70"><rb>天主敎</rb><rp>(</rp><rt>천주교</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
@@ -102,7 +102,7 @@
 <tr>
 <th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
 </th>
-<td><a href="/index.php?title=%E8%8B%B1%E7%A3%85&amp;action=edit&amp;redlink=1" class="new" title="英磅(없는　文書）"><ruby class="hanja api grade60 unknown"><rb>英</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby><ruby class="hanja api grade0 unknown"><rb>磅</rb><rp>(</rp><rt>방</rt><rp>)</rp></ruby></a>
+<td><a href="/index.php?title=%E8%8B%B1%E7%A3%85&amp;action=edit&amp;redlink=1" class="new" title="英磅 (없는 文書)"><ruby class="hanja api grade60 unknown"><rb>英</rb><rp>(</rp><rt>영</rt><rp>)</rp></ruby><ruby class="hanja api grade0 unknown"><rb>磅</rb><rp>(</rp><rt>방</rt><rp>)</rp></ruby></a>
 </td></tr>
 <tr>
 <th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
