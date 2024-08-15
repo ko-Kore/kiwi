@@ -2377,6 +2377,11 @@
       "count": 1
     },
     {
+      "title": "바하마",
+      "surrounding": "넘겨줄 對象:馬浜",
+      "count": 1
+    },
+    {
       "title": "발트海",
       "surrounding": "넘겨줄 對象:波羅地海",
       "count": 1
@@ -2457,6 +2462,11 @@
       "count": 1
     },
     {
+      "title": "사모아",
+      "surrounding": "넘겨줄 對象:薩摩亞",
+      "count": 1
+    },
+    {
       "title": "사시미",
       "surrounding": "넘겨줄 대상:刺身",
       "count": 1
@@ -2532,6 +2542,11 @@
       "count": 1
     },
     {
+      "title": "소비에트연방",
+      "surrounding": "넘겨줄 對象:蘇聯",
+      "count": 1
+    },
+    {
       "title": "솔로몬제도",
       "surrounding": "넘겨줄 對象:所羅門諸島",
       "count": 1
@@ -2594,6 +2609,11 @@
     {
       "title": "아메리카合衆國",
       "surrounding": "넘겨줄 대상:美合衆國",
+      "count": 1
+    },
+    {
+      "title": "아메리카연합국",
+      "surrounding": "넘겨줄 對象:美聯合國",
       "count": 1
     },
     {
