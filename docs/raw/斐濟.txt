@@ -1,0 +1,113 @@
+<html><head></head><body><div class="mw-parser-output"><table class="wikitable infobox">
+<tbody><tr>
+<th colspan="2"><ruby class="hanja api grade0"><rb>斐濟</rb><rp>(</rp><rt>비제</rt><rp>)</rp></ruby><ruby class="hanja api grade62"><rb>共和國</rb><rp>(</rp><rt>공화국</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th colspan="2">Republic of Fiji<br>Matanitu Tugalala o Viti<br>फ़िजी गणराज्य
+</th></tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table style="width: 100%;">
+<tbody><tr>
+<th><ruby class="hanja api grade70"><rb>國旗</rb><rp>(</rp><rt>국기</rt><rp>)</rp></ruby>
+</th>
+<th><ruby class="hanja api grade60"><rb>國章</rb><rp>(</rp><rt>국장</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Flag_of_Fiji.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/langko-kore-320px-Flag_of_Fiji.svg.png" decoding="async" width="320" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/langko-kore-480px-Flag_of_Fiji.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/langko-kore-640px-Flag_of_Fiji.svg.png 2x"></a></span>
+</td>
+<td style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Arms_of_Fiji.svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Fiji.svg/langko-kore-126px-Arms_of_Fiji.svg.png" decoding="async" width="126" height="160" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Fiji.svg/langko-kore-190px-Arms_of_Fiji.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arms_of_Fiji.svg/langko-kore-253px-Arms_of_Fiji.svg.png 2x"></a></span>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade72"><rb>國家</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby><ruby class="hanja api grade32"><rb>象徵</rb><rp>(</rp><rt>상징</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>國歌</rb><rp>(</rp><rt>국가</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%96%90%E6%BF%9F%EC%97%90_%E7%A5%9D%E7%A6%8F%EC%9D%B4_%EC%9E%88%EA%B8%B0%EB%A5%BC&amp;action=edit&amp;redlink=1" class="new" title="斐濟에 祝福이 있기를 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>斐濟</rb><rp>(</rp><rt>비제</rt><rp>)</rp></ruby>에 <ruby class="hanja api grade50 unknown"><rb>祝福</rb><rp>(</rp><rt>축복</rt><rp>)</rp></ruby>이 있기를</a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>標語</rb><rp>(</rp><rt>표어</rt><rp>)</rp></ruby>
+</th>
+<td>Rerevaka na Kalou ka Doka na Tui<br>하느님을 <ruby class="hanja api grade30"><rb>敬畏</rb><rp>(</rp><rt>경외</rt><rp>)</rp></ruby>하고 <ruby class="hanja api grade80"><rb>國王</rb><rp>(</rp><rt>국왕</rt><rp>)</rp></ruby>을 <ruby class="hanja api grade32"><rb>恭敬</rb><rp>(</rp><rt>공경</rt><rp>)</rp></ruby>하라
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%ED%8C%8C%EC%9D%BC:Fiji_(orthographic_projection).svg" class="mw-file-description"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fiji_%28orthographic_projection%29.svg/langko-kore-300px-Fiji_%28orthographic_projection%29.svg.png" decoding="async" width="300" height="300" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fiji_%28orthographic_projection%29.svg/langko-kore-450px-Fiji_%28orthographic_projection%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fiji_%28orthographic_projection%29.svg/langko-kore-600px-Fiji_%28orthographic_projection%29.svg.png 2x"></a></span><br><center><small></small></center>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>政治</rb><rp>(</rp><rt>정치</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>首都</rb><rp>(</rp><rt>수도</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E8%98%87%E7%93%A6&amp;action=edit&amp;redlink=1" class="new" title="蘇瓦 (없는 文書)"><ruby class="hanja api grade32 unknown"><rb>蘇</rb><rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby class="hanja api grade32 unknown"><rb>瓦</rb><rp>(</rp><rt>와</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade52"><rb>元首</rb><rp>(</rp><rt>원수</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%EB%B9%84%EB%A6%AC%EC%95%94_%EC%B9%B4%ED%86%A0%EB%8B%88%EB%B2%A0%EB%A0%88&amp;action=edit&amp;redlink=1" class="new" title="비리암 카토니베레 (없는 文書)">비리암 카토니베레</a>(<ruby class="hanja api grade42"><rb>大統領</rb><rp>(</rp><rt>대통령</rt><rp>)</rp></ruby>)<br><a href="/index.php?title=%EC%8B%9C%ED%8B%B0%EB%B2%A0%EB%8B%88_%EB%9E%8C%EB%B6%80%EC%B9%B4&amp;action=edit&amp;redlink=1" class="new" title="시티베니 람부카 (없는 文書)">시티베니 람부카</a>(<ruby class="hanja api grade42"><rb>總理</rb><rp>(</rp><rt>총리</rt><rp>)</rp></ruby>)
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade62"><rb>地理</rb><rp>(</rp><rt>지리</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade40"><rb>面積</rb><rp>(</rp><rt>면적</rt><rp>)</rp></ruby>
+</th>
+<td>18,376km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>時間帶</rb><rp>(</rp><rt>시간대</rt><rp>)</rp></ruby>
+</th>
+<td>UTC +12
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade70"><rb>人文</rb><rp>(</rp><rt>인문</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade70"><rb>人口</rb><rp>(</rp><rt>인구</rt><rp>)</rp></ruby>
+</th>
+<td>934,435<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>人口密度</rb><rp>(</rp><rt>인구밀도</rt><rp>)</rp></ruby>
+</th>
+<td>49.1<ruby class="hanja api grade72"><rb>名</rb><rp>(</rp><rt>명</rt><rp>)</rp></ruby>/km²
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade62"><rb>公用語</rb><rp>(</rp><rt>공용어</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語"><ruby class="hanja api grade60"><rb>英語</rb><rp>(</rp><rt>영어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%E6%96%90%E6%BF%9F%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="斐濟語 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>斐濟</rb><rp>(</rp><rt>비제</rt><rp>)</rp></ruby><ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>, <a href="/index.php?title=%ED%9E%8C%EB%94%94%E8%AA%9E&amp;action=edit&amp;redlink=1" class="new" title="힌디語 (없는 文書)">힌디<ruby class="hanja api grade70 unknown"><rb>語</rb><rp>(</rp><rt>어</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade42"><rb>經濟</rb><rp>(</rp><rt>경제</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade30"><rb>貨幣</rb><rp>(</rp><rt>화폐</rt><rp>)</rp></ruby>
+</th>
+<td><a href="/index.php?title=%E6%96%90%E6%BF%9F%E5%9C%93&amp;action=edit&amp;redlink=1" class="new" title="斐濟圓 (없는 文書)"><ruby class="hanja api grade0 unknown"><rb>斐濟</rb><rp>(</rp><rt>비제</rt><rp>)</rp></ruby><ruby class="hanja api grade42 unknown"><rb>圓</rb><rp>(</rp><rt>원</rt><rp>)</rp></ruby></a>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$4,840<ruby class="hanja api grade70"><rb>百萬</rb><rp>(</rp><rt>백만</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th>1<ruby class="hanja api grade80"><rb>人</rb><rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby class="hanja api grade52"><rb>當</rb><rp>(</rp><rt>당</rt><rp>)</rp></ruby> <ruby class="hanja api grade60"><rb>名目</rb><rp>(</rp><rt>명목</rt><rp>)</rp></ruby> GDP
+</th>
+<td>$5,320
+</td></tr>
+<tr>
+<th colspan="2"><ruby class="hanja api grade32"><rb>其他</rb><rp>(</rp><rt>기타</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<th><ruby class="hanja api grade50"><rb>建國</rb><rp>(</rp><rt>건국</rt><rp>)</rp></ruby>
+</th>
+<td>10<ruby class="hanja api grade80"><rb>月</rb><rp>(</rp><rt>월</rt><rp>)</rp></ruby>10<ruby class="hanja api grade80"><rb>日</rb><rp>(</rp><rt>일</rt><rp>)</rp></ruby>
+</td></tr>
+<tr>
+<th><ruby class="hanja api grade42"><rb>國際電話</rb><rp>(</rp><rt>국제전화</rt><rp>)</rp></ruby><ruby class="hanja api grade60"><rb>番號</rb><rp>(</rp><rt>번호</rt><rp>)</rp></ruby>
+</th>
+<td>679
+</td></tr></tbody></table>
+</div></body></html>
